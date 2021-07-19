@@ -1,0 +1,1408 @@
+---
+layout: post
+title: "Cryptocurrency Botting & Automation"
+date: 2021-03-28 19:25:23 -0700
+categories: crypto bitcoin python
+published: true
+---
+
+\**This blog was written while listening to [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8) and other folk music listed in my about page*
+
+<!-- \**This blog was written while listening to [Anilah](https://youtu.be/AImY5NVcVKk), [Dzivia](https://youtu.be/H7ptAY-wj_M?t=44), & [Wardruna](https://youtu.be/JhiUacGzIg8)* -->
+
+<!-- [Yorke](https://youtu.be/SnIAxVx7ZUs), [Anilah](https://youtu.be/AImY5NVcVKk), [Dzivia](https://youtu.be/H7ptAY-wj_M?t=44), & [Wardruna](https://youtu.be/JhiUacGzIg8)*
+
+[Lorn·Cherry Moon](https://youtu.be/u7c2VLG5Ttc), [Ennja·Beat God](https://youtu.be/6A0TjleLTtM), [Hyper·He Rises](https://youtu.be/F_tsZJickpw), [enjoii·kate](https://youtu.be/MKrof66uZoM?t=176), [Skeler·Shook](https://youtu.be/3z78063K5xU), 
+
+<!-- [Savior](https://youtu.be/6hYmCF1UFfk?t=689) -->
+
+## **Preamble**
+
+This is an introductory article on cryptocurrency botting & automation using the [Binance API](https://binance-docs.github.io/apidocs/spot/en/#introduction). We will construct our own library from said API, learn about technical analysis indicators, and design our own assistive risk mitigation software. Creation of API keys are outside the scope of this article, please refer to this [link](https://binance.zendesk.com/hc/en-us/articles/360002502072-How-to-create-API).
+
+<!-- # HTTP Return Codes
+
+- HTTP `4XX` return codes are used for malformed requests; the issue is on the sender's side.
+- HTTP `403` return code is used when the WAF Limit (Web Application Firewall) has been violated.
+- HTTP `429` return code is used when breaking a request rate limit.
+- HTTP `418` return code is used when an IP has been auto-banned for continuing to send requests after receiving `429` codes.
+- HTTP `5XX` return codes are used for internal errors; the issue is on Binance's side.
+- With using `/wapi/v3`, HTTP `504` return code is used when the API successfully sent the message but not get a response within the timeout period. It is important to **NOT** treat this as a failure operation; the execution status is **UNKNOWN** and could have been a success.
+
+# Error Codes and Messages
+
+- If there is an error, the API will return an error with a message of the reason.
+
+    **The error payload on API and SAPI is as follows:**
+
+    ```json
+    {
+    "code": -1121,
+    "msg": "Invalid symbol."
+    }
+    ```
+
+Specific error codes and messages defined in [Error Codes](https://binance-docs.github.io/apidocs/spot/en/#error-codes).
+
+# General Information on Endpoints
+
+- For `GET` endpoints, parameters must be sent as a *query string*.
+- For `POST`, `PUT`, and `DELETE` endpoints, the parameters may be sent as a *query string* or in the *request body* with content type **application/x-www-form-urlencoded**. You may mix parameters between both the *query string* and *request body* if you wish to do so.
+- Parameters may be sent in any order.
+- If a parameter sent in both the *query string* and *request body*, the *query string* parameter will be used.
+
+-->
+
+# Directory Structure
+
+```
+rain/
+├─ analysis/
+│  ├─ __init__.py
+│  ├─ plot.py
+│  └─ technical.py
+├─ binance/
+│  ├─ __init__.py
+│  ├─ api.py
+│  ├─ binance.py
+│  ├─ market.py
+│  └─ trade.py
+└─ bot.py
+```
+
+## **Entry Strategy**
+
+While I do have an entry strategy that works, the purpose of this article is to delineate and automate one of my exit strategies. I may write a separate article (pt. 2) detailing some of my entry strategies. Until then try to
+keep in mind, that technical analysis is 100% a shared mass delusion... and that is precisely why it works sometimes. Your job is to locate what is popular, and used by the masses.
+
+> On Wall Street, the term "random walk" is an obscenity. It is an epithet coined by the academic world and hurled insultingly at the professional soothsayers. Taken to its logical extreme, it means that a blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts. &mdash; Burton G. Malkiel, Princeton University professor (1973 A Random Walk Down Wall Street)
+
+According to academic research performed by Research Affiliates, which simulated the results of 100 monkeys throwing darts at stock market pages in the newspaper. The average monkey outperformed the index by an average of 1.7 percent per year since 1964.
+
+> “Malkiel was wrong... The monkeys have done a much better job than both the experts and the stock market.” &mdash; Rob Arnott, CEO of Research Affiliates (IMN Global Indexing and ETFs conference)
+
+## **Exit Strategy**
+
+In my opinion it is much simpler to implement and automate an exit strategy than an entry strategy, and that is because we all have one thing in common... We all have a limit to how much we can afford to lose, but no limit on how much we would like to gain. The sell side `trailing stop loss` limit is a very effective tool in mitigating risk and preventing losses. 
+
+One of the best ways that I've found to automate such a strategy is by understanding `Bill Williams Fractals`. It is a simple affair to set a stop loss on every `bullish fractal` that appears after making your entry. These are the red downwards pointing triangles, and yes I know that's counterintuitive. 
+
+However, removing ones emotions from trading is a skill in and of itself that takes years of experience to master even for seasoned professionals. Wouldn't it be nice if there were a way to remove that weakness from the equation?
+
+# Plotting Fractals With Python (plot.py)
+
+I'd like to digress from the main program flow for a moment and show you visually what I'm talking about by plotting these fractals to a chart using python. You can scroll down to the end of the page to see the technical analysis routines I've created to calculate Bill Williams Fractals.
+
+![arena](/assets/images/trade/fractal.png)
+
+No matter which technical analysis indicators you use for entry into the cryptocurrency market, the idea is once you've entered, the next bullish (red downward pointing) fractal that forms, above the entry price, but below the current price, will be where you set your first stop. 
+
+Every subsequent fractal that forms in like manner to the conditions stated above will move that stop up so as to trail just beneath the price. When the current price drops below the last fractal stop loss, the trade will have been exited and your profits safe.
+
+```py
+from analysis.technical import TechnicalAnalysis
+
+import mplfinance as mpf
+
+class Plot(TechnicalAnalysis):
+
+    def fractals(self, df):
+        """
+        This method returns a modified version of the supplied
+        pandas dataframe with bullish and bearish fractals.
+        """
+
+        df   = self.plot_fractals(df)
+        apds = [
+            mpf.make_addplot(
+                df['up'], 
+                panel  = 0, 
+                type   ='scatter', 
+                color  ='teal', 
+                markersize =50, 
+                marker = '^'
+            ),
+            mpf.make_addplot(
+                df['down'], 
+                panel  = 0, 
+                type   = 'scatter', 
+                color  = 'tomato', 
+                markersize = 50, 
+                marker = 'v'
+            ),
+        ]
+
+        # customize the style
+        stylish = mpf.make_mpf_style(
+            marketcolors = mpf.make_marketcolors(
+                up     = 'palegreen',
+                down   = 'tomato',
+                wick   = {'up':'blue','down':'red'},
+                volume = 'in'
+            ),
+            base_mpl_style="seaborn"
+        )
+
+        mpf.plot(
+            df, 
+            type         = 'candle',
+            volume       = True, 
+            addplot      = apds, 
+            style        = stylish,
+            volume_panel = 1,
+            title        = 'Bill Williams Fractals'
+        )
+```
+
+## **The Main Program (bot.py)**
+
+```
+rain/
+└─ bot.py
+```
+
+# Headers & Globals
+
+```py
+from binance.api        import say, show, rand_sleep
+from binance.binance    import Binance
+from analysis.technical import TechnicalAnalysis as TA
+from datetime           import datetime, timedelta
+
+# Globals
+BASE, QUOTE = "BTC", "USDT"
+TICKER      = BASE + QUOTE
+SIDE, TYPE  = ('SELL', 'STOP_LOSS_LIMIT')
+PAD         = 10
+lastFRACTAL = 0
+
+# Percent difference lambda function
+pDifference = lambda x, y: round( (abs(x-y)/((x+y)/2))*100, 2 )
+```
+
+# The Main Loop ⚠️ Under Construction ⚠️
+
+```py
+def main_loop(bi):
+    ...
+```
+
+# Auxiliary Functions
+
+```py
+def start_date(daysAgo=14):
+    stamp = lambda x: round( x.timestamp() * 1000 )
+    now   = datetime.now()
+    then  = timedelta(days=daysAgo)
+    return stamp( now-then )
+```
+
+```py
+def get_balance(bi, coin="BTC"):
+    while True:
+        try:
+            freeBTC, lockedBTC = bi.balance("BTC")
+        except AttributeError:
+            say("attempting to retrieve bitcoin balance")
+            rand_sleep(10)
+            continue
+        break
+
+    say("retrieving bitcoin balance")
+    show(f"free & locked: {freeBTC:.8f} / {lockedBTC:.8f}")
+    return freeBTC, lockedBTC
+```
+
+```py
+def new_fractal_formation(bi):
+    """
+    We can prevent wasting computational cycles by only watching fractal formations
+    """
+    global lastFRACTAL
+
+    # while True:
+    # Retrieve candlestick data for fractal calculations
+    df = bi.candles(
+        symbol    = TICKER,
+        interval  = '4h',
+        startTime = start_date(14)
+    )
+
+    # Calculate bullish down fractals
+    fractals      = TA().down_fractals(df)
+    latestFractal = fractals[-1]
+
+    # Compare current fractal to last
+    if latestFractal == lastFRACTAL:
+        say("no new fractal formation")
+        return False
+        # rand_sleep(60*5)
+        # continue
+    
+    # Update global with current fractal
+    lastFRACTAL = latestFractal
+    say(f"new fractal formation detected: {lastFRACTAL}")
+    return fractals
+```
+
+```py
+def obsolete_stop(bi, fractals):
+    """
+    The purpose of this function is to locate an existing stop loss.
+    Depending on several factors it'll either be canceled or skipped.
+    """
+    
+    # Create handle for open orders, and retrieve only stop losses.
+    orders         = bi.orders(TICKER)
+    dfOrdersOfType = orders[orders['type'] == (SIDE,TYPE)]
+
+    # No open stop loss orders
+    if dfOrdersOfType.empty:
+        say("no open stop loss orders")
+        return 'NO_ORDER'
+
+    # Compute threshold to test for breach
+    threshhold = min([pDifference(*fractals[i:i+2]) for i in range(len(fractals)-1)])
+    show(f"setting fractal threshhold to: {threshhold}%")
+
+    # Find nearest stop loss to latest fractal
+    # min(iterable, key=lambda x:abs(x-value_chosen))
+    targetId, stopPrice = min(
+        dfOrdersOfType['stop'].items(),
+        key = lambda x: abs(float(x[1]) - fractals[-1])
+    )
+
+    stopPercent = pDifference(stopPrice, fractals[-1])
+    
+    # 
+    if stopPercent > threshhold:
+        say(f"breach of threshhold detected: {stopPercent}%")
+        return targetId
+        # Cancel Current SELL side STOP_LOSS_LIMIT
+        # Set a SELL side STOP_LOSS_LIMIT on fractals[-1]
+    
+    say(f"{stopPercent}% is within acceptable bounds")
+    return 'VALID'
+```
+
+# The Main Function
+
+```py
+if __name__ == "__main__":
+    # Initialize Class Instance to Handle
+    say("initializing binance class instance")
+    bi = Binance()
+
+    while True:
+        main_loop(bi)
+        rand_sleep(60*10)
+```
+
+## **Exploring The Binance API (api.py)**
+
+```
+rain/
+└─ binance/
+   └─ api.py
+       Ⓒ BinanceAPI()
+            Ⓜ signed_payload()
+            Ⓓ error_handler()
+            Ⓓ deserialize()
+       Ⓕ say()
+       Ⓕ show()
+       Ⓕ rand_sleep()
+```
+
+# Prerequisite Modules
+
+HTTP requests, error handling, and encoding will all be necessary. A hash-based message authentication code (HMAC) utilizing SHA-256 one-way cryptographic hash algorithm is also required for adding signatures to certain payloads. All of these necessities are easily supplied, either by python's standard library, or by readily available modules such as requests.
+
+```py
+from requests.exceptions import HTTPError
+from urllib.parse        import urlencode
+from functools           import wraps
+from random              import randint
+from os                  import _exit
+
+import requests, hashlib, hmac, time
+```
+
+# Convenience Functions
+
+These functions will format output data for better presentation to console or terminal. The say() function is a bit of a throwback to Perl, and notice we've also added a small delay. This delay will help keep this program from exceeding any rate limitations on the Binance servers.
+
+```py
+def say(string):
+    timestamp = time.strftime("%Y%m%d %I:%M:%S", time.localtime())
+    print(f"[{timestamp}] {string.title()} ...")
+    time.sleep(1)
+
+def show(string):
+    space = " "*2
+    print(f"{space}[*] {string.title()}")
+
+def rand_sleep(delay):
+    if not isinstance(delay, int):
+        delay = 60*10
+
+    delay = randint(int(delay/2), delay+1)
+    print(f"\n[zzz] sleeping for {delay} seconds ...\n".title())
+    try:
+        time.sleep(delay)
+    except KeyboardInterrupt:
+        print(f"[bye] quitting ...".title())
+        _exit(1)
+```
+
+# The BinanceAPI Class
+
+Let's create a parent class called `BinanceAPI` to handle all of our api settings and connectivity. This class will be inherited by the following classes, as many of the following classes need signatures (more on this later), error handling, and deserialization of data into useable objects.
+
+**General API Information**
+
+The REST server in question that we will be retrieving data from and executing trades upon is listed in the API documentation. ⚠️ This guide is based off of code written during a time when Binance was open to the US. Please adjust your endpoint to **https://api.binance.us** if you're in America.
+
+- The base endpoint is: **https://api.binance.com**
+If there are performance issues with the endpoint above, these API clusters are also available:
+    - **https://api1.binance.com**
+    - **https://api2.binance.com**
+    - **https://api3.binance.com**
+- All endpoints return either a JSON object or array.
+- Data is returned in **ascending** order. Oldest first, newest last.
+- All time and timestamp related fields are in **milliseconds**.
+
+```py
+class BinanceAPI:
+    API_KEY    = "your api-key here"
+    API_SECRET = "your api-secret here"
+    HEADER     = {
+        'get' : {"X-MBX-APIKEY": API_KEY},
+        'post': { # POST / PUT / DELETE
+            "X-MBX-APIKEY": API_KEY,
+            "Content-Type": "application/x-www-form-urlencoded"
+        }
+    }
+
+    # Base + Version
+    __baseEndpoint = 'https://api.binance.com'
+    ENDPOINT   = __baseEndpoint + '/api/v3/'
+    ENDPOINT_W = __baseEndpoint + '/wapi/v3/'
+    ENDPOINT_S = __baseEndpoint + '/sapi/v1/'
+```
+
+Within the API documentation we're given instructions on how to sign payloads to send to the rest server.
+
+- SIGNED endpoints require an additional parameter, signature, to be sent in the query string or request body.
+- Endpoints use HMAC SHA256 signatures. The HMAC SHA256 signature is a keyed HMAC SHA256 operation. Use your secretKey as the key and totalParams as the value for the HMAC operation.
+- The signature is not case sensitive.
+- totalParams is defined as the query string concatenated with the request body
+
+```py
+def signed_payload(self, queryDict):
+    if not queryDict.get('timestamp'):
+        if 'timestamp' in queryDict:
+            queryDict['timestamp'] = int(time.time()*1000)
+
+    signature = hmac.new(
+        bytes(type(self).API_SECRET, 'ascii'),
+        bytes(urlencode(queryDict) , 'ascii'),
+        hashlib.sha256
+    ).hexdigest()
+
+    return { **queryDict, **{ "signature": signature } }
+```
+
+**The BinanceAPI Method Decorators**
+
+The `@error_handler` decorator is a simple function that tests the response object for an HTTP status code of 400 or higher, indicated by the negation of resp.ok. If this is triggered the decorator will raise requests.exception.HTTPError with the response objects textual reason as the error. You can expand this on your own with resp.status_code.
+
+```py
+@staticmethod
+def error_handler(func):
+    @wraps(func)
+    def logic(*args, **kwargs):
+        resp = func(*args, **kwargs)
+        
+        if not resp.ok:
+            raise HTTPError(f"[!] Error: {resp.status_code} {resp.reason} {resp.json()}")
+            
+        if resp.status_code != 200:
+            print(f"[!] Warning: {resp.status_code} {resp.reason}")
+        
+        return resp
+    return logic
+```
+
+The final decorator we will be making use of is our deserializer. Essentially this function will handle the result of the previous decorator as we will be stacking these decorators over the various class methods. If the `@error_handler` decorator raises an exception, the try except block will be executed, returning `False`. If all goes as planned, the requests response object is passed into the `@deserialize` decorator, which will take an stringified json object from the server and "deserialize" it into a dictionary object manipulatable by our program.
+
+```py
+@staticmethod
+def deserialize(func):
+    @wraps(func)
+    def transform(*args, **kwargs):
+        try:
+            resp = func(*args, **kwargs)
+        except HTTPError as error:
+            print(error)
+            return False
+
+        return resp.json()
+    return transform
+```
+
+## **Exploring Market Data Retrieval (market.py)**
+
+```
+rain/
+└─ binance/
+   └─ market.py
+        Ⓒ MarketData(BinanceAPI)
+            Ⓜ ticker_24()
+            Ⓜ price_average()
+            Ⓜ klines()
+            Ⓜ exchange_info()
+```
+
+# The MarketData Class
+
+The primary role this class plays is that of the retrieval of actionable data from the Binance REST server. Through inheritance of its parent BinanceAPI class, each method's returned data will be deserialized into useable data structures for use in our bot.
+
+```py
+from binance.api import BinanceAPI, requests
+
+class MarketData(BinanceAPI):
+    ...
+```
+
+**24 hour rolling window price change statistics (Optional)**
+
+I'm including this method so our program can prompt some basic information as we watch the program go through its paces. This method is used within the `price_info()` method from the Binance class.
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def ticker_24h(self, symbol='BTCUSDT'):
+    """
+    GET /api/v3/ticker/24hr
+
+    24 hour rolling window price change statistics. Careful when accessing this with no symbol.
+
+    Weight: 
+        1 for a single symbol;
+        40 when the symbol parameter is omitted;
+
+    Parameters:
+
+    | Name      | Type   | Mandatory | Description             |
+    |-----------|--------|-----------|-------------------------|
+    | symbol    | STRING | NO        |                         |
+
+    If the symbol is not sent, tickers for all symbols will be returned in an array.
+
+    """
+    return requests.get(
+        url    = BinanceAPI.ENDPOINT + 'ticker/24hr', 
+        params = { 'symbol': symbol }
+    )
+```
+
+Response:
+
+```js
+{
+    "symbol": "BNBBTC",
+    "priceChange": "-94.99999800",
+    "priceChangePercent": "-95.960",
+    "weightedAvgPrice": "0.29628482",
+    "prevClosePrice": "0.10002000",
+    "lastPrice": "4.00000200",
+    "lastQty": "200.00000000",
+    "bidPrice": "4.00000000",
+    "askPrice": "4.00000200",
+    "openPrice": "99.00000000",
+    "highPrice": "100.00000000",
+    "lowPrice": "0.10000000",
+    "volume": "8913.30000000",
+    "quoteVolume": "15.30000000",
+    "openTime": 1499783499040,
+    "closeTime": 1499869899040,
+    "firstId": 28385,   // First tradeId
+    "lastId": 28460,    // Last tradeId
+    "count": 76         // Trade count
+}
+
+// OR a list of dictionary objects [{}, {}, ...]
+```
+
+**Current average price for a symbol (Optional)**
+
+Another optional method that will be used in the `price_info()` method in the Binance class.
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def price_average(self, symbol='BTCUSDT'):
+    """
+    GET /api/v3/avgPrice
+
+    Current average price for a symbol.
+
+    Weight: 1
+
+    Parameters:
+
+    | Name      | Type   | Mandatory | Description             |
+    |-----------|--------|-----------|-------------------------|
+    | symbol    | STRING | YES       |                         |
+
+    """
+    return requests.get(
+        url    = BinanceAPI.ENDPOINT + 'avgPrice', 
+        params = { 'symbol': symbol }
+    )
+```
+
+Response:
+
+```js
+{
+    "mins": 5,
+    "price": "9.35751834"
+}
+```
+
+**Klines Method For Retrieving Candlestick Data**
+
+The klines method will supply our program with the needed candlestick data we require.
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def klines(self, symbol="BTCUSDT", interval="1d", startTime=None, endTime=None, limit=100):
+    """ 
+    GET /api/v3/klines
+
+    Kline/candlestick bars for a symbol.
+    Klines are uniquely identified by their open time.
+
+    Weight: 1
+
+    | Name      | Type   | Mandatory | Description             |
+    |-----------|--------|-----------|-------------------------|
+    | symbol    | STRING | YES       |                         |
+    | interval  | ENUM   | YES       |                         |
+    | startTime | LONG   | NO        |                         |
+    | endTime   | LONG   | NO        |                         |
+    | limit     | INT    | NO        | Default: 100; max 1000. |
+
+    If startTime and endTime are not sent, the most recent klines are returned.
+
+    m -> minutes; h -> hours; d -> days; w -> weeks; M -> months
+    """
+    return requests.get(
+        url     = BinanceAPI.ENDPOINT + 'klines',
+        params  = {
+            'symbol'    : symbol, 
+            'interval'  : interval,
+            'startTime' : startTime,
+            'endTime'   : endTime,
+            'limit'     : limit 
+        }
+    )
+```
+
+Response:
+
+```js  
+[
+    [
+        1499040000000,      // Open time
+        "0.01634790",       // Open
+        "0.80000000",       // High
+        "0.01575800",       // Low
+        "0.01577100",       // Close
+        "148976.11427815",  // Volume
+        1499644799999,      // Close time
+        "2434.19055334",    // Quote asset volume
+        308,                // Number of trades
+        "1756.87402397",    // Taker buy base asset volume
+        "28.46694368",      // Taker buy quote asset volume
+        "17928899.62484339" // Ignore.
+    ]
+]
+```
+
+**Current Exchange Trading Rules And Symbol Information**
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def exchange_info(self):
+    """
+    GET /api/v3/exchangeInfo
+
+    Current exchange trading rules and symbol information
+
+    Weight: 1
+
+    Parameters: NONE
+
+    """
+    return requests.get(url = BinanceAPI.ENDPOINT + 'exchangeInfo')
+```
+
+Response:
+
+```js
+{
+    "timezone": "UTC",
+    "serverTime": 1565246363776,
+    "rateLimits": [
+        {
+        //These are defined in the `ENUM definitions` section under `Rate Limiters (rateLimitType)`.
+        //All limits are optional
+        }
+    ],
+    "exchangeFilters": [
+        //These are the defined filters in the `Filters` section.
+        //All filters are optional.
+    ],
+    "symbols": [
+        {
+        "symbol": "ETHBTC",
+        "status": "TRADING",
+        "baseAsset": "ETH",
+        "baseAssetPrecision": 8,
+        "quoteAsset": "BTC",
+        "quotePrecision": 8,
+        "quoteAssetPrecision": 8,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "icebergAllowed": true,
+        "ocoAllowed": true,
+        "isSpotTradingAllowed": true,
+        "isMarginTradingAllowed": true,
+        "filters": [
+            //These are defined in the Filters section.
+            //All filters are optional
+        ],
+        "permissions": [
+            "SPOT",
+            "MARGIN"
+        ]
+        }
+    ]
+}
+```
+
+## **Exploring Trading Functionality (trade.py)**
+
+```
+rain/
+└─ binance/
+   └─ trade.py
+        Ⓒ Trade(BinanceAPI)
+            Ⓜ account_info()
+            Ⓜ open_orders()
+            Ⓜ cancel_order()
+            Ⓜ stop_loss_limit_sell()
+```
+
+# The Binance Trade Class
+
+The Trade class will handle all selling & canceling of orders in addition to the retrieval of open order & account information.
+
+```py
+from binance.api import BinanceAPI, requests
+
+class Trade(BinanceAPI):
+    ...
+```
+
+**Method To Set A SELL Side STOP_LOSS_LIMIT**
+
+- Price above market price: STOP_LOSS BUY, TAKE_PROFIT SELL
+- Price below market price: **STOP_LOSS SELL**, TAKE_PROFIT BUY
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def stop_loss_limit_sell(self, symbol, quantity, price, stopPrice):
+    """
+    POST /api/v3/order (HMAC SHA256)
+
+    Send in a new order. (Price below market price: STOP_LOSS_LIMIT SELL)
+
+    Weight: 1
+
+    Parameters:
+
+        Same as POST /api/v3/order
+
+    """
+
+    return requests.post(
+        url     = BinanceAPI.ENDPOINT + 'order', 
+        data    = self.signed_payload({
+            "symbol"          : symbol,
+            "side"            : 'SELL',
+            "type"            : 'STOP_LOSS_LIMIT', 
+            "timeInForce"     : 'GTC', 
+            "quantity"        : quantity,
+            "price"           : price,
+            "stopPrice"       : stopPrice,
+            "newOrderRespType": 'RESULT',
+            "recvWindow"      : 5000, 
+            "timestamp"       : None
+        }),
+        headers = BinanceAPI.HEADER['post']
+    )
+```
+
+**Method To Retrieve All Open Orders On A Symbol**
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def open_orders(self, symbol="BTCUSDT"):
+    """
+    GET /api/v3/openOrders (HMAC SHA256)
+
+    Get all open orders on a symbol. Careful when accessing this with no symbol.
+
+    Weight: 1 for a single symbol; 40 when the symbol parameter is omitted
+
+    | Name       | Type   | Mandatory | Description             |
+    |------------|--------|-----------|-------------------------|
+    | symbol     | STRING | NO        |                         |
+    | recvWindow | LONG   | NO        | The value cannot be greater than 60000 |
+    | timestamp  | LONG   | YES       |                         |
+
+    If the symbol is not sent, orders for all symbols will be returned in an array.
+    """
+    return requests.get(
+        url     = BinanceAPI.ENDPOINT+'openOrders',
+        params  = self.signed_payload({
+            'symbol'    : symbol,
+            'recvWindow': 5000,
+            'timestamp' : None
+        }),
+        headers = BinanceAPI.HEADER['get']
+    )
+```
+
+Response:
+
+```js
+[
+  {
+    "symbol": "LTCBTC",
+    "orderId": 1,
+    "orderListId": -1, //Unless OCO, the value will always be -1
+    "clientOrderId": "myOrder1",
+    "price": "0.1",
+    "origQty": "1.0",
+    "executedQty": "0.0",
+    "cummulativeQuoteQty": "0.0",
+    "status": "NEW",
+    "timeInForce": "GTC",
+    "type": "LIMIT",
+    "side": "BUY",
+    "stopPrice": "0.0",
+    "icebergQty": "0.0",
+    "time": 1499827319559,
+    "updateTime": 1499827319559,
+    "isWorking": true,
+    "origQuoteOrderQty": "0.000000"
+  }
+]
+```
+
+**Method To Cancel An Active Order**
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def cancel_order(self, symbol, orderId):
+    """
+    DELETE /api/v3/order (HMAC SHA256)
+
+    Cancel an active order.
+
+    Weight: 1
+
+    Parameters:
+
+    | Name              | Type   | Mandatory | Description |
+    |-------------------|--------|-----------|-------------|
+    | symbol            | STRING | YES 	     |             |
+    | orderId           | LONG   | NO 	     |             |
+    | origClientOrderId | STRING | NO 	     |             |
+    | newClientOrderId  | STRING | NO        | *           |
+    | recvWindow        | LONG   | NO        | **          |
+    | timestamp         | LONG   | YES 	     |             |
+
+    * Used to uniquely identify this cancel. Automatically generated by default.
+    ** The value cannot be greater than 60000.
+
+    Either orderId or origClientOrderId must be sent.
+    """
+    return requests.delete(
+        url     = BinanceAPI.ENDPOINT + 'order', 
+        data    = self.signed_payload({
+            "symbol"          : symbol,
+            "orderId"         : orderId,
+            "recvWindow"      : 5000,
+            "timestamp"       : None
+        }),
+        headers = BinanceAPI.HEADER['post']
+    )
+```
+
+Response:
+
+```js
+{
+    "symbol": "LTCBTC",
+    "origClientOrderId": "myOrder1",
+    "orderId": 4,
+    "orderListId": -1, //Unless part of an OCO, the value will always be -1.
+    "clientOrderId": "cancelMyOrder1",
+    "price": "2.00000000",
+    "origQty": "1.00000000",
+    "executedQty": "0.00000000",
+    "cummulativeQuoteQty": "0.00000000",
+    "status": "CANCELED",
+    "timeInForce": "GTC",
+    "type": "LIMIT",
+    "side": "BUY"
+}
+
+```
+
+**Method To Retrieve Current Account Information**
+
+This method is eventually called into the Binance class method `balance` and is used to retrieve free and locked amounts to check against conditions defined in the mainloop. The main dictionary key to take note of in the response would be balances.
+
+```py
+@BinanceAPI.deserialize
+@BinanceAPI.error_handler
+def account_info(self):
+    """
+    GET /api/v3/account (HMAC SHA256)
+
+    Get current account information.
+
+    Weight: 5
+
+    Parameters:
+
+    | Name       | Type   | Mandatory | Description             |
+    |------------|--------|-----------|-------------------------|
+    | recvWindow | LONG   | NO        | The value cannot be greater than 60000 |
+    | timestamp  | LONG   | YES       |                         |
+    """
+    return requests.get(
+        url     = BinanceAPI.ENDPOINT+'account',
+        params  = self.signed_payload({
+            'recvWindow': 5000,
+            'timestamp' : None
+        }),
+        headers = BinanceAPI.HEADER['get']
+    )
+```
+
+Response:
+
+```js
+{
+    "makerCommission": 15,
+    "takerCommission": 15,
+    "buyerCommission": 0,
+    "sellerCommission": 0,
+    "canTrade": true,
+    "canWithdraw": true,
+    "canDeposit": true,
+    "updateTime": 123456789,
+    "accountType": "SPOT",
+    "balances": [
+    {
+        "asset": "BTC",
+        "free": "4723846.89208129",
+        "locked": "0.00000000"
+    },
+    {
+        "asset": "LTC",
+        "free": "4763368.68006011",
+        "locked": "0.00000000"
+    }
+    ],
+    "permissions": [
+    "SPOT"
+    ]
+}
+```
+
+## **Making Sense Of Inherited Data (binance.py)**
+
+```
+└─ binance/
+    └─ binance.py
+        Ⓓ order_handler()
+        Ⓒ Binance(MarketData, Trade)
+            Ⓟ __price_filter()
+            Ⓟ __percent_filter
+            Ⓟ __lot_filter()
+            Ⓟ __notional_filter()
+            Ⓟ __asset_info()
+            Ⓟ __symbol_filter()
+            Ⓜ balance()
+            Ⓜ price_info()
+            Ⓜ candles()
+            Ⓜ orders()
+            Ⓜ cancel()
+            Ⓜ stop_loss_fractal()
+```
+
+# The Order Handler Decorator
+
+Make sure to add the parameter "newOrderRespType": 'RESULT', 
+to the stop_loss_limit_sell() method within the Trade class, 
+Otherwise you'll get the ACK response without the status.
+
+```py
+def order_handler(func):
+    """
+    Tested For Use With Creating & Canceling Orders:
+        POST   /api/v3/order (HMAC SHA256)
+        DELETE /api/v3/order (HMAC SHA256)
+    """
+    def handler(*a, **kw):
+        response = func(*a, **kw)
+
+        if not isinstance(response, dict):
+            show("invalid response type")
+            return False
+
+        status = response.get('status')
+
+        if not status:
+            show("status not found.")
+            return False
+
+        STATUSES = {
+            'NEW'             : ("The order has been accepted by the engine.", True),
+            'PARTIALLY_FILLED': ("A part of the order has been filled.", True), 
+            'FILLED'          : ("The order has been completed.", True),
+            'CANCELED'        : ("The order has been canceled by the user.", True), 
+            'PENDING_CANCEL'  : ("Currently unused", True), 
+            'REJECTED'        : ("The order was not accepted by the engine and not processed.", False),
+            'EXPIRED'         : ("The order was canceled according to the order type's rules"      + \
+                                 "(e.g. LIMIT FOK orders with no fill, LIMIT IOC or MARKET orders" + \
+                                 "that partially fill) or by the exchange, (e.g. orders canceled"  + \
+                                 "during liquidation, orders canceled during maintenance)", True)
+        }
+
+        for rStatus, (description, returnValue) in STATUSES.items():
+            if re.match(rStatus, status, re.I):
+                show(description)
+                return returnValue
+
+        return False
+
+    return handler
+```
+
+# The Binance Class
+
+The purpose of this class is to make sense of the data provided to it through multiple inheritance of it's parent classes methods.
+
+```py
+from binance.api    import say, show
+from binance.market import MarketData
+from binance.trade  import Trade
+from datetime       import datetime
+from collections    import OrderedDict
+
+import numpy  as np
+import pandas as pd
+
+import re
+
+class Binance(MarketData, Trade):
+    ...
+```
+
+**Name Mangled Methods Used As Symbol Filters**
+
+> The PRICE_FILTER defines the price rules for a symbol. There are 3 parts
+
+```py
+def __price_filter(self, filter, price, precise):
+    show("checking PRICE_FILTER filter")
+    # minPrice defines the minimum price/stopPrice allowed; 
+    # disabled on minPrice == 0.
+    maxPrice = float(filter.get('maxPrice'))
+    # maxPrice defines the maximum price/stopPrice allowed; 
+    # disabled on maxPrice == 0
+    minPrice = float(filter.get('minPrice'))
+    # tickSize defines the intervals that a price/stopPrice can be increased/decreased by; 
+    # disabled on tickSize == 0.
+    tickSize = filter.get('tickSize')
+    # tickSize = float(filter.get('tickSize'))
+
+    # In order to pass the price filter, the following must be true 
+    # for price/stopPrice of the enabled rules:
+
+    # price >= minPrice
+    # price <= maxPrice
+    # (price-minPrice) % tickSize == 0
+
+    if not minPrice <= price <= maxPrice:
+        raise ValueError("Price is out of bounds!")
+
+    if (price-minPrice) % float(tickSize) == 0:
+        raise ValueError("Ticksize!")
+
+    # Handle PRICE_FILTER precision
+    show("adjusting price precision")
+    return precise(price, tickSize)
+```
+
+> The PERCENT_PRICE filter defines valid range for a price based on the average of the 
+previous trades. avgPriceMins is the number of minutes the average price is calculated 
+over. 0 means the last price is used.
+
+```py
+def __percent_filter(self, filter, price, symbol):
+    show("checking PERCENT_PRICE filter")
+    weightedAveragePrice = float(self.price_average(symbol).pop('price', None))
+    multiplierUp   = float(filter.get('multiplierUp'))
+    multiplierDown = float(filter.get('multiplierDown'))
+
+    # In order to pass the percent price, the following must be true for price:
+    if not (price <= weightedAveragePrice * multiplierUp):
+        raise ValueError("Percent Up!")
+
+    if not (price >= weightedAveragePrice * multiplierDown):
+        raise ValueError("Percent Down!")
+```
+
+> The LOT_SIZE filter defines the quantity (aka "lots" in auction terms) 
+rules for a symbol. There are 3 parts
+
+```py
+def __lot_filter(self, filter, quantity, precise):
+
+    show("checking LOT_SIZE filter")
+    # minQty defines the minimum quantity/icebergQty allowed.
+    minQty   = float(filter.get('minQty'))
+    # maxQty defines the maximum quantity/icebergQty allowed.
+    maxQty   = float(filter.get('maxQty'))
+    # stepSize defines the intervals that a quantity/icebergQty can be increased/decreased by.
+    stepSize = filter.get('stepSize')
+
+    # In order to pass the lot size, the following must be true for quantity/icebergQty:
+    
+    # 1 & 2: quantity >= minQty and quantity <= maxQty
+    # if not (quantity >= minQty and quantity <= maxQty):
+    if not minQty <= quantity <= maxQty:
+        raise ValueError("Quantity is out of bounds!")
+
+    # 3: (quantity-minQty) % stepSize == 0
+    if (quantity-minQty) % float(stepSize) == 0:
+        raise ValueError("Stepsize!")
+
+    # Handle LOT_SIZE precision
+    show("adjusting quantity precision")
+    return precise(quantity, stepSize)
+```
+
+> The MIN_NOTIONAL filter defines the minimum notional value allowed for an order on a symbol. 
+An order's notional value is the price * quantity. If the order is an Algo order 
+(e.g. STOP_LOSS_LIMIT), then the notional value of the stopPrice * quantity will also be evaluated.
+
+```py
+def __notional_filter(self, filter, price, quantity):
+    show("checking MIN_NOTIONAL filter")
+    notionalValue = price * quantity
+    minNotional   = float(filter.get('minNotional'))
+
+    if notionalValue < minNotional:
+        raise ValueError("Minimum Notional!")
+```
+
+```py
+def __asset_info(self, symbol='BTCUSDT'):
+    info    = self.exchange_info()
+    symbols = info.get('symbols')
+    for asset in symbols:
+        if asset.get('symbol') == symbol:
+            return asset
+```
+
+```py
+def __symbol_filter(self, price, quantity, symbol='BTCUSDT'):
+    """
+    Filters define trading rules on a symbol or an exchange. 
+    Filters come in two forms: symbol filters and exchange filters.
+
+    https://binance-docs.github.io/apidocs/spot/en/#public-api-definitions
+
+    Ultimately symbol_filter will return the price and quantity needed to make trades.
+    """
+    precise  = lambda qty, tickStep: float("{:{}f}".format(qty, tickStep.find('1')-1))
+    info     = self.__asset_info(symbol)
+
+    filters  = info.get('filters')
+
+    for filter in filters:
+        fType = filter.get('filterType')
+
+        if fType == 'PRICE_FILTER':
+            price_ = self.__price_filter(filter, price, precise)
+
+        elif fType == 'PERCENT_PRICE':
+            self.__percent_filter(filter, price, symbol)
+
+        elif fType == 'LOT_SIZE':
+            quantity_ = self.__lot_filter(filter, quantity, precise)
+
+        elif fType == 'MIN_NOTIONAL':
+            self.__notional_filter(filter, price, quantity)
+    
+    show("all checks passed")
+    return price_, quantity_
+```
+
+# Retrieving Free & Locked Balances Of A Specific Coin
+
+This method cleans up data provided by the `account_info()` method provided by the `Trade` class. It's main purpose is to retrieve free and locked amounts on a specific coin so we can check against conditions defined in the mainloop, such as, checking for a zero balance or open orders waiting to trigger. If there's no free bitcoin to set stop losses to a stablecoin upon, we can exit the program without unnecessary calls to the binance rest servers.
+
+```py
+def balance(self, coin="USDT"):
+    """
+    Returns balance of specified coin
+    """
+    data     = self.account_info()
+    balances = data.get('balances')
+    
+    for balance in balances:
+        asset = balance.get('asset', '')
+
+        if not asset:
+            continue
+
+        if asset.upper() == coin.upper():
+            free   = float( balance.get('free') )
+            locked = float( balance.get('locked') )
+            return free, locked
+```
+
+**Retrieve Price Information (Optional)**
+
+This method ties together a few useful pieces of information to present to the end user. 
+
+```py
+def price_info(self, symbol='BTCUSDT'):
+    ticker_24     = self.ticker_24h(symbol)
+    price_average = self.price_average(symbol)
+    return OrderedDict(
+        lastPrice = ticker_24.get('lastPrice'),
+        change    = ticker_24.get('priceChange'),
+        percent   = ticker_24.get('priceChangePercent'),
+        # weighted  = ticker_24.get('weightedAvgPrice'),
+        average   = price_average.get('price')
+    )
+```
+
+```py
+def candles(self, symbol="BTCUSDT", interval="1d", startTime=None, endTime=None, limit=100):
+    """
+    Returns kline data in a pandas DataFrame.
+
+    <class 'pandas.core.frame.DataFrame'>
+                                    open      high       low     close        volume
+    date
+    2019-11-01 16:59:59.999   9140.86   9279.00   9030.00   9231.61  43594.814115
+    2019-11-02 16:59:59.999   9231.40   9373.74   9186.21   9289.52  28923.060828
+    2019-11-03 15:59:59.999   9289.85   9362.57   9066.14   9194.71  27894.378279
+    2019-11-04 15:59:59.999   9196.46   9513.68   9115.84   9393.35  45894.456277
+    2019-11-05 15:59:59.999   9392.40   9454.95   9175.76   9308.66  45935.873665
+    ...                           ...       ...       ...       ...           ...
+    2021-03-10 15:59:59.999  54874.67  57387.69  53005.00  55851.59  84749.238943
+    2021-03-11 15:59:59.999  55851.59  58150.00  54272.82  57773.16  81914.812859
+    2021-03-12 15:59:59.999  57773.15  58081.51  54962.84  57221.72  73405.406047
+    2021-03-13 15:59:59.999  57221.72  61844.00  56078.23  61188.39  83245.091346
+    2021-03-14 16:59:59.999  61188.38  61724.79  60724.26  60973.90   5563.193904
+
+    [100 rows x 5 columns]
+    """
+
+    data    = self.klines( symbol, interval, startTime, endTime, limit )
+    dateObj = lambda x: datetime.fromtimestamp(x/1000)
+
+    df = pd.DataFrame(
+        # Open / High / Low / Close / Volume / Datetime Object
+        data    = [ [dateObj(i[6])] + i[1:6] for i in data ],
+        columns = ['date', 'open', 'high', 'low', 'close', 'volume'],
+        dtype   = np.double
+    )
+    df.set_index('date', inplace=True)
+
+    return df
+```
+
+```py
+def orders(self, symbol='BTCUSDT'):
+    data = self.open_orders(symbol)
+
+    def orderInfo():
+        for order in data:
+            stop   = order.get('stopPrice')
+            price  = order.get('price')
+            qty    = order.get('origQty')
+            amount = float(qty) * float(price)
+            type_  = (order.get('side'), order.get('type'))
+            id_    = order.get('orderId')
+            yield id_, type_, stop, price, qty, amount
+    
+    df = pd.DataFrame(
+        data    = orderInfo(),
+        columns = ['id','type','stop','price','quantity','amount'],
+    )
+    df.set_index('id', inplace=True)
+    df.sort_values(by=['amount'], ascending=False, inplace=True)
+    return df
+```
+
+```py
+@order_handler
+def cancel(self, symbol, orderId):
+    return self.cancel_order(symbol, orderId)
+```
+
+```py
+@order_handler
+def stop_loss_fractal(self, amount, stopPrice, symbol='BTCUSDT', pad=20):
+"""
+Set a SELL side STOP_LOSS_LIMIT on latest fractal.
+"""
+
+price = stopPrice - pad # dollars
+
+try:
+    price_, quantity = self.__symbol_filter(price, amount, symbol)
+except ValueError as error:
+    show(error)
+    return False
+
+say(f"If the last price rises to or above {stopPrice} USDT, an order to buy {quantity:.8f} BTC at a price of {price_} USDT will be placed.")
+return self.stop_loss_limit_sell(symbol, quantity, price_, stopPrice)
+```
+
+## **Technical Analysis**
+
+```
+rain/
+└─ analysis/
+   └─ technical.py
+        Ⓒ TechnicalAnalysis
+            Ⓢ down_fractals()
+            Ⓜ plot_fractals()
+```
+
+# The TechnicalAnalysis Class
+
+```py
+from pandas import concat
+
+class TechnicalAnalysis:
+    ...
+```
+
+```py
+@staticmethod
+def down_fractals(df, plot=False):
+    """
+    RED or DOWN = BULLISH
+
+    Price only
+    """
+    def bullish_fractals(iterable):
+        for segment in ( iterable[i:i+5] for i in range(len(iterable)-(5-1)) ):
+            if all([ segment[2] < segment[i] for i in [0, 1, 3, 4] ]):
+                yield segment[2]
+
+    return list(bullish_fractals(df['low']))
+```
+
+```py
+def plot_fractals(self, df):
+    """
+    GREEN or UP = BEARISH
+
+    The Formulas for Fractals Are:
+
+    Bearish Fractal = High(N) > High(N−2) and
+                        High(N) > High(N−1) and
+                        High(N) > High(N+1) and
+                        High(N) > High(N+2)
+
+    where:
+        N   = High of the current price bar
+        N−2 = High of price bar two periods to the left of N
+        N−1 = High of price bar one period to the left of N
+        N+1 = High of price bar one period to the right of N
+        N+2 = High of price bar two periods to the right of N
+    """
+    
+    def bearish_fractals(high, step=5):
+        for segment in ( high[i:i+step] for i in range(len(high)-(step-1)) ):
+            if all([ segment[2] > segment[i] for i in [0, 1, 3, 4] ]):
+                # print(segment[2], type(segment[2])) # 'numpy.float64'
+                # print(segment[2:3], type(segment[2:3])) # 'pandas.core.series.Series'
+                yield segment[2:3]
+
+    """
+    RED or DOWN = BULLISH
+
+    Bullish Fractal = Low(N) < Low(N−2) and
+                        Low(N) < Low(N−1) and
+                        Low(N) < Low(N+1) and
+                        Low(N) < Low(N+2)
+
+    where:
+        N   = Low of the current price bar
+        N−2 = Low of price bar two periods to the left of N
+        N−1 = Low of price bar one period to the left of N
+        N+1 = Low of price bar one period to the right of N
+        N+2 = Low of price bar two periods to the right of N
+    """
+
+    def bullish_fractals(low, step=5):
+        for segment in ( low[i:i+step] for i in range(len(low)-(step-1)) ):
+            if all([ segment[2] < segment[i] for i in [0, 1, 3, 4] ]):
+                # print(segment[2], type(segment[2])) # 'numpy.float64'
+                # print(segment[2:3], type(segment[2:3])) # 'pandas.core.series.Series'
+                yield segment[2:3]
+
+    # 'pandas.core.series.Series'
+    df['down'] = concat(bullish_fractals(df['low']))
+    df['up']   = concat(bearish_fractals(df['high']))
+
+    return df
+```
+
+<!-- ## **Backtesting & Optimization** -->
+
+<!-- In-Sample & Out-of-Sample Data -->
+
+<!-- ## **Forward Testing** -->

