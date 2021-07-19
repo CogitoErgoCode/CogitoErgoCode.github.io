@@ -8,7 +8,7 @@ permalink: /about/
 
 \**This blog was written while listening to [Internal Flight](https://youtu.be/6lIt07sBW4E)*
 
-⚠️ I do not own any social media accounts apart from those listed here (largely inactive).
+<!-- ⚠️ I do not own any social media accounts apart from those listed here (largely inactive). -->
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
@@ -431,6 +431,8 @@ I will likely focus on **German** (Ich lerne Deutsch) first, followed by **Japan
 > "For with much wisdom comes much sorrow, and as knowledge grows, grief increases." &mdash; Ecclesiastes 1:18
 
 > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud
+
+> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley 
 
 > "There was never a genius without a tincture of madness." &mdash; Aristotle
 
