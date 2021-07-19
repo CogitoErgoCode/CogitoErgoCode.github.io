@@ -48,17 +48,21 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Physical:` In my youth, I was heavily inspired by [Bruce Lee](https://youtu.be/cJMwBwFj5nQ) and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own.
 
-- `Intellectual:` Inspired by a computer hacker named 'Tempest' who I met in the IRC & MSN chatrooms of old, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. *One of my command-line tools was even featured in ░░░░░░░░░ <!-- BlackArch --> linux operating system and remains a part of their tool list to this day.*
+- `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. I am curious about golang and interested in C# and Unity 2D indie game development.
 
-- `Artistic:` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). 
+<!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
 
-- `Financial:` 
+- `Artistic:` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
+
+- `Financial` 
 
     - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
 
-    - [`Disasters:`](https://poets.org/poem/if) Many. Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct.
+    - [`Disasters:`](https://poets.org/poem/if) Many. My current goal is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.
+    
+    <!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
 
-    - `My current goal` is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned. 
+    <!-- - `My current goal` is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.  -->
     
 <!-- Social Security (Ponzi Scheme), just like welfare, is an entitlement. -->
 
@@ -165,7 +169,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 
 <!-- # Alternative / Progressive (Rock / Metal)
 
-Some bands from my youth (early 2000s) that conjure a sense of nostalgia.
+Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 - `Deftones (Chino Moreno)` 
     - Adrenaline (1995)
