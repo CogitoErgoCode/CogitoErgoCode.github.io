@@ -21,7 +21,8 @@ My name is Ryan and I am an aspiring serial entrepreneur, self-taught computer p
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics & Hiking
-- `Natural Language:` 私は日本語を勉強しています。
+- `Natural Language:` [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language) 
+    <!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
 - `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
@@ -167,7 +168,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Spectre](https://youtu.be/CLiDemXYSLc),  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), [All I Need](https://youtu.be/FM7ALFsOH4g), [Codex](https://youtu.be/T7t38uDUg5E), [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), [Reckoner](https://youtu.be/pYHEpDnvVPk), [Faust Arp](https://youtu.be/PRc0iMRoIoc), [Nude](https://youtu.be/BbWBRnDK_AE), [Everything In Its Right Place](https://youtu.be/NUnXxh5U25Y), [Lucky](https://youtu.be/yuZYQvvLXVY), [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), [Idioteque](https://youtu.be/svwJTnZOaco), [Decks Dark](https://youtu.be/Del3C2W63Pk), [Scatterbrain](https://youtu.be/r7mN9BLr4jU), [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), [Like Spinning Plates](https://youtu.be/DQBDsNiCCNM), [Analyse](https://youtu.be/MnMUdko6ljs), [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), [Before Your Very Eyes](https://youtu.be/ZWrUEsVrdSU), [I Will](https://youtu.be/XWZmzdpyUTY), [Amok](https://youtu.be/0zIBbiSr8Lw), [Default](https://youtu.be/yxWBd840E9g)
 - `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc)
 
-# Alternative / Progressive (Rock / Metal)
+# Alternative / Progressive / Industrial
 
 Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
@@ -175,6 +176,8 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 - `Tool (Maynard James Keenan):` [Schism](https://youtu.be/MM62wjLrgmA), [The Patient](https://youtu.be/rDrhI1GUnNg), [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), [Rosetta Stoned](https://youtu.be/qnlhVVwBfew), [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), [Fear Inoculum](https://youtu.be/q7DfQMPmJRI), [Invincible](https://youtu.be/hxsld16TjSU)
 - `Katatonia:` [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
 - `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w)
+
+<!-- - `Rammstein (Till Lindemann):` [Mein Teil](https://youtu.be/PBvwcH4XX6U), [Du Riechst So Gut '98](https://youtu.be/rrmsJhf89MY), [Rosenrot](https://youtu.be/af59U2BRRAU), [Ich Tu Dir Weh](https://youtu.be/IxuEtL7gxoM), [Puppe](https://youtu.be/Weu9nKN1EAs), [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
 
 <!-- 
 - `Deftones (Chino Moreno)` 
