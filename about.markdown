@@ -20,11 +20,13 @@ My name is Ryan and I am an aspiring serial entrepreneur, self-taught computer p
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 - `Musical Instruments:` Piano
-- `Method of Exercise:` Calisthenics
+- `Method of Exercise:` Calisthenics & Hiking
 - `Natural Language:` 私は日本語を勉強しています。
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
-- `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) ([Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) / [Gothic](https://en.wikipedia.org/wiki/Gothic_fiction) / [Weird](https://en.wikipedia.org/wiki/Weird_Tales))
+- `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
+
+<!-- ([Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) / [Gothic](https://en.wikipedia.org/wiki/Gothic_fiction) / [Weird](https://en.wikipedia.org/wiki/Weird_Tales)) -->
 
 <!-- - `Mystical Nonsense:`
     - `Astrological Sign:` [♍](https://www.astrology.com/zodiac-signs/virgo)
@@ -62,8 +64,6 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
     
     <!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
 
-    <!-- - `My current goal` is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.  -->
-    
 <!-- Social Security (Ponzi Scheme), just like welfare, is an entitlement. -->
 
 <!-- - `Disaster:` Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. As you might imagine, I was less than enthused.
@@ -167,10 +167,16 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Spectre](https://youtu.be/CLiDemXYSLc),  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), [All I Need](https://youtu.be/FM7ALFsOH4g), [Codex](https://youtu.be/T7t38uDUg5E), [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), [Reckoner](https://youtu.be/pYHEpDnvVPk), [Faust Arp](https://youtu.be/PRc0iMRoIoc), [Nude](https://youtu.be/BbWBRnDK_AE), [Everything In Its Right Place](https://youtu.be/NUnXxh5U25Y), [Lucky](https://youtu.be/yuZYQvvLXVY), [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), [Idioteque](https://youtu.be/svwJTnZOaco), [Decks Dark](https://youtu.be/Del3C2W63Pk), [Scatterbrain](https://youtu.be/r7mN9BLr4jU), [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), [Like Spinning Plates](https://youtu.be/DQBDsNiCCNM), [Analyse](https://youtu.be/MnMUdko6ljs), [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), [Before Your Very Eyes](https://youtu.be/ZWrUEsVrdSU), [I Will](https://youtu.be/XWZmzdpyUTY), [Amok](https://youtu.be/0zIBbiSr8Lw), [Default](https://youtu.be/yxWBd840E9g)
 - `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc)
 
-<!-- # Alternative / Progressive (Rock / Metal)
+# Alternative / Progressive (Rock / Metal)
 
 Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
+- `Deftones (Chino Moreno):` [Bored](https://youtu.be/-WdYo3WlETY), [Minus Blindfold](https://youtu.be/fdfXcNCQjf4), [Birthmark](https://youtu.be/66ht-uFeomU), [Engine No.9](https://youtu.be/1HwCGSjwq4Y), [Fireal](https://youtu.be/aUG3C6rS8o0), [First (Hidden Track)](https://youtu.be/259VClSSaME), [My Own Summer](https://youtu.be/XOzs1FehYOA), [Around the Fur](https://youtu.be/AFVNrox01SM), [Dai the Flu](https://youtu.be/aopye0lJUtI), [Headup](https://youtu.be/u0zenvD1EOY), [MX](https://youtu.be/k9kgN2938lI), [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955), [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), [Knife Party](https://youtu.be/dVMfISO9T1Q0), [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [Feiticeira](https://youtu.be/4VxsE1YHUck), [Elite](https://youtu.be/BDeGSXVDihk), ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), [Rx Queen](https://youtu.be/XxWildqgiKk), [Change / Violet Orlandi Cover](https://youtu.be/8OPkHScoitA), [Hexagram](https://youtu.be/yP4dFHSd-iw), [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), [When Girls Telephone Boys](https://youtu.be/oPvWJFbiakI), [**Lucky You**](https://youtu.be/Ija2-DQz38g), [The Chauffeur](https://youtu.be/EON3DnBbflQ), [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), [Please Please Please Let Me Get What I Want](https://youtu.be/EQose8uGj5o), [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [Beware](https://youtu.be/FzjaN0gPvaE), [Kimdracula](https://youtu.be/WLO2fppkO14), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Rocket Skates](https://youtu.be/woR6ohiFeYE), [Prince](https://youtu.be/8TxPkaMphV0), [Royal](https://youtu.be/ZMWh1QYmSvc), [Do You Believe](https://youtu.be/wy-mDxI9Qfs), [What Happened to You?](https://youtu.be/jPd3OUd2sw0), [Radiant City](https://youtu.be/Yoy0f-vRrsw), [This Link Is Dead](https://youtu.be/XAu3BsG8c0A), [Headless](https://youtu.be/qQM9VktjYa8), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), [Brief Exchange](https://youtu.be/sBMGiHosRYk), [Your Skull Is Red](https://youtu.be/XeUducm-5II), [Ataraxia](https://youtu.be/y0ogaw5iJH4), ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), [Elizabeth](https://youtu.be/k0xavPE02wg), [Formant](https://youtu.be/A_K4wajiU-0), [Our Ride to the Rectory](https://youtu.be/FAOfWKli7GQ), [Ever Since WW1](https://youtu.be/WHddcSyT93Y)
+- `Tool:` [Schism](https://youtu.be/MM62wjLrgmA), [The Patient](https://youtu.be/rDrhI1GUnNg), [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), [Rosetta Stoned](https://youtu.be/qnlhVVwBfew), [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), [Fear Inoculum](https://youtu.be/q7DfQMPmJRI), [Invincible](https://youtu.be/hxsld16TjSU)
+- `Katatonia:` [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
+- `Porcupine Tree:` [Sleep Of No Dreaming](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w)
+
+<!-- 
 - `Deftones (Chino Moreno)` 
     - Adrenaline (1995)
         - [Bored](https://youtu.be/-WdYo3WlETY), [Minus Blindfold](https://youtu.be/fdfXcNCQjf4) *"My activities don't cross, but they create"*, [Birthmark](https://youtu.be/66ht-uFeomU), [Engine No.9](https://youtu.be/1HwCGSjwq4Y), [Fireal](https://youtu.be/aUG3C6rS8o0), [First (Hidden Track)](https://youtu.be/259VClSSaME)
@@ -204,8 +210,9 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 - `Katatonia`
     - The Great Cold Distance (2006)
         - [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
-- `Porcupine Tree:` [Sleep Of No Dreaming](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w) -->
-
+- `Porcupine Tree:` [Sleep Of No Dreaming](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w)
+ 
+-->
 
 # Miscellaneous 🜄🜓
 
@@ -312,8 +319,11 @@ I'm also fascinated with mythology & folk lore.
 - `Edith Hamilton:` [Mythology](http://library.lol/main/D080DD9C504EDAEBB45EACB4F4702E71)
 - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/), [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
 - `Dr. Joseph Lumpkin:` [The Books of Enoch: The Angels, The Watchers and The Nephilim](http://library.lol/main/6672E50C0C1D1D30F0AC963CC66E2CBE)
+
+<!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
-- `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki)
+- `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
+-->
 
 # Selected Poetry
 
