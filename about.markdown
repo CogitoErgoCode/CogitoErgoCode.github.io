@@ -222,7 +222,7 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
  
 -->
 
-<!-- # Miscellaneous 🜄🜓 -->
+# Miscellaneous 🜄🜓
 
 <!-- Sometimes there is silence in noise... -->
 
@@ -230,12 +230,12 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 <!-- > "You must have a serene state of mind, tranquil like water after a storm." &mdash; @CogitoErgoCode -->
 
-<!-- - `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
+- `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
 - `Folk:`
     - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0)
     - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44)
     - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0)
-    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk) -->
+    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
 
 <!-- - `Cyberpunk / Electronic`
     - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
