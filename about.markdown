@@ -19,10 +19,12 @@ My name is Ryan and I am an aspiring serial entrepreneur, self-taught computer p
 - `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
+<!-- - `Educational Objective:` M.S. Computer Science -->
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics & Hiking
-- `Natural Language:` [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language) 
-    <!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
+- `Natural Language:` Undecided
+<!-- - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)  -->
+<!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
 - `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
@@ -51,7 +53,9 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Physical:` In my youth, I was heavily inspired by [Bruce Lee](https://youtu.be/cJMwBwFj5nQ) and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own.
 
-- `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. I am curious about golang and interested in C# and Unity 2D indie game development.
+- `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
+
+<!-- I am curious about golang and interested in C# and Unity 2D indie game development. -->
 
 <!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
 
@@ -168,6 +172,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Spectre](https://youtu.be/CLiDemXYSLc),  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), [All I Need](https://youtu.be/FM7ALFsOH4g), [Codex](https://youtu.be/T7t38uDUg5E), [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), [Reckoner](https://youtu.be/pYHEpDnvVPk), [Faust Arp](https://youtu.be/PRc0iMRoIoc), [Nude](https://youtu.be/BbWBRnDK_AE), [Everything In Its Right Place](https://youtu.be/NUnXxh5U25Y), [Lucky](https://youtu.be/yuZYQvvLXVY), [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), [Idioteque](https://youtu.be/svwJTnZOaco), [Decks Dark](https://youtu.be/Del3C2W63Pk), [Scatterbrain](https://youtu.be/r7mN9BLr4jU), [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), [Like Spinning Plates](https://youtu.be/DQBDsNiCCNM), [Analyse](https://youtu.be/MnMUdko6ljs), [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), [Before Your Very Eyes](https://youtu.be/ZWrUEsVrdSU), [I Will](https://youtu.be/XWZmzdpyUTY), [Amok](https://youtu.be/0zIBbiSr8Lw), [Default](https://youtu.be/yxWBd840E9g)
 - `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc)
 
+<!-- 
 # Alternative / Progressive / Industrial
 
 Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
@@ -175,7 +180,7 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 - **`Deftones (Chino Moreno)`**: [Bored](https://youtu.be/-WdYo3WlETY), [Minus Blindfold](https://youtu.be/fdfXcNCQjf4), [Birthmark](https://youtu.be/66ht-uFeomU), [Engine No.9](https://youtu.be/1HwCGSjwq4Y), [Fireal](https://youtu.be/aUG3C6rS8o0), [First (Hidden Track)](https://youtu.be/259VClSSaME), [My Own Summer](https://youtu.be/XOzs1FehYOA), [Around the Fur](https://youtu.be/AFVNrox01SM), [Dai the Flu](https://youtu.be/aopye0lJUtI), [Headup](https://youtu.be/u0zenvD1EOY), [MX](https://youtu.be/k9kgN2938lI), [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955), [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), [Knife Party](https://youtu.be/dVMfISO9T1Q0), [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [Feiticeira](https://youtu.be/4VxsE1YHUck), [Elite](https://youtu.be/BDeGSXVDihk), ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), [Rx Queen](https://youtu.be/XxWildqgiKk), [Change / Violet Orlandi Cover](https://youtu.be/8OPkHScoitA), [Hexagram](https://youtu.be/yP4dFHSd-iw), [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), [When Girls Telephone Boys](https://youtu.be/oPvWJFbiakI), [**Lucky You**](https://youtu.be/Ija2-DQz38g), [The Chauffeur](https://youtu.be/EON3DnBbflQ), [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), [Please Please Please Let Me Get What I Want](https://youtu.be/EQose8uGj5o), [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [Beware](https://youtu.be/FzjaN0gPvaE), [Kimdracula](https://youtu.be/WLO2fppkO14), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Rocket Skates](https://youtu.be/woR6ohiFeYE), [Prince](https://youtu.be/8TxPkaMphV0), [Royal](https://youtu.be/ZMWh1QYmSvc), [Do You Believe](https://youtu.be/wy-mDxI9Qfs), [What Happened to You?](https://youtu.be/jPd3OUd2sw0), [Radiant City](https://youtu.be/Yoy0f-vRrsw), [This Link Is Dead](https://youtu.be/XAu3BsG8c0A), [Headless](https://youtu.be/qQM9VktjYa8), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), [Brief Exchange](https://youtu.be/sBMGiHosRYk), [Your Skull Is Red](https://youtu.be/XeUducm-5II), [Ataraxia](https://youtu.be/y0ogaw5iJH4), ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), [Elizabeth](https://youtu.be/k0xavPE02wg), [Formant](https://youtu.be/A_K4wajiU-0), [Our Ride to the Rectory](https://youtu.be/FAOfWKli7GQ), [Ever Since WW1](https://youtu.be/WHddcSyT93Y)
 - `Tool (Maynard James Keenan):` [Schism](https://youtu.be/MM62wjLrgmA), [The Patient](https://youtu.be/rDrhI1GUnNg), [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), [Rosetta Stoned](https://youtu.be/qnlhVVwBfew), [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), [Fear Inoculum](https://youtu.be/q7DfQMPmJRI), [Invincible](https://youtu.be/hxsld16TjSU)
 - `Katatonia:` [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
-- `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w)
+- `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w) -->
 
 <!-- - `Rammstein (Till Lindemann):` [Mein Teil](https://youtu.be/PBvwcH4XX6U), [Du Riechst So Gut '98](https://youtu.be/rrmsJhf89MY), [Rosenrot](https://youtu.be/af59U2BRRAU), [Ich Tu Dir Weh](https://youtu.be/IxuEtL7gxoM), [Puppe](https://youtu.be/Weu9nKN1EAs), [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
 
@@ -217,7 +222,7 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
  
 -->
 
-# Miscellaneous 🜄🜓
+<!-- # Miscellaneous 🜄🜓 -->
 
 <!-- Sometimes there is silence in noise... -->
 
@@ -225,12 +230,12 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 <!-- > "You must have a serene state of mind, tranquil like water after a storm." &mdash; @CogitoErgoCode -->
 
-- `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
+<!-- - `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
 - `Folk:`
     - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0)
     - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44)
     - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0)
-    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk)
+    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk) -->
 
 <!-- - `Cyberpunk / Electronic`
     - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
@@ -275,17 +280,17 @@ Wisdom literature is also something of an interest to me, as I enjoy philosophy,
 
 - `Wisdom Literature & Philosophy`
     - `King Solomon:` Proverbs, Ecclesiastes
-    - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf), [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D)
+    - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) <!-- , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D) -->
     - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)
-    - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/)
+    <!-- - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/) -->
 - `Recreational Math / Logic`
     - `Raymond Smullyan:` ["The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)
 - `Finance & Economics`
     - `George S. Clason:` [The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793)
     - `Robert Kiyosaki:` 
         - [Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2)
-        - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
-    - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
+        <!-- - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government -->
+    - `Thomas J. Stanley (Ph.D):` <!-- The Millionaire Mind, --> [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
 
 My favorite introduction books & documentation on specific computer programming languages within computer science. It's been a hobby so long most of my knowledge has become tacit knowledge, but if I had to recommend a single book per favorite language, this would be that list.
 
@@ -319,9 +324,11 @@ I think it's important to have a basic understanding of general physics & chemis
 
 I'm also fascinated with mythology & folk lore.
 
-- `Edith Hamilton:` [Mythology](http://library.lol/main/D080DD9C504EDAEBB45EACB4F4702E71)
-- [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/), [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
 - `Dr. Joseph Lumpkin:` [The Books of Enoch: The Angels, The Watchers and The Nephilim](http://library.lol/main/6672E50C0C1D1D30F0AC963CC66E2CBE)
+- `Andrew George:` [The Epic of Gilgamesh](http://library.lol/main/1FB1EE6D6E13868D07DC4B65B0FF705D)
+- `Edith Hamilton:` [Mythology](http://library.lol/main/D080DD9C504EDAEBB45EACB4F4702E71)
+- [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/), [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
+
 
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
@@ -368,7 +375,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-I will likely focus on **German** (Ich lerne Deutsch) first, followed by **Japanese** 私は日本語を勉強しています。German will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to Japanese. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+I will likely focus on ... <!-- **German** (Ich lerne Deutsch) --> first, followed by <!-- **Japanese** 私は日本語を勉強しています。-->.... <!-- German -->... will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to <!-- Japanese --> .... If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
