@@ -16,14 +16,15 @@ permalink: /about/
 
 My name is Ryan and I am an aspiring serial entrepreneur, self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, classical music instruments, and [natural language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also have a cooking hobby!
 
+<!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
+
 - `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 <!-- - `Educational Objective:` M.S. Computer Science -->
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics & Hiking
-- `Natural Language:` Undecided
-<!-- - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)  -->
+- `Natural Language:` [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)
 <!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
@@ -232,11 +233,12 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 - `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
 - `Folk:`
+    - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
+    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
     - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0)
     - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44)
     - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0)
-    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
-
+    
 <!-- - `Cyberpunk / Electronic`
     - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
     - `Lorn:` [Cherry Moon](https://youtu.be/u7c2VLG5Ttc), [Sega Sunset](https://youtu.be/mauV2NdCs60) 
@@ -327,7 +329,7 @@ I'm also fascinated with mythology & folk lore.
 - `Dr. Joseph Lumpkin:` [The Books of Enoch: The Angels, The Watchers and The Nephilim](http://library.lol/main/6672E50C0C1D1D30F0AC963CC66E2CBE)
 - `Andrew George:` [The Epic of Gilgamesh](http://library.lol/main/1FB1EE6D6E13868D07DC4B65B0FF705D)
 - `Edith Hamilton:` [Mythology](http://library.lol/main/D080DD9C504EDAEBB45EACB4F4702E71)
-- [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/), [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
+- [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/), [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/), [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523)
 
 
 <!-- 
@@ -375,7 +377,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-I will likely focus on ... <!-- **German** (Ich lerne Deutsch) --> first, followed by <!-- **Japanese** 私は日本語を勉強しています。-->.... <!-- German -->... will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to <!-- Japanese --> .... If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+I will likely focus on **German** (Ich lerne Deutsch) first, followed by <!-- **Japanese** 私は日本語を勉強しています。-->.... German will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to <!-- Japanese --> .... If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
