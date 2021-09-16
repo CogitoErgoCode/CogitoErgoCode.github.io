@@ -235,9 +235,10 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 - `Folk:`
     - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
     - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
-    - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0)
-    - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44)
-    - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0)
+    - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
+    <!-- , [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
+    <!-- - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44) -->
+    <!-- - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0) -->
     
 <!-- - `Cyberpunk / Electronic`
     - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
