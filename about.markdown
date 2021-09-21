@@ -352,7 +352,7 @@ I'm also fascinated with mythology & folk lore.
 - `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
 - `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
 - `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H. P. Lovecraft:` [Nemesis](https://www.hplovecraft.com/writings/texts/poetry/p121.aspx)
+- `H.P. Lovecraft:` [Nemesis](https://www.hplovecraft.com/writings/texts/poetry/p121.aspx)
 - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
 - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
 - `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
