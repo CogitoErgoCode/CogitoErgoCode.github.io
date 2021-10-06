@@ -59,6 +59,8 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
+- `Linguistic:` As an aspiring Esperantist, I intend to utilize the construted language ([Esperanto](https://en.wikipedia.org/wiki/Esperanto)) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to better understand natural languages like [German](https://en.wikipedia.org/wiki/German_language) & [Japanese](https://en.wikipedia.org/wiki/Japanese_language).
+
 <!-- I am curious about golang and interested in C# and Unity 2D indie game development. -->
 
 <!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
