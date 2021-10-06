@@ -14,18 +14,21 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am an aspiring serial entrepreneur, self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, classical music instruments, and [natural language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also have a cooking hobby!
+My name is Ryan and I am a self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also have a cooking hobby!
 
 <!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
 
 - `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
-<!-- - `Educational Objective:` M.S. Computer Science -->
+<!-- - `Educational Objective:` M.S. Cybersecurity -->
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics & Hiking
-- `Natural Language:` [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)
-<!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
+- `Constructed Language:` Esperanto
+    - [Mi lernas Esperanton (Esperantist)](https://en.wikipedia.org/wiki/Esperanto)
+- `Natural Language:` 
+    - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)
+    - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
 - `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
@@ -384,7 +387,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-I will likely focus on **German** (Ich lerne Deutsch) first, followed by <!-- **Japanese** 私は日本語を勉強しています。-->.... German will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to <!-- Japanese --> .... If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+I will likely focus on **German** first, followed by **Japanese**. **Esperanto** will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to German & Japanese. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
