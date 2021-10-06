@@ -22,13 +22,13 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 <!-- - `Educational Objective:` M.S. Cybersecurity -->
+- `Constructed Language:` [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+<!-- - [Mi lernas Esperanton (Esperantist)](https://en.wikipedia.org/wiki/Esperanto) -->
 - `Musical Instruments:` Piano
-- `Method of Exercise:` Calisthenics & Hiking
-- `Constructed Language:` Esperanto
-    - [Mi lernas Esperanton (Esperantist)](https://en.wikipedia.org/wiki/Esperanto)
-- `Natural Language:` 
-    - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language)
-    - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
+- `Method of Exercise:` Calisthenics
+- `Natural Language:` [German](https://en.wikipedia.org/wiki/German_language) & [Japanese](https://en.wikipedia.org/wiki/Japanese_language)
+<!-- - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language) -->
+<!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
 - `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
@@ -59,7 +59,7 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
-- `Linguistic:` As an aspiring Esperantist, I intend to utilize the construted language ([Esperanto](https://en.wikipedia.org/wiki/Esperanto)) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to better understand natural languages like [German](https://en.wikipedia.org/wiki/German_language) & [Japanese](https://en.wikipedia.org/wiki/Japanese_language).
+- `Linguistic:` As an aspiring Esperantist, I intend to utilize the construted language [Esperanto (Mi lernas Esperanton)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to better understand natural languages like [German (Ich lerne Deutsch)](https://en.wikipedia.org/wiki/German_language) & [Japanese (私は日本語を勉強しています)](https://en.wikipedia.org/wiki/Japanese_language).
 
 <!-- I am curious about golang and interested in C# and Unity 2D indie game development. -->
 
