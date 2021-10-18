@@ -425,6 +425,14 @@ I will likely focus on **German** first, followed by **Japanese**. **Esperanto**
 
 > "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler
 
+> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
+
+> “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
+
+> "If you can't explain it simply, you don't understand it well enough." &mdash; Albert Einstein
+
+> "Simplicity is the ultimate form of sophistication." &mdash; Leonardo da Vinci
+
 > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; [Elon Musk](https://youtu.be/vqcdF1oWaD0)
 
 > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; [Naval Ravikant](https://twitter.com/naval/status/1002107869209096192)
