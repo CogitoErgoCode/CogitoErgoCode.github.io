@@ -31,10 +31,8 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 <!-- - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language) -->
 <!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
-- `Financial Goals:` [Cash flow quadrant (right side)](/assets/images/cfq.png)
-- `Literary Genre:` [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction) 
-
-<!-- ([Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) / [Gothic](https://en.wikipedia.org/wiki/Gothic_fiction) / [Weird](https://en.wikipedia.org/wiki/Weird_Tales)) -->
+- `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
+- `Literary Genre:` [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy)
 
 <!-- - `Mystical Nonsense:`
     - `Astrological Sign:` [♍](https://www.astrology.com/zodiac-signs/virgo)
@@ -261,16 +259,16 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 # Literature & Textbooks
 
-As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult I read [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html). 
+As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html). 
 
-<!-- I've always enjoyed the [weird tales](https://en.wikipedia.org/wiki/Weird_Tales) literary genre from the late 19th century, give or take. After recently reading "The White People" I think Arthur Machen may be my favorite author to date. 
+I've always enjoyed the [dark fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) literary genre; especially [19th & 20th century horror fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), and more specifically [lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) & [gothic](https://en.wikipedia.org/wiki/Gothic_fiction) horror. See [weird tales](https://en.wikipedia.org/wiki/Weird_Tales). **I have, almost, but not quite, read all the recommendations below, definitely only most lol... but definitely mostly not least.**
 
 > "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft
 
 - `Arthur Machen:` “Machen is a Titan—perhaps the greatest living author—and I must read everything of his.” (H.P. Lovecraft to Frank Belknap Long, 3 June 1923).
     - [The House Of Souls (1922):](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm) [[.txt]](/assets/books/arthur_machen/the_house_of_souls.txt)
         - [**The White People (1904)**](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111) [[.pdf]](/assets/books/arthur_machen/the_white_people.pdf) 
-            - Cue ["Arvo Pärt - Fratres"](https://youtu.be/7YqF69HLkj8) at the start of "The Green Book."
+            <!-- - Cue ["Arvo Pärt - Fratres"](https://youtu.be/7YqF69HLkj8) at the start of "The Green Book." -->
         - [The Great God Pan (1890)](https://www.gutenberg.org/files/389/389-h/389-h.htm)
     - [The Three Impostors (1895):](https://www.gutenberg.org/files/35517/35517-h/35517-h.htm) [[.txt]](/assets/books/arthur_machen/the_three_impostors.txt)
         - [Novel Of The Black Seal](https://www.gutenberg.org/files/35517/35517-h/35517-h.htm#NOVEL_OF_THE_BLACK_SEAL) 
@@ -287,7 +285,7 @@ As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_B
     - [The Man and the Snake](http://www.ambrosebierce.org/snake.html)
 - `Robert W. Chambers:` Creator of The King in Yellow, the Yellow Sign, the Pallid Mask. Explorer of Bierce's Carcosa, Hali, and Hastur.
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
-        - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS)   -->
+        - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS)  
 
 Wisdom literature is also something of an interest to me, as I enjoy philosophy, and the wisdom of it's ancient revelations.
 
@@ -377,6 +375,11 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 <!-- > “Time is the longest distance between two places.” &mdash; Tennessee Williams, The Glass Menagerie -->
 
+<!-- Everything Category I and beyond is from the FSI. I'm modifying the table with a new category to represent constructed languages. We'll call it Category 0, since in computer science array indices start with zero. -->
+
+<!-- - `Category 0:` (150 class hours)
+    - **Esperanto** -->
+
 - `Category I (Easy):` 24-30 weeks (600-750 class hours)
     - Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
 - `Category II (Moderate):` Approximately 36 weeks (900 class hours)
@@ -384,7 +387,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 - `Category III (Hard):` Approximately 44 weeks (1100 class hours)
     - Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese
 - `Category IV (Super Hard):` 88 weeks (2200 class hours)
-    - Arabic, Cantonese (Chinese), **Mandarin (Chinese)**, **Japanese**, Korean
+    - Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean
 
 <!-- **I have not commited to any natural language for more than a month** consecutively, in my lifetime, thus far; however, by observing my learning habits, I seem to gravitate toward Germanic languages.  -->
 
