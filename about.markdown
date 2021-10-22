@@ -60,7 +60,11 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
-- `Linguistic:` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto (Mi lernas Esperanton)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages like [German (Ich lerne Deutsch)](https://en.wikipedia.org/wiki/German_language) & [Japanese (私は日本語を勉強しています)](https://en.wikipedia.org/wiki/Japanese_language).
+- `Linguistic:` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto (Mi deziras paroli Esperanton flue)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
+
+<!-- Mi lernas Esperanton -->
+
+<!-- like [German (Ich lerne Deutsch)](https://en.wikipedia.org/wiki/German_language) & [Japanese (私は日本語を勉強しています)](https://en.wikipedia.org/wiki/Japanese_language). -->
 
 <!-- I am curious about golang and interested in C# and Unity 2D indie game development. -->
 
@@ -371,18 +375,20 @@ The [Sapir–Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativi
 
 The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV. I have often considered taking on the challege of learning 1 language from each category.
 
-> “Time is the longest distance between two places.” &mdash; Tennessee Williams, The Glass Menagerie
+<!-- > “Time is the longest distance between two places.” &mdash; Tennessee Williams, The Glass Menagerie -->
 
 - `Category I (Easy):` 24-30 weeks (600-750 class hours)
-    - Danish, Dutch, **French (30)**, **Italian**, **Norwegian**, Portuguese, Romanian, **Spanish**, Swedish 
+    - Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
 - `Category II (Moderate):` Approximately 36 weeks (900 class hours)
     - **German**, Haitian Creole, Indonesian, Malay, Swahili
 - `Category III (Hard):` Approximately 44 weeks (1100 class hours)
-    - Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, **Greek**, **Hebrew**, Hindi, Hungarian, **Icelandic**, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese
+    - Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese
 - `Category IV (Super Hard):` 88 weeks (2200 class hours)
-    - **Arabic**, Cantonese (Chinese), **Mandarin (Chinese)**, **Japanese**, Korean
+    - Arabic, Cantonese (Chinese), **Mandarin (Chinese)**, **Japanese**, Korean
 
-**I have not commited to any natural language for more than a month** consecutively, in my lifetime, thus far; however, by observing my learning habits, I seem to gravitate toward Germanic languages. I have put a considerable amount of thought behind what the criteria would be for selecting a language while ensuring its practicality:
+<!-- **I have not commited to any natural language for more than a month** consecutively, in my lifetime, thus far; however, by observing my learning habits, I seem to gravitate toward Germanic languages.  -->
+
+I have put a considerable amount of thought behind what the criteria would be for selecting a language while ensuring its practicality:
 
 1. [The language should have a high population of speakers. (frequency)](https://www.visualcapitalist.com/a-world-of-languages/)
 2. [The language should be in the top 10 wealthiest nations. (longevity)](https://www.visualcapitalist.com/all-of-the-worlds-wealth-in-one-visualization/)
@@ -390,7 +396,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-I will likely focus on **German** first, followed by **Japanese**. **Esperanto** will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to German & Japanese. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+According to a preliminary study, Esperanto led to a 50% improvement in French langugage acquisition, 40% in English, 30% in German, and 25% in Russian. I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages, **followed by the languages in bold above**. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
