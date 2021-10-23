@@ -23,13 +23,9 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 <!-- - `Educational Objective:` M.S. Cybersecurity -->
 - [`Constructed Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
-<!-- - [Mi lernas Esperanton (Esperantist)](https://en.wikipedia.org/wiki/Esperanto) -->
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics
 - `Natural Languages:` See Goals (Below)
-<!-- [German](https://en.wikipedia.org/wiki/German_language) & [Japanese](https://en.wikipedia.org/wiki/Japanese_language) -->
-<!-- - [Ich lerne Deutsch](https://en.wikipedia.org/wiki/German_language) -->
-<!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
 - `Literary Genre:` [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy)
@@ -118,7 +114,7 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310)
 - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776)
 
-# Classical & Neoclassical Violin & Cello
+# Classical / Neoclassical Violin & Cello
 
 This section also encapsulates symphony orchestra, & philharmonic.
 
@@ -259,9 +255,11 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia.
 
 # Literature & Textbooks
 
-As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html). 
+I've always enjoyed the [dark fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) literary genre; especially [19th & 20th century horror fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), and more specifically [lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) & [gothic](https://en.wikipedia.org/wiki/Gothic_fiction) horror. See [weird tales](https://en.wikipedia.org/wiki/Weird_Tales). 
 
-I've always enjoyed the [dark fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) literary genre; especially [19th & 20th century horror fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), and more specifically [lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) & [gothic](https://en.wikipedia.org/wiki/Gothic_fiction) horror. See [weird tales](https://en.wikipedia.org/wiki/Weird_Tales). **I have, almost, but not quite, read all the recommendations below, definitely only most lol... but definitely mostly not least.**
+<!-- **I have, almost, but not quite, read all the recommendations below, definitely only most lol... but definitely mostly not least.** -->
+
+As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html). 
 
 > "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft
 
