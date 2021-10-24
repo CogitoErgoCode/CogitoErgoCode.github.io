@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrency Botting & Automation"
-date: 2021-03-28 19:25:23 -0700
+date: 2021-03-28 19:25:24 -0700
 categories: crypto bitcoin python
 published: true
 ---
@@ -15,6 +15,10 @@ published: true
 [Lorn·Cherry Moon](https://youtu.be/u7c2VLG5Ttc), [Ennja·Beat God](https://youtu.be/6A0TjleLTtM), [Hyper·He Rises](https://youtu.be/F_tsZJickpw), [enjoii·kate](https://youtu.be/MKrof66uZoM?t=176), [Skeler·Shook](https://youtu.be/3z78063K5xU), 
 
 <!-- [Savior](https://youtu.be/6hYmCF1UFfk?t=689) -->
+
+## ⚠️ Abandoned Project ⚠️
+
+This project was abandoned do to the fact that I had to leave Binance for a different exchange. I'm leaving the article up as most of this is working. I'll leave the mainloop & some of the missing descriptions as an exercise to the reader.
 
 ## **Preamble**
 
@@ -180,12 +184,12 @@ lastFRACTAL = 0
 pDifference = lambda x, y: round( (abs(x-y)/((x+y)/2))*100, 2 )
 ```
 
-# The Main Loop ⚠️ Under Construction ⚠️
+<!-- # The Main Loop
 
 ```py
 def main_loop(bi):
     ...
-```
+``` -->
 
 # Auxiliary Functions
 
