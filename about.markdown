@@ -386,13 +386,13 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
     - **Esperanto** -->
 
 - `Category I (Easy):` 24 weeks (600-750 class hours)
-    - Danish, Dutch, **French (30 weeks)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
+    - Danish, Dutch, 🇫🇷 **French (30 weeks)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
 - `Category II (Moderate):` Approximately 36 weeks (900 class hours)
-    - **German**, Haitian Creole, Indonesian, Malay, Swahili
+    - 🇩🇪 **German**, Haitian Creole, Indonesian, Malay, Swahili
 - `Category III (Hard):` Approximately 44 weeks (1100 class hours)
     - Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, Russian, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese
 - `Category IV (Super Hard):` 88 weeks (2200 class hours)
-    - Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean
+    - Arabic, Cantonese (Chinese), Mandarin (Chinese), 🇯🇵 **Japanese**, Korean
 
 <!-- **I have not commited to any natural language for more than a month** consecutively, in my lifetime, thus far; however, by observing my learning habits, I seem to gravitate toward Germanic languages.  -->
 
