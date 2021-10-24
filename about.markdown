@@ -404,7 +404,9 @@ I have put a considerable amount of thought behind what the criteria would be fo
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-According to a preliminary study, Esperanto led to a 50% improvement in French langugage acquisition, 40% in English, 30% in German, and 25% in Russian. I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages, **followed by the languages in bold above**. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+According to a preliminary study, Esperanto led to a **50% improvement in French** langugage acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+
+I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages, **followed by the languages in bold above**. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
