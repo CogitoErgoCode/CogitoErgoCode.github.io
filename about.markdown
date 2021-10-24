@@ -106,7 +106,7 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Ravel:` [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)
 - `Tchaikovsky:` [Waltz of the Flowers](https://youtu.be/1aR92yQUS7s)
 - `Philip Glass:` [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
-- `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007)
+<!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
 # Modern Piano
 
