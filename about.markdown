@@ -178,7 +178,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc)
 
 
-# Alternative / Progressive / Industrial
+# Alternative / Progressive
 
 Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia. I grew up very much into dark and dream like melancholic music.
 
