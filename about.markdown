@@ -255,7 +255,7 @@ Some bands **from my youth** (early 2000s) that conjure a sense of nostalgia. I 
 
 # Literature & Textbooks
 
-I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy), [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), and [Weird fiction](https://en.wikipedia.org/wiki/Weird_fiction) literary genres. More specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror), & [Gothic horror](https://en.wikipedia.org/wiki/Gothic_fiction).
+I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy), [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), [Gothic horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird fiction](https://en.wikipedia.org/wiki/Weird_fiction) literary genres. More specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror).
 
 <!-- [](https://en.wikipedia.org/wiki/Weird_Tales).  -->
 
