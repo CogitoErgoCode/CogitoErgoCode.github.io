@@ -406,7 +406,7 @@ I have often thought of learning more about the ancient past and [old world lang
 
 According to a preliminary study, Esperanto led to a **50% improvement in French** langugage acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
 
-It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left from french, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
+It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
 I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages, **followed by the languages in bold above**. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
