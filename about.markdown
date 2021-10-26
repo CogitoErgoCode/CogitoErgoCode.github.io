@@ -244,7 +244,7 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 - `Folk:`
     - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
     - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
-    - `Wardruna:` [**Kvitravn (White Raven)**](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
+    - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
     <!-- , [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
     <!-- - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44) -->
     <!-- - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0) -->
@@ -326,12 +326,12 @@ I think it's important to have a basic understanding of general physics & chemis
 
 - `Chemistry`
     - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
-    - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
-    - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)
+    <!-- - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A) -->
+    <!-- - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3) -->
 - `Physics`
     - `Young & Freedman:` [University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)
-    - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813)
-    - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420)
+    <!-- - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813) -->
+    <!-- - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420) -->
 - `Philosophical Physics`
     - `Claude Fayette Bragdon:` A Primer of Higher Space, The Fourth Dimension (1913)
     - `Edwin A. Abbott:` [Flatland: A Romance of Many Dimensions, pg.58](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0)
