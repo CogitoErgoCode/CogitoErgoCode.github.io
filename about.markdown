@@ -415,23 +415,21 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 ## **Inspirational Quotes**
 
-<!-- > "Chase a bag, kid, never chase a dame." &mdash; [Saint Jiub](https://youtu.be/WkyPnpW7eQ8) -->
-
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
-> "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. [Be water, my friend](https://youtu.be/cJMwBwFj5nQ)." &mdash; Bruce Lee
+<!-- > "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. [Be water, my friend](https://youtu.be/cJMwBwFj5nQ)." &mdash; Bruce Lee -->
 
 > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee
 
-> "Don't fight forces, use them." &mdash; R. Buckminster Fuller
+<!-- > "Don't fight forces, use them." &mdash; R. Buckminster Fuller -->
 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
 
-> "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki
+<!-- > "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki -->
 
-> “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein
+<!-- > “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein -->
 
-> "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold)
+<!-- > "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold) -->
 
 > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
 
@@ -443,19 +441,19 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 > "Learning is cheap, education is expensive." &mdash; [Naval Ravikant](https://twitter.com/naval)
 
-> "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler
+<!-- > "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler -->
 
-> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
+<!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
-> “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
+<!-- > “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman -->
 
 > "If you can't explain it simply, you don't understand it well enough." &mdash; Albert Einstein
 
 > "Simplicity is the ultimate form of sophistication." &mdash; Leonardo da Vinci
 
-> "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; [Elon Musk](https://youtu.be/vqcdF1oWaD0)
+<!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; [Elon Musk](https://youtu.be/vqcdF1oWaD0) -->
 
-> "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; [Naval Ravikant](https://twitter.com/naval/status/1002107869209096192)
+<!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; [Naval Ravikant](https://twitter.com/naval/status/1002107869209096192) -->
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
@@ -463,45 +461,45 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
 
-> "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB
+<!-- > "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB -->
 
-> "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city." &mdash; Ecclesiastes 10:15
+<!-- > "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city." &mdash; Ecclesiastes 10:15 -->
 
-> "The crown of the wise is their riches: but the foolishness of fools is folly." &mdash; Proverbs 14:24
+<!-- > "The crown of the wise is their riches: but the foolishness of fools is folly." &mdash; Proverbs 14:24 -->
 
-> "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23
+<!-- > "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23 -->
 
-> "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
+<!-- > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3 -->
 
-> "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification)
+<!-- > "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification) -->
 
-> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+<!-- > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus -->
 
-> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+<!-- > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus -->
 
-> “If you are the smartest person in the room, then you are in the wrong room.” &mdash; Confucius
+<!-- > “If you are the smartest person in the room, then you are in the wrong room.” &mdash; Confucius -->
 
-> "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." &mdash; Arthur Schopenhauer
+<!-- > "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." &mdash; Arthur Schopenhauer -->
 
-> "Don’t worry about the haters… They are just angry because the truth you speak contradicts the lie they live." &mdash; Steve Maraboli
+<!-- > "Don’t worry about the haters… They are just angry because the truth you speak contradicts the lie they live." &mdash; Steve Maraboli -->
 
-> "Thinking is difficult, that’s why most people judge." &mdash; C.G. Jung
+<!-- > "Thinking is difficult, that’s why most people judge." &mdash; C.G. Jung -->
 
-> "Those who malign others are projecting their own insecurities and limitations upon those they envy." &mdash; R
+<!-- > "Those who malign others are projecting their own insecurities and limitations upon those they envy." &mdash; R -->
 
 > "Great men are always of a nature originally melancholy." &mdash; Aristotle
 
-> "Happiness in intelligent people is the rarest thing I know." &mdash; Ernest Hemingway
+<!-- > "Happiness in intelligent people is the rarest thing I know." &mdash; Ernest Hemingway -->
 
-> "For with much wisdom comes much sorrow, and as knowledge grows, grief increases." &mdash; Ecclesiastes 1:18
+<!-- > "For with much wisdom comes much sorrow, and as knowledge grows, grief increases." &mdash; Ecclesiastes 1:18 -->
 
-> "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud
+<!-- > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud -->
 
 > “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley 
 
 > "There was never a genius without a tincture of madness." &mdash; Aristotle
 
-> “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie
+<!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
