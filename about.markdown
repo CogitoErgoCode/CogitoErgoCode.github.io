@@ -406,7 +406,7 @@ I have put a considerable amount of thought behind what the criteria would be fo
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-According to a preliminary study, Esperanto led to a **50% improvement in French** langugage acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+According to a preliminary study, Esperanto led to a **50% improvement in French** langugage acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
 
 It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
