@@ -42,7 +42,7 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 <!-- - `Merton's strain theory:`
     - [Youth: Sociological Retreatism (GST 1)](https://en.wikipedia.org/wiki/Strain_theory_(sociology)#Merton's_theory) -->
 
-> “Using no way as way; having no limitation as limitation." &mdash; Bruce Lee
+<!-- > “Using no way as way; having no limitation as limitation." &mdash; Bruce Lee -->
 
 ## **Past, Present, & Future**
 
@@ -50,7 +50,7 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 # Throughout time I've always set goals
 
-- `Physical:` It's been many years since my youth when was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. I no longer keep up with that hobby, but it was one of my earlier accomplishments in life.
+- `Physical:` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
 
 <!-- In my youth, I was heavily inspired by [Bruce Lee](https://youtu.be/cJMwBwFj5nQ) and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. -->
 
