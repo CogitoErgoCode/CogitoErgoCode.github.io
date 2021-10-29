@@ -107,7 +107,7 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Vivaldi:` [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)
 - `Ravel:` [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)
 - `Tchaikovsky:` [Waltz of the Flowers](https://youtu.be/1aR92yQUS7s)
-- `Philip Glass:` [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
+- `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
 # Modern Piano
@@ -387,8 +387,8 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 <!-- - `Category 0:` (150 class hours)
     - **Esperanto** -->
 
-- `Category I (Easy):` 24 weeks (600-750 class hours)
-    - Danish, Dutch, 🇫🇷 **French (30 weeks)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
+- `Category I (Easy):` 24-30 weeks (600-750 class hours)
+    - Danish, Dutch, 🇫🇷 **French (30)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
 - `Category II (Moderate):` Approximately 36 weeks (900 class hours)
     - 🇩🇪 **German**, Haitian Creole, Indonesian, Malay, Swahili
 - `Category III (Hard):` Approximately 44 weeks (1100 class hours)
@@ -406,7 +406,7 @@ I have put a considerable amount of thought behind what the criteria would be fo
 
 I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
 
-According to a preliminary study, Esperanto led to a **50% improvement in French** langugage acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
 
 It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
