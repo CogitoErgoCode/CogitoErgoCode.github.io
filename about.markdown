@@ -110,7 +110,7 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
-# Modern Piano
+# Modern / Experimental Piano
 
 - **`Thom Yorke:`** [Suspirium](https://youtu.be/BTZl9KMjbrU), [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
 - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310)
@@ -126,8 +126,9 @@ This section also encapsulates symphony orchestra, & philharmonic.
     - `Forgotten Odes:` [Forgotten Odes](https://youtu.be/piRBMOxum3o), [Afterlight](https://youtu.be/GFH_KkAhWqE), [Revolution](https://youtu.be/pMIb9HRKJJQ), [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), [Fate of the Clockmaker](https://youtu.be/kfVmldkxgQc), [Theory Of Light](https://youtu.be/nBM6OX8MbYs), [Autumn Moon](https://youtu.be/X7oy2aJDKpc), [The Game is Afoot](https://youtu.be/Q5GHpnQVkDc), [The Last Funeral](https://youtu.be/Giy_HAKLVs4), [Shadows in the Sea](https://youtu.be/5E87Mz4X4K8)
 - `Arvo Pärt`
     - `Tabula Rasa:` [Fratres](https://youtu.be/7YqF69HLkj8), [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358)
-- `Maurice Ravel`
-    - [Valses Nobles et Sentimentales, No. 5 (Cleveland Orchestra, conducted by Pierre Boulez)](https://youtu.be/PDNy_GHNsiE?t=373)
+
+<!-- - `Maurice Ravel`
+    - [Valses Nobles et Sentimentales, No. 5 (Cleveland Orchestra, conducted by Pierre Boulez)](https://youtu.be/PDNy_GHNsiE?t=373) -->
 
 <!-- [`Forgotten Odes:`](https://youtu.be/synJbsrk0k8) -->
 
@@ -384,7 +385,7 @@ The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-tra
 
 <!-- Everything Category I and beyond is from the FSI. I'm modifying the table with a new category to represent constructed languages. We'll call it Category 0, since in computer science array indices start with zero. -->
 
-<!-- - `Category 0:` (150 class hours)
+<!-- - `Category 0 (Super Easy):` 6 weeks (150 class hours)
     - **Esperanto** -->
 
 - `Category I (Easy):` 24-30 weeks (600-750 class hours)
