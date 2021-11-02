@@ -54,13 +54,13 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 # Throughout time I've always set goals
 
-- `Physical:` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
+- `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
 
 <!-- In my youth, I was heavily inspired by [Bruce Lee](https://youtu.be/cJMwBwFj5nQ) and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. -->
 
-- `Technical:` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
+- `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
-- `Linguistic:` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto (Mi deziras paroli Esperanton flue)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
+- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto (Mi deziras paroli Esperanton flue)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
 
 <!-- Mi lernas Esperanton -->
 
@@ -70,7 +70,7 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 <!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
 
-- `Artistic:` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
+- `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
 
 - `Financial` 
 
@@ -267,20 +267,16 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 
 # Literature & Textbooks
 
-I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy), [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century), [Gothic horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird fiction](https://en.wikipedia.org/wiki/Weird_fiction) literary genres. More specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror).
+I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) & [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) and it's subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror).
 
-<!-- [](https://en.wikipedia.org/wiki/Weird_Tales).  -->
-
-<!-- **I have, almost, but not quite, read all the recommendations below, definitely only most lol... but definitely mostly not least.** -->
+<!-- > "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft -->
 
 As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html). 
 
-> "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft
-
-- `Arthur Machen:` “Machen is a Titan—perhaps the greatest living author—and I must read everything of his.” (H.P. Lovecraft to Frank Belknap Long, 3 June 1923).
+<!-- - `Arthur Machen:` “Machen is a Titan—perhaps the greatest living author—and I must read everything of his.” (H.P. Lovecraft to Frank Belknap Long, 3 June 1923).
     - [The House Of Souls (1922):](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm) [[.txt]](/assets/books/arthur_machen/the_house_of_souls.txt)
         - [**The White People (1904)**](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111) [[.pdf]](/assets/books/arthur_machen/the_white_people.pdf) 
-            <!-- - Cue ["Arvo Pärt - Fratres"](https://youtu.be/7YqF69HLkj8) at the start of "The Green Book." -->
+            - Cue ["Arvo Pärt - Fratres"](https://youtu.be/7YqF69HLkj8) at the start of "The Green Book."
         - [The Great God Pan (1890)](https://www.gutenberg.org/files/389/389-h/389-h.htm)
     - [The Three Impostors (1895):](https://www.gutenberg.org/files/35517/35517-h/35517-h.htm) [[.txt]](/assets/books/arthur_machen/the_three_impostors.txt)
         - [Novel Of The Black Seal](https://www.gutenberg.org/files/35517/35517-h/35517-h.htm#NOVEL_OF_THE_BLACK_SEAL) 
@@ -297,7 +293,7 @@ As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_B
     - [The Man and the Snake](http://www.ambrosebierce.org/snake.html)
 - `Robert W. Chambers:` Creator of The King in Yellow, the Yellow Sign, the Pallid Mask. Explorer of Bierce's Carcosa, Hali, and Hastur.
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
-        - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS)  
+        - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
 Wisdom literature is also something of an interest to me, as I enjoy philosophy, and the wisdom of it's ancient revelations.
 
@@ -357,7 +353,6 @@ I'm also fascinated with mythology & folk lore.
     - [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
     - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523)
 
-
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
 - `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
@@ -365,7 +360,10 @@ I'm also fascinated with mythology & folk lore.
 
 # Selected Poetry
 
-> "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song)
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+<!-- > "Nature’s first green is gold,
+Her hardest hue to hold..." -->
 
 - `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
 - `Rudyard Kipling:` [If](https://poets.org/poem/if)
