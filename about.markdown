@@ -22,6 +22,7 @@ My name is Ryan and I am a self-taught computer programmer, polymath, and life l
 
 - `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
+<!-- - `Religious Affiliation:` Christianity -->
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 - `Language Polyglotism`
     - `Native Language:` English
@@ -330,7 +331,7 @@ I think it's important to have a basic understanding of general physics & chemis
 
 - `Chemistry`
     - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
-    <!-- - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A) -->
+    - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
     <!-- - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3) -->
 - `Physics`
     - `Young & Freedman:` [University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)
