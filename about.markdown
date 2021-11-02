@@ -14,7 +14,7 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a self-taught computer programmer, polymath, and life long autodidact. I enjoy cultivating a healthy balance between mind and body.
+My name is Ryan and I am a self-taught computer programmer, polymath, and life long autodidact.
 
 <!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
 
@@ -34,17 +34,9 @@ My name is Ryan and I am a self-taught computer programmer, polymath, and life l
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
 - `Literary Genre:` [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror)
 
+> "The only way of discovering the limits of the possible is to venture a little way past them into the impossible." &mdash; Arthur C. Clarke
+
 <!-- - `Educational Objective:` M.S. Computer Science -->
-<!-- [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) -->
-
-<!-- - `Mystical Nonsense:`
-    - `Astrological Sign:` [♍](https://www.astrology.com/zodiac-signs/virgo)
-    - `Chinese Zodiac:` [虎 丙 寅 火 陽](https://en.wikipedia.org/wiki/Tiger_(zodiac)) -->
-
-<!-- - Heavenly Stem: 丙 bǐng
-- Earthly Branch: 寅 yín
-- Element: 火 Fire
-- Yin & Yang: 陽 Yang -->
 
 <!-- - `Merton's strain theory:`
     - [Youth: Sociological Retreatism (GST 1)](https://en.wikipedia.org/wiki/Strain_theory_(sociology)#Merton's_theory) -->
@@ -271,7 +263,7 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 
 # Literature & Textbooks
 
-I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) & [20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) and it's subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). [H. P. Lovecraft's](https://www.hplovecraft.com/life/biograph.aspx) 28,000 word essay ["Supernatural Horror in Literature"](https://www.hplovecraft.com/writings/texts/essays/shil.aspx) would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
+I've always enjoyed the [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) & [20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) literary genres and their subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). [H. P. Lovecraft's](https://www.hplovecraft.com/life/biograph.aspx) 28,000 word essay ["Supernatural Horror in Literature"](https://www.hplovecraft.com/writings/texts/essays/shil.aspx) would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
 > "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft
 
@@ -424,11 +416,17 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
-<!-- > "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. [Be water, my friend](https://youtu.be/cJMwBwFj5nQ)." &mdash; Bruce Lee -->
+> "To be nobody but
+yourself in a world
+which is doing its best day and night to make you like
+everybody else means to fight the hardest battle
+which any human being can fight and never stop fighting." &mdash; E.E. Cummings
+
+> "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. [Be water, my friend](https://youtu.be/cJMwBwFj5nQ)." &mdash; Bruce Lee
 
 > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee
 
-<!-- > "Don't fight forces, use them." &mdash; R. Buckminster Fuller -->
+> "Don't fight forces, use them." &mdash; R. Buckminster Fuller
 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
 
@@ -437,6 +435,10 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 <!-- > “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein -->
 
 <!-- > "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold) -->
+
+> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
+
+> “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
 
 > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
 
@@ -448,9 +450,9 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 > "Learning is cheap, education is expensive." &mdash; [Naval Ravikant](https://twitter.com/naval)
 
-<!-- > "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler -->
+> "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler
 
-<!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
+> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
 
 > “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
 
@@ -508,7 +510,11 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 <!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
+<!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
+
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
+
+<!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
 
 # Support This Blog
 
