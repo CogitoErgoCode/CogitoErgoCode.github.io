@@ -28,7 +28,9 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 - `Natural Languages:` See Goals (Below)
 - `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
-- `Literary Genre:` [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy)
+- `Literary Genre:` [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror)
+
+<!-- [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) -->
 
 <!-- - `Mystical Nonsense:`
     - `Astrological Sign:` [♍](https://www.astrology.com/zodiac-signs/virgo)
@@ -446,7 +448,7 @@ I will likely focus on **Esperanto** first because of its [propaedeutic value](h
 
 <!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
-<!-- > “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman -->
+> “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
 
 > "If you can't explain it simply, you don't understand it well enough." &mdash; Albert Einstein
 
