@@ -20,10 +20,16 @@ My name is Ryan and I am a self-taught computer programmer, polymath, and life l
 
 <!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
 
-- `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
+- `Myers–Briggs Type Indicator:` 
+    - [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 <!-- - `Religious Affiliation:` Christianity -->
-- `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
+- `Philosophical Stances`
+    <!-- - `Ontological View:` There is a<br>possible world in which there is an entity<br>which possesses maximal greatness. -->
+    <!-- - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) -->
+    - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
+    - `Knowledge Acquisition:` Do you believe all crows are birds?
+    <!-- [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction) -->
 - `Language Polyglotism`
     - `Native Language:` English
     - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
