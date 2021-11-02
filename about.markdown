@@ -351,8 +351,10 @@ I'm also fascinated with mythology & folk lore.
 - `Edith Hamilton:` [Mythology](http://library.lol/main/D080DD9C504EDAEBB45EACB4F4702E71)
 - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/)
     - [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/)
-    - [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
-    - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523)
+    
+    <!-- - [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/) -->
+
+    <!-- - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
 
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
