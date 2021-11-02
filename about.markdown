@@ -14,7 +14,9 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby.
+My name is Ryan and I am a self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body.
+
+<!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
 
 <!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
 
@@ -50,8 +52,6 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 
 ## **Past, Present, & Future**
 
-In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. Non-speculative investments exist, and once in a life time opportunities happen every year. 
-
 # Throughout time I've always set goals
 
 - `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
@@ -72,7 +72,7 @@ In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero
 
 - `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
 
-- `Financial` 
+- `Financial:` In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. Non-speculative investments exist, and once in a life time opportunities happen every year. 
 
     - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
 
