@@ -23,7 +23,7 @@ My name is Ryan and I am a self-taught computer programmer, polymath, and life l
 - `Myers–Briggs Type Indicator:` 
     - [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality` 
-    - Both [5w6](https://enneagram.bz/en/5) & [1w9](https://enneagram.bz/en/1), [Chart](/assets/images/enneagram.png)
+    - Hybrid [5w6](https://enneagram.bz/en/5) & [1w9](https://enneagram.bz/en/1), [Chart](/assets/images/enneagram.png)
 <!-- - `Religious Affiliation:` Christianity -->
 - `Philosophical Stances`
     <!-- - `Ontological View:` There is a<br>possible world in which there is an entity<br>which possesses maximal greatness. -->
