@@ -247,8 +247,11 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 
 <!-- > "You must have a serene state of mind, tranquil like water after a storm." &mdash; @CogitoErgoCode -->
 
-- `Study:` [White Noise](https://youtu.be/nMfPqeZjc2c), [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
-- `Folk:`
+- `Study` 
+    - [White Noise](https://youtu.be/nMfPqeZjc2c), [Rain](https://youtu.be/q76bMs-NwRk)
+- `Ambient`
+    - [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
+- `Folk`
     - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
     - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
     - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
