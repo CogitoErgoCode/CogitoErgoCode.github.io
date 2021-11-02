@@ -103,7 +103,8 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
 - **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk),<br>[Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
-    - `Nocturnes:` [Op. 55, No. 1 in F minor Andante](https://youtu.be/liTSRH4fix4?t=4811), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)
+    - `Nocturnes:` [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)
+    <!-- [Op. 55, No. 1](https://youtu.be/olFHFbijAjM),  -->
 - `Beethoven:` ["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)
 - `Liszt:` [Un Sospiro](https://youtu.be/L42sbnQxEmw), [La Campanella](https://youtu.be/H1Dvg2MxQn8)
 - `Debussy:` [Clair de lune](https://youtu.be/WNcsUNKlAKw), [Arabesque](https://youtu.be/A6s49OKp6aE)
