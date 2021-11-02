@@ -21,15 +21,17 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 - `Myers–Briggs Type Indicator (MBTI):` [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
 - `Enneagram of Personality:` [5w6](https://enneagram.bz/en/5)
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
-<!-- - `Educational Objective:` M.S. Cybersecurity -->
-- [`Constructed Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+- `Language Polyglotism`
+    - `Native Language:` English
+    - `Formal Language:` [Python](https://www.python.org/)
+    - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+    - `Natural Laguage:` See Goals
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics
-- `Natural Languages:` See Goals (Below)
-- `Formal Language:` [Python](https://www.python.org/)
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
 - `Literary Genre:` [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror)
 
+<!-- - `Educational Objective:` M.S. Computer Science -->
 <!-- [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) -->
 
 <!-- - `Mystical Nonsense:`
