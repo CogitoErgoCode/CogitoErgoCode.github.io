@@ -14,7 +14,7 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a self-taught computer programmer, and life long autodidact. I enjoy cultivating a healthy balance between mind and body.
+My name is Ryan and I am a self-taught computer programmer, polymath, and life long autodidact. I enjoy cultivating a healthy balance between mind and body.
 
 <!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
 
