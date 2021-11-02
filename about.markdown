@@ -23,9 +23,9 @@ My name is Ryan and I am a self-taught computer programmer, and life long autodi
 - `Learning Philosophy:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
 - `Language Polyglotism`
     - `Native Language:` English
-    - `Formal Language:` [Python](https://www.python.org/)
+    - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
     - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
-    - `Natural Laguage:` See Goals
+    - `Natural Language:` See Goals
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
