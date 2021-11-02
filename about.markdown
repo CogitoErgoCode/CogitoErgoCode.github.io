@@ -232,7 +232,9 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
  
 -->
 
-# Miscellaneous 🜄🜓
+# Miscellaneous
+
+<!-- 🜄🜓 -->
 
 <!-- Sometimes there is silence in noise... -->
 
