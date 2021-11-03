@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- ![It's me](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
 
-\**This blog was written while listening to [Internal Flight](https://youtu.be/6lIt07sBW4E)*
+<!-- \**This blog was written while listening to [Internal Flight](https://youtu.be/6lIt07sBW4E)* -->
 
 <!-- ⚠️ I do not own any social media accounts apart from those listed here (largely inactive). -->
 
@@ -14,7 +14,7 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a self-taught computer programmer, polymath, and life long autodidact.
+My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, self-taught computer programmer, aspiring pianist, and esperantist.
 
 <!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
 
