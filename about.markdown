@@ -14,7 +14,9 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, self-taught computer programmer, aspiring pianist, and esperantist. I'm also fascinated with linguistics and enjoy reading about zeroth-order logic & solving recreational logic puzzles.
+My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, self-taught computer programmer, aspiring pianist, and esperantist.
+
+<!-- I'm also fascinated with linguistics and enjoy reading about zeroth-order logic & solving recreational logic puzzles. -->
 
 <!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
 
