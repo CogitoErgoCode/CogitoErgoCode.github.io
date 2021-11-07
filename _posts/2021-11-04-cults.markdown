@@ -1,0 +1,475 @@
+---
+layout: post
+title: "How To: Saving Your Loved Ones From The Cults"
+date: 2021-11-04 10:51:49 -0700
+categories: god bible religion cults
+published: true
+---
+
+<!-- **TL;DR:** Ctrl+F "Dichotomy" -->
+
+## **Rules of Engagement**
+
+Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by delineating a set of logical errors called [Red Herring Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies). I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. So in an effort to avoid immature drama, and illogical tangents, I will describe a few of the most relevant fallacies.
+
+> "A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
+
+- **`Argumentum ad hominem:`** An `Ad hominem` attack is an error in logic, which leads the loser of said argument, to attack the arguer instead of the argument. A very true statement (verified by the logic above) often attributed to the Greek philosopher Socrates (Irrelevant), states "When the debate is lost, slander becomes the tool of the losers." Subtypes of ad hominem include: circumstantial, poisoning the well, appeal to motive, tone policing & traitorous critic fallacy.
+
+    Simply, if anyone starts name calling or attacking the debater instead of maturely debating the topic, it is looked at as an immediate loss.
+
+    - Another closely related red herring fallacy called `Tu quoque` which is an `appeal to hypocrisy` also known as an `whataboutism`, states that a position is false, wrong, or should be disregarded because its proponent fails to act consistently in accordance with it.
+
+        Simply, if someone avoids the debate at hand by showcasing supposed hypocrisy in your life, this is also an error in their logic and an immediate fail on their part.
+
+- **`Argumentum ad passiones:`** Also known as an `appeal to emotion`, an error in logic which attempts to manipulate the emotions of the listener rather than using valid reasoning to obtain a common agreement. Subtypes of ad passiones include: fear, flattery, pity (argumentum ad misericordiam), ridicule (reductio ad ridiculum, reductio ad absurdum, ad absurdum), spite, judgmental language, Pooh-pooh & Wishful thinking.
+
+    > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
+
+    A good example would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
+
+- **`Argumentum ad verecundiam:`** An `appeal to authority` is where an assertion is deemed true because of the position or authority of the person asserting it. Subtypes of `ad verecundiam` include: Appeal to accomplishment & Courtier's reply.
+
+    I think the best example of this is the `Courtier's reply` (a criticism is dismissed by claiming that the critic lacks sufficient knowledge, credentials, or training to credibly comment on the subject matter.
+
+    Simply, if someone attacks your "lack of credentials" or credibility instead of focusing on the argument, they have lost the debate. You could also apply ad verecundiam to people who assert that they are right because they are older and "know better". *To whom it may concern, I did not use this on you, I was referring to my older age as having given me memories of a time since past, but I think it was misconstrued. Apologies for lack of clarification.*
+
+- **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
+
+    This is used a lot by the cults, especially in the witness organization. Examples will be given below.
+
+# The Laws of Thought
+
+The argument often arises, that all religions are right; however, this is not logically possible because of the laws of thought. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation. So today we will be logically deducing the truth... Since there is one.
+
+> "The **laws of thought** are fundamental axiomatic rules upon which rational discourse itself is often considered to be based. The formulation and clarification of such rules have a long tradition in the history of philosophy and logic." &mdash; [Law of thought](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
+
+The laws in question are as follows:
+
+- **`The law of identity:`** *"Whatever is, is."* For all a: a = a.
+    - The law of identity states that if a statement has been determined to be true, then the statement is true. For example, if I make a statement that 'It is snowing,' and it is the truth, then the statement must be true. If we look at the law of identity in more general terms, it says that each thing that exists is made up of its own particular characteristics that are a part of what it is.
+
+        > If a propositional function F is true of an individual variable x, then F is true of x, or: F(x) ⊃ F(x), in which ⊃ means “formally implies.” Another formulation of the principle of identity asserts that a thing is identical with itself, or (∀x) (x = x), in which ∀ means “for every”; or simply that x is x. &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
+
+        When you apply this to logic, the law of identity essentially means that everything is itself and it cannot be something else. Snow cannot be clouds, and water cannot be a pole. Each thing is something specific that has a particular identity. So when I say that it is snowing, snowing refers to a particular event. Given that 'snowing' refers to a specific thing, if I make this statement while it is actually snowing, then it must be a true statement.
+
+- **`The law of non-contradiction:`** *"Nothing can both be and not be."* In other words: "two or more contradictory statements cannot both be true in the same sense at the same time": ¬(A∧¬A). Esentially, Two truths cannot contradict one another. Aristotle stated it in this way, that "The most certain opinion of all" was "that opposed statements cannot be at the same time true."
+    - On the other hand, for any pair of contradictory premises, one must be true and the other false. The Law of Non-Contradiction prevents both premises being true, while the Law of Excluded Middle points out that a pair of contradictory premises exhausts all possibilities. 
+
+        > For all propositions p, it is impossible for both p and not p to be true, or: ∼(p · ∼p), in which ∼ means “not” and · means “and.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
+        
+        Another way of putting it is: a proposition must be either true or false—not both true and false, nor in some limbo state in between truth and falsity. This can be useful in listing all possible alternatives and refuting all of them but the correct one.
+
+- **`The law of excluded middle:`** *"Everything must either be or not be."* for every proposition, either its positive or negative form is true: A∨¬A.
+
+    - A principle in modern logic that means something is either true or it is false. There is no "middle" between true and false. In classical logic, this principle for a proposition A would be A∨¬A. Its opposite is dialetheism. 
+
+        > Either p or ∼p must be true, there being no third or middle true proposition between them, or: p ∨ ∼p, in which ∨ means “or.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
+
+<!-- ## **A Brief History of Textual Criticism**
+
+It's important that you understand, at least, basic concepts about the Bible if you are going to engage the cults who have modified it in some way, shape or form. There are many perpetuated misconceptions about the bible, so let's delve deeper into this topic. 
+
+The Bible was written over a long period of time by 40 authors over a period of nearly 1,500 years, Scripture is comprised of 66 books—39 in the Old Testament and 27 in the New. 
+
+- The Old Testament is often divided into three sections: 
+    1. `The Pentateuch:` referred to as “The Law” and includes the first five books of the Bible.
+    2. `The Prophets:` all the major and minor prophetic writings.
+    3. `The Writings:` Psalms, Proverbs, and a number of other books.
+
+- The New Testament is also divided into three segments
+    1. `The Gospels:` Matthew, Mark, Luke, & John.
+    2. `Church History:` Acts.
+    3. `The Apostolic Writings:` everything else.
+
+# Old Testament Textual Basis
+
+According to scholar John R. Kohlenberger III, The Old Testament is written in the language of ancient Israel: most of its contents are in Hebrew, but two sections (Ezra 4:8-6:18; 7:12-26; Daniel 2:4b-7:28) and one verse (Jeremiah 10:11) are in Aramaic, a related language used in international communication when these books were written.
+
+> "All OT manuscripts were copied by hand until the invention of the printing press in the fifteenth century, therefore no two manuscripts are identical. However, there is not as much controversy about the underlying text of the OT as there is in the NT, because most English translations are still based on the traditional Masoretic text, named for the Masoretes, the guild of scribes that safeguarded and copied the text in the middle ages. And the Masoretic type of texts are remarkably similar, though not verbally identical." &mdash; John R. Kohlenberger III
+
+# New Testament Textual Families
+
+- **`Alexandrian Text-Type:`**
+- **`Byzantine Text-Type:`**
+- **`Western Text-Type:`**
+
+# Three Competing Theories
+
+- **`Textus Receptus:`** Latin for “Received Text,” is a Greek New Testament that provided the textual base for the vernacular translations of the Reformation Period. It was a printed text, not a hand-copied manuscript, created in the 15th century to fill the need for a textually accurate Greek New Testament.
+- **`Majority Text:`**
+- **`The Critical Text:`**
+
+# The Need for Textual Criticism of the New Testament
+    
+In the words of Daniel B. Wallace, Ph.D. & Director of the Center for the Study of the New Testament Manuscripts: "One of the most controversial issues in Bible translation today involves the underlying text. This is not new: it has been a matter of contention since the days of Jerome's Vulgate... Further, our confidence in what the NT originally said must be tempered by the fact that no original text of the twenty-seven documents that comprise our NT still exists. NT textual criticism is necessary because of these two facts: disagreements among the MSS and disappearance of the autographs."
+
+> "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
+
+**According to scholars, the jectural emendation (suggested wording that is not based on any MS data) is unnecessary: we have the words of the original text *somewhere* among the existing MSS.**
+
+# The New Testament Documents Are ~99% Textually Pure
+
+Scholars also agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent!
+
+> "99.8% of textual variants affect nothing, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because no essential doctrine is jeopardized by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
+
+> “The interval, then, between the dates of original composition and the earliest extant evidence becomes so small as to be in fact negligible, and the last foundation for any doubt that the Scriptures have come down to us substantially as they were written has now been removed. Both the authenticity and the general integrity of the books of the New Testament may be regarded as finally established.” &mdash; Sir Frederic Kenyon (former director and principal librarian of the British Museum) -->
+
+# A Brief History of the "Jehovah's" Witnesses
+
+In the year 1870, an 18 year old teenager, Charles Taze Russell attended church and found himself unable to accept sound scholarship. He denied the truths found in the Bible, such as: Hell, The doctrine of the Trinity, the deity of Christ. So he organized a Bible study in Pittsburgh, where he began to share his unorthodox beliefs with others, this Bible study grew and the group eventually made him their pastor. 
+
+By 1879, Charles Russell and his followers believed the Second Coming of Christ had already happened invisibly in 1874. And they declared that to be the case for 40 years. The followers of his teachings have since changed the date of Christ’s invisible coming to 1914. 
+
+Around 1908, Russell falsely prophesied that the year 1914 would be the year Armageddon would begin in which God would destroy all human governments and establish His kingdom on the Earth. Of course, Armageddon never quite materialized in 1914, 1915, 1918, or any of the other years Jehovah’s Witness leaders said it would occur. Charles Russell died in 1916, a failed prophet.
+
+Despite the false prophecies, the Watchtower Society has grown into one of the largest, most influential cults of our time.
+
+# The Witnesses Have Zero Scholarship In Their Translations
+
+Whereas Christian Bibles have thousands of verifiable scholars, professors, and doctorates in linguistics, semitic languages, biblical hebrew and biblical greek; the cults have taken authentic Christian works, and twisted it to comply with their false doctrine. The book the Witnesses use is called the the New World Translation (NWT), this false rendering of the Bible was produced by the New World Bible Translation Committee in 1947. 
+
+> "as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which **untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.**" &mdash; 2 Peter 3:16
+
+This committee is said to have comprised **unnamed members** of multinational background. The committee **requested that the Watch Tower Society not publish the names of its members**, The publishers believe that "the particulars of [the New World Bible Translation Committee's members] university or other educational training are not the important thing" and that "the translation testifies to their qualification". Since this entire article is about the many egregious errors found within the false work, I'd say the word used should have been "disqualification".
+
+> "**Study to shew thyself approved** unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth." &mdash; (2 Timothy 2:15)
+
+Former high-ranking Watch Tower staff have identified various members of the translation team. Former governing body member Raymond Franz listed Nathan H. Knorr, Fredrick W. Franz, Albert D. Schroeder, George D. Gangas, and Milton G. Henschel as members of the translation team, adding that only Frederick Franz had sufficient knowledge in biblical languages. Referring to the identified members, Dr. Walter Ralston Martin said, **"The New World Bible translation committee had no known translators with recognized degrees in Greek or Hebrew exegesis or translation... None of these men had any university education except Franz, who left school after two years, never completing even an undergraduate degree."** 
+
+<!-- *Source(s): [1](https://en.wikipedia.org/wiki/New_World_Translation_of_the_Holy_Scriptures#Translators)* -->
+
+# The Witnesses Are False Prophets Since The Late 1800's
+
+The Bible clearly defines how to identify a false prophet. A true prophet of God won’t err in prophesying. Only a false prophet does. The Jehovah’s Witness organization, that claims to be a prophet of God, is really a false prophet. Jesus warned us by saying, *“For false Christs and false prophets will appear and perform great signs and miracles to deceive even the elect–if that were possible”* &mdash; Matthew 24:24.
+
+> "And if you say in your heart, ‘How shall we know the word which the Lord has not spoken?’— when a prophet speaks in the name of the Lord, **if the thing does not happen or come to pass**, that is the thing which the Lord has not spoken; the prophet has spoken it presumptuously; you shall not be afraid of him." &mdash; Deuteronomy 18:21-22 NKJV
+
+In 1972 the Jehovah’s Witness Watchtower claimed to be the prophet of God. So all we have to do is find instances of what they prophesied, not coming to pass! This is shocking, **this particular cult has debunked itself** as far back as the late 1800's, only a hand full of years after its founding.
+
+> IDENTIFYING THE “PROPHET”–“So does Jehovah have a prophet to help them, to warn them of dangers and to declare things to come? These questions can be answered in the affirmative. Who is this prophet? . . . This “prophet” was not one man, but was a body of men and women. It was the small group of footstep followers of Jesus Christ, known at that time as International Bible Students. Today they are known as Jehovah’s Christian Witnesses . . . Of course, it is easy to say that this group acts as a ‘prophet’ of God. It is another thing to prove it,” (Watchtower,  Apr. 1, 1972, p. 197). (See Deut. 18:21.)
+
+- **`1897`** “Our Lord, the appointed King, is now present, since October 1874,” (Studies in the Scriptures, vol. 4, p. 621).
+- **`1899`** ” . . . the ‘battle of the great day of God Almighty’ (Revelation 16:14), which will end in A.D. 1914 with the complete overthrow of earth’s present rulership, is already commenced,” (The Time Is at Hand, 1908 edition, p. 101).
+- **`1916`** “The Bible chronology herein presented shows that the six great 1000 year days beginning with Adam are ended and that the great 7th Day, the 1000 years of Christ’s Reign, began in 1873,” (The Time Is at Hand, forward, p. ii).
+- **`1918`** “Therefore we may confidently expect that 1925 will mark the return of Abraham, Isaac, Jacob and the faithful prophets of old, particularly those named by the Apostle in Hebrews 11, to the condition of human perfection,” (Millions Now Living Will Never Die, p. 89).
+- **`1922`** “The date 1925 is even more distinctly indicated by the Scriptures than 1914,” (Watchtower, Sept. 1, 1922, p. 262).
+- **`1923`** “Our thought is, that 1925 is definitely settled by the Scriptures. As to Noah, the Christian now has much more upon which to base his faith than Noah had upon which to base his faith in a coming deluge,” (Watchtower, Apr. 1, 1923, p. 106).
+- **`1925`** “The year 1925 is here. With great expectation Christians have looked forward to this year. Many have confidently expected that all members of the body of Christ will be changed to heavenly glory during this year. This may be accomplished. It may not be. In his own due time, God will accomplish his purposes concerning his people. Christians should not be so deeply concerned about what may transpire this year,” (Watchtower, Jan. 1, 1925, p. 3).
+- **`1925`** “It is to be expected that Satan will try to inject into the minds of the consecrated, the thought that 1925 should see an end to the work,” (Watchtower, Sept. 1925, p. 262).
+- **`1926`** “Some anticipated that the work would end in 1925, but the Lord did not state so. The difficulty was that the friends inflated their imaginations beyond reason; and that when their imaginations burst asunder, they were inclined to throw away everything,” (Watchtower, p. 232).
+- **`1931`** “There was a measure of disappointment on the part of Jehovah’s faithful ones on earth concerning the years 1917, 1918, and 1925, which disappointment lasted for a time . . . and they also learned to quit fixing dates,” (Vindication, p. 338).
+- **`1941`** “Receiving the gift, the marching children clasped it to them, not a toy or plaything for idle pleasure, but the Lord’s provided instrument for most effective work in the remaining months before Armageddon,” (Watchtower, Sept. 15, 1941, p. 288).
+- **`1968`** “True, there have been those in times past who predicted an ‘end to the world’, even announcing a specific date. Yet nothing happened. The ‘end’ did not come. They were guilty of false prophesying. Why? What was missing? . . . Missing from such people were God’s truths and evidence that he was using and guiding them,” (Awake, Oct. 8, 1968).
+- **`1968`** “Why are you looking forward to 1975?” (Watchtower, Aug. 15, 1968, p. 494).
+
+*Source(s): [2](https://carm.org/jehovahs-witnesses/jehovahs-witnesses-and-their-many-false-prophecies/)*
+
+# The Mistransliteration 'Jehovah' Was Never Used By The Jews
+
+Jehovah’s Witnesses insist that God’s name (YHWH in the ancient Hebrew manuscript copies of the Old Testament) is supposed to be pronounced “Jehovah.” So persuaded are they about this, they believe they are the only church (organization) who has God’s favor, because they are the only ones who consistently call God by this name. Yet, Jewish and Christian scholars, who are thoroughly familiar with the Old Testament Hebrew language and how to pronounce Hebrew words, make it clear that the Hebrew word YHWH is more accurately pronounced “Yahweh” (Yaw-Way) rather than “Jehovah”.
+
+> "The origin of the word Jehovah can be traced to the late Middle Ages (around the year 1500), when Jewish scribes began inserting the vowels from the Hebrew word adonai (“my Lord”) into the name YHWH. The insertion resulted in the hybrid term YaHoWaH. Scribes wanted this **new word** to remind readers that God’s name was too holy to pronounce, so they should substitute adonah for it when reading biblical passages aloud. Then, when the term YaHoWaH was Latinized, the “Y” and “W” were changed to “J” and “V”—resulting in Jehovah. In other words, **Jehovah is a mistransliteration**, compounded by the fact that, while “J” has a “Y” sound in Latin, it has a very different sound in English—as in the word jam. **Jehovah appears in no literature earlier than about the thirteenth century, and it began to be popularized in the sixteenth century by well-meaning but mistaken Christians.** &mdash; Richard Abanes (The Truth Behind the Da Vinci Code, p. 19, 83)"
+
+Here is what other scholars say about the name or pronunciation “Jehovah”: 
+
+- **`The Jewish Encyclopedia:` “Jehovah” — a mispronunciation of the Hebrew YHWH the name of God. This pronunciation is grammatically impossible. The form ‘Jehovah’ is a philological impossibility.”**
+- `The New Jewish Encyclopedia:` “It is clear that the word Jehovah is an artificial composite.”
+- `Encyclopedia Judaica:` “the true pronunciation of the tetragrammaton YHWH was never lost. The name was pronounced Yahweh. It was regularly pronounced this way at least until 586 B.C., as is clear from the Lachish Letters written shortly before this date.”
+- `The Universal Jewish Encyclopedia:` “JEHOVAH is an erroneous pronunciation of the Tetragrammaton a four lettered name of God, made up of the Hebrew letters Yod He Vav He. The word “JEHOVAH” therefore is a misreading for which there is no warrant and which makes no sense in Hebrew”
+- `Webster’s Collegiate Dictionary:` “Jehovah” — “False reading of the Hebrew YAHWEH.”
+- `Encyclopedia Americana:` “Jehovah” — “erroneous form of the name of the God of Israel.”
+- `A Dictionary of the Bible by William Smith:` “Whatever, therefore, be the true pronunciation of the word, there can be little doubt that it is not Jehovah.”
+- `Encyclopedia Britannica:` “The pronunciation ‘Jehovah’ is an error resulting among Christians from combining the consonants YHWH with the vowels of ADHONAY….The Masoretes who from the 6th to the 10th century worked to reproduce the original text of the Hebrew Bible replaced the vowels of the name YHWH with the vowel signs of Adonai or Elohim. Thus the artificial name Jehovah came into being.”
+- **`Webster’s Third New International Dictionary:`** “Jehovah” — “Intended as a transliteration of Hebrew YAHWEH, the vowel points of Hebrew ADHONAY (my lord) being erroneously substituted for those of YAHWEH; from the fact that in some Hebrew manuscripts the vowel points of ADHONAY (used as a euphemism for YAHWEH) were written under the consonants YHWH of YAHWEH to indicate that ADHONAY was to be substituted in oral reading for YAHWEH. Jehovah is a Christian transliteration of the tetragrammaton long assumed by many Christians to be the authentic reproduction of the Hebrew sacred name for God but **now recognized to be a late hybrid form never used by the Jews.**”
+- `New Catholic Encyclopedia:` “Jehovah” — “false form of the divine name YAHWEH.”
+- `The New Schaff-Herzog Encyclopedia:` “Jehovah” — “is an erroneous form of the divine name of the covenant God Israel.”
+- `The Interpreter’s Dictionary of the Bible:` “Jehovah” — “is an artificial form.”
+- `Encyclopedia International:` “Jehovah” —”the vowels of one word with the consonants of the other were misread as ‘Jehovah.'”
+- `Merits Students Encyclopedia:` — “is an inaccurate reconstruction of the name of God in the Old Testament.”
+- `Encyclopedia Judaica:` “YHWH” — “When Christian scholars of Europe first began to study Hebrew, they did not understand what this really meant, and they introduced the hybrid name ‘Jehovah’…THE TRUE PRONUNCIATION OF THE NAME YHWH WAS NEVER LOST. Several early Greek writers of the Christian church testify that the name was pronounced ‘YAHWEH.’ This is confirmed, at least for the vowel of the first syllable of the name, by the shorter form Yah, which is sometimes used in poetry (e.g. Exodus 15:2)… The personal name of God of Israel is written in the Hebrew Bible with the four consonants YHWH and is referred to as the ‘Tetragrammaton.’ At least until the destruction of the First Temple in 586 B.C.E. this name was regularly pronounced with its proper vowels, as is clear from the Lachish Letters, written shortly before that date.”
+- `Nelson’s Bible Dictionary:` “Jehovah” — “The divine name Yahweh is usually translated Lord in English versions of the Bible, because it became a practice in late Old Testament Judaism not to pronounce the sacred name YHWH, but to say instead “my Lord” (Adonai) – a practice still used today in the synagogue. When the vowels of Adonai were attached to the consonants YHWH in the medieval period, the word Jehovah resulted. Today, many Christians use the word Yahweh, the more original pronunciation, not hesitating to name the divine name since Jesus taught believers to speak in a familiar way to God.”
+- `Dr. Ron Rhodes (Christian apologist and author):` “If the Jehovah’s Witnesses are correct that God must always be called by the name Jehovah, then Jesus was way out of line, for He never used this name when referring to the Father.” [Ron Rhodes, The Ten Most Important Things You Can Say to a Jehovah’s Witness, p. 36]
+
+    Ron goes on to explain that even though the Bible the Watchtower Society publishes (The New World Translation) puts the word “Jehovah” in Jesus’ mouth in their New Testament, the word “Jehovah” does not occur a single time in any legitimate manuscript copy of the New Testament.
+
+<!-- As you can see quite plainly, you can't remove a word that never existed in the NT manuscripts, or ever was used by the Jews! (According to Websters, a secular source, so there is no bias), Whenever you see LORD in all caps, that is YHWH, a practice still used in the synagogue today.  -->
+
+*Source(s): [3](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/)*
+
+# Unbiblical Teachings of The Witnesses
+
+1. **`Jehovah’s Witnesses teach that Jesus is a created, angelic being, inferior to God the Father.`**
+
+    - `Yet, God the Father calls Jesus “God.”`
+        - Hebrews 1:8
+            > “But to the Son He [God the Father] says: **‘Your throne, O God, is forever and ever; A scepter of righteousness is the scepter of Your Kingdom.’**”
+
+        - Psalm 45:6
+            > "Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness;"
+
+    - `Jesus calls himself God`
+        - John 8:58-59
+            > “Jesus said to them, “Most assuredly, I say to you, before Abraham was, **I AM**.” Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.”
+
+        - Exodus 3:14
+            > "And God said to Moses, **“I AM WHO I AM.”** And He said, “Thus you shall say to the children of Israel, ‘**I AM** has sent me to you.’”
+
+    - `Like God (Gen. 1:1), Jesus created`
+
+        - John 1:3
+        > “All things were made through Him, and without Him nothing was made that was made.”
+
+        - Colossians 1:16-17
+        > “For by Him [See context. This is speaking of Jesus] all things were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through Him and for Him. And He is before all things, and in Him all things consist.”
+
+        - Yet God says (Isaiah 44:24)
+        > “I am the [LORD [YHWH "Yahweh"]](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), who makes all things, who stretches out the heavens all alone, who spreads abroad the earth by Myself”
+
+    - `Angels & men worship Jesus as God`
+
+        - Hebrews 1:6
+        > “But when He again brings the firstborn [JESUS] into the world, He says: “Let all the angels of God worship Him.”
+
+        - Revelation 5:13
+        > “And every creature which is in heaven and on the earth and under the earth and such as are in the sea, and all that are in them, I heard saying: “Blessing and honor and glory and power be to Him who sits on the throne, and to the Lamb, forever and ever!”
+
+        - Matthew 14:32-33
+        > “And when they got into the boat, the wind ceased. Then those who were in the boat came and worshiped Him, saying, “Truly You are the Son of God.” (also see Matthew 28:9, 17, John 9:37-38)
+        
+        Jesus never rebuked any Angel or any of His followers for worshiping Him and yet worship of anything or anyone other than God is absolutely forbidden in the Bible ...
+
+        - Luke 4:8
+        > “And Jesus answered and said to him, “Get behind Me, Satan! For it is written, ‘You shall worship the Lord your God, and Him only you shall serve.’”
+
+    - `The Apostles & Ante-Nicene Fathers call Jesus God`
+        - The Apostle Thomas called Jesus “God.” (John 20:27-29)
+            > Then He [Jesus] said to Thomas, “Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing.” And Thomas answered and said to Him, “My Lord and my God!” Jesus said to him, “Thomas, because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed.”
+        - The Apostle Peter called Jesus “God.” (2 Peter 1:1)
+            > “Simon Peter, a bond-servant and apostle of Jesus Christ, to those who have received a faith of the same kind as ours, by the righteousness of our God and Savior, Jesus Christ”
+        - The Apostle Paul called Jesus “God.” (Titus 2:12b-14)
+            > “…we should live soberly, righteously, and godly in the present age, looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ, who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.”
+        - The Apostle John called Jesus “God.” (John 1:1-3,14)
+            > “In the beginning was the Word, and the Word was with God, and the Word was God...”
+        - Ignatius, student of the Apostle John (Epistle of Ignatius)`
+            > "...and elected through the true passion by the will of the Father, and Jesus Christ, our God..."
+
+    - `The Jews who crucified Jesus understood Him to be saying that He was equal with God.`
+        - John 5:18
+            > “Therefore the Jews sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father, **making Himself equal with God.**”
+        - John 10:33
+            > “The Jews answered Him, saying, “For a good work we do not stone You, but for blasphemy, and **because You, being a Man, make Yourself God.**”
+
+    **Q**: So what brings the Witnesses to believe contrary to what The Bible teaches and what The Father, Jesus (The Son), The Apostles, Ante-Nicene Fathers, and the Jews, all say? 
+    
+    **A:** You guessed it, a combination of non-existent scholarship and faulty logic. Let's examine the only verse they use to go against all the aforementioned facts.
+
+    - 1 Thessalonians 4:16
+        > "For the Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first."
+
+        - The witness will say, "See, Jesus' voice is the voice of the archangel." As you can see, this is really weak. If we apply the same logic consistently in this verse, Jesus must also be God, because His trumpet blast is the trumpet blast of God. Instead we find that this is saying neither, this is metaphorical. This faulty logic not only breaks the law of non-contradiction, but also the law of excluded middle, and identity. In other words, this type of thinking, on the part of the witness, is so illogical as to break all 3 of the laws of thought.
+
+        - They also somehow assume "an archangel" is Michael. Not only is this never stated anywhere in the bible, but they add insult to injury by attempting to point out the unrelated verse of Jude 1:9 which, according only to them, means that there is only one archangel, because it's only ever used in the singular "the archangel".
+
+            Firstly this is also extremely bad logic, not only does the Bible state in Daniel 10:13 that Michael is only "one of the chief princes," but the Bible also uses the term "the coppersmith" when referring to Alexander the coppersmith in 2 Timothy 4:14. Using the same erroneous logic of the witnesses, we would arrive at the false conclusion that there is only one such tradesman, since the term "coppersmith" only ever occurs in the Bible in the singular, never plural. Other examples would be "Simon the Zealot" in luke 6:15; Acts 1:3, "Simon the Leper" in Matthew 26:6, "Simon the Tanner" in Acts 10:32.
+
+            So according to the Witnesses there is only 1 Coppersmith, 1 Zealot, 1 Leper, & 1 Tanner...
+
+        - We have also, already learned that Jesus created all things, so did he create himself? No, Jesus is the Creator.
+
+    ***Conclusion: Jesus is God made manifest in the Flesh.***
+
+2. **`Jehovah’s Witnesses deny that Jesus rose bodily from the grave.`**
+
+    - `Yet, Jesus says the opposite`
+        - Luke 24:36-39
+        > "Now as they said these things, Jesus Himself stood in the midst of them, and said to them, “Peace to you.” But they were terrified and frightened, and supposed they had seen a spirit. And He said to them, “Why are you troubled? And why do doubts arise in your hearts? **Behold My hands and My feet, that it is I Myself. Handle Me and see, for a spirit does not have flesh and bones as you see I have.**”
+
+            The cults make the same mistake as the startled Apostles, before Jesus corrects them. I've always wondered why the witnesses simply don't read the rest of the passage. Taking things out of context forms a pretext.
+
+        - John 20:27
+        > "Then He said to Thomas, “Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing.”
+
+    - `Jesus prediction is fulfilled`
+        - John 2:19
+        > "Jesus answered and said to them, “Destroy this temple [referring to His body, v. 21], and in three days I will raise it up.”"
+    
+    ***Conclusion: Jesus rose bodily***
+
+3. **`Jehovah’s Witnesses teach that Jesus’ Second Coming occurred spiritually and invisibly in 1914.`**
+
+    - `Yet, the Bible preaches that the entire world will see this event`
+        - Revelation 1:7
+        > "Behold, He is coming with clouds, **and every eye will see Him**, even they who pierced Him. And all the tribes of the earth will mourn because of Him. Even so, Amen."
+
+        - Matthew 24:27
+        > "**For as the lightning** comes from the east and flashes to the west, so also will the coming of the Son of Man be.”
+
+    - `Jesus warned us about the Jehovah's Witnesses directly`
+        - Matthew 24:23-27
+        > 23 “Then if anyone says to you, ‘Look, here is the Christ!’ [pointing to some person] or ‘There!’ do not believe it. 24 For false christs and false prophets will rise and show great signs and wonders to deceive, if possible, even the elect. 25 See, I have told you beforehand. 26 “Therefore if they say to you, ‘Look, He is in the desert!’ do not go out; or **‘Look, He is in the inner rooms!’ [i.e., somewhere you can’t see Him visibly] do not believe it.** 27 For as the lightning comes from the east and flashes to the west, so also will the coming of the Son of Man be.”
+
+    - Interesting to note, that most witnesses are unaware of the fact that they've been lied to. Origially this cult claimed the date to be 1897. See section *'The Witnesses Are False Prophets Since The Late 1800’s'* above.
+        > **`1897`** “Our Lord, the appointed King, is now present, since October 1874,” (Studies in the Scriptures, vol. 4, p. 621).
+
+    **Q:** Did every eye see Jesus come back in 1914? No. Did any eye see Jesus come back in 1914? No. The Watchtower tries to get out of the clear implications of this verse (Rev. 1:7) by saying: ‘The eyes spoken of here speak of eyes of understanding….Those who had spiritual eyes to understand this is what took place in 1914, realize that Jesus did came back.’ (see You Can Live Forever in Paradise on Earth, p. 146)
+
+    **A:** That is an incorrect interpretation of Revelation 1:7. The word “eye” (Rev. 1:7) is the Greek word “ophthalmos.” That is the same Greek word used for the literal physical eyes of the blind people Jesus healed (e.g., Matthew 20:34). The word “every” (Rev. 1:7) is the Greek word “pas” and it means just what it says: “every” or “all.” 
+
+    ***Conclusion: Jesus will return physically. The Second Coming is not going to be some mysterious, secret coming. The whole world will witness it.***
+
+4. **`Jehovah’s Witnesses claim only a special group of 144,000 Jehovah’s Witnesses will be able to go to Heaven.`** 
+
+    According to the Watchtower, that number filled up in 1935, and if you were not around in or prior to that date, you will never go to Heaven. They also teach that the rest of the Witnesses will remain unconscious after they die until they are resurrected to spend eternity on a paradise Earth apart from Jesus who will remain in Heaven with the 144,000. 
+    
+    Nowhere does the Bible limit Heaven’s capacity to 144,000 persons. The Bible teaches that all those who put their faith in Jesus Christ will have everlasting life in the presence of the Lord.
+
+    - `Let's go to the source instead of the cults; who better to ask than Jesus himself?`
+        - John 12:26a
+        > “If anyone serves Me, let him follow Me; and where I am, there My servant will be also.”
+
+            According to Jesus’ words here in John 12:26, if you serve Him, if you are one of His followers, you will be “where” He is! 
+            
+    - ***Q&A:*** `Where is Jesus?`
+        - John 14:2-4
+        > “In My Father’s house are many mansions; if it were not so, I would have told you. **I go to prepare a place for you**. And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also.”
+
+    Another way of verifying that there will be far more than 144,000 people in Heaven can be found in Revelation 7. In Revelation 7, John gets a glimpse into a **future** scene in Heaven.
+    
+    - `I want you to notice how many people John sees`
+        - Revelation 7:9-10
+        > “After these things I looked, and behold, **a great multitude which no one could number** of all nations, tribes, peoples, and tongues, **standing before the throne** and before the Lamb, clothed with white robes, with palm branches in their hands, and crying out with a loud voice, saying, ‘Salvation belongs to our God who sits on the throne, and to the Lamb!'”
+
+    - ***Q&A:*** `Where is the throne?` <br>
+    This massive uncountable number is **NOT** standing on a “paradise Earth”; they are standing in Heaven “before the throne” (Revelation 7:9).
+
+    <br>
+    The Watchtower justifies their unbiblical teaching regarding the 144,000 by misinterpreting what the Book of Revelation says about the 144,000 persons whom God will seal during the great tribulation (12,000 from each of the 12 tribes of Israel, Rev. 7:4-8). One of the problems for the Watchtower, regarding their interpretation, is that a careful reading of the Bible reveals that the 144,000 will be:
+
+    - Jewish (Revelation 7:4)
+    > "And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes **of the children of Israel** were sealed"
+
+    - Male & Virgins (Revelation 14:4)
+    > "These are the ones who were not defiled with women, for they are **virgins**. These are the ones who follow the Lamb wherever He goes. These were [a]redeemed from among **men**, being firstfruits to God and to the Lamb."
+
+    So, not only are the 144,000 Jewish, they are male Jews. And not only are they male Jews. They are male virgins (as the context here in Revelation 14 implies)! This completely rules out the married men and women (non-virgins) who are part of the Watchtower and who consider themselves to be some of the few remaining 144,000. 
+
+    ***Conclusion: All nations, tribes, peoples, and tongues (Rev. 7:9) are the Church. The 144,000 are a special group of Jews on earth during the tribulation hour, a time period where the church is safely raptured away into heaven to escape the tribulation.***
+
+5. **`Jehovah’s Witnesses deny the existence of a literal Hell that is the ongoing place of punishment for the wicked.`**
+
+    The Watchtower teaches that God will annihilate non-Jehovah’s Witnesses and they will simply cease to exist. This teaching is known as annihilationism. Annihilationism is another false doctrine that contradicts the Bible. The Bible teaches that the suffering of those who end up in Hell will be without end. This is made clear in the following passages:
+
+    - Revelation 19:11-14
+    > "Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. His eyes were like a flame of fire, and on His head were many crowns. He had a name written that no one knew except Himself. He was clothed with a robe dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses."
+
+    At the end of the Tribulation, Jesus returns to the Earth on a white horse (Revelation 19:11, 14). Immediately following His coming to the Earth, the Antichrist and the false prophet “are thrown alive into the lake of fire” (Revelation 19:20).
+
+    - Revelation 19:20
+    > "Then the beast was captured, and with him the false prophet who worked signs in his presence, by which he deceived those who received the mark of the beast and those who worshiped his image. **These two were cast alive into the lake of fire burning with brimstone**."
+
+    Following this, Jesus sets up His kingdom on the Earth and rules and reigns for a thousand years. This is spoken about in Revelation chapter 20 and elsewhere. But I want you to notice what happens at the end of the thousand year reign of Christ. Revelation 20:10 says:
+
+    - Revelation 20:10
+    > "The devil, who deceived them, was cast into the lake of fire and brimstone **where the beast and the false prophet are**. And **they** will be **tormented day and night forever and ever**."
+
+    The coming Antichrist and the false prophet are thrown into the lake of fire right at the beginning of the thousand year reign of Christ. Then at the end of the thousand year reign of Christ, the devil is thrown into the lake of fire. Now, here’s the important thing to notice: The Antichrist and the false prophet are still there!
+
+    So, it says “They will be tormented”—not just the devil, but THEY, referring to all three of them: the devil, the Antichrist and the false prophet. They will be tormented day and night forever and ever. The “lake of fire” does not annihilate anybody. And here’s the sobering truth. The Bible teaches that all who reject God’s offer of reconciliation will end up in that very place. The unsaved are going to the very place the Antichrist, the false prophet, and the devil will go: the lake of fire. 
+
+    - Revelation 20:15
+    > "And anyone not found written in the Book of Life was cast into the lake of fire."
+
+    Here is the sobering truth and description of this reality.
+
+    - Revelation 14:10-11
+    > "he himself shall also drink of the wine of the wrath of God, which is poured out full strength into the cup of His indignation. He shall be **tormented with fire and brimstone** in the presence of the holy angels and in the presence of the Lamb. 11 And **the smoke of their torment ascends forever and ever; and they have no rest day or night**, who worship the beast and his image, and whoever receives the mark of his name.”
+
+    - Matthew 25:41,46
+    > “Then He will also say to those on the left hand, ‘Depart from Me, you cursed, into the **everlasting fire** prepared for the devil and his angels:"... "And these will go away into **everlasting punishment**, but the righteous into eternal life.”
+
+    ***Conclusion: Just as a Christian’s “everlasting” life (John 3:16) is going to go on through eternity, so too will the punishment of the unsaved. This is one of the reasons it’s so important that people turn to Jesus and be reconciled to God before the Day of Judgment.***
+
+6. **`Jehovah’s Witnesses deny that salvation is by grace alone through faith alone.`**
+
+    According to the Watchtower cult there is no salvation outside of the organization. The Watchtower cult also teaches that you must belong to their organization and be faithful and active in what they call “kingdom work,” which for them is mainly door-to-door ministry (see You Can Live Forever in Paradise on Earth, p. 250ff).
+
+    The Bible teaches that salvation cannot be earned or merited. Over and over again the Bible teaches that salvation is God’s “free gift” (Romans 6:23) to those who put their faith in Jesus Christ.
+
+    - `The Bible clearly rejects a works-based salvation.`
+        - Romans 6:23
+        > "For the wages of sin is death, but the **free gift** of God is eternal life in Christ Jesus our Lord.
+
+        - Ephesians 2:8-9
+        > “For **by grace** you have been saved **through faith**, and that **not of yourselves**; it is the **gift** of God, **not of works**, lest anyone should boast.”
+
+        - Romans 3:28
+        > “Therefore we maintain that a man is justified [declared righteous by God] by faith **apart from the works** of the law.”
+
+        - Romans 10:9
+        > “If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved.”
+
+    ***Conclusion: God has graciously done all the work necessary to secure salvation for us. Jesus died on the cross in our place for our sins. He rose from the grave the third day. And all a person needs to do to receive everlasting life is place their faith in Him.***
+
+7. **`Jehovah’s Witnesses teach that upon death, a person’s soul goes into an unconscious state of sleep until the time of the resurrection.`**
+
+    This is an incorrect, unbiblical doctrine known as “soul-sleep.” The Bible teaches that those who have died are conscious. Read the story of Lazarus and the rich man in Luke 16. Both of them––Lazarus (the righteous man) and the rich man (who was unrighteous)––were conscious after death. The Bible does teach that when a person dies their body is laid to sleep (1 Thess. 4:14) but the Bible teaches that the spirit of the person remains conscious. The unsaved go to Hades (Luke 16) to await the resurrection (John 5:29) and the judgment of the wicked that occurs at the end of the 1,000 year reign of Christ (Revelation 20:5-15).
+
+    - `The saved person who dies goes immediately into the presence of God.`
+        - 2 Corinthians 5:8
+        > “We are confident, yes, well pleased rather **to be absent from the body and to be present [where?] with the Lord**.”
+
+    - `A believer who dies goes into the presence of the Lord.`
+        - Philippians 1:21-23
+        > “For to me, to live is Christ, and to die is gain. But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell. For I am hard pressed between the two, having **a desire to depart [Where to? Into the ground until the resurrection? No.] and be with Christ**, which is far better.”
+
+    - `Jesus told the repentant thief on the cross`
+        - Luke 23:43
+        > “Assuredly, I say to you, today you will be with Me [where?] in Paradise”. 
+        
+            Where is Paradise? Revelation 2:7 tells us that Paradise is in the presence of God.  
+            
+    ***Conclusion: Soul sleep is an unbiblical doctrine.***
+
+8. **`Jehovah’s Witnesses deny Jesus died on a cross and say the cross is a pagan religious symbol that was adopted by the church years later.`**
+
+    The Watchtower scoffs at the belief that Jesus died on a cross. Jehovah’s Witnesses are taught that it was not a cross Jesus was hung upon but an upright post with no crossbeam—something they call a “torture stake” in the Watchtower’s edition of the Bible (The New World Translation). Jehovah’s Witnesses are taught to abhor the cross and new converts are expected to destroy any crosses they have rather than simply dispose of them. 
+
+    - `Yet, the Apostles describe a cross`
+        - John 20:25
+        > “The other disciples therefore said to him [Thomas], ‘We have seen the Lord.’ So he said to them, ‘Unless I see in His **hands** the print of the  [What?] **nails**, and put my finger into the print of the **nails**, and put my hand into His side, I will not believe.'”
+
+            Thomas, having heard how Jesus was crucified, says here that he wanted to see the scars from the nails (plural) in Jesus’ hands. A “torture stake,” as the Watchtower calls it, only requires one nail in the hands (nailed over the head) and this is exactly how the Watchtower consistently depicts the crucifixion in all of their literature (one nail; see image above). But the Bible says there were at least two “nails” used in Jesus’ hands (John 20:25). 
+
+            This supports the conclusion that Jesus’ hands were stretched out on the cross, which would require two or more nails.
+
+    - `Notice what Jesus tells Peter here`
+        - John 21:18-19
+        > “Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will **stretch out** [Note that. Not stretch “up.”] your hands, and another will gird you and carry you where you do not wish.” This He spoke, signifying by what death he [Peter] would glorify God.”
+
+            So, when Jesus described Peter’s coming death––via crucifixion––He said that Peter’s hands would be stretched out, not up. That’s what happened to people who were crucified by the Romans in the first century. Their hands were stretched out. Why? Because they were crucified on traditional crosses with crossbeams.
+            
+    - `A third reason we believe Jesus died on a traditional cross has to do with the placement of the sign`
+        - Matthew 27:37
+        > “And they put up **over His head** the accusation written against Him: THIS IS JESUS THE KING OF THE JEWS.”
+
+            When the Roman soldiers mounted the sign above Jesus, the Bible says they hung it **above “His head” not above His hands**. So, this too bolsters our case that Jesus died on a traditional cross. The cross is not “a pagan religious symbol that was adopted by the church years later” as Jehovah’s Witnesses contend.
+
+            The cross is a reminder of where and how Jesus laid down His life for us, so we could be forgiven and reconciled to God.
+
+    - The testimony of the early Christians also points unanimously to a cross shape. A popular Christian document of the early 100s A.D. compares the cross to the Greek letter “tau” which looks very much like our “t,” and also speaks of the cross prefigured in Moses stretching out his arms over the battlefield of the armies of Israel. Justin Martyr (114-165 AD), who was from Samaria which is between Galilee and Judea where most of Jesus’ ministry took place, wrote that the Passover lamb prefigured not only Jesus but also the cross, because:
+
+        > “The lamb, which is roasted, is roasted and dressed up in the form of the cross. For one spit is transfixed right through from the lower parts up to the head, and one across the back, to which are attached the legs of the lamb”
+
+        Irenaeus also describes the cross’s shape as having points both up and down and to each side, as well as mentioning a post on which the nailed person rests. The “Palatine Graphito” (a late second-century piece of Roman graffiti mocking a Christian for worshiping the crucified Jesus) also pictures Jesus’ execution as being on a cross. Even some of the earliest New Testament manuscripts we have found (P45, P66, and P75) abbreviate the Greek word “Stauros” by omitting the “au” in the middle and putting the Greek letters for “t” and “r” on top of one another, causing them to form a “t” shape with a circle over it, or a graphic of a figure crucified on a cross.
+    
+    ***Conclusion: Jesus died for the sins of all mankind upon a cross.***
+
+*Source(s): [4](https://alwaysbeready.com/jehovahs-witnesses-by-charlie-campbell/#jwunbiblicalteachings), [5](https://alwaysbeready.com/twenty-reasons-christians-believe-jesus-is-god-by-charlie-campbell/)*
+
+# Attacks on the Deity of Jesus & Denial of Sound Scholarship
+
+⚠️ Currently Being Compiled ⚠️
+
+<!-- *Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/)* -->
