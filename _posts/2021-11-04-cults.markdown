@@ -32,6 +32,11 @@ Before journeying into a debate, however logically sound our position may be, we
 
     I think the best example of this is the `Courtier's reply` (a criticism is dismissed by claiming that the critic lacks sufficient knowledge, credentials, or training to credibly comment on the subject matter.
 
+    > "Do not correct a scoffer, lest he hate you;
+    Rebuke a wise man, and he will love you.
+    Give instruction to a wise man, and he will be still wiser;
+    Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9
+ 
     Simply, if someone attacks your "lack of credentials" or credibility instead of focusing on the argument, they have lost the debate. You could also apply ad verecundiam to people who assert that they are right because they are older and "know better". *To whom it may concern, I did not use this on you, I was referring to my older age as having given me memories of a time since past, but I think it was misconstrued. Apologies for lack of clarification.*
 
 - **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
@@ -40,7 +45,7 @@ Before journeying into a debate, however logically sound our position may be, we
 
 # The Laws of Thought
 
-The argument often arises, that all religions are right; however, this is not logically possible because of the laws of thought. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation. So today we will be logically deducing the truth... Since there is one.
+The argument often arises, that all religions are right; however, this is not logically possible because it violates the the laws of thought, specifically the law of non-contradiction. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation. So today we will be logically deducing the truth... Since there is one.
 
 > "The **laws of thought** are fundamental axiomatic rules upon which rational discourse itself is often considered to be based. The formulation and clarification of such rules have a long tradition in the history of philosophy and logic." &mdash; [Law of thought](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
 
@@ -202,8 +207,8 @@ Here is what other scholars say about the name or pronunciation “Jehovah”:
 
 At this point we have proven, beyond a shadow of a doubt, the following points:
 
-- The Witnesses have no academic authority
-- The Witnesses are false prophets
+- The Witnesses have zero scholarship in their translations
+- The Witnesses are false prophets since the late 1800’s
 - "*Jehovah*" is a mistransliteration
 
 Let's look at a few examples of the unbiblical teachings espoused by this cult.
@@ -480,8 +485,8 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
 
 At this point we have proven, beyond a shadow of a doubt, the following points:
 
-- The Witnesses have no academic authority
-- The Witnesses are false prophets
+- The Witnesses have zero scholarship in their translations
+- The Witnesses are false prophets since the late 1800’s
 - "*Jehovah*" is a mistransliteration
 - Jesus: is God, rose bodily, returns physically, died on a cross
 - The 144,000 are: Jews, males, & virgins
@@ -513,17 +518,52 @@ So now that we have already proven Jesus to be God, let's take a look at some of
 
     ➕ <span style="font-weight:bold;color:grey;">Additionally:</span> We can also validate that this is what the bible teaches in other areas as well by observing the book of John.
     - John 1:1-3,14
-    > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, and the Word [Jesus] was God. 2 He [Jesus] was in the beginning with God. 3 **All things** were made through Him [Jesus], and without Him [Jesus] nothing was made that was made... 14 And the Word [Jesus] became flesh and dwelt among us, and we beheld His [Jesus] glory, the glory as of the only begotten of the Father, full of grace and truth.”
+    > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, and the Word [Jesus] was God. 2 He [Jesus] was in the beginning with God. 3 **All things were made through Him [Jesus]**, and without Him [Jesus] nothing was made that was made... 14 And the Word [Jesus] became flesh and dwelt among us, and we beheld His [Jesus] glory, the glory as of the only begotten of the Father, full of grace and truth.”
 
     ***Conclusion: Paul was saying that Jesus is above all of creation. Jesus is the Creator.***
 
-<!-- 2. **`Does “Begotten” Mean Created`**
-3. **`The "Beginning" of Creation?`**
-4. **`The "Son" of God`**
-5. **`Jesus Says the Father is "Greater"`**
-6. **`Is Jesus Not Good?`**
+2. **`Does “Begotten” Mean Created`**
+
+    Speaking to a Pharisee by the name of Nicodemus, Jesus said:
+
+    - John 3:16
+    > “For God [speaking of the Father] so loved the world that He gave His only **begotten** Son, that whoever believes in Him should not perish but have everlasting life.”
+
+    ❌ <span style="font-weight:bold;color:#C00000;">The Cults:</span> “Ahh! Look at that! Jesus says he was begotten! So, even if the word “firstborn” (Col. 1:15) doesn’t mean “first created,” this verse surely indicates that he was created and therefore not the eternal God.”
+
+    The Jehovah Witness organization has taught  its members that this phrase “only begotten” (monogenes in the Greek) means “created.” Well, they’re wrong again. The word does not mean that. And a wealth of Greek scholars and lexicons reveal just that. This should not surprise anyone, as we have previously learned, that this particular cult, lacks scholarship in their translations.
+
+    ✔️ <span style="font-weight:bold;color:Green;">Greek Scholars:</span> The Greek word monogenes comes from two Greek terms: monos meaning “one” and the noun genes which means “kind” or “type.” So, you put these two words together and you have monogenes which means: <span style="font-style:italic;color:Green;">“unique,” “only,” or “one of its kind.”</span>
+
+    That’s what Jesus is talking about in John 3:16. He is not saying that God the Father created Him. He’s saying that He is God’s only, unique, one of a kind Savior! This is why Peter could boldly pronounce to the Sanhedrin in…
+
+    - Acts 4:12
+    > “…there is salvation  in no one else; for there is no other name under heaven that has been given among men, by which we must be saved.”
+
+    Jesus is the “monogenes,” the only, one of a kind Savior! There is salvation in no one else. That’s what John 3:16 is saying.
+
+    ➕ <span style="font-weight:bold;color:grey;">Additionally:</span> the very verses we recently covered in the previous section, which proved by scholarship, that Jesus is God manifest in the flesh, validates this reasoning:
+
+    - John 1:1-3,14
+    > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, and **the Word [Jesus] was God**. 2 He [Jesus] was in the beginning with God. 3 **All things were made through Him [Jesus]**, and without Him [Jesus] nothing was made that was made... 14 And the Word **[Jesus] became flesh and dwelt among us**, and we beheld His [Jesus] glory, the glory as of the **only begotten [“unique,” “only,” or “one of its kind.”]** of the Father, full of grace and truth.”
+
+    - `Due to the` **`law of identity`** `being used in conjunction with` **`the law of non-contradiction`**: Because Greek Scholars have determined the meaning of “monogenes,” to mean: “unique,” “only,” or “one of its kind.”, it cannot also mean "created," because nothing can both be and not be created. 
+    - `Due to the` **`law of identity`** `being used in conjunction with` **`The Law of Excluded Middle`**: Either "Jesus created all things, and is therefore the Creator" evaluates to True, or "he was created, and is therefore a created being" evaluates to false. we cannot reverse the tautology or negate the logic deduced.
+
+    - Colossians 1:16-17
+    > 16 “For by Him [Jesus] **all things** [How many things? ALL THINGS] were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. **All things** were created through Him and for Him. 17 And He is before **all things**, and in Him **all things** consist.” 
+
+    <!-- - Using the laws of thought
+        - The Law of Identity: Since we know that "Jesus is God" evaluates to true (Proven in the sections above). Attempting to prove it false, when we have already established it's truthiness, is illogical.
+        - The Law of Non-Contradiction: Because Greek Scholars have determined the meaning of “monogenes,” to mean: “unique,” “only,” or “one of its kind.”, it cannot also mean "created," because nothing can both be and not be created.
+        - The Law of Excluded Middle: Therefore, since "monogenes means unique" evaluates to true, it's definition as "created" must evaluate to false. -->
+
+<!-- 3. **`Jesus Says the Father is "Greater"`**
+4. **`Is Jesus Not Good?`**
+5. **`The "Beginning" of Creation?`**
+6. **`The "Son" of God`**
 7. **`Was Jesus Praying to Himself?`**
 8. **`Jesus Doesn't Know The Day or The Hour?`**
-9. **`Jesus Was Brought Forth?`**
+9. **`Jesus Was Brought Forth?`** -->
 
-*Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/)* -->
+<!-- *Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/)* -->
