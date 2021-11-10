@@ -119,7 +119,7 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 
 # Modern / Experimental Piano
 
-- **`Thom Yorke:`** [Suspirium](https://youtu.be/BTZl9KMjbrU), [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
+- **`Thom Yorke:`** [Suspirium](https://youtu.be/BTZl9KMjbrU), [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
 - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310)
 - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776)
 
