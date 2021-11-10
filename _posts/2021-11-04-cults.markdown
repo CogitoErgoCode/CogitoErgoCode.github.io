@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Saving Your Loved Ones From The Cults"
-date: 2021-11-04 10:54:03 -0700
+date: 2021-11-04 10:55:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -9,6 +9,10 @@ published: true
 <!-- **TL;DR:** Ctrl+F "Dichotomy" -->
 
 <!-- \**This blog was written while listening to [Videotape](https://youtu.be/SnIAxVx7ZUs)* -->
+
+This article constitutes a reorganization of a myriad of articles and sources into one, with my own findings and experiences mixed in. The sources are given at the end of each section, where the bulk of the information was pulled. The purpose of this article is to apply critical thinking skills and logic to what we know to be true in order to expose falsehood.
+
+> "**Examine yourselves as to whether you are in the faith. Test yourselves.** Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified." &mdash; 2 Corinthians 13:5
 
 ## **Rules of Engagement**
 
@@ -266,7 +270,7 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
         - The Apostle Paul called Jesus “God.” (Titus 2:12b-14)
             > “…we should live soberly, righteously, and godly in the present age, looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ, who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.”
         - The Apostle John called Jesus “God.” (John 1:1-3,14)
-            > “In the beginning was the Word, and the Word was with God, and the Word was God...”
+            > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, **and the Word [Jesus] was God**. 2 He [Jesus] was in the beginning with God. 3 All things were made through Him [Jesus], and without Him [Jesus] nothing was made that was made... 14 And the Word [Jesus] became flesh and dwelt among us, and we beheld His [Jesus] glory, the glory as of the only begotten of the Father, full of grace and truth.”
         - Ignatius, student of the Apostle John (Epistle of Ignatius)`
             > "...and elected through the true passion by the will of the Father, and Jesus Christ, our God..."
 
@@ -692,7 +696,7 @@ So now that we have already proven Jesus to be God, let's take a look at some of
 
     ***Conclusion: If God alone is good and Jesus is good, that means: Jesus is God. See how that works?***
 
-<!-- 7. **`Was Jesus Praying to Himself?`**
+7. **`Was Jesus Praying to Himself?`**
 
     Here in this passage Jesus prays to the Father. Let’s read the first couple of verses to get a sense of what happens here:
 
@@ -705,45 +709,87 @@ So now that we have already proven Jesus to be God, let's take a look at some of
 
     ✔️ <span style="font-weight:bold;color:Green;">Answer:</span> Well, the answer of course is No, He was not talking to Himself. Once again, critics of Jesus’ deity fail to understand God’s revelation of Himself in the Bible.
 
-    The Bible teaches that there is one God (Deuteronomy 6:4; 1 Corinthians 8:4), who coexists in three eternal, coequal persons: Father, Son, and Holy Spirit. This is the doctrine of the Trinity. And because God has made this known to us, there’s no dilemma for us here in John 17. Jesus wasn’t talking to Himself; He was talking to God the Father in Heaven.
+    - `The Hypostatic Union:` the hypostatic union is the term used to describe how God the Son, Jesus Christ, took on a human nature, yet remained fully God at the same time. We know that Jesus had always been God:
+        - John 8:58-59
+        > “Jesus said to them, “Most assuredly, I say to you, **before Abraham was, I AM**.” Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.”
 
-    ❌ <span style="font-weight:bold;color:#C00000;">The Cults:</span> “But if Jesus was God he wouldn’t have had to pray! God doesn’t need to pray!”
+        - Exodus 3:14
+        > "And God said to Moses, **“I AM WHO I AM.”** And He said, “Thus you shall say to the children of Israel, ‘**I AM** has sent me to you.’”
 
-    ✔️ <span style="font-weight:bold;color:Green;">Answer:</span> He’s right. God doesn’t have to pray. But apparently Jesus wanted to pray. Having a relationship with God is not about “HAVING to pray.” It’s a joy to talk to God. We love God. And we want to talk to Him. Amen?
+        At the incarnation Jesus bacame a human being:
 
-    And the same was true with Jesus. So, He talked to the Father. They had fellowship. We have no problem with that. And not only do we not have a problem with this. We’re blessed by this! Because Jesus (here in John 17) was praying for us!
+        - John 1:1-3,14
+        > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, **and the Word [Jesus] was God**. 2 He [Jesus] was in the beginning with God. 3 All things were made through Him [Jesus], and without Him [Jesus] nothing was made that was made... 14 **And the Word [Jesus] became flesh and dwelt among us**, and we beheld His [Jesus] glory, the glory as of the only begotten of the Father, full of grace and truth.”
+
+        The Addition of the human nature to the divine nature is Jesus, the God-Man. This is the Hypostatic Union, Jesus Christ, one person, fully God and fully man.
+
+        As a man Jesus cooperated with the limitations of being a man: knowledge (Mark 13:32), weariness (John 4:6), thirsted (John 19:28), hungered (Luke 4:2), needed sleep (Luke 8:23); and at other times in the power of his deity (John 11:43; Matt 14:18-21).
+
+        <table class="center" border="0">
+        <tbody>
+        <tr>
+        <td class="center"><strong>GOD</strong></td>
+        <td class="center"><strong>MAN</strong></td>
+        </tr>
+        <tr>
+        <td>He is worshiped (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Matt.%202.2" data-reference="Matt. 2.2" data-version="esv" data-purpose="bible-reference">Matt. 2:2</a>, <a class="rtBibleRef" href="https://biblia.com/bible/esv/Matt%202.11" data-reference="Matt 2.11" data-version="esv" data-purpose="bible-reference">11</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Matt%2014.33" data-reference="Matt 14.33" data-version="esv" data-purpose="bible-reference">14:33</a>)</td>
+        <td>He worshiped the Father (John 17)</td>
+        </tr>
+        <tr>
+        <td>He was called God (<a class="rtBibleRef" href="https://biblia.com/bible/esv/John%2020.28" data-reference="John 20.28" data-version="esv" data-purpose="bible-reference">John 20:28</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Heb.%201.8" data-reference="Heb. 1.8" data-version="esv" data-purpose="bible-reference">Heb. 1:8</a>)</td>
+        <td>He was called man (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Mark%2015.39" data-reference="Mark 15.39" data-version="esv" data-purpose="bible-reference">Mark 15:39</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/John%2019.5" data-reference="John 19.5" data-version="esv" data-purpose="bible-reference">John 19:5</a>)</td>
+        </tr>
+        <tr>
+        <td>He was called Son of God (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Mark%201.1" data-reference="Mark 1.1" data-version="esv" data-purpose="bible-reference">Mark 1:1</a>)</td>
+        <td>He was called Son of Man (<a class="rtBibleRef" href="https://biblia.com/bible/esv/John%209.35-37" data-reference="John 9.35-37" data-version="esv" data-purpose="bible-reference">John 9:35-37</a>)</td>
+        </tr>
+        <tr>
+        <td>He is prayed to (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Acts%207.59" data-reference="Acts 7.59" data-version="esv" data-purpose="bible-reference">Acts 7:59</a>)</td>
+        <td>He prayed to the Father (John 17)</td>
+        </tr>
+        <tr>
+        <td>He is sinless (<a class="rtBibleRef" href="https://biblia.com/bible/esv/1%20Pet.%202.22" data-reference="1 Pet. 2.22" data-version="esv" data-purpose="bible-reference">1 Pet. 2:22</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Heb.%204.15" data-reference="Heb. 4.15" data-version="esv" data-purpose="bible-reference">Heb. 4:15</a>)</td>
+        <td>He was tempted (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Matt.%204.1" data-reference="Matt. 4.1" data-version="esv" data-purpose="bible-reference">Matt. 4:1</a>)</td>
+        </tr>
+        <tr>
+        <td>He knows all things (<a class="rtBibleRef" href="https://biblia.com/bible/esv/John%2021.17" data-reference="John 21.17" data-version="esv" data-purpose="bible-reference">John 21:17</a>)</td>
+        <td>He grew in wisdom (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Luke%202.52" data-reference="Luke 2.52" data-version="esv" data-purpose="bible-reference">Luke 2:52</a>)</td>
+        </tr>
+        <tr>
+        <td>He gives eternal life (<a class="rtBibleRef" href="https://biblia.com/bible/esv/John%2010.28" data-reference="John 10.28" data-version="esv" data-purpose="bible-reference">John 10:28</a>)</td>
+        <td>He died (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Rom.%205.8" data-reference="Rom. 5.8" data-version="esv" data-purpose="bible-reference">Rom. 5:8</a>)</td>
+        </tr>
+        <tr>
+        <td valign="top">All the fullness of deity dwells in Him (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Col.%202.9" data-reference="Col. 2.9" data-version="esv" data-purpose="bible-reference">Col. 2:9</a>)</td>
+        <td>He has a body of flesh and bones (<a class="rtBibleRef" href="https://biblia.com/bible/esv/Luke%2024.39" data-reference="Luke 24.39" data-version="esv" data-purpose="bible-reference">Luke 24:39</a>)</td>
+        </tr>
+        </tbody>
+        </table>
+
+        There is no mixture or dilution of either nature (Eutychianism), neither are these two natures combined to form a new third "thing" where neither God nor man is represented (Monophysitism), nor are the two natures so seperated from eachother as to "not be in contact" (Nestorianism).
+        
+        The Bible teaches that there is one God (Deuteronomy 6:4; 1 Corinthians 8:4), who coexists in three eternal, coequal persons: Father, Son, and Holy Spirit. This is the doctrine of the Trinity. And because God has made this known to us, there’s no dilemma for us here in John 17. Jesus wasn’t talking to Himself; He was talking to God the Father in Heaven.
 
     ❌ <span style="font-weight:bold;color:#C00000;">The Cults:</span> “All right, I hear what you’re saying, but this whole doctrine of the Trinity, this idea that the Father, Son, and Holy Spirit are all God, is just confusing. And the Bible says “God is not the author of confusion” (1 Corinthians 14:33). So, I still have a hard time believing this is really what the Bible teaches!”
 
     ✔️ <span style="font-weight:bold;color:Green;">Answer:</span> The cults love to cite this verse whenever talk about the Trinity comes up. They think the doctrine of the Trinity is confusing. So, they cite this verse and think it proves that the doctrine must not be Biblical. Well, in response, it’s important to point out that the Bible is not encouraging Christians here to abandon a teaching of Scripture if it sounded confusing or was hard to understand.
 
-    If you examine the context of 1 Corinthians 14, Paul was talking about the confusion and  disarray that was occurring in the church at Corinth. The people were exercising spiritual gifts in a confusing, disorderly way. Paul was saying ‘God’s not the author of that kind of behavior.’ The Bible does teach that there are things in the Scriptures that are hard to understand. Peter said that Paul wrote about…
-
-    - 2 Peter 3:16
-    > “…some things hard  to understand, which untaught and unstable people twist to their own destruction…”
-
-    In Isaiah 55, verses 8 and 9, God says…
-
     - Isaiah 55:8-9
     > “For My thoughts are not your thoughts, Nor are your ways My ways,” says the Lord. “For as the heavens are higher than the earth, so are My ways higher than your ways, and My thoughts than your thoughts.”
 
-    Our three and a half pound brains are incapable of fully understanding everything about God and His ways. This leads Paul to declare in Romans 11:33…
-
     - Romans 11:33
-    > “Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!”
-
-    Certain things about God are “past [our] finding out,” Paul says here. So, it would be unwise to abandon what the Bible teaches regarding the nature of God, just because we may find something about it confusing or difficult to understand.
-
-    Peter says that those who take those “hard to understand” things and twist them, do so to their own destruction!
+    > “Oh, the depth of the riches both of the wisdom and knowledge of God! **How unsearchable are His judgments and His ways past finding out**!”
 
     - 2 Peter 3:16
-    > “…some things hard  to understand, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.”
+    > “…**some things hard to understand**, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.”
 
     That, unfortunately, is what false teachers do. They twist the Scriptures and create man made religions that are leading people down a wide path to destruction.
 
-    ***Conclusion: Jesus was praying to the Father, Just like it says. The father is greater positionally "in rank" not in nature. This again proves the Hypostatic union & the Trinity.*** -->
+    ***Conclusion: Jesus was praying to the Father, Just like it says. The father is greater positionally "in rank" not in nature. This again proves the Hypostatic union & the Trinity.***
 
 <!-- 8. **`Jesus Doesn't Know The Day or The Hour?`** -->
 <!-- 9. **`Jesus Was Brought Forth?`** -->
 
-<!-- *Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/)* -->
+*Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/), [7](https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union)*
+
+<!-- <a href="https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union" style="text-align: center; font-family: italic; font-size: small;">The Hypostatic Union, CARM</a> -->
