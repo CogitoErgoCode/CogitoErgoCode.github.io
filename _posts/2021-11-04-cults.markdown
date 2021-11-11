@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Saving Your Loved Ones From The Cults"
-date: 2021-11-04 10:58:08 -0700
+date: 2021-11-04 10:58:10 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -16,7 +16,7 @@ This article is an amalgamation of several articles and sources into one, with m
 
 ## **Rules of Engagement**
 
-Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [Red Herring Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies) upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. So in an effort to avoid immature drama, and illogical tangents, I will describe a few of the most relevant fallacies.
+Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called ["red herring fallacies,"](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies) upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. So in an effort to avoid immature drama, and illogical tangents, I will describe a few of the most relevant fallacies.
 
 > "A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
 
@@ -66,7 +66,7 @@ The laws in question are as follows:
 
         When you apply this to logic, the law of identity essentially means that everything is itself and it cannot be something else. Snow cannot be clouds, and water cannot be a pole. Each thing is something specific that has a particular identity. So when I say that it is snowing, snowing refers to a particular event. Given that 'snowing' refers to a specific thing, if I make this statement while it is actually snowing, then it must be a true statement.
 
-- **`The law of non-contradiction:`** *"Nothing can both be and not be."* In other words: "two or more contradictory statements cannot both be true in the same sense at the same time": ¬(A∧¬A). Esentially, Two truths cannot contradict one another. Aristotle stated it in this way, that "The most certain opinion of all" was "that opposed statements cannot be at the same time true."
+- **`The law of non-contradiction:`** *"Nothing can both be and not be."* In other words: "two or more contradictory statements cannot both be true in the same sense at the same time": ¬(A∧¬A). Essentially, Two truths cannot contradict one another. Aristotle stated it in this way, that "The most certain opinion of all" was "that opposed statements cannot be at the same time true."
     - On the other hand, for any pair of contradictory premises, one must be true and the other false. The Law of Non-Contradiction prevents both premises being true, while the Law of Excluded Middle points out that a pair of contradictory premises exhausts all possibilities. 
 
         > For all propositions p, it is impossible for both p and not p to be true, or: ∼(p · ∼p), in which ∼ means “not” and · means “and.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
@@ -137,7 +137,9 @@ By 1879, Charles Russell and his followers believed the Second Coming of Christ 
 
 Around 1908, Russell falsely prophesied that the year 1914 would be the year Armageddon would begin in which God would destroy all human governments and establish His kingdom on the Earth. Of course, Armageddon never quite materialized in 1914, 1915, 1918, or any of the other years Jehovah’s Witness leaders said it would occur. Charles Russell died in 1916, a failed prophet.
 
-Despite the false prophecies, the Watchtower Society has grown into one of the largest, most influential cults of our time.
+Despite the false prophecies, the Watchtower Society has grown into one of the largest, most influential cults of our time, undoubtedly due to the conformity bias of groupthink.
+
+> The psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. Group members try to minimize conflict and reach a consensus decision without critical evaluation of alternative viewpoints by actively suppressing dissenting viewpoints, and by isolating themselves from outside influences. &mdash; [Groupthink](https://en.wikipedia.org/wiki/Groupthink)
 
 # The Witnesses Have Zero Scholarship In Their Translations
 
