@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Saving Your Loved Ones From The Cults"
-date: 2021-11-04 10:57:08 -0700
+date: 2021-11-04 10:58:08 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <!-- \**This blog was written while listening to [Videotape](https://youtu.be/SnIAxVx7ZUs)* -->
 
-This article is an amalgamation of several articles and sources into one, with my own findings and experiences mixed in. Attribution is given at the end of each section, where the bulk of the information was pulled. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to free those who are lost.
+This article is an amalgamation of several articles and sources into one, with my own findings and experiences mixed in. Attribution is given at the end of each section, where the bulk of the information was pulled. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to set free those who are lost.
 
 > "**Examine yourselves as to whether you are in the faith. Test yourselves.** Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified." &mdash; 2 Corinthians 13:5
 
@@ -29,21 +29,23 @@ Before journeying into a debate, however logically sound our position may be, we
         Simply, if someone avoids the debate at hand by showcasing supposed hypocrisy in your life, this is also an error in their logic and an immediate fail on their part.
 
 - **`Argumentum ad passiones:`** Also known as an `appeal to emotion`, an error in logic which attempts to manipulate the emotions of the listener rather than using valid reasoning to obtain a common agreement. Subtypes of ad passiones include: fear, flattery, pity (argumentum ad misericordiam), ridicule (reductio ad ridiculum, reductio ad absurdum, ad absurdum), spite, judgmental language, Pooh-pooh & Wishful thinking.
+    
+    - `Reductio ad absurdum` or an `Appeal to ridicule` would be a very good example – mocking or stating that the opponent's position is laughable to deflect from the merits of the opponent's argument. I think we've all, at some point in our lives, experienced this type of juvenile response. This is unsurprisingly a failure in logic.
 
-    > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
+        > "Do not correct a scoffer, lest he hate you;
+        Rebuke a wise man, and he will love you.
+        Give instruction to a wise man, and he will be still wiser;
+        Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9
 
-    A good example would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
+    - Another good example would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
+
+        > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
 
 - **`Argumentum ad verecundiam:`** An `appeal to authority` is where an assertion is deemed true because of the position or authority of the person asserting it. Subtypes of `ad verecundiam` include: Appeal to accomplishment & Courtier's reply.
 
-    I think the best example of this is the `Courtier's reply` (a criticism is dismissed by claiming that the critic lacks sufficient knowledge, credentials, or training to credibly comment on the subject matter.
-
-    > "Do not correct a scoffer, lest he hate you;
-    Rebuke a wise man, and he will love you.
-    Give instruction to a wise man, and he will be still wiser;
-    Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9
+    - I think the best example of this is the `Courtier's reply` (a criticism is dismissed by claiming that the critic lacks sufficient knowledge, credentials, or training to credibly comment on the subject matter.
  
-    Simply, if someone attacks your "lack of credentials" or credibility instead of focusing on the argument, they have lost the debate. You could also apply ad verecundiam to people who assert that they are right because they are older and "know better". *To whom it may concern, I did not use this on you, I was referring to my older age as having given me memories of a time since past, but I think it was misconstrued. Apologies for lack of clarification.*
+        Simply, if someone attacks your "lack of credentials" or credibility instead of focusing on the argument, they have lost the debate. You could also apply ad verecundiam to people who assert that they are right because they are older and "know better". *To whom it may concern, I did not use this on you, I was referring to my older age as having given me memories of a time since past, but I think it was misconstrued. Apologies for lack of clarification.*
 
 - **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
 
