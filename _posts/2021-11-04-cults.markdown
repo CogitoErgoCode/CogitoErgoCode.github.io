@@ -10,7 +10,7 @@ published: true
 
 <!-- \**This blog was written while listening to [Videotape](https://youtu.be/SnIAxVx7ZUs)* -->
 
-This article is an amalgamation of several articles and sources into one, with my own findings and experiences mixed in. Attribution is given at the end of each section, where the bulk of the information was pulled. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to set free those who are lost.
+This article is an amalgamation of several sources, and constitutes a reorganization of said data into one singular point. Attribution is given at the end of each section. The aforementioned data will then be expanded upon with logic and proof. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to deduce that which is false, and set free those who are lost in that falsehood.
 
 > "**Examine yourselves as to whether you are in the faith. Test yourselves.** Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified." &mdash; 2 Corinthians 13:5
 
@@ -20,7 +20,7 @@ Before journeying into a debate, however logically sound our position may be, we
 
 > "A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
 
-- **`Argumentum ad hominem:`** An `Ad hominem` attack is an error in logic, which leads the loser of said argument, to attack the arguer instead of the argument. A very true statement (verified by the logic above) often attributed to the Greek philosopher Socrates (Irrelevant), states "When the debate is lost, slander becomes the tool of the losers." Subtypes of ad hominem include: circumstantial, poisoning the well, appeal to motive, tone policing & traitorous critic fallacy.
+- **`Argumentum ad hominem:`** An `Ad hominem` attack is an error in logic, which leads the loser of said argument, to attack the arguer instead of the argument. A very true statement (verified by the logic above) often attributed to (Irrelevant) the Greek philosopher Socrates, states "When the debate is lost, slander becomes the tool of the losers." Subtypes of ad hominem include: circumstantial, poisoning the well, appeal to motive, tone policing & traitorous critic fallacy.
 
     Simply, if anyone starts name calling or attacking the debater instead of maturely debating the topic, it is looked at as an immediate loss.
 
@@ -223,7 +223,7 @@ At this point we have proven, beyond a shadow of a doubt, the following points:
 
 Let's look at a few examples of the unbiblical teachings espoused by this cult.
 
-# 1. Jehovah’s Witnesses teach that Jesus is a created, angelic being, inferior to God the Father.
+# 1. Jehovah’s Witnesses falsely teach that Jesus is a created, angelic being, inferior to God the Father.
 
 - `Yet, God the Father calls Jesus “God.”`
     - Hebrews 1:8
