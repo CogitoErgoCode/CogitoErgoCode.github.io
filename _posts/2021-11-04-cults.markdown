@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:12:30 -0700
+date: 2021-11-04 11:13:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -864,7 +864,7 @@ Even though I could've ended this article without including anything past provin
 
 # Trustworthy Bible Translations (Textual Basis & Translation Types)
 
-As far as legitimate Christian translations are concerned, I've compiled a list of acceptable versions that I use personally. When I want to use a `Textus Receptus` derived translation, I use the [NKJV](https://www.christianbook.com/nkjv-classic-column-reference-premium-goatskin/9780785231271/pd/231274?event=EBRN#CBD-PD-Description). When I want to use the `Critical Text`, I use either an [LSB (most literal non-interlinear ~70%+)](https://316publishing.com/collections/legacy-standard-bible), or an ESV (62.36% readable; 68.74% literal). If you want something 100% literal to the Greek, you want an interlinear: I use an [ESV Reverse Interliner](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
+As far as legitimate Christian translations are concerned, I've compiled a list of acceptable versions that I use personally. When I want to use a `Textus Receptus` derived translation, I use the [NKJV](https://www.christianbook.com/nkjv-classic-column-reference-premium-goatskin/9780785231271/pd/231274?event=EBRN#CBD-PD-Description). When I want to use the `Critical Text`, I use either an [LSB (most literal non-interlinear ~70%+)](https://316publishing.com/collections/legacy-standard-bible), or an ESV (62.36% readable; 68.74% literal). If you want something 100% literal to the Greek, you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
 
 If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT (70.08% readable; 39.90% literal).
 
