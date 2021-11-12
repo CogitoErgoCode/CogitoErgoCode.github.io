@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:13:00 -0700
+date: 2021-11-04 11:14:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -864,28 +864,29 @@ Even though I could've ended this article without including anything past provin
 
 # Trustworthy Bible Translations (Textual Basis & Translation Types)
 
-As far as legitimate Christian translations are concerned, I've compiled a list of acceptable versions that I use personally. When I want to use a `Textus Receptus` derived translation, I use the [NKJV](https://www.christianbook.com/nkjv-classic-column-reference-premium-goatskin/9780785231271/pd/231274?event=EBRN#CBD-PD-Description). When I want to use the `Critical Text`, I use either an [LSB (most literal non-interlinear ~70%+)](https://316publishing.com/collections/legacy-standard-bible), or an ESV (62.36% readable; 68.74% literal). If you want something 100% literal to the Greek, you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
+As far as legitimate Christian translations are concerned, I've compiled a list of acceptable versions that I use personally. When I want to use a ["Textus Receptus"](https://en.wikipedia.org/wiki/Textus_Receptus) derived translation, I use the [NKJV](https://www.christianbook.com/nkjv-classic-column-reference-premium-goatskin/9780785231271/pd/231274?event=EBRN#CBD-PD-Description). When I want to use the `Critical Text`, I use either an [LSB (most literal non-interlinear ~70%+)](https://316publishing.com/collections/legacy-standard-bible), or an ESV (62.36% readable; 68.74% literal). 
+
+If you want something 100% literal to the Greek, you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
 
 If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT (70.08% readable; 39.90% literal).
 
 > "99.8% of textual variants affect nothing, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because no essential doctrine is jeopardized by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
-- Translation Type
-    - Formal Equivalence (Word-For-Word)
-        - Textual Basis
-            - OT: Masoretic Text (KJV) / Biblia Hebraica Stuttgartensia (NKJV)
-            - NT: **Received Text** ["Textus Receptus"](https://en.wikipedia.org/wiki/Textus_Receptus)
-                - [NKJV - New King James Version (130 Scholars, Based on KJV)](https://en.wikipedia.org/wiki/New_King_James_Version)
-                    - KJV - King James Version (47 Scholars)
-            - OT: Biblia Hebraica Stuttgartensia (All) / Biblia Hebraica Quinta (NASB)
-            - NT: **Critical Text**: Novum Testamentum Graece (All) / UBS Greek New Testament (ESV)
-                - [LSB - The Legacy Standard Bible (70+ scholars, derived from the NASB 95)](https://lsbible.org/)
-                    - NASB 95 - New American Standard Bible (65 Scholars)
-                - [ESV - English Standard Version (100+ Scholars)](https://www.esv.org/translation/)
-    - Dynamic Equivalence (Thought-For-Thought)
-        - Textual Basis
-            - OT: Biblia Hebraica Stuttgartensia
-            - NT: **Critical Text**: UBS Greek New Testament / Novum Testamentum Graece
-                - [NLT - New Living Translation (90+ Scholars)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)
+- Formal Equivalence (Word-For-Word) Translation Type
+    - Textual Basis
+        - OT: Masoretic Text (KJV) / Biblia Hebraica Stuttgartensia (NKJV)
+        - NT: **Received Text** ["Textus Receptus"](https://en.wikipedia.org/wiki/Textus_Receptus)
+            - [NKJV - New King James Version (130 Scholars, Based on KJV)](https://en.wikipedia.org/wiki/New_King_James_Version)
+                - KJV - King James Version (47 Scholars)
+        - OT: Biblia Hebraica Stuttgartensia (All) / Biblia Hebraica Quinta (NASB)
+        - NT: **Critical Text**: Novum Testamentum Graece (All) / UBS Greek New Testament (ESV)
+            - [LSB - The Legacy Standard Bible (70+ scholars, derived from the NASB 95)](https://lsbible.org/)
+                - NASB 95 - New American Standard Bible (65 Scholars)
+            - [ESV - English Standard Version (100+ Scholars)](https://www.esv.org/translation/)
+- Dynamic Equivalence (Thought-For-Thought) Translation Type
+    - Textual Basis
+        - OT: Biblia Hebraica Stuttgartensia
+        - NT: **Critical Text**: UBS Greek New Testament / Novum Testamentum Graece
+            - [NLT - New Living Translation (90+ Scholars)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)
             
 <!-- <a href="https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union" style="text-align: center; font-family: italic; font-size: small;">The Hypostatic Union, CARM</a> -->
