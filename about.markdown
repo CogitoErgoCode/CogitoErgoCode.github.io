@@ -306,7 +306,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 Wisdom literature is also something of an interest to me, as I enjoy philosophy, and the wisdom of it's ancient revelations.
 
 - `Wisdom Literature & Philosophy`
-    - `King Solomon:` [Proverbs, Ecclesiastes](http://library.lol/main/8EB63214335674D709BC873C9C1CEFE6)
+    - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
     - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) <!-- , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D) -->
     - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)
     <!-- - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/) -->
