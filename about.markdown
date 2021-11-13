@@ -23,7 +23,7 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 <!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
 
 - `Myers–Briggs Type Indicator:` 
-    - [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png)
+    - [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png), [View](/assets/images/titles.jpg)
 - `Enneagram of Personality` 
     - [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53), [Chart](/assets/images/enneagram.png)
 <!-- - `Religious Affiliation:` Christianity -->
