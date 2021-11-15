@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:19:00 -0700
+date: 2021-11-04 11:20:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -901,28 +901,32 @@ If you don't care about intense study or debate, and would only like to read the
 - Formal Equivalence (Word-For-Word) Translation Type
     - [LSB - Legacy Standard Bible](https://lsbible.org/)
         - Scholars: 135+ (70+ LSB & 65 NASB 95)
-        - Readability Score (LSB): ~62%; Literalness Score: **~70%** 
-        - Readability Score (NASB): 61.65%; Literalness Score: 67.99% 
+        - Readability & Literalness Scores
+            - LSB: ~62.00% / **~70.00%** 
+            - NASB: 61.65% / 67.99%
         - Textual Basis (NASB 95 base text)
             - OT: Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta
             - NT: **Critical Text** Novum Testamentum Graece (28th ed., 2012)
     - [ESV - English Standard Version](https://www.esv.org/translation/)
         - Scholars: 100+
-        - Readability Score: 62.36%; Literalness Score: **68.74%**
+        - Readability & Literalness Scores
+            - ESV: 62.36% / **68.74%**
         - Textual Basis
             - OT: Biblia Hebraica Stuttgartensia (5th ed., 1997)
             - NT: **Critical Text** UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012)
     - [NKJV - New King James Version](https://www.thomasnelsonbibles.com/about-nkjv-history/)
         - Scholars: 177 (130 NKJV & 47 KJV)
-        - Readability Score (NKJV): 60.32%; Literalness Score: 65.21%
-        - Readability Score (KJV): 48.83%; Literalness Score: 66.58%
+        - Readability & Literalness Scores
+            - NKJV: 60.32% / 65.21%
+            - KJV: 48.83% / 66.58%
         - Textual Basis (KJV base Text)
             - OT: Biblia Hebraica Stuttgartensia (4th ed., 1977); KJV (Masoretic Text)
             - NT: **Received Text** [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus)
 - Dynamic Equivalence (Thought-For-Thought) Translation Type
     - [NLT - New Living Translation](https://www.tyndale.com/nlt/what-is-the-new-living-translation)
         - Scholars: 90+
-        - Readability Score: **70.08%**; Literalness Score: 39.90%
+        - Readability & Literalness Scores
+            - NLT: **70.08%** / 39.90%
         - Textual Basis
             - OT: Biblia Hebraica Stuttgartensia
             - NT: **Critical Text** UBS Greek New Testament / Novum Testamentum Graece
