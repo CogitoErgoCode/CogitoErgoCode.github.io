@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:20:00 -0700
+date: 2021-11-04 11:21:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -888,15 +888,15 @@ Even though I could've ended this article without including anything past provin
 
 # Trustworthy Bible Translations (Textual Basis & Translation Types)
 
-**As far as legitimate Christian translations are concerned**, I've compiled a list of acceptable versions that I use personally. When I want to use a [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) derived translation, I use the [NKJV](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6). When I want to use the [Critical Text](https://carm.org/king-james-onlyism/what-is-the-critical-text/), I use either an [LSB (most literal non-interlinear)](https://316publishing.com/collections/legacy-standard-bible), or an ESV.
-
-If you want something 100% literal to the Greek, you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
-
-If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT.
+**As far as legitimate Christian translations are concerned**, I've compiled a list of acceptable versions that I use personally. When I want to use a [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) derived translation, I use the [NKJV](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6). When I want to use the [Critical Text](https://carm.org/king-james-onlyism/what-is-the-critical-text/), I use either an [LSB (most literal non-interlinear)](https://316publishing.com/collections/legacy-standard-bible), or an ESV. If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT.
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
-# Readability & literalness scores based on quantitative linguistic comparison of Bible translations using computerized statistcal analysis, developed by Dr. Andi Wu:
+# Readability & literalness scores based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu: [research](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)
+
+**Readability & literalness scores do not denote textual purity**. For example, the NLT has a readability score of 70.08% & literalness score of **39.90%** (to the Greek wording) yet **it is still 99% textually pure**. This just means it's easier to read, and worded in a way we can understand better, rather than in broken or terse english. 
+
+If you want something **100% literal** to the Greek (for purposes of debate or deeper understanding), you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
 
 - Formal Equivalence (Word-For-Word) Translation Type
     - [LSB - Legacy Standard Bible](https://lsbible.org/)
