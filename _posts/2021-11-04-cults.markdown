@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:23:23 -0700
+date: 2021-11-04 11:24:01 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -894,10 +894,20 @@ Even though I could've ended this article without including anything past provin
 
 # Readability & literalness scores based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu.
 
-**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity**. It's simply a measurement of how easy something is to read in english, or how close to biblical Greek wording the english translation appears. The New Testament manuscripts upon which these versions are derived, are nearly perfectly preserved and inerrant. For example: The NLT is 70.08% readable, 39.90% literal to the Greek words, and 99% textually pure (underlying scriptures).
+**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity (see previous quote)**. It's simply a measurement of how easy something is to read in english, or how close to the Greek wording, the english translation appears. 
 
-If you want something **100% literal** to the Greek (for purposes of debate or deeper understanding), you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin).
+<!-- The New Testament manuscripts upon which these versions are derived, are nearly perfectly preserved and inerrant. For example: The NLT is 70.08% readable, 39.90% literal to the Greek words, and 99% textually pure (underlying scriptures). -->
 
+<!-- If you want something **100% literal** to the Greek (for purposes of debate or deeper understanding), you want an interlinear: I use an [ESV reverse interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) for this purpose as I believe the contrast between the readability of the ESV, and the Greek, works very nicely together. Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin). -->
+
+- [Greek Interlinear](https://static.crossway.org/excerpts/media/f750c8d2414a1cdd7824c687d14ffe35e9054327/english.greek.rev.interlin.interior.pdf) (Word-For-Word) Formal Equivalence
+    - [ESV Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+        - Scholars: 100+
+        - Readability & Literalness Scores
+            - ESV: 62.36% / **100% (Greek)**; 68.74% (ESV)
+        - Textual Basis
+            - OT: Biblia Hebraica Stuttgartensia (5th ed., 1997)
+            - NT: **Critical Text** UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012)
 - Formal Equivalence (Word-For-Word) Translation Type
     - [LSB - Legacy Standard Bible](https://lsbible.org/)
         - Scholars: 135+ (70+ LSB & 65 NASB 95)
