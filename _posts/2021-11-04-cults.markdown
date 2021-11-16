@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:30:02 -0700
+date: 2021-11-04 11:31:31 -0700
 categories: god bible religion cults
 published: true
 ---
 
 <!-- **TL;DR:** Ctrl+F "Dichotomy" -->
 
-This article is an amalgamation of several sources, and constitutes a reorganization of said data into one singular point. Attribution is given at the end of each section. The aforementioned data will then be expanded upon with logic and proof. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to deduce that which is false, and set free those who are lost in that falsehood.
+This article is an amalgamation of several sources, and constitutes a reorganization of said data into one singular point. Attribution is given at the end of each section. The aforementioned data will then be expanded upon with logic and scriptural proof. The purpose of this article is to apply critical thinking skills and logic to what we know to be true, in order to deduce that which is false, and set free those who are lost in that falsehood.
 
 > "**Examine yourselves as to whether you are in the faith. Test yourselves.** Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified." &mdash; 2 Corinthians 13:5
 
@@ -827,13 +827,13 @@ In this passage, Jesus is speaking on the Mount of Olives about end time events 
 
 ❌ <span style="font-weight:bold;color:#C00000;">The Cults:</span> “Well, look at that! Do you believe Almighty God knows all things? [Yes.] Well, then Jesus certainly cannot be God, for he plainly stated here (Mark 13:32) that there are certain things he doesn’t know!”
 
-✔️ <span style="font-weight:bold;color:Green;">Answer:</span> Well, although Jesus was God and is God, at the incarnation Jesus took on a human nature. He had two natures. He was both God and man.
+✔️ <span style="font-weight:bold;color:Green;">Answer:</span> Although Jesus was God and is God, at the incarnation Jesus took on a human nature. He had two natures. He was both God and man.
 
-As a man, Jesus cooperated with the limitations of being a man; He often chose to experience the normal limitations of human knowledge (Mark 13:32); He experienced hunger (Luke 4:2), weariness (John 4:6), and the need for sleep (Luke 8:23). We even read in Luke’s Gospel that He grew in wisdom (2:40, 52) and that He “learned obedience” through His sufferings in Hebrews 5:8.
+<!-- As a man, Jesus cooperated with the limitations of being a man; He often chose to experience the normal limitations of human knowledge (Mark 13:32); He experienced hunger (Luke 4:2), weariness (John 4:6), and the need for sleep (Luke 8:23). We even read in Luke’s Gospel that He grew in wisdom (2:40, 52) and that He “learned obedience” through His sufferings in Hebrews 5:8. -->
 
 So, we have no problem here in Mark 13 with Jesus speaking from the vantage point of His humanity, saying He knew not the day of His Second Coming.
 
-This was answered thoroughly in the last section under "Hypostatic Union".
+**This was answered thoroughly in the last section under "Hypostatic Union".**
 
 ➕ <span style="font-weight:bold;color:grey;">Additionally:</span> If Jesus is not God because he did not know something, then God the Father can't be God because only Jesus knows this name:
 
@@ -900,7 +900,9 @@ Even though I could've ended this article without including anything past provin
 
 # Readability & literalness scores based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu.
 
-**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity (see previous quote)**. It's simply a measurement of how easy something is to read in English, or how close to the Greek wording, the English translation appears. 
+**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity, all of the following translations can claim 99% NT textual purity (see previous quote)**. It's simply a measurement of how easy something is to read in English, or how close to the Greek wording, the English translation appears. We actually don't want the literalness scores to exceed ~70%, because we would end up with a very terse and unreadable English translation.
+
+<!-- According to scholars, the jectural emendation (suggested wording that is not based on any MS data) is unnecessary: we have the words of the original text *somewhere* among the existing MSS. The NT is proven to be ~99% textually pure, and the OT was  -->
 
 <!-- Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin). -->
 
