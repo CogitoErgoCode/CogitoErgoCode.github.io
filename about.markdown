@@ -37,7 +37,7 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
     - `Native Language:` English
     - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
     - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto)
-    - `Natural Language:` 私は日本語を勉強しています。
+    - `Natural Language:` [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
