@@ -36,8 +36,8 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 - `Language Polyglotism`
     - `Native Language:` English
     - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
-    - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
-    - `Natural Language:` See Goals
+    - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto)
+    - `Natural Language:` 私は日本語を勉強しています。
 - `Musical Instruments:` Piano
 - `Method of Exercise:` Calisthenics
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
@@ -64,7 +64,7 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 
 - `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
-- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto (Mi deziras paroli Esperanton flue)](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
+- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
 
 <!-- Mi lernas Esperanton -->
 
