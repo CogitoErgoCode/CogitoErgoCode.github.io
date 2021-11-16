@@ -423,7 +423,7 @@ According to a preliminary study, Esperanto led to a **50% improvement in French
 
 It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
-I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages, **followed by the languages in bold above**. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
+I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages<!--,**followed by the languages in bold above**-->. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
