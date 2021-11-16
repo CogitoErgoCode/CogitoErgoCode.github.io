@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:25:25 -0700
+date: 2021-11-04 11:26:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -684,14 +684,15 @@ Jesus is absolutely equal in nature to God the Father. But in John 14:28, while 
 
 # 6. Is Jesus Not Good?
 
-- Matthew 19:16–17
-<!-- > 16 Now behold, one came and said to Him, “Good Teacher, what good thing shall I do that I may have eternal life?” 17 So He said to him, “**Why do you call Me good? No one is good but One, that is, God**. But if you want to enter into life, keep the commandments.” &mdash; NKJV -->
-
-> "And behold, someone came to Him and said, “Teacher, what good thing shall I do that I may have eternal life?” 17 And He said to him, **“Why are you asking Me about what is good? There is only One who is good;** but if you wish to enter into life, keep the commandments.”
+- Mark 10:17-18 LSB
+> "And as He was setting out on a journey, a man ran up to Him and knelt before Him, and began asking Him, “Good Teacher, what shall I do to inherit eternal life?” 18 And Jesus said to him, **“Why do you call Me good? No one is good except God alone."** &mdash; LSB
 
 ❌ <span style="font-weight:bold;color:#C00000;">The Cults:</span> “So look at that. Jesus says that no one is good but God! In effect, he was clearly denying equality with God.”
 
-✔️ <span style="font-weight:bold;color:Green;">Answer:</span> According to the Scriptures, It is true that God alone truly is good; however, Jesus was not excluding himself. He was calling upon the man to examine the implications of what he said. Jesus was, in effect, asking him, “Do you realize who you are saying I am when you call Me good?
+✔️ <span style="font-weight:bold;color:Green;">Answer:</span> According to the Scriptures, It is true that God alone truly is good; however, Jesus was not excluding himself. He was calling upon the man to examine the implications of what he said. Jesus was, in effect, asking him, “Do you realize who you are saying I am when you call Me good? This is made even more clear when examining the way Matthew recounted the parable of the rich young ruler.
+
+- Matthew 19:16–17 LSB
+> And behold, someone came to Him and said, “Teacher, what good thing shall I do that I may have eternal life?” 17 And He said to him, **“Why are you asking Me about what is good? There is only One who is good**; but if you wish to enter into life, keep the commandments.”
 
 The Bible makes it clear that the hearts of men are desperately wicked (Jeremiah 17:9), all of mankind like sheep have gone astray (Isaiah 53:6), and that there is “none righteous; no not one” (Romans 3:10).
 
@@ -699,10 +700,13 @@ The Bible makes it clear that the hearts of men are desperately wicked (Jeremiah
 
 Since we know that Jesus is God from previous sections, it should be no surprise to find that Jesus calls himself Good:
 
-- John 10:11,14
-> “**I am the good shepherd**. The good shepherd gives His life for the sheep.”
+- John 10:11,14 LSB
+> “**I am [Egō eimi] the good shepherd**; the good shepherd lays down His life for the sheep.
+    
+    > **I am [Egō eimi] the good shepherd**, and I know My own and My own know Me,
 
-    > "**I am the good shepherd**; and I know My sheep, and am known by My own."
+- Psalm 23:1 LSB
+> "**Yahweh is my shepherd**,..."
 
 Jesus was holy? Innocent? Undefiled? That’s pretty good! That’s better than good. Jesus was perfect!
 
@@ -886,7 +890,7 @@ To further verify that Solomon was not talking about Jesus (the Messiah who woul
 
 Even though I could've ended this article without including anything past proving the witnesses to be false prophets, I decided to go out of my way to provide answers to an organization that has essentially debunked itself as far back as the late 1800's. 
 
-# Trustworthy Bible Translations (Textual Basis & Translation Types)
+# Trustworthy Bible Translations (Textual Purity)
 
 **As far as legitimate Christian translations are concerned**, I've compiled a list of acceptable versions that I use personally. When I want to use a [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) derived translation, I use the [NKJV](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6). When I want to use the [Critical Text](https://carm.org/king-james-onlyism/what-is-the-critical-text/), I use either an [LSB](https://316publishing.com/collections/legacy-standard-bible), or an ESV. If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT.
 
