@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:32:00 -0700
+date: 2021-11-04 11:33:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -50,6 +50,11 @@ Before journeying into a debate, however logically sound our position may be, we
     - An example might be: "If you're so smart, why aren't you rich?"
     
         This type of conclusion is an error in logic. Essentially, nothing is "above your pay-grade". No matter your tax bracket, the merits of your argument should be taken seriously. 
+
+- **`Argumentum ad populum:`** An `appeal to the majority`, is a proposition that is claimed to be true or good solely because a majority or many people believe it to be so. This is also known as: the bandwagon argument.
+    - I think Einstein said it best when he said:
+        
+        > “What is right is not always popular and what is popular is not always right.” &mdash; Albert Einstein 
 
 - **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
 
