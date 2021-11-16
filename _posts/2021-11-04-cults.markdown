@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:31:31 -0700
+date: 2021-11-04 11:32:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -892,7 +892,7 @@ To further verify that Solomon was not talking about Jesus (the Messiah who woul
 
 Even though I could've ended this article without including anything past proving the witnesses to be false prophets, I decided to go out of my way to provide answers to an organization that has essentially debunked itself as far back as the late 1800's. 
 
-# Trustworthy Bible Translations (Textual Purity)
+# Trustworthy Bible Translations
 
 **As far as legitimate Christian translations are concerned**, I've compiled a list of acceptable versions that I use personally. When I want to use a [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) derived translation, I use the [NKJV](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6). When I want to use the [Critical Text](https://carm.org/king-james-onlyism/what-is-the-critical-text/), I use either an [LSB](https://316publishing.com/collections/legacy-standard-bible), or an ESV. If you don't care about intense study or debate, and would only like to read the bible leisurely, I recommend the NLT.
 
@@ -900,20 +900,10 @@ Even though I could've ended this article without including anything past provin
 
 # Readability & literalness scores based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu.
 
-**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity, all of the following translations can claim 99% NT textual purity (see previous quote)**. It's simply a measurement of how easy something is to read in English, or how close to the Greek wording, the English translation appears. We actually don't want the literalness scores to exceed ~70%, because we would end up with a very terse and unreadable English translation.
-
-<!-- According to scholars, the jectural emendation (suggested wording that is not based on any MS data) is unnecessary: we have the words of the original text *somewhere* among the existing MSS. The NT is proven to be ~99% textually pure, and the OT was  -->
+**[Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf) scores do not denote textual purity, all of the following translations can claim 99% NT textual purity (see previous quote)**. It's simply a measurement of how easy something is to read in English, or how close to the Greek wording, the English translation appears. We actually don't want the literalness scores to exceed ~70%, because we would end up with a very terse and unreadable English translation. If you want 100% literalness to the 99% textually pure Greek NT, you want an interlinear.
 
 <!-- Otherwise I carry an [LSB](https://316publishing.com/collections/legacy-standard-bible/products/lsb-new-testament-with-psalms-and-proverbs-goatskin). -->
 
-- [Greek Interlinear](https://static.crossway.org/excerpts/media/f750c8d2414a1cdd7824c687d14ffe35e9054327/english.greek.rev.interlin.interior.pdf) (Word-For-Word) Formal Equivalence
-    - [ESV Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
-        - Scholars: 100+
-        - Readability & Literalness Scores
-            - ESV: 62.36% / **100% (Greek)**; 68.74% (ESV)
-        - Textual Basis
-            - OT: Biblia Hebraica Stuttgartensia (5th ed., 1997)
-            - NT: **Critical Text** UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012)
 - Formal Equivalence (Word-For-Word) Translation Type
     - [LSB - Legacy Standard Bible](https://lsbible.org/)
         - Scholars: 135+ (70+ LSB & 65 NASB 95)
@@ -923,6 +913,13 @@ Even though I could've ended this article without including anything past provin
         - Textual Basis (NASB 95 base text)
             - OT: Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta
             - NT: **Critical Text** Novum Testamentum Graece (28th ed., 2012)
+    - [ESV Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) [[Sample](https://static.crossway.org/excerpts/media/f750c8d2414a1cdd7824c687d14ffe35e9054327/english.greek.rev.interlin.interior.pdf)]
+        - Scholars: 100+
+        - Readability & Literalness Scores
+            - ESV: 62.36% / **100% (Greek)**; 68.74% (ESV)
+        - Textual Basis
+            - OT: Biblia Hebraica Stuttgartensia (5th ed., 1997)
+            - NT: **Critical Text** UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012)
     - [ESV - English Standard Version](https://www.esv.org/translation/)
         - Scholars: 100+
         - Readability & Literalness Scores
