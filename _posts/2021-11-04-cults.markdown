@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:38:00 -0700
+date: 2021-11-04 11:39:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -68,7 +68,7 @@ Before journeying into a debate, however logically sound our position may be, we
 
 A subtype of Informal fallacy (arguments that are logically unsound for lack of well-grounded premises).
 
-- **`Argumentum ad lapidem`** or an `appeal to the stone,` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Not to be confused with `reductio ad absurdum` or an `appeal to ridicule` (see Red Herring Fallacies below)
+- **`Argumentum ad lapidem`** or an `appeal to the stone,` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Not to be confused with `reductio ad absurdum` or an `appeal to ridicule` (see Red Herring Fallacies)
 
 - **`Argumentum ad ignorantiam`** or an `appeal to ignorance:` Assuming that a claim is false because it has not been or cannot be proven true, or vice versa, assuming that a claim is true because it has not been or cannot be proven false.
 
