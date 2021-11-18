@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:37:00 -0700
+date: 2021-11-04 11:38:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -14,9 +14,11 @@ This article is an amalgamation of several sources, and constitutes a reorganiza
 
 ## **Rules of Engagement**
 
-Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called ["red herring fallacies,"](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies) upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. So in an effort to avoid immature drama, and illogical tangents, I will describe a few of the most relevant fallacies.
+Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. So in an effort to avoid immature drama, and illogical tangents, I will describe a few of the most relevant fallacies.
 
-> "A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
+# Red Herring Fallacies
+
+> "A red herring fallacy, **one of the main subtypes of fallacies of relevance**, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
 
 - **`Argumentum ad hominem:`** An `Ad hominem` attack is an error in logic, which leads the loser of said argument, to attack the arguer instead of the argument. A very true statement (verified by the logic above) often attributed to (Irrelevant) the Greek philosopher Socrates, states "When the debate is lost, slander becomes the tool of the losers." Subtypes of ad hominem include: circumstantial, poisoning the well, appeal to motive, tone policing & traitorous critic fallacy.
 
@@ -35,7 +37,9 @@ Before journeying into a debate, however logically sound our position may be, we
         Give instruction to a wise man, and he will be still wiser;
         Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9
 
-    - Another good example would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
+        Not to be confused with: `Argumentum ad lapidem` or an `appeal to the stone` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Ad lapidem is only a relevance fallacy and not of the red herring subtype. Notice the difference between ad absurdum and ad lapidem, one is ridiculing and irrelevant while the other is simply irrelevant.
+
+    - Another good example of ad absurdum would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
 
         > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
 
@@ -59,6 +63,32 @@ Before journeying into a debate, however logically sound our position may be, we
 - **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
 
     - This is used a lot by the cults, especially in the witness organization. Examples will be given below.
+
+# Relevance Fallacies 
+
+A subtype of Informal fallacy (arguments that are logically unsound for lack of well-grounded premises).
+
+- **`Argumentum ad lapidem`** or an `appeal to the stone,` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Not to be confused with `reductio ad absurdum` or an `appeal to ridicule` (see Red Herring Fallacies below)
+
+- **`Argumentum ad ignorantiam`** or an `appeal to ignorance:` Assuming that a claim is false because it has not been or cannot be proven true, or vice versa, assuming that a claim is true because it has not been or cannot be proven false.
+
+    - For example: Assuming there is no God, because it has not been or cannot be proven, is just as ignorant and illogical as assuming there is a God, because it has not been or cannot be disproven. 
+    
+        What lacks proof today may have proof tomorrow, which would mean, it was just as true the day it had no proof as the day in which the proof was found. We do not base our conclusions upon this form of faulty reasoning. 
+    
+        Further, to ask for scientifically testable, material, non-transcendent evidence for an immaterial, transcendent God or hyper-dimensional entity (i.e. demon) is embarrassingly illogical and stymies scientific progress in the discovery of life in the cosmos beyond our own, which may indeed be of a higher spacial dimensionality, existing outside of our 3-dimensional understanding.
+    
+
+<!-- 
+- The problem with the Atheists claim that God does't exist, because there is no proof is that Christians don't believe in a material God either. We believe in a Transcendent God, so asking for material proof by scientific method demonstrates both and error in logic (Argumentum ad ignorantiam), and a lack of understanding in what Christians believe.
+- The scientific method, created by a brilliant scientist and philosopher of science by the name of Sir Francis Bacon, is a system of learning that consists of observation, hypothesis, experimentation, prediction, and theory. It is based on logic and observations of the material universe and its properties. Bacon was a devout Christian.
+-->
+
+<!-- > The wicked fool says in his heart, “There is no God.”
+They act corruptly, they commit abominable deeds;
+There is no one who does good. &mdash; Psalm 14:1 -->
+
+- **`Argumentum ad nauseam`** or `argumentum ad infinitum` otherwise known as an `Argument from repetition:` Repeating an argument until nobody cares to discuss it any more and referencing that lack of objection as evidence of support for the truth of the conclusion.
 
 # The Laws of Thought
 
@@ -245,10 +275,26 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
     - John 8:58-59
         > “Jesus said to them, “Most assuredly, I say to you, before Abraham was, **I AM**.” Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.”
 
-        Jesus called Himself “I AM”, the Old Testament name for God. He's saying that He is the God of the Old Testament.
+        Jesus called Himself “I AM”, the Old Testament name for God. He's saying that He is the God of the Old Testament. The Jews tried to kill him over it!
 
         - Exodus 3:14 LSB
         > And God said to Moses, **“I AM WHO I AM”**; and He said, “Thus you shall say to the sons of Israel, ‘**I AM** has sent me to you.’” 
+
+<!-- - John 14:8-9 LSB
+> Philip said to Him, “Lord, show us the Father, and it is enough for us.” 9 Jesus said to him, “Have I been with you all so long and have you not come to know Me, Philip? **He who has seen Me has seen the Father**; how can you say, ‘Show us the Father’?
+
+- John 10:30 LSB
+> **I** [Jesus] **and the Father are one.”** -->
+
+<!-- When a word is italicized in the Bible, that means it does not appear in the original Greek MSS (Manuscripts). 
+
+- John 8:24 
+> Therefore I said to you that you will die in your sins. For **unless you believe that I am** *He* [He is not in the Greek], you will die in your sins.”
+
+- John 8:28
+> So Jesus said, “When you lift up the Son of Man, **then you will know that I am** He [He is not in the Greek], and I do nothing from Myself, but I speak these things as the Father taught Me.
+
+In this context there is an implied predicate nominative (“he”) following the “I am” phrase. What Jesus’ hearers had to acknowledge is that he was who he claimed to be, i.e., the Messiah (cf. 20:31). This view is also reflected in English translations like NIV (“if you do not believe that I am the one I claim to be”), NLT (“unless you believe that I am who I say I am”), and CEV (“if you don’t have faith in me for who I am”). For a different view that takes this “I am” and the one in 8:28 as nonpredicated (i.e., absolute), see R. E. Brown, John (AB), 1:533-38. Such a view sees the nonpredicated “I am” as a reference to the divine Name revealed in Exod 3:14, and is reflected in English translations like NAB (“if you do not believe that I AM, you will die in your sins”) and TEV (“you will die in your sins if you do not believe that ‘I Am Who I Am’”) -->
 
 - `Jesus was prophesied to be God by Isaiah the Prophet`
     - Isaiah 9:6 LSB
@@ -265,29 +311,68 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
 - `Like God (Gen. 1:1), Jesus created`
 
     - John 1:3
-    > “**All things** were made through Him [Jesus], and without Him [Jesus] nothing was made that was made.”
+    > “**All things** were made through Him [Jesus], and without Him [Jesus] nothing was made that was made.” 
 
-    - Colossians 1:16-17
-    > “For by Him [See context. This is speaking of Jesus] **all things were created** that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. **All things were created through Him [Jesus] and for Him [Jesus]**. And **He [Jesus] is before all things**, and **in Him [Jesus] all things consist**.”
+    - Colossians 1:16-17 NKJV
+    > For **by Him** [See context. This is speaking of Jesus] **all things were created** that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. **All things were created through Him** [Jesus] **and for Him** [Jesus]. 17 And **He** [Jesus] **is before all things**, and **in Him** [Jesus] **all things consist**. 
 
-    - Yet God says (Isaiah 44:24)
-    > “I am the [LORD [YHWH "Yahweh"]](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), who makes **all things**, who stretches out the heavens **all alone**, who spreads abroad the earth **by Myself**”
+    - Yet, God says
+        <!-- > “I am the [LORD [YHWH "Yahweh"]](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), who makes **all things**, who stretches out the heavens **all alone**, who spreads abroad the earth **by Myself**” -->
+        - Isaiah 44:24 NKJV
+        > Thus says the [LORD](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), your Redeemer,
+        And He who formed you from the womb:
+        “I am the [LORD](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), who makes **all things**,
+        Who stretches out the heavens **all alone**,
+        Who spreads abroad the earth **by Myself**;
+        
+        - Isaiah 44:24 LSB
+        > Thus says Yahweh, your Redeemer, and the one who formed you from the womb,
+        “I, Yahweh, am the maker of **all things**,
+        Stretching out the heavens **by Myself**
+        And spreading out the earth **all alone**,
+
+<!-- - John 1:3 LSB
+    > **All things came into being through Him** [Jesus], and **apart from Him** [Jesus] **nothing came into being that has come into being**.
+
+    - Colossians 1:16-17 LSB
+    > For **in Him** [Jesus] **all things were created**, both in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities⁠—**all things have been created through Him** [Jesus] **and for Him**.
+    >
+    17 
+    And **He** [Jesus] **is before all things**,
+    And **in Him** [Jesus] **all things hold together**. -->
 
 - `Angels & men worship Jesus as God`
 
-    - Hebrews 1:6
-    > “But when He again brings the firstborn [Jesus] into the world, He says: **“Let all the angels of God worship Him [Jesus].”**
+    - Luke 4:8 LSB
+    > And Jesus answered and said to him, **“It is written, ‘You shall worship the Lord your God and serve Him only.’”**
 
-    - Revelation 5:13
-    > “And every creature which is in heaven and on the earth and under the earth and such as are in the sea, and all that are in them, I heard saying: “Blessing and honor and glory and power be to Him who sits on the throne, and to the Lamb, forever and ever!”
+    - Matthew 4:10 LSB
+    > Then Jesus said to him, **“Go, Satan! For it is written, ‘You shall worship the Lord your God, and serve Him only.’”**
 
-    - Matthew 14:32-33
-    > “And when they got into the boat, the wind ceased. Then those who were in the boat came **and worshiped Him [Jesus]**, saying, “Truly You are the Son of God.” (also see Matthew 28:9, 17, John 9:37-38)
-    
     Jesus never rebuked any Angel or any of His followers for worshiping Him and yet worship of anything or anyone other than God is absolutely forbidden in the Bible ...
 
-    - Luke 4:8
-    > “And Jesus answered and said to him, “Get behind Me, Satan! **For it is written, ‘You shall worship the Lord your God, and Him only you shall serve.’**”
+    - Hebrews 1:6 LSB
+    > And when He again brings the firstborn [Jesus] into the world, He says,
+    **“And let all the angels of God worship Him.”**
+
+    - Matthew 2:2,11 LSB
+    > 2 “Where is He [Jesus] who has been born King of the Jews? For **we saw His star in the east and have come to worship Him**.”
+    >> 11 And after coming into the house they saw the Child with Mary His mother; and **they fell to the ground and worshiped Him**. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh. 
+
+    - Matthew 14:32-33 LSB
+    > And when they got into the boat, the wind stopped. 33 And **those who were in the boat worshiped Him** [Jesus], saying, “You are truly God’s Son!” 
+
+    - Matthew 28:9,17 LSB
+    > And behold, Jesus met them and said, “Greetings!” And they came up and took hold of His feet **and worshiped Him**.
+    >> And when they saw Him, **they worshiped Him**; but some doubted. 
+
+    - John 9:37-38 LSB
+    > Jesus said to him, “You have both seen Him, and He is the one who is talking with you.” 38 And he said, “Lord, I believe.” **And he worshiped Him**. 
+
+    - Revelation 5:13 LSB
+    > And every created thing which is in heaven and on the earth and under the earth and on the sea, and all things in them, I heard saying, 
+    “To Him who sits on the throne, and to the Lamb [Jesus], be the blessing and the honor and the glory and the might forever and ever.” 
+    14 And the four living creatures kept saying, “Amen.” And **the elders fell down and worshiped**.
 
 - `The Apostles & Ante-Nicene Fathers call Jesus God`
     - The Apostle Thomas called Jesus “God.” (John 20:27-29)
@@ -515,7 +600,7 @@ The Watchtower scoffs at the belief that Jesus died on a cross. Jehovah’s Witn
 
 ***Conclusion: Jesus died for the sins of all mankind upon a cross.***
 
-*Source(s): [4](https://alwaysbeready.com/jehovahs-witnesses-by-charlie-campbell/#jwunbiblicalteachings), [5](https://alwaysbeready.com/twenty-reasons-christians-believe-jesus-is-god-by-charlie-campbell/)*
+*Source(s): [4](https://alwaysbeready.com/jehovahs-witnesses-by-charlie-campbell/#jwunbiblicalteachings), [5](https://alwaysbeready.com/twenty-reasons-christians-believe-jesus-is-god-by-charlie-campbell/), [6](https://carm.org/the-bible/divinity-of-jesus/)*
 
 ## **Attacks on the Deity of Jesus & Denial of Sound Scholarship**
 
@@ -905,7 +990,7 @@ To further verify that Solomon was not talking about Jesus (the Messiah who woul
 
 ***Conclusion: You can be absolutely confident that this is not about Jesus as the Watchtower Society would like us to believe.***
 
-*Source(s): [6](https://alwaysbeready.com/cults-attack-on-jesus-deity/), [7](https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union), [8](https://carm.org/about-jesus/if-jesus-is-god-then-why-did-he-not-know-the-time-of-his-return/), [9](https://www.gotquestions.org/Good-Shepherd.html)*
+*Source(s): [7](https://alwaysbeready.com/cults-attack-on-jesus-deity/), [8](https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union), [9](https://carm.org/about-jesus/if-jesus-is-god-then-why-did-he-not-know-the-time-of-his-return/), [10](https://www.gotquestions.org/Good-Shepherd.html)*
 
 ## **Conclusion**
 
