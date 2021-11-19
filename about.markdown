@@ -28,11 +28,13 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
     - [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53), [Chart](/assets/images/enneagram.png)
 <!-- - `Religious Affiliation:` Christianity -->
 - `Philosophical Stances`
-    <!-- - `Ontological View:` There is a<br>possible world in which there is an entity<br>which possesses maximal greatness. -->
-    <!-- - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) -->
+    - `Ontological View:` [Maximal Greatness Exists](https://thedailyapologist.com/blog/what-is-maximal-greatness-the-ontological-argument-part-4-by-aaron-johnson)
+    - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism)
+    <!-- , [Solipsism](https://en.wikipedia.org/wiki/Solipsism) -->
     - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
-    - `Knowledge Acquisition:` Do you believe all crows are birds?
-    <!-- [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction) -->
+    - `Knowledge Acquisition:` [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction)
+    - [`Eudaimonic, Aretē, Phronesis:`](https://en.wikipedia.org/wiki/Eudaimonia#The_Stoics) Christian, Stoicism
+        - [Michael Sugrue on Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
 - `Language Polyglotism`
     - `Native Language:` English
     - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
@@ -43,9 +45,11 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 - `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
 - `Literary Genre:` [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror)
 
+<!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
+
 > "The only way of discovering the limits of the possible is to venture a little way past them into the impossible." &mdash; Arthur C. Clarke
 
-<!-- - `Educational Objective:` M.S. Computer Science -->
+<!-- - `Educational Attainment:` M.S. Computer Science -->
 
 <!-- - `Merton's strain theory:`
     - [Youth: Sociological Retreatism (GST 1)](https://en.wikipedia.org/wiki/Strain_theory_(sociology)#Merton's_theory) -->
