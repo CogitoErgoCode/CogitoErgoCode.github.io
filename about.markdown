@@ -33,7 +33,8 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
     <!-- , [Solipsism](https://en.wikipedia.org/wiki/Solipsism) -->
     - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
     - `Knowledge Acquisition:` [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction)
-    - [`Eudaimonic, Aretē, Phronesis:`](https://en.wikipedia.org/wiki/Eudaimonia#The_Stoics) Christian, Stoicism
+    - `Eudaimonia & Aretē`
+        - Christianity, Stoicism, Raison d'être via 生き甲斐
         - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
         <!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
 - `Language Polyglotism`
