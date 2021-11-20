@@ -28,7 +28,7 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
     - [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53), [Chart](/assets/images/enneagram.png)
 <!-- - `Religious Affiliation:` Christianity -->
 - `Philosophical Stances`
-    - `Ontological View:` [Maximal Greatness](https://thedailyapologist.com/blog/what-is-maximal-greatness-the-ontological-argument-part-4-by-aaron-johnson)
+    <!-- - `Ontological View:` [Maximal Greatness](https://thedailyapologist.com/blog/what-is-maximal-greatness-the-ontological-argument-part-4-by-aaron-johnson) -->
     <!-- - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) -->
     <!-- , [Solipsism](https://en.wikipedia.org/wiki/Solipsism) -->
     - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
