@@ -29,14 +29,14 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 <!-- - `Religious Affiliation:` Christianity -->
 - `Philosophical Stances`
     - `Ontological View:` [Maximal Greatness](https://thedailyapologist.com/blog/what-is-maximal-greatness-the-ontological-argument-part-4-by-aaron-johnson)
-    - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism)
+    <!-- - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) -->
     <!-- , [Solipsism](https://en.wikipedia.org/wiki/Solipsism) -->
     - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
-    - `Knowledge Acquisition:` [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction)
+    <!-- - `Knowledge Acquisition:` [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction) -->
     - `Eudaimonia & Aretē`
         - Christianity, Stoicism, Raison d'être via 生き甲斐
         - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
-        <!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
+    <!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
 - `Language Polyglotism`
     - `Native Language:` English
     - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
