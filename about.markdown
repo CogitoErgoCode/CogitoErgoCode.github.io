@@ -269,7 +269,25 @@ Wisdom literature is also something of an interest to me.
         - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
     - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
 
-## 📜Selected Poetry
+## 🕹️ Entertainment & Literature
+
+- `Netflix`
+    - Squid Game (2021)
+
+<!-- - `Anime`
+    - Cowboy Bebop ('98 / '99): [Bled](https://youtu.be/fLaBzPPF4cU)
+    - Trigun ('98 )
+    - Berserk ('97): [Zodd](https://youtu.be/h63YO1cInQM)
+- `Gaming`
+    - Octopath Traveler (2018)
+    - Hollow Knight (2017)
+    - Hyper Light Drifter (2016): [Opening](https://youtu.be/9rVdUufUBss)
+    - The Elder Scrolls: Skyrim (2011)
+    - The Witcher: The Wild Hunt (2015)
+    - Pokémon Red and Blue ('98)
+    - Final Fantasy VII (1997) -->
+
+## 📜 Selected Poetry
 
 <!-- and other avant-garde poetry. -->
 
