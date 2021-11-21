@@ -10,7 +10,7 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#025982;">autodidact</a>, computer programmer, and <a href="https://en.wikipedia.org/wiki/Polymath" style="color:#025982;">renaissance man</a>. As well as an aspiring pianist & polyglot: <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#025982;">Mi deziras paroli Esperanton flue</a>, <a href="https://en.wikipedia.org/wiki/Japanese_language" style="color:#025982;">私は日本語を勉強しています</a>. According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#025982;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#025982;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#025982;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#025982;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#025982;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#025982;">chart</a>). 
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#025982;">autodidact</a>, computer programmer, and <a href="https://en.wikipedia.org/wiki/Polymath" style="color:#025982;">polymath</a>. As well as an aspiring pianist & polyglot: <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#025982;">Mi deziras paroli Esperanton flue</a>, <a href="https://en.wikipedia.org/wiki/Japanese_language" style="color:#025982;">私は日本語を勉強しています</a>. According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#025982;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#025982;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#025982;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#025982;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#025982;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#025982;">chart</a>). 
 
 I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#025982;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#025982;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#025982;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#025982;">right side of the cashflow quadrant</a>.
 
@@ -30,7 +30,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎹 Classical Piano
 
-The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it.
+<!-- The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it. -->
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
@@ -231,40 +231,42 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-## 🦉 Wisdom, Philosophy, Poetry
+<!-- ## 🦉 Wisdom, Philosophy, Poetry
 
 Wisdom literature is also something of an interest to me.
 
 - `Wisdom Literature & Philosophy`
     - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
-    <!-- - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D) -->
-    <!-- - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F) -->
-    <!-- - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/) -->
-<!-- - `Recreational Math / Logic` -->
+    - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D)
+    - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)
+    - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/)
+- `Recreational Math / Logic`
     - `Raymond Smullyan:` ["The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)
 - `Finance & Economics`
     - `George S. Clason:` [The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793)
     - `Robert Kiyosaki:` 
         - [Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2)
-        <!-- - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government -->
-    - `Thomas J. Stanley (Ph.D):` <!-- The Millionaire Mind, --> [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
+        - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
+    - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
 
-# Selected Poetry
+## 📜Selected Poetry
+
+<!-- and other avant-garde poetry. -->
 
 <!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
 
-<!-- > "Nature’s first green is gold,
-Her hardest hue to hold..." -->
+> "Nature’s first green is gold,
+Her hardest hue to hold..."
 
 - `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
 - `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
 - `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
 - `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
 - `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#025982;">Nemesis</a>
-- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
+<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
 <!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
+- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
 
 ## 📚 Academic Interests
 
@@ -303,7 +305,7 @@ I think it's important to have a basic understanding of general physics & chemis
     - `Dr. Paul A. LaViolette:` [Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)
 
 
-# Mythology
+<!-- # Mythology
 
 I'm also fascinated with mythology & folk lore.
 
@@ -315,9 +317,9 @@ I'm also fascinated with mythology & folk lore.
 - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/)
     - [The Poetic Edda](https://jacksonwcrawford.com/books/the-poetic-edda/)
     
-    <!-- - [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/) -->
+    - [The Saga of the Volsungs](https://jacksonwcrawford.com/books/the-saga-of-the-volsungs/)
 
-    <!-- - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
+    - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
 
 # Study & Relaxation
 
