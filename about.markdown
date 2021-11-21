@@ -29,7 +29,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 <!-- \[([a-zA-Z0-9\./#," ]+)\]\((https://[a-zA-Z0-9\./]+)\) -->
 <!-- <a href="$2" style="color:#025982;">$1</a> -->
 
-## 🦉 Beliefs & Philosophy
+## [🦉](/assets/images/wiseowl.png) Beliefs & Philosophy
 
 - `Apostolic Age / Apocalyptic Jewish Christianity`
     - Isaiah 40:3 Followers of "The Way" (ἡ ὁδός - hė hodós)
