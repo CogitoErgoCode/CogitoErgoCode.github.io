@@ -459,6 +459,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 > "There was never a genius without a tincture of madness." &mdash; Aristotle
 
+> “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft
+
 <!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
 <!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
