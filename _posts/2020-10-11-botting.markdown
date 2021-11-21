@@ -1,20 +1,10 @@
 ---
 layout: post
 title: "Cryptocurrency Botting & Automation"
-date: 2021-03-28 19:25:24 -0700
+date: 2021-03-28 19:40:00 -0700
 categories: crypto bitcoin python
 published: true
 ---
-
-\**This blog was written while listening to [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8) and other folk music listed in my about page*
-
-<!-- \**This blog was written while listening to [Anilah](https://youtu.be/AImY5NVcVKk), [Dzivia](https://youtu.be/H7ptAY-wj_M?t=44), & [Wardruna](https://youtu.be/JhiUacGzIg8)* -->
-
-<!-- [Yorke](https://youtu.be/SnIAxVx7ZUs), [Anilah](https://youtu.be/AImY5NVcVKk), [Dzivia](https://youtu.be/H7ptAY-wj_M?t=44), & [Wardruna](https://youtu.be/JhiUacGzIg8)*
-
-[Lorn·Cherry Moon](https://youtu.be/u7c2VLG5Ttc), [Ennja·Beat God](https://youtu.be/6A0TjleLTtM), [Hyper·He Rises](https://youtu.be/F_tsZJickpw), [enjoii·kate](https://youtu.be/MKrof66uZoM?t=176), [Skeler·Shook](https://youtu.be/3z78063K5xU), 
-
-<!-- [Savior](https://youtu.be/6hYmCF1UFfk?t=689) -->
 
 ## ⚠️ Abandoned Project ⚠️
 
