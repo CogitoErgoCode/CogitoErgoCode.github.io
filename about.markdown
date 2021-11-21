@@ -5,6 +5,15 @@ permalink: /about/
 ---
 
 <!-- ![It's me](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
+<!-- ![Uphill](/assets/images/uphills.png) -->
+
+<!-- <a href="https://youtu.be/Q0S3bzNVWmo" style="color:#025982;">
+<img alt="Uphill" src="/assets/images/uphills.png">
+</a> -->
+
+<a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">
+<img alt="Uphill" src="/assets/images/uphills.png">
+</a>
 
 <!-- \**This blog was written while listening to <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>* -->
 
