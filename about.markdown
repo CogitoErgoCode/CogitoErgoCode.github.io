@@ -286,8 +286,6 @@ My favorite introduction books & documentation on specific computer programming 
         - <a href="https://docs.python.org/3/reference/index.html" style="color:#025982;">Language Reference</a>
         - <a href="https://docs.python.org/3/howto/index.html" style="color:#025982;">HOWTOs</a> -->
 
-# Physics & Chemistry
-
 I think it's important to have a basic understanding of general physics & chemistry to better understand how the universe operates. For me, I think it helps form better material for some of the subgenres of fantasy. One of the things I'd like to eventually do is write a book. **I have yet to read these all the way through.**
 
 - `Chemistry`
