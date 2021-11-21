@@ -14,38 +14,17 @@ permalink: /about/
 
 ## **A Brief Summary**
 
-My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, self-taught computer programmer, aspiring pianist, and esperantist.
-
-<!-- I'm also fascinated with linguistics and enjoy reading about zeroth-order logic & solving recreational logic puzzles. -->
-
-<!-- I enjoy cultivating a healthy balance between mind and body. My lifestyle consists of hiking, calisthenics, and combat sports. I also keep my mind active with logic puzzles, computer programming, information security, cryptocurrencies, business, investing, economics, the piano, and [language learning](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). I also enjoy cooking as a hobby. -->
+My name is Ryan and I am a life long [autodidact](https://en.wikipedia.org/wiki/Autodidacticism), computer programmer, and [renaissance man](https://en.wikipedia.org/wiki/Polymath). As well as an aspiring pianist & polyglot: [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto), [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) According to the *Myers–Briggs Type Indicator* I am an [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988) ([Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png), [View](/assets/images/titles.jpg)), *and my Enneagram of Personality* is [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53) ([Chart](/assets/images/enneagram.png)). I enjoy the [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving recreational logic puzzles. If you would like to follow my language learning progress, you can follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
 <!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
 
-- `Myers–Briggs Type Indicator:` 
-    - [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988), [Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png), [View](/assets/images/titles.jpg)
-- `Enneagram of Personality` 
-    - [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53), [Chart](/assets/images/enneagram.png)
-<!-- - `Religious Affiliation:` Christianity -->
-- `Philosophical Stances`
-    <!-- - `Ontological View:` [Maximal Greatness](https://thedailyapologist.com/blog/what-is-maximal-greatness-the-ontological-argument-part-4-by-aaron-johnson) -->
-    <!-- - `Epistemological View:` [Transcendental Idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) -->
-    <!-- , [Solipsism](https://en.wikipedia.org/wiki/Solipsism) -->
-    - `Philosophy of Learning:` [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism)
-    <!-- - `Knowledge Acquisition:` [Do you believe all crows are birds?](https://en.wikipedia.org/wiki/Epistemology#A_priori%E2%80%93a_posteriori_distinction) -->
+<!-- - `Financial Goals:` [Business & Investing](/assets/images/cfq.png) -->
+
+<!-- 
     - `Eudaimonia & Aretē`
         - Christianity, Stoicism, Raison d'être via 生き甲斐
         - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
     <!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
-- `Language Polyglotism`
-    - `Native Language:` English
-    - [`Formal Language:`](https://en.wikipedia.org/wiki/Programming_language) [Python](https://www.python.org/)
-    - [`Artificial Language:`](https://en.wikipedia.org/wiki/Constructed_language) [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto)
-    - `Natural Language:` [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
-- `Musical Instruments:` Piano
-- `Method of Exercise:` Calisthenics
-- `Financial Goals:` [Business & Investing](/assets/images/cfq.png)
-- `Literary Genre:` [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror)
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
@@ -70,13 +49,9 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 
 - `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
-- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. See the **Natural Language** section below. 
+- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. 
 
-<!-- Mi lernas Esperanton -->
-
-<!-- like [German (Ich lerne Deutsch)](https://en.wikipedia.org/wiki/German_language) & [Japanese (私は日本語を勉強しています)](https://en.wikipedia.org/wiki/Japanese_language). -->
-
-<!-- I am curious about golang and interested in C# and Unity 2D indie game development. -->
+<!-- See the **Natural Language** section below.  -->
 
 <!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
 
@@ -98,7 +73,7 @@ My name is Ryan and I am a life long autodidact, polymath, aspiring polyglot, se
 
 <!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
 
-## **Musical, Literary, & Artistic Influences**
+## **Musical Influences**
 
 <!-- In my youth I grew up admiring both the piano and violin, I think it's somewhat unfortunate that I allowed so much time to pass without exploring these instruments and developing a lifelong skill. Now that I'm older I find myself still curious about what I might have accomplished had I committed to either of these beautiful instruments.
 
@@ -125,13 +100,13 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
-# Modern / Experimental Piano
+<!-- # Modern / Experimental Piano
 
 - **`Thom Yorke:`** [Suspirium](https://youtu.be/BTZl9KMjbrU), [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
 - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310)
-- `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776)
+- `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
 
-# Classical / Neoclassical Violin & Cello
+<!-- # Classical / Neoclassical Violin & Cello
 
 This section also encapsulates symphony orchestra, & philharmonic.
 
@@ -140,7 +115,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Eternal Eclipse`
     - `Forgotten Odes:` [Forgotten Odes](https://youtu.be/piRBMOxum3o), [Afterlight](https://youtu.be/GFH_KkAhWqE), [Revolution](https://youtu.be/pMIb9HRKJJQ), [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), [Fate of the Clockmaker](https://youtu.be/kfVmldkxgQc), [Theory Of Light](https://youtu.be/nBM6OX8MbYs), [Autumn Moon](https://youtu.be/X7oy2aJDKpc), [The Game is Afoot](https://youtu.be/Q5GHpnQVkDc), [The Last Funeral](https://youtu.be/Giy_HAKLVs4), [Shadows in the Sea](https://youtu.be/5E87Mz4X4K8)
 - `Arvo Pärt`
-    - `Tabula Rasa:` [Fratres](https://youtu.be/7YqF69HLkj8), [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358)
+    - `Tabula Rasa:` [Fratres](https://youtu.be/7YqF69HLkj8), [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
 <!-- - `Maurice Ravel`
     - [Valses Nobles et Sentimentales, No. 5 (Cleveland Orchestra, conducted by Pierre Boulez)](https://youtu.be/PDNy_GHNsiE?t=373) -->
@@ -175,7 +150,7 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Globus:` [Preliator](https://youtu.be/ebk877L4DeU)
 - `Carl Orff:` [Carmina Burana / O Fortuna](https://youtu.be/O5b7tgkdFH0), [Carmina Burana / Fortune plango vulnera](https://youtu.be/O5b7tgkdFH0?t=151) -->
 
-# Classical / Fingerstyle Guitar
+<!-- # Classical / Fingerstyle Guitar
 
 > "With invisible threads our worlds are connected and in-spite of our differences these worlds can meet in the heart of its being." &mdash; Estas Tonne
 
@@ -186,14 +161,14 @@ This section also encapsulates symphony orchestra, & philharmonic.
 \**Not purely guitar or classical, containing elements of piano and other instruments.*
 
 - `Paul Dinletir & Kevin Rix (Audiomachine):` [Begin Again](https://youtu.be/R2Xy4n0tZCk), [Abandoned Soul](https://youtu.be/3p9p3iQfYb4), [Look Within](https://youtu.be/PFtO9WDiRsA)
-- [`Black Hill & Silent Island`](https://youtu.be/_GV5_CpaybU): [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227)
+- [`Black Hill & Silent Island`](https://youtu.be/_GV5_CpaybU): [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227) -->
 
-# Alternative / Experimental Rock
+<!-- # Alternative / Experimental Rock
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
 - `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Spectre](https://youtu.be/CLiDemXYSLc),  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), [All I Need](https://youtu.be/FM7ALFsOH4g), [Codex](https://youtu.be/T7t38uDUg5E), [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), [Reckoner](https://youtu.be/pYHEpDnvVPk), [Faust Arp](https://youtu.be/PRc0iMRoIoc), [Nude](https://youtu.be/BbWBRnDK_AE), [Everything In Its Right Place](https://youtu.be/NUnXxh5U25Y), [Lucky](https://youtu.be/yuZYQvvLXVY), [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), [Idioteque](https://youtu.be/svwJTnZOaco), [Decks Dark](https://youtu.be/Del3C2W63Pk), [Scatterbrain](https://youtu.be/r7mN9BLr4jU), [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), [Like Spinning Plates](https://youtu.be/DQBDsNiCCNM), [Analyse](https://youtu.be/MnMUdko6ljs), [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), [Before Your Very Eyes](https://youtu.be/ZWrUEsVrdSU), [I Will](https://youtu.be/XWZmzdpyUTY), [Amok](https://youtu.be/0zIBbiSr8Lw), [Default](https://youtu.be/yxWBd840E9g)
-- `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc)
+- `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc) -->
 
 <!-- # Alternative / Progressive
 
@@ -250,8 +225,6 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
  
 -->
 
-# Miscellaneous
-
 <!-- 🜄🜓 -->
 
 <!-- Sometimes there is silence in noise... -->
@@ -260,6 +233,8 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 
 <!-- > "You must have a serene state of mind, tranquil like water after a storm." &mdash; @CogitoErgoCode -->
 
+<!-- # Miscellaneous
+
 - `Study` 
     - [White Noise](https://youtu.be/nMfPqeZjc2c), [Rain](https://youtu.be/q76bMs-NwRk)
 - `Ambient`
@@ -267,10 +242,11 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 - `Folk`
     - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
     - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
-    - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
-    <!-- , [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
-    <!-- - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44) -->
-    <!-- - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0) -->
+    - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA) -->
+
+<!-- , [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
+<!-- - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44) -->
+<!-- - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0) -->
     
 <!-- - `Cyberpunk / Electronic`
     - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
@@ -281,7 +257,7 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
     - `Sidewalks and Skeletons:` [Sleep Paralysis](https://youtu.be/SVP5yt2ltpc)
     - `Claims Casino:` [I'm God](https://youtu.be/RiZVjfjgNyY) -->
 
-# Literature & Textbooks
+## **Literary & Artistic Influences**
 
 I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) as well as the [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) literary genre and its subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). [H. P. Lovecraft's](https://www.hplovecraft.com/life/biograph.aspx) 28,000 word essay ["Supernatural Horror in Literature"](https://www.hplovecraft.com/writings/texts/essays/shil.aspx) would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
@@ -309,7 +285,26 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-Wisdom literature is also something of an interest to me, as I enjoy philosophy, and the wisdom of it's ancient revelations.
+# Selected Poetry
+
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+<!-- > "Nature’s first green is gold,
+Her hardest hue to hold..." -->
+
+- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
+- `Rudyard Kipling:` [If](https://poets.org/poem/if)
+- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
+- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
+- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
+- `H.P. Lovecraft:` [Nemesis](https://www.hplovecraft.com/writings/texts/poetry/p121.aspx)
+- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
+<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
+
+## **Wisdom & Philosophy**
+
+Wisdom literature is also something of an interest to me.
 
 - `Wisdom Literature & Philosophy`
     - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
@@ -325,6 +320,10 @@ Wisdom literature is also something of an interest to me, as I enjoy philosophy,
         <!-- - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government -->
     - `Thomas J. Stanley (Ph.D):` <!-- The Millionaire Mind, --> [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
 
+## **Academic Interests**
+
+# Computer Science
+
 My favorite introduction books & documentation on specific computer programming languages within computer science. It's been a hobby so long most of my knowledge has become tacit knowledge, but if I had to recommend a single book per favorite language, this would be that list.
 
 - `Computer Science & Information Security`
@@ -338,6 +337,8 @@ My favorite introduction books & documentation on specific computer programming 
         - [Standard Library](https://docs.python.org/3/library/index.html)
         - [Language Reference](https://docs.python.org/3/reference/index.html)
         - [HOWTOs](https://docs.python.org/3/howto/index.html)
+
+# Physics & Chemistry
 
 I think it's important to have a basic understanding of general physics & chemistry to better understand how the universe operates. For me, I think it helps form better material for some of the subgenres of fantasy. One of the things I'd like to eventually do is write a book. **I have yet to read these all the way through.**
 
@@ -354,6 +355,9 @@ I think it's important to have a basic understanding of general physics & chemis
     - `Edwin A. Abbott:` [Flatland: A Romance of Many Dimensions, pg.58](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0)
     - `Dr. Michio Kaku:` [Hyperspace: ...Parallel Universes, Time Warps, and the 10th Dimension](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)
     - `Dr. Paul A. LaViolette:` [Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)
+
+
+# Mythology
 
 I'm also fascinated with mythology & folk lore.
 
@@ -373,63 +377,6 @@ I'm also fascinated with mythology & folk lore.
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
 - `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
 -->
-
-# Selected Poetry
-
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
-
-<!-- > "Nature’s first green is gold,
-Her hardest hue to hold..." -->
-
-- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Rudyard Kipling:` [If](https://poets.org/poem/if)
-- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
-- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
-- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H.P. Lovecraft:` [Nemesis](https://www.hplovecraft.com/writings/texts/poetry/p121.aspx)
-- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
-- `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
-
-## **Natural Language**
-
-The [Sapir–Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language. I've always wondered how my thoughts and influences might change if I became multilingual. Another thought was whether or not programming languages and musical languages, if you will, had any impact on this theory.
-
-> “Once you stop learning you start dying” &mdash; Albert Einstein
-
-The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV. I have often considered taking on the challege of learning 1 language from each category.
-
-<!-- > “Time is the longest distance between two places.” &mdash; Tennessee Williams, The Glass Menagerie -->
-
-<!-- Everything Category I and beyond is from the FSI. I'm modifying the table with a new category to represent constructed languages. We'll call it Category 0, since in computer science array indices start with zero. -->
-
-<!-- - `Category 0 (Super Easy):` 6 weeks (150 class hours)
-    - **Esperanto** -->
-
-- `Category I (Easy):` 24-30 weeks (600-750 class hours)
-    - Danish, Dutch, 🇫🇷 **French (30)**, Italian, Norwegian, Portuguese, Romanian, Spanish, Swedish 
-- `Category II (Moderate):` Approximately 36 weeks (900 class hours)
-    - 🇩🇪 **German**, Haitian Creole, Indonesian, Malay, Swahili
-- `Category III (Hard):` Approximately 44 weeks (1100 class hours)
-    - Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, Russian, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese
-- `Category IV (Super Hard):` 88 weeks (2200 class hours)
-    - Arabic, Cantonese (Chinese), Mandarin (Chinese), 🇯🇵 **Japanese**, Korean
-
-<!-- **I have not commited to any natural language for more than a month** consecutively, in my lifetime, thus far; however, by observing my learning habits, I seem to gravitate toward Germanic languages.  -->
-
-I have put a considerable amount of thought behind what the criteria would be for selecting a language while ensuring its practicality:
-
-1. [The language should have a high population of speakers. (frequency)](https://www.visualcapitalist.com/a-world-of-languages/)
-2. [The language should be in the top 10 wealthiest nations. (longevity)](https://www.visualcapitalist.com/all-of-the-worlds-wealth-in-one-visualization/)
-3. The language should be part of a culture you identify with. (enjoyment)
-
-I have often thought of learning more about the ancient past and [old world languages](/assets/images/oldworld.jpg). [Old Norse](https://youtu.be/_ASsCH17cbA) is fascinating, with Icelandic being the most conservative of the North Germanic languages. It's unlikely I'll ever study this, but I thought it worth a mention.
-
-According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
-
-It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
-
-I will likely focus on **Esperanto** first because of its [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) which raises language awareness and accelerates subsequent learning of foreign languages<!--,**followed by the languages in bold above**-->. Esperanto will serve as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) to the rest. If you would like to follow my natural language learning progress, you can follow me on [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64) under the same alias.
 
 
 ## **Inspirational Quotes**
