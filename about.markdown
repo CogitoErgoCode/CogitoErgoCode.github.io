@@ -268,23 +268,23 @@ Her hardest hue to hold..."
 - `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
 - `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
 
-## 📚 Academic Interests
+## 📚 Other Academic Interests
 
-# Computer Science
+<!-- # Computer Science
 
 My favorite introduction books & documentation on specific computer programming languages within computer science. It's been a hobby so long most of my knowledge has become tacit knowledge, but if I had to recommend a single book per favorite language, this would be that list.
 
 - `Computer Science & Information Security`
     - `Kernighan & Ritchie:` [The C Programming Language (K&R)](http://library.lol/main/557D09E0CCE8E829C47C3CC0B2984C5A)
     - `Lippman, Lajoie & Moo:` C++ Primer (4th Edition, 5th is out)
-    <!-- - `Jon "Smibbs" Erickson:` [Hacking: The Art of Exploitation (2nd Edition)](http://library.lol/main/1959D64F20CCD0D1EFEF3CE6375BA312) -->
+    - `Jon "Smibbs" Erickson:` [Hacking: The Art of Exploitation (2nd Edition)](http://library.lol/main/1959D64F20CCD0D1EFEF3CE6375BA312)
     - `Schwartz & Foy:` [Learning Perl (5th Edition, 7th is out)](http://library.lol/main/6E9860A2C0A5AD5FB95E017DF3BE2DA4)
     - `Aditya Y. Bhargava:` [Grokking Algorithms](http://library.lol/main/4EFD486FED05D3DDEB937A247E85E6BD)
     - `David M. Beazley:` [Python Essential Reference (4th Edition)](http://library.lol/main/54A3BB8A2EF2A0AEC99F41600887B78B)
     - `Python Documentation` 
         - <a href="https://docs.python.org/3/library/index.html" style="color:#025982;">Standard Library</a>
         - <a href="https://docs.python.org/3/reference/index.html" style="color:#025982;">Language Reference</a>
-        - <a href="https://docs.python.org/3/howto/index.html" style="color:#025982;">HOWTOs</a>
+        - <a href="https://docs.python.org/3/howto/index.html" style="color:#025982;">HOWTOs</a> -->
 
 # Physics & Chemistry
 
