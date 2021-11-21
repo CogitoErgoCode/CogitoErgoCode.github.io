@@ -29,11 +29,21 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 <!-- \[([a-zA-Z0-9\./#," ]+)\]\((https://[a-zA-Z0-9\./]+)\) -->
 <!-- <a href="$2" style="color:#025982;">$1</a> -->
 
-<!-- 
-- `Eudaimonia & Aretē`
-    - Christianity, Stoicism, Raison d'être via 生き甲斐
-    - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
-<!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
+## 🦉 Beliefs & Philosophy
+
+- `Apostolic Age / Apocalyptic Jewish Christianity`
+    - Isaiah 40:3 Followers of "The Way" (ἡ ὁδός - hė hodós)
+- `Ante-Nicene period Christianity`
+    - Acts 11:26 (Χριστιανισμός)
+- `The Stoic Ideal (Stoicism)`
+    - <a href="https://youtu.be/cPglxsqsL_c" style="color:#025982;">Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations</a>
+    - Philippians 4:8 (Eudaimonia & Aretē)
+- `Rise`
+    - <a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">七転び八起き</a>
+    - Proverbs 24:16
+- `Raison d'être via 生き甲斐`
+
+<!-- (https://youtu.be/Auuk1y4DRgk?t=24)
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
