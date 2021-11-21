@@ -269,7 +269,7 @@ Wisdom literature is also something of an interest to me.
         - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
     - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
 
-## 🕹️ Entertainment & Literature
+## 🕹️ Entertainment
 
 - `Netflix`
     - Squid Game (2021)
@@ -287,7 +287,7 @@ Wisdom literature is also something of an interest to me.
     - Pokémon Red and Blue ('98)
     - Final Fantasy VII (1997) -->
 
-## 📜 Selected Poetry
+## 📜 Literature & Poetry
 
 <!-- and other avant-garde poetry. -->
 
