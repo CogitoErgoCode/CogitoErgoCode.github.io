@@ -274,9 +274,9 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-In my youth, I grew up into all the retro arcades, games, movies, and anime in the 90's. Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM). 
+In my youth, I grew up into all the retro arcades, games, movies, and anime in the 90's. Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM). 
 
-As a young adult onward: The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late.
+As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late.
 
 - `Netflix`
     - Squid Game (2021)
