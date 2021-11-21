@@ -271,23 +271,18 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
+In my youth, I grew up into all the retro arcades, games, movies, and anime in the 90's. Mortal Kombat I-III ('92-'95), Pokémon Red and Blue ('98) for the Gameboy Pocket, Final Fantasy VII (1997), Diablo II: Lord of Destruction (2001), [The Matrix ('99)](https://youtu.be/uAXtO5dMqEI), Dragon Ball, [Cowboy Bebop ('98-99)](https://youtu.be/fLaBzPPF4cU), and [Berserk ('97)](https://youtu.be/h63YO1cInQM). As a young adult onward: The Elder Scrolls: Oblivion & Skyrim (2011), The Witcher: The Wild Hunt (2015). I have less time these days and I tend towards indie games as of late.
+
 - `Netflix`
     - Squid Game (2021)
-
-<!-- - `Anime`
-    - Cowboy Bebop ('98 / '99): [Bled](https://youtu.be/fLaBzPPF4cU)
-    - Trigun ('98 )
-    - Berserk ('97): [Zodd](https://youtu.be/h63YO1cInQM)
-- `Gaming`
+- `Nintendo Switch`
     - Octopath Traveler (2018)
     - Hollow Knight (2017)
-    - Hyper Light Drifter (2016): [Opening](https://youtu.be/9rVdUufUBss)
-    - The Elder Scrolls: Skyrim (2011)
-    - The Witcher: The Wild Hunt (2015)
-    - Pokémon Red and Blue ('98)
-    - Final Fantasy VII (1997) -->
+    - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss)
 
 ## 📜 Literature & Poetry
+
+As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#025982;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
 <!-- and other avant-garde poetry. -->
 
@@ -357,10 +352,9 @@ I'm also fascinated with mythology & folk lore.
 
     - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
 
-# Study & Relaxation
-
-- `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
-- `Ambient:` <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
+- Study & Relaxation
+    - `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
+    - `Ambient:` <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
 
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
