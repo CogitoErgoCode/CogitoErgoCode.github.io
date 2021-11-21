@@ -467,7 +467,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
 
-# Support This Blog
+## 🪙 Support This Blog
 
 - `ERC20` or `BEP20` Stablecoins:
     -  Address: *0xdFeFa105F4b45313404bbC6e6463200ef65D3b1b*
