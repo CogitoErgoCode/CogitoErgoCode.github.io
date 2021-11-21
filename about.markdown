@@ -6,105 +6,57 @@ permalink: /about/
 
 <!-- ![It's me](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
 
-<!-- \**This blog was written while listening to [Internal Flight](https://youtu.be/6lIt07sBW4E)* -->
-
-<!-- ⚠️ I do not own any social media accounts apart from those listed here (largely inactive). -->
+<!-- \**This blog was written while listening to <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>* -->
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-## **A Brief Summary**
 
-My name is Ryan and I am a life long [autodidact](https://en.wikipedia.org/wiki/Autodidacticism), computer programmer, and [renaissance man](https://en.wikipedia.org/wiki/Polymath). As well as an aspiring pianist & polyglot: [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto), [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) According to the *Myers–Briggs Type Indicator* I am an [INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988) ([Chart](/assets/images/MyersBriggsTypes.png), [Sports](/assets/images/mbti_sports.png), [View](/assets/images/titles.jpg)), *and my Enneagram of Personality* is [5w6](https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53) ([Chart](/assets/images/enneagram.png)). I enjoy the [Lovecraftian](https://en.wikipedia.org/wiki/Lovecraftian_horror) literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving recreational logic puzzles. If you would like to follow my language learning progress, you can follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#025982;">autodidact</a>, computer programmer, and <a href="https://en.wikipedia.org/wiki/Polymath" style="color:#025982;">renaissance man</a>. As well as an aspiring pianist & polyglot: <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#025982;">Mi deziras paroli Esperanton flue</a>, <a href="https://en.wikipedia.org/wiki/Japanese_language" style="color:#025982;">私は日本語を勉強しています</a>. According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#025982;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#025982;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#025982;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#025982;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#025982;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#025982;">chart</a>). 
 
-<!-- > "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”" &mdash; Jesus of Nazareth -->
+I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#025982;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#025982;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#025982;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#025982;">right side of the cashflow quadrant</a>.
 
-<!-- - `Financial Goals:` [Business & Investing](/assets/images/cfq.png) -->
+> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
+
+<!-- \[(\w+)\]\((https://[a-zA-Z0-9\./]+)\) -->
+<!-- \[([a-zA-Z ]+)\]\((https://[a-zA-Z0-9\./]+)\) -->
+<!-- <a href="$2" style="color:#025982;">$1</a> -->
 
 <!-- 
-    - `Eudaimonia & Aretē`
-        - Christianity, Stoicism, Raison d'être via 生き甲斐
-        - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
-    <!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
+- `Eudaimonia & Aretē`
+    - Christianity, Stoicism, Raison d'être via 生き甲斐
+    - [Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations](https://youtu.be/cPglxsqsL_c)
+<!-- (https://youtu.be/Auuk1y4DRgk?t=24) -->
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
-> "The only way of discovering the limits of the possible is to venture a little way past them into the impossible." &mdash; Arthur C. Clarke
-
-<!-- - `Educational Attainment:` M.S. Computer Science -->
-
-<!-- - `Merton's strain theory:`
-    - [Youth: Sociological Retreatism (GST 1)](https://en.wikipedia.org/wiki/Strain_theory_(sociology)#Merton's_theory) -->
-
-<!-- > “Using no way as way; having no limitation as limitation." &mdash; Bruce Lee -->
-
-## **Past, Present, & Future**
-
-# Throughout Time I've Always Set Goals
-
-- `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
-    
-<!-- - `A realization and subsequent paradigm shift in thinking:` When I was nearing my twenties, I had an epiphany. My life up until that point was mostly composed of physical goals, like exercise, of which I excelled; however, I quickly developed a philosophy contrary to my previous patterns of thought. I realized that one day I would become old, and my efforts would one day vanish with time. So, I focused all my efforts onto thought, and everyday since then I have exercised my mind. In hindsight, a combination of both would have been ideal. -->
-
-<!-- In my youth, I was heavily inspired by [Bruce Lee](https://youtu.be/cJMwBwFj5nQ) and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. -->
-
-- `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
-
-- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language [Esperanto](https://en.wikipedia.org/wiki/Esperanto) as a [neural ramp](https://youtu.be/GWSZ1DKjNzY) or springboard to better understand natural languages. 
-
-<!-- See the **Natural Language** section below.  -->
-
-<!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
-
-- `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
-
-- `Financial:` In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. Non-speculative investments exist, and once in a life time opportunities happen every year. 
-
-    - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
-
-    - [`Disasters:`](https://poets.org/poem/if) Many. My current goal is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.
-    
-    <!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
-
-<!-- Social Security (Ponzi Scheme), just like welfare, is an entitlement. -->
-
-<!-- - `Disaster:` Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. As you might imagine, I was less than enthused.
-
-- `Disaster:` 6-figure rugpull. -_- -->
-
-<!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
-
-## **Musical Influences**
-
-<!-- In my youth I grew up admiring both the piano and violin, I think it's somewhat unfortunate that I allowed so much time to pass without exploring these instruments and developing a lifelong skill. Now that I'm older I find myself still curious about what I might have accomplished had I committed to either of these beautiful instruments.
-
-The violin likely holds the title for [most difficult instrument](https://www.guitarlobby.com/hardest-instruments-to-play/), at least when compared to the guitar and piano. The fact that it's a fretless stringed instrument is the main reason I can think of. You can think of frets like you might think of training wheels. Frets are there to guide your fingers into their proper placement, and with the violin this aid does not exist traditionally, causing one to memorize the exact placement of ones fingers on the neck to produce a specific tone. -->
-
-<!-- The piano likely takes the second spot in difficulty when compared to the violin and guitar. The main reason I can think of is the ambidextrous nature having to coordinate and synchronize each hand while they play completely different things. Pianists also make use of pedals so they make use of their feet as well. -->
-
-# Classical / Neoclassical Piano
+## Classical / Neoclassical Piano
 
 The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it.
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
-- **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk),<br>[Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
+- **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#025982;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
     - `Nocturnes:` [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)
-    <!-- [Op. 55, No. 1](https://youtu.be/olFHFbijAjM),  -->
+    <!-- <a href="https://youtu.be/olFHFbijAjM" style="color:#025982;">Op. 55, No. 1</a>,  -->
 - `Beethoven:` ["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)
-- `Liszt:` [Un Sospiro](https://youtu.be/L42sbnQxEmw), [La Campanella](https://youtu.be/H1Dvg2MxQn8)
-- `Debussy:` [Clair de lune](https://youtu.be/WNcsUNKlAKw), [Arabesque](https://youtu.be/A6s49OKp6aE)
-- `Rachmaninoff:` [Moment Musicaux No. 4 in E Minor](https://youtu.be/v8rzHZHi9Zw)
+- `Liszt:` <a href="https://youtu.be/L42sbnQxEmw" style="color:#025982;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#025982;">La Campanella</a>
+- `Debussy:` <a href="https://youtu.be/WNcsUNKlAKw" style="color:#025982;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#025982;">Arabesque</a>
+- `Rachmaninoff:` <a href="https://youtu.be/v8rzHZHi9Zw" style="color:#025982;">Moment Musicaux No. 4 in E Minor</a>
 - `Vivaldi:` [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)
 - `Ravel:` [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)
-- `Tchaikovsky:` [Waltz of the Flowers](https://youtu.be/1aR92yQUS7s)
-- `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), [Mad Rush](https://youtu.be/UoxV0hKlWHM), [Glassworks Opening](https://youtu.be/6Stu7h7Qup8)
+- `Tchaikovsky:` <a href="https://youtu.be/1aR92yQUS7s" style="color:#025982;">Waltz of the Flowers</a>
+- `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#025982;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#025982;">Glassworks Opening</a>
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
-<!-- # Modern / Experimental Piano
+## Modern / Experimental Piano
 
-- **`Thom Yorke:`** [Suspirium](https://youtu.be/BTZl9KMjbrU), [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
-- `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310)
-- `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
+- **`Thom Yorke:`** <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
+<!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
+<!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
+
+## Study & Relaxation
+
+- <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
 
 <!-- # Classical / Neoclassical Violin & Cello
 
@@ -113,115 +65,115 @@ This section also encapsulates symphony orchestra, & philharmonic.
 > “If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music ... I cannot tell if I would have done any creative work of importance in music, but I do know that I get most joy in life out of my violin.” &mdash; Albert Einstein 
 
 - `Eternal Eclipse`
-    - `Forgotten Odes:` [Forgotten Odes](https://youtu.be/piRBMOxum3o), [Afterlight](https://youtu.be/GFH_KkAhWqE), [Revolution](https://youtu.be/pMIb9HRKJJQ), [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), [Fate of the Clockmaker](https://youtu.be/kfVmldkxgQc), [Theory Of Light](https://youtu.be/nBM6OX8MbYs), [Autumn Moon](https://youtu.be/X7oy2aJDKpc), [The Game is Afoot](https://youtu.be/Q5GHpnQVkDc), [The Last Funeral](https://youtu.be/Giy_HAKLVs4), [Shadows in the Sea](https://youtu.be/5E87Mz4X4K8)
+    - `Forgotten Odes:` <a href="https://youtu.be/piRBMOxum3o" style="color:#025982;">Forgotten Odes</a>, [Afterlight](https://youtu.be/GFH_KkAhWqE), <a href="https://youtu.be/pMIb9HRKJJQ" style="color:#025982;">Revolution</a>, [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), <a href="https://youtu.be/kfVmldkxgQc" style="color:#025982;">Fate of the Clockmaker</a>, <a href="https://youtu.be/nBM6OX8MbYs" style="color:#025982;">Theory Of Light</a>, <a href="https://youtu.be/X7oy2aJDKpc" style="color:#025982;">Autumn Moon</a>, <a href="https://youtu.be/Q5GHpnQVkDc" style="color:#025982;">The Game is Afoot</a>, [The Last Funeral](https://youtu.be/Giy_HAKLVs4), <a href="https://youtu.be/5E87Mz4X4K8" style="color:#025982;">Shadows in the Sea</a>
 - `Arvo Pärt`
-    - `Tabula Rasa:` [Fratres](https://youtu.be/7YqF69HLkj8), [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
+    - `Tabula Rasa:` <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Fratres</a>, [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
 <!-- - `Maurice Ravel`
     - [Valses Nobles et Sentimentales, No. 5 (Cleveland Orchestra, conducted by Pierre Boulez)](https://youtu.be/PDNy_GHNsiE?t=373) -->
 
 <!-- [`Forgotten Odes:`](https://youtu.be/synJbsrk0k8) -->
 
-<!-- - `Paul Dinletir & Kevin Rix (Audiomachine):` [Tangled Earth](https://youtu.be/-O_-y6xI43U), [Being Alive](https://youtu.be/vH_gcp0GEbc), [Redshift](https://youtu.be/AFuYyHiOmXs), [Sun And Steel](https://youtu.be/Gy7oD4NowhI)
-- `Thomas Bergersen:` [None Shall Live](https://youtu.be/E147pyyxNPo), [Unforgiven](https://youtu.be/EjIvnm0GBH8), [Last Of The Light](https://youtu.be/NIODdfGHRF0), [Flight of the Silverbird](https://youtu.be/n-Dh3ftkRAs)
+<!-- - `Paul Dinletir & Kevin Rix (Audiomachine):` [Tangled Earth](https://youtu.be/-O_-y6xI43U), [Being Alive](https://youtu.be/vH_gcp0GEbc), <a href="https://youtu.be/AFuYyHiOmXs" style="color:#025982;">Redshift</a>, <a href="https://youtu.be/Gy7oD4NowhI" style="color:#025982;">Sun And Steel</a>
+- `Thomas Bergersen:` <a href="https://youtu.be/E147pyyxNPo" style="color:#025982;">None Shall Live</a>, <a href="https://youtu.be/EjIvnm0GBH8" style="color:#025982;">Unforgiven</a>, <a href="https://youtu.be/NIODdfGHRF0" style="color:#025982;">Last Of The Light</a>, [Flight of the Silverbird](https://youtu.be/n-Dh3ftkRAs)
 - `Arvo Pärt`
-    - `Tabula Rasa:` [Fratres](https://youtu.be/7YqF69HLkj8), [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358)
+    - `Tabula Rasa:` <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Fratres</a>, [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358)
 - `Max Richter:` [Reimagining Vivaldi - Spring 0](https://youtu.be/Ebm69gW9UlI?t=92), [Sleep Reconstructed](https://youtu.be/GvAkbHF_q80)
-- `Apocalyptica:` [Nothing Else Matters](https://youtu.be/M447B_zxXC0), [One](https://youtu.be/SqZqdbyCeUg), [Beyond Time](https://youtu.be/H5YI0zoEl5U) -->
+- `Apocalyptica:` [Nothing Else Matters](https://youtu.be/M447B_zxXC0), <a href="https://youtu.be/SqZqdbyCeUg" style="color:#025982;">One</a>, <a href="https://youtu.be/H5YI0zoEl5U" style="color:#025982;">Beyond Time</a> -->
 
 <!-- 
     - `Greg Dombrowski` 
-    - [`The Untold`](https://youtu.be/22MpXAD_uwU): [Demise Of A Nation](https://youtu.be/eduwBgDcMwY)
+    - [`The Untold`](https://youtu.be/22MpXAD_uwU): <a href="https://youtu.be/eduwBgDcMwY" style="color:#025982;">Demise Of A Nation</a>
     - `The Untold 2:` [The Wicked](https://youtu.be/Bw_0z-QsHlM?t=1805), [Death May Die](https://youtu.be/Bw_0z-QsHlM?t=1487), [Poetry Of Madness](https://youtu.be/Bw_0z-QsHlM?t=846)
-    - `Heart of Darkness:` [Dancing With Flames](https://youtu.be/UauukzbPejE)
-- `Jo Blankenburg:` [Cronos](https://youtu.be/W64jVtmzP5E)
-- `E.S. Posthumus:` [Unstoppable](https://youtu.be/VoaUYcwEpSw), [Ebla](https://youtu.be/1iu-WAHBbW8)
+    - `Heart of Darkness:` <a href="https://youtu.be/UauukzbPejE" style="color:#025982;">Dancing With Flames</a>
+- `Jo Blankenburg:` <a href="https://youtu.be/W64jVtmzP5E" style="color:#025982;">Cronos</a>
+- `E.S. Posthumus:` <a href="https://youtu.be/VoaUYcwEpSw" style="color:#025982;">Unstoppable</a>, [Ebla](https://youtu.be/1iu-WAHBbW8)
 - `Jóhann Jóhannsson`
     - `Fordlândia:` [The Rocket Builder (lo Pan!)](https://youtu.be/SXDEM8CsjAc), [How We Left Fordlândia](https://youtu.be/ZuPC84oujvQ), [melodia (i)](https://youtu.be/SS584eueGv8), [melodia (iii)](https://youtu.be/sXI7CHgjNlI), [melodia (iv)](https://youtu.be/LsVA2zw5bXE), [Melodia (Guidelines for a Propulsion Device based on Heim's Quantum Theory)](https://youtu.be/SSXGC1WnM5U)
-    - `Englabörn:` [Odi et Amo](https://youtu.be/nQG6qLpo9Nc)
-    - `And In The Endless Pause There Came The Sound Of Bees:` [Dying City](https://youtu.be/Z2eW8vm42-g), [Escape](https://youtu.be/L4ljmowphvI) -->
+    - `Englabörn:` <a href="https://youtu.be/nQG6qLpo9Nc" style="color:#025982;">Odi et Amo</a>
+    - `And In The Endless Pause There Came The Sound Of Bees:` [Dying City](https://youtu.be/Z2eW8vm42-g), <a href="https://youtu.be/L4ljmowphvI" style="color:#025982;">Escape</a> -->
 
-<!-- - `Inquisition Symphony:` [Nothing Else Matters](https://youtu.be/M447B_zxXC0), [One](https://youtu.be/SqZqdbyCeUg), [Harmageddon](https://youtu.be/v2TBjwoUYxQ), [Fade To Black](https://youtu.be/LTYxeNUU83E) 
-- `Cult:` [Beyond Time](https://youtu.be/H5YI0zoEl5U), [Coma](https://youtu.be/-F85XEb1PXk), [Until It Sleeps](https://youtu.be/iqKLnJrwYFg)
-- `Apocalyptica:` [Farewell](https://youtu.be/Rdr2ZT4kJ2g), [Ruska](https://youtu.be/r2Rgu59WoZM), [Deathzone](https://youtu.be/DpRtg4r8Ouc)
-- `Worlds Collide:` [Peace](https://youtu.be/wscBSglqMcg), [Worlds Collide](https://youtu.be/7fsanFMb9Y0)
-[Enchantress](https://youtu.be/6vCxBQy2SOk), [Amaria](https://youtu.be/ZFezKXkwsxY)
+<!-- - `Inquisition Symphony:` [Nothing Else Matters](https://youtu.be/M447B_zxXC0), <a href="https://youtu.be/SqZqdbyCeUg" style="color:#025982;">One</a>, <a href="https://youtu.be/v2TBjwoUYxQ" style="color:#025982;">Harmageddon</a>, <a href="https://youtu.be/LTYxeNUU83E" style="color:#025982;">Fade To Black</a> 
+- `Cult:` <a href="https://youtu.be/H5YI0zoEl5U" style="color:#025982;">Beyond Time</a>, [Coma](https://youtu.be/-F85XEb1PXk), <a href="https://youtu.be/iqKLnJrwYFg" style="color:#025982;">Until It Sleeps</a>
+- `Apocalyptica:` <a href="https://youtu.be/Rdr2ZT4kJ2g" style="color:#025982;">Farewell</a>, <a href="https://youtu.be/r2Rgu59WoZM" style="color:#025982;">Ruska</a>, <a href="https://youtu.be/DpRtg4r8Ouc" style="color:#025982;">Deathzone</a>
+- `Worlds Collide:` <a href="https://youtu.be/wscBSglqMcg" style="color:#025982;">Peace</a>, <a href="https://youtu.be/7fsanFMb9Y0" style="color:#025982;">Worlds Collide</a>
+<a href="https://youtu.be/6vCxBQy2SOk" style="color:#025982;">Enchantress</a>, <a href="https://youtu.be/ZFezKXkwsxY" style="color:#025982;">Amaria</a>
 - `Mozart:` [Lacrimosa](https://youtu.be/k1-TrAvp_xs)
-- `Globus:` [Preliator](https://youtu.be/ebk877L4DeU)
-- `Carl Orff:` [Carmina Burana / O Fortuna](https://youtu.be/O5b7tgkdFH0), [Carmina Burana / Fortune plango vulnera](https://youtu.be/O5b7tgkdFH0?t=151) -->
+- `Globus:` <a href="https://youtu.be/ebk877L4DeU" style="color:#025982;">Preliator</a>
+- `Carl Orff:` <a href="https://youtu.be/O5b7tgkdFH0" style="color:#025982;">Carmina Burana / O Fortuna</a>, [Carmina Burana / Fortune plango vulnera](https://youtu.be/O5b7tgkdFH0?t=151) -->
 
 <!-- # Classical / Fingerstyle Guitar
 
 > "With invisible threads our worlds are connected and in-spite of our differences these worlds can meet in the heart of its being." &mdash; Estas Tonne
 
-- `Estas Tonne:` [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), [Internal Flight](https://youtu.be/6lIt07sBW4E), [Introspection](https://youtu.be/5OXcXv0rUNI), [Place of the Gods](https://youtu.be/vIXFbeUOkmc), [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo)
-- `Antonio Muñoz Fernández:` [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Diamante Negro](https://youtu.be/GEKWu0mC1cM)
-- `Gabriella Quevedo:` [No Time To Die](https://youtu.be/mgRoucrBIgI), [Creep](https://youtu.be/OSwturkPfnY)
+- `Estas Tonne:` [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo)
+- `Antonio Muñoz Fernández:` [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/GEKWu0mC1cM" style="color:#025982;">Diamante Negro</a>
+- `Gabriella Quevedo:` <a href="https://youtu.be/mgRoucrBIgI" style="color:#025982;">No Time To Die</a>, <a href="https://youtu.be/OSwturkPfnY" style="color:#025982;">Creep</a>
 
 \**Not purely guitar or classical, containing elements of piano and other instruments.*
 
-- `Paul Dinletir & Kevin Rix (Audiomachine):` [Begin Again](https://youtu.be/R2Xy4n0tZCk), [Abandoned Soul](https://youtu.be/3p9p3iQfYb4), [Look Within](https://youtu.be/PFtO9WDiRsA)
+- `Paul Dinletir & Kevin Rix (Audiomachine):` <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>
 - [`Black Hill & Silent Island`](https://youtu.be/_GV5_CpaybU): [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227) -->
 
 <!-- # Alternative / Experimental Rock
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
-- `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Spectre](https://youtu.be/CLiDemXYSLc),  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), [All I Need](https://youtu.be/FM7ALFsOH4g), [Codex](https://youtu.be/T7t38uDUg5E), [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), [Reckoner](https://youtu.be/pYHEpDnvVPk), [Faust Arp](https://youtu.be/PRc0iMRoIoc), [Nude](https://youtu.be/BbWBRnDK_AE), [Everything In Its Right Place](https://youtu.be/NUnXxh5U25Y), [Lucky](https://youtu.be/yuZYQvvLXVY), [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), [Idioteque](https://youtu.be/svwJTnZOaco), [Decks Dark](https://youtu.be/Del3C2W63Pk), [Scatterbrain](https://youtu.be/r7mN9BLr4jU), [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), [Like Spinning Plates](https://youtu.be/DQBDsNiCCNM), [Analyse](https://youtu.be/MnMUdko6ljs), [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), [Before Your Very Eyes](https://youtu.be/ZWrUEsVrdSU), [I Will](https://youtu.be/XWZmzdpyUTY), [Amok](https://youtu.be/0zIBbiSr8Lw), [Default](https://youtu.be/yxWBd840E9g)
-- `Thom Yorke (Popular):` [Creep](https://youtu.be/XFkzRNyygfk), [Karma Police](https://youtu.be/1uYWYWPc9HU), [Lotus Flower](https://youtu.be/cfOa1a8hYP8), [Fake Plastic Trees](https://youtu.be/n5h0qHwNrHk), [Street Spirit](https://youtu.be/LCJblaUkkfc) -->
+- `Thom Yorke:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>,  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), <a href="https://youtu.be/FM7ALFsOH4g" style="color:#025982;">All I Need</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#025982;">Codex</a>, [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, [Nude](https://youtu.be/BbWBRnDK_AE), <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>, [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>, <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>, <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>
+- `Thom Yorke (Popular):` <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="color:#025982;">Karma Police</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a> -->
 
 <!-- # Alternative / Progressive
 
 Some bands **from my youth** that conjure a sense of nostalgia. -->
 
-<!-- - **`Deftones (Chino Moreno)`**: [Bored](https://youtu.be/-WdYo3WlETY), [Minus Blindfold](https://youtu.be/fdfXcNCQjf4), [Birthmark](https://youtu.be/66ht-uFeomU), [Engine No.9](https://youtu.be/1HwCGSjwq4Y), [Fireal](https://youtu.be/aUG3C6rS8o0), [First (Hidden Track)](https://youtu.be/259VClSSaME), [My Own Summer](https://youtu.be/XOzs1FehYOA), [Around the Fur](https://youtu.be/AFVNrox01SM), [Dai the Flu](https://youtu.be/aopye0lJUtI), [Headup](https://youtu.be/u0zenvD1EOY), [MX](https://youtu.be/k9kgN2938lI), [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955), [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), [Knife Party](https://youtu.be/dVMfISO9T1Q0), [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [Feiticeira](https://youtu.be/4VxsE1YHUck), [Elite](https://youtu.be/BDeGSXVDihk), ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), [Rx Queen](https://youtu.be/XxWildqgiKk), [Change / Violet Orlandi Cover](https://youtu.be/8OPkHScoitA), [Hexagram](https://youtu.be/yP4dFHSd-iw), [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), [When Girls Telephone Boys](https://youtu.be/oPvWJFbiakI), [**Lucky You**](https://youtu.be/Ija2-DQz38g), [The Chauffeur](https://youtu.be/EON3DnBbflQ), [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), [Please Please Please Let Me Get What I Want](https://youtu.be/EQose8uGj5o), [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [Beware](https://youtu.be/FzjaN0gPvaE), [Kimdracula](https://youtu.be/WLO2fppkO14), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Rocket Skates](https://youtu.be/woR6ohiFeYE), [Prince](https://youtu.be/8TxPkaMphV0), [Royal](https://youtu.be/ZMWh1QYmSvc), [Do You Believe](https://youtu.be/wy-mDxI9Qfs), [What Happened to You?](https://youtu.be/jPd3OUd2sw0), [Radiant City](https://youtu.be/Yoy0f-vRrsw), [This Link Is Dead](https://youtu.be/XAu3BsG8c0A), [Headless](https://youtu.be/qQM9VktjYa8), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), [Brief Exchange](https://youtu.be/sBMGiHosRYk), [Your Skull Is Red](https://youtu.be/XeUducm-5II), [Ataraxia](https://youtu.be/y0ogaw5iJH4), ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), [Elizabeth](https://youtu.be/k0xavPE02wg), [Formant](https://youtu.be/A_K4wajiU-0), [Our Ride to the Rectory](https://youtu.be/FAOfWKli7GQ), [Ever Since WW1](https://youtu.be/WHddcSyT93Y) -->
+<!-- - **`Deftones (Chino Moreno)`**: [Bored](https://youtu.be/-WdYo3WlETY), <a href="https://youtu.be/fdfXcNCQjf4" style="color:#025982;">Minus Blindfold</a>, [Birthmark](https://youtu.be/66ht-uFeomU), <a href="https://youtu.be/1HwCGSjwq4Y" style="color:#025982;">Engine No.9</a>, <a href="https://youtu.be/aUG3C6rS8o0" style="color:#025982;">Fireal</a>, [First (Hidden Track)](https://youtu.be/259VClSSaME), <a href="https://youtu.be/XOzs1FehYOA" style="color:#025982;">My Own Summer</a>, <a href="https://youtu.be/AFVNrox01SM" style="color:#025982;">Around the Fur</a>, <a href="https://youtu.be/aopye0lJUtI" style="color:#025982;">Dai the Flu</a>, <a href="https://youtu.be/u0zenvD1EOY" style="color:#025982;">Headup</a>, <a href="https://youtu.be/k9kgN2938lI" style="color:#025982;">MX</a>, [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955), [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), <a href="https://youtu.be/dVMfISO9T1Q0" style="color:#025982;">Knife Party</a>, [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), <a href="https://youtu.be/4VxsE1YHUck" style="color:#025982;">Feiticeira</a>, <a href="https://youtu.be/BDeGSXVDihk" style="color:#025982;">Elite</a>, ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), <a href="https://youtu.be/XxWildqgiKk" style="color:#025982;">Rx Queen</a>, <a href="https://youtu.be/8OPkHScoitA" style="color:#025982;">Change / Violet Orlandi Cover</a>, [Hexagram](https://youtu.be/yP4dFHSd-iw), [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), <a href="https://youtu.be/oPvWJFbiakI" style="color:#025982;">When Girls Telephone Boys</a>, [**Lucky You**](https://youtu.be/Ija2-DQz38g), <a href="https://youtu.be/EON3DnBbflQ" style="color:#025982;">The Chauffeur</a>, [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), <a href="https://youtu.be/EQose8uGj5o" style="color:#025982;">Please Please Please Let Me Get What I Want</a>, [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), <a href="https://youtu.be/FzjaN0gPvaE" style="color:#025982;">Beware</a>, <a href="https://youtu.be/WLO2fppkO14" style="color:#025982;">Kimdracula</a>, [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), <a href="https://youtu.be/woR6ohiFeYE" style="color:#025982;">Rocket Skates</a>, <a href="https://youtu.be/8TxPkaMphV0" style="color:#025982;">Prince</a>, <a href="https://youtu.be/ZMWh1QYmSvc" style="color:#025982;">Royal</a>, [Do You Believe](https://youtu.be/wy-mDxI9Qfs), [What Happened to You?](https://youtu.be/jPd3OUd2sw0), [Radiant City](https://youtu.be/Yoy0f-vRrsw), <a href="https://youtu.be/XAu3BsG8c0A" style="color:#025982;">This Link Is Dead</a>, <a href="https://youtu.be/qQM9VktjYa8" style="color:#025982;">Headless</a>, [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#025982;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#025982;">Ataraxia</a>, ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), <a href="https://youtu.be/k0xavPE02wg" style="color:#025982;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#025982;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#025982;">Ever Since WW1</a> -->
 
-<!-- - `Deftones (Chino Moreno)`: [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), [Knife Party](https://youtu.be/dVMfISO9T1Q0), [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), [Rx Queen](https://youtu.be/XxWildqgiKk), [Change / Violet Orlandi Cover](https://youtu.be/8OPkHScoitA), [**Minerva**](https://youtu.be/TYTt0-LpLbE), [**Lucky You**](https://youtu.be/Ija2-DQz38g), [The Chauffeur](https://youtu.be/EON3DnBbflQ), [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), [Please Please Please Let Me Get What I Want](https://youtu.be/EQose8uGj5o), [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), [Brief Exchange](https://youtu.be/sBMGiHosRYk), [Your Skull Is Red](https://youtu.be/XeUducm-5II), [Ataraxia](https://youtu.be/y0ogaw5iJH4), ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), [Elizabeth](https://youtu.be/k0xavPE02wg), [Formant](https://youtu.be/A_K4wajiU-0), [Our Ride to the Rectory](https://youtu.be/FAOfWKli7GQ), [Ever Since WW1](https://youtu.be/WHddcSyT93Y)
-- `Tool (Maynard James Keenan):` [Schism](https://youtu.be/MM62wjLrgmA), [The Patient](https://youtu.be/rDrhI1GUnNg), [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), [Rosetta Stoned](https://youtu.be/qnlhVVwBfew), [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), [Fear Inoculum](https://youtu.be/q7DfQMPmJRI), [Invincible](https://youtu.be/hxsld16TjSU)
+<!-- - `Deftones (Chino Moreno)`: [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), <a href="https://youtu.be/dVMfISO9T1Q0" style="color:#025982;">Knife Party</a>, [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), <a href="https://youtu.be/XxWildqgiKk" style="color:#025982;">Rx Queen</a>, <a href="https://youtu.be/8OPkHScoitA" style="color:#025982;">Change / Violet Orlandi Cover</a>, [**Minerva**](https://youtu.be/TYTt0-LpLbE), [**Lucky You**](https://youtu.be/Ija2-DQz38g), <a href="https://youtu.be/EON3DnBbflQ" style="color:#025982;">The Chauffeur</a>, [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), <a href="https://youtu.be/EQose8uGj5o" style="color:#025982;">Please Please Please Let Me Get What I Want</a>, [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#025982;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#025982;">Ataraxia</a>, ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), <a href="https://youtu.be/k0xavPE02wg" style="color:#025982;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#025982;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#025982;">Ever Since WW1</a>
+- `Tool (Maynard James Keenan):` <a href="https://youtu.be/MM62wjLrgmA" style="color:#025982;">Schism</a>, <a href="https://youtu.be/rDrhI1GUnNg" style="color:#025982;">The Patient</a>, [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), <a href="https://youtu.be/qnlhVVwBfew" style="color:#025982;">Rosetta Stoned</a>, [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), <a href="https://youtu.be/q7DfQMPmJRI" style="color:#025982;">Fear Inoculum</a>, <a href="https://youtu.be/hxsld16TjSU" style="color:#025982;">Invincible</a>
 - `Katatonia:` [**Unfurl**](https://youtu.be/ry77WWPUmPs), [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
 - `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw) -->
 
-<!-- - `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w) -->
+<!-- - `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), <a href="https://youtu.be/OZuxErudMPc" style="color:#025982;">Sleep Together</a>, [Way Out Of Here](https://youtu.be/-6psOf1B79w) -->
 
 <!-- - `Rammstein (Till Lindemann):` [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
 
-<!-- - `Rammstein (Till Lindemann):` [Mein Teil](https://youtu.be/PBvwcH4XX6U), [Du Riechst So Gut '98](https://youtu.be/rrmsJhf89MY), [Rosenrot](https://youtu.be/af59U2BRRAU), [Ich Tu Dir Weh](https://youtu.be/IxuEtL7gxoM), [Puppe](https://youtu.be/Weu9nKN1EAs), [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
+<!-- - `Rammstein (Till Lindemann):` <a href="https://youtu.be/PBvwcH4XX6U" style="color:#025982;">Mein Teil</a>, [Du Riechst So Gut '98](https://youtu.be/rrmsJhf89MY), <a href="https://youtu.be/af59U2BRRAU" style="color:#025982;">Rosenrot</a>, <a href="https://youtu.be/IxuEtL7gxoM" style="color:#025982;">Ich Tu Dir Weh</a>, <a href="https://youtu.be/Weu9nKN1EAs" style="color:#025982;">Puppe</a>, [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
 
 <!-- 
 - `Deftones (Chino Moreno)` 
     - Adrenaline (1995)
-        - [Bored](https://youtu.be/-WdYo3WlETY), [Minus Blindfold](https://youtu.be/fdfXcNCQjf4) *"My activities don't cross, but they create"*, [Birthmark](https://youtu.be/66ht-uFeomU), [Engine No.9](https://youtu.be/1HwCGSjwq4Y), [Fireal](https://youtu.be/aUG3C6rS8o0), [First (Hidden Track)](https://youtu.be/259VClSSaME)
+        - [Bored](https://youtu.be/-WdYo3WlETY), <a href="https://youtu.be/fdfXcNCQjf4" style="color:#025982;">Minus Blindfold</a> *"My activities don't cross, but they create"*, [Birthmark](https://youtu.be/66ht-uFeomU), <a href="https://youtu.be/1HwCGSjwq4Y" style="color:#025982;">Engine No.9</a>, <a href="https://youtu.be/aUG3C6rS8o0" style="color:#025982;">Fireal</a>, [First (Hidden Track)](https://youtu.be/259VClSSaME)
     - Around The Fur (1997)
-        - [My Own Summer](https://youtu.be/XOzs1FehYOA), [Around the Fur](https://youtu.be/AFVNrox01SM), [Dai the Flu](https://youtu.be/aopye0lJUtI), [Headup](https://youtu.be/u0zenvD1EOY), [MX](https://youtu.be/k9kgN2938lI), [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955) *"This feeling gets old, and so do your eyes"*
+        - <a href="https://youtu.be/XOzs1FehYOA" style="color:#025982;">My Own Summer</a>, <a href="https://youtu.be/AFVNrox01SM" style="color:#025982;">Around the Fur</a>, <a href="https://youtu.be/aopye0lJUtI" style="color:#025982;">Dai the Flu</a>, <a href="https://youtu.be/u0zenvD1EOY" style="color:#025982;">Headup</a>, <a href="https://youtu.be/k9kgN2938lI" style="color:#025982;">MX</a>, [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955) *"This feeling gets old, and so do your eyes"*
     - **White Pony** (2000)
-        - [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), [Knife Party](https://youtu.be/dVMfISO9T1Q0), [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [Feiticeira](https://youtu.be/4VxsE1YHUck), [Elite](https://youtu.be/BDeGSXVDihk), ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), [Rx Queen](https://youtu.be/XxWildqgiKk), [Change / Violet Orlandi Cover](https://youtu.be/8OPkHScoitA)
+        - [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), <a href="https://youtu.be/dVMfISO9T1Q0" style="color:#025982;">Knife Party</a>, [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), <a href="https://youtu.be/4VxsE1YHUck" style="color:#025982;">Feiticeira</a>, <a href="https://youtu.be/BDeGSXVDihk" style="color:#025982;">Elite</a>, ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), <a href="https://youtu.be/XxWildqgiKk" style="color:#025982;">Rx Queen</a>, <a href="https://youtu.be/8OPkHScoitA" style="color:#025982;">Change / Violet Orlandi Cover</a>
     - Deftones (2003)
-        - [Hexagram](https://youtu.be/yP4dFHSd-iw) *"And the car .... hits quick click, click, click, faint smile..."*, [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), [When Girls Telephone Boys](https://youtu.be/oPvWJFbiakI), [**Lucky You**](https://youtu.be/Ija2-DQz38g)
+        - [Hexagram](https://youtu.be/yP4dFHSd-iw) *"And the car .... hits quick click, click, click, faint smile..."*, [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), <a href="https://youtu.be/oPvWJFbiakI" style="color:#025982;">When Girls Telephone Boys</a>, [**Lucky You**](https://youtu.be/Ija2-DQz38g)
     - B-Sides & Rarities (2005)
-        - [The Chauffeur](https://youtu.be/EON3DnBbflQ), [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), [Please Please Please Let Me Get What I Want](https://youtu.be/EQose8uGj5o) *"See, the life I've had can make a good man bad"*, [Savory](https://youtu.be/3gb-kmStkuM)
+        - <a href="https://youtu.be/EON3DnBbflQ" style="color:#025982;">The Chauffeur</a>, [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), <a href="https://youtu.be/EQose8uGj5o" style="color:#025982;">Please Please Please Let Me Get What I Want</a> *"See, the life I've had can make a good man bad"*, [Savory](https://youtu.be/3gb-kmStkuM)
     - Saturday Night Wrist (2006)
-        - [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [Beware](https://youtu.be/FzjaN0gPvaE), [Kimdracula](https://youtu.be/WLO2fppkO14), [**Rivière**](https://youtu.be/euD6xCd2TRM)
+        - [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), <a href="https://youtu.be/FzjaN0gPvaE" style="color:#025982;">Beware</a>, <a href="https://youtu.be/WLO2fppkO14" style="color:#025982;">Kimdracula</a>, [**Rivière**](https://youtu.be/euD6xCd2TRM)
     - Eros (Unreleased)
         - [**Smile**](https://youtu.be/rETGJHkZyhs)
     - Diamond Eyes (2010)
-        - [Rocket Skates](https://youtu.be/woR6ohiFeYE), [Prince](https://youtu.be/8TxPkaMphV0), [Royal](https://youtu.be/ZMWh1QYmSvc), [Do You Believe](https://youtu.be/wy-mDxI9Qfs)
+        - <a href="https://youtu.be/woR6ohiFeYE" style="color:#025982;">Rocket Skates</a>, <a href="https://youtu.be/8TxPkaMphV0" style="color:#025982;">Prince</a>, <a href="https://youtu.be/ZMWh1QYmSvc" style="color:#025982;">Royal</a>, [Do You Believe](https://youtu.be/wy-mDxI9Qfs)
     - Koi No Yokan (2012)
         - [What Happened to You?](https://youtu.be/jPd3OUd2sw0)
     - Ohms (2020)
-        - [Radiant City](https://youtu.be/Yoy0f-vRrsw), [This Link Is Dead](https://youtu.be/XAu3BsG8c0A), [Headless](https://youtu.be/qQM9VktjYa8)
+        - [Radiant City](https://youtu.be/Yoy0f-vRrsw), <a href="https://youtu.be/XAu3BsG8c0A" style="color:#025982;">This Link Is Dead</a>, <a href="https://youtu.be/qQM9VktjYa8" style="color:#025982;">Headless</a>
     - Random (Chino's Other Projects)
-        - [VOWWS Structure of Love II feat. Chino Moreno (Renholdër Remix)](https://youtu.be/YuRJ0QPrPHo) *"There's a game I play all the time, two can play at once, why don't you try?"*, [††† Brew](https://youtu.be/QBN-1Q0_Fiw), [Brief Exchange](https://youtu.be/sBMGiHosRYk), [Your Skull Is Red](https://youtu.be/XeUducm-5II), [Ataraxia](https://youtu.be/y0ogaw5iJH4), ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), [Elizabeth](https://youtu.be/k0xavPE02wg), [Formant](https://youtu.be/A_K4wajiU-0), [Our Ride to the Rectory](https://youtu.be/FAOfWKli7GQ), [Ever Since WW1](https://youtu.be/WHddcSyT93Y)
+        - [VOWWS Structure of Love II feat. Chino Moreno (Renholdër Remix)](https://youtu.be/YuRJ0QPrPHo) *"There's a game I play all the time, two can play at once, why don't you try?"*, [††† Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#025982;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#025982;">Ataraxia</a>, ['Natalie Portman'](https://youtu.be/6k5Sh5oZbVk), <a href="https://youtu.be/k0xavPE02wg" style="color:#025982;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#025982;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#025982;">Ever Since WW1</a>
 - `Tool` 
     - Lateralus (2001)
-        - [Schism](https://youtu.be/MM62wjLrgmA), [The Patient](https://youtu.be/rDrhI1GUnNg)
+        - <a href="https://youtu.be/MM62wjLrgmA" style="color:#025982;">Schism</a>, <a href="https://youtu.be/rDrhI1GUnNg" style="color:#025982;">The Patient</a>
     - **10,000 Days** (2006)
-        - [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), [Rosetta Stoned](https://youtu.be/qnlhVVwBfew)
+        - [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), <a href="https://youtu.be/qnlhVVwBfew" style="color:#025982;">Rosetta Stoned</a>
     - Fear Inoculum (2019)
-        - [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), [Fear Inoculum](https://youtu.be/q7DfQMPmJRI), [Invincible](https://youtu.be/hxsld16TjSU)
+        - [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), <a href="https://youtu.be/q7DfQMPmJRI" style="color:#025982;">Fear Inoculum</a>, <a href="https://youtu.be/hxsld16TjSU" style="color:#025982;">Invincible</a>
 - `Katatonia`
     - The Great Cold Distance (2006)
         - [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
-- `Porcupine Tree:` [Sleep Of No Dreaming](https://youtu.be/pbQGiMK5Qdw), [Sleep Together](https://youtu.be/OZuxErudMPc), [Way Out Of Here](https://youtu.be/-6psOf1B79w)
+- `Porcupine Tree:` <a href="https://youtu.be/pbQGiMK5Qdw" style="color:#025982;">Sleep Of No Dreaming</a>, <a href="https://youtu.be/OZuxErudMPc" style="color:#025982;">Sleep Together</a>, [Way Out Of Here](https://youtu.be/-6psOf1B79w)
  
 -->
 
@@ -236,32 +188,49 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 <!-- # Miscellaneous
 
 - `Study` 
-    - [White Noise](https://youtu.be/nMfPqeZjc2c), [Rain](https://youtu.be/q76bMs-NwRk)
+    - <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
 - `Ambient`
-    - [Crackling Fireplace](https://youtu.be/3sL0omwElxw), [Cyberpunk](https://youtu.be/TaYgsa2Sb2g), [Binaural](https://youtu.be/XZ4WXAxtGDc), [Winter Ambience](https://youtu.be/x7BCa9Y8Of8)
+    - <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
 - `Folk`
-    - `Peter Pringle:` [The Epic Of Gilgamesh In Sumerian](https://youtu.be/QUcTsFe1PVs)
-    - `Anilah:` [Warrior](https://youtu.be/AImY5NVcVKk), [The Loom](https://youtu.be/Lq4pBie6ph4)
+    - `Peter Pringle:` <a href="https://youtu.be/QUcTsFe1PVs" style="color:#025982;">The Epic Of Gilgamesh In Sumerian</a>
+    - `Anilah:` <a href="https://youtu.be/AImY5NVcVKk" style="color:#025982;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#025982;">The Loom</a>
     - `Wardruna:` [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA) -->
 
-<!-- , [Vindavla](https://youtu.be/7gY5uYDb1lo), [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
+<!-- , <a href="https://youtu.be/7gY5uYDb1lo" style="color:#025982;">Vindavla</a>, [Solringen](https://youtu.be/xW-wJ9uUUl0) -->
 <!-- - `Dzivia:` [Voryva (Sleeping Field)](https://youtu.be/H7ptAY-wj_M?t=44) -->
-<!-- - `Munknörr:` [Deyja](https://youtu.be/aKpEV7LzNY0) -->
+<!-- - `Munknörr:` <a href="https://youtu.be/aKpEV7LzNY0" style="color:#025982;">Deyja</a> -->
     
 <!-- - `Cyberpunk / Electronic`
-    - `Ennja:` [Beat God](https://youtu.be/6A0TjleLTtM)
-    - `Lorn:` [Cherry Moon](https://youtu.be/u7c2VLG5Ttc), [Sega Sunset](https://youtu.be/mauV2NdCs60) 
-    - `Hyper:` [He Rises](https://youtu.be/F_tsZJickpw), [Spoiler](https://youtu.be/RrkqiYZbuH8), [Clockwork](https://youtu.be/Pt7kmByAPxI), [Flatline](https://youtu.be/Bvo54yx4SAQ)
-    - `Le Castle Vania:` [... Medley](https://youtu.be/IBvf7KUEZ78), [LED Spirals](https://youtu.be/IBvf7KUEZ78?t=171) 
-    - `Skeler:` [Shook](https://youtu.be/3z78063K5xU)
-    - `Sidewalks and Skeletons:` [Sleep Paralysis](https://youtu.be/SVP5yt2ltpc)
+    - `Ennja:` <a href="https://youtu.be/6A0TjleLTtM" style="color:#025982;">Beat God</a>
+    - `Lorn:` <a href="https://youtu.be/u7c2VLG5Ttc" style="color:#025982;">Cherry Moon</a>, <a href="https://youtu.be/mauV2NdCs60" style="color:#025982;">Sega Sunset</a> 
+    - `Hyper:` [He Rises](https://youtu.be/F_tsZJickpw), <a href="https://youtu.be/RrkqiYZbuH8" style="color:#025982;">Spoiler</a>, <a href="https://youtu.be/Pt7kmByAPxI" style="color:#025982;">Clockwork</a>, <a href="https://youtu.be/Bvo54yx4SAQ" style="color:#025982;">Flatline</a>
+    - `Le Castle Vania:` <a href="https://youtu.be/IBvf7KUEZ78" style="color:#025982;">... Medley</a>, [LED Spirals](https://youtu.be/IBvf7KUEZ78?t=171) 
+    - `Skeler:` <a href="https://youtu.be/3z78063K5xU" style="color:#025982;">Shook</a>
+    - `Sidewalks and Skeletons:` <a href="https://youtu.be/SVP5yt2ltpc" style="color:#025982;">Sleep Paralysis</a>
     - `Claims Casino:` [I'm God](https://youtu.be/RiZVjfjgNyY) -->
 
-## **Literary & Artistic Influences**
+## Literary & Artistic Influences
 
-I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) as well as the [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) literary genre and its subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). [H. P. Lovecraft's](https://www.hplovecraft.com/life/biograph.aspx) 28,000 word essay ["Supernatural Horror in Literature"](https://www.hplovecraft.com/writings/texts/essays/shil.aspx) would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & [Applegate](https://en.wikipedia.org/wiki/Animorphs). As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
+I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) as well as the [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) literary genre and its subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). [H. P. Lovecraft's](https://www.hplovecraft.com/life/biograph.aspx) 28,000 word essay ["Supernatural Horror in Literature"](https://www.hplovecraft.com/writings/texts/essays/shil.aspx) would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#025982;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
-> "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft
+> "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft 
+
+# Selected Poetry
+
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+<!-- > "Nature’s first green is gold,
+Her hardest hue to hold..." -->
+
+- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
+- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
+- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
+- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
+- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
+- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#025982;">Nemesis</a>
+- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
+<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
 
 <!-- - `Arthur Machen:` “Machen is a Titan—perhaps the greatest living author—and I must read everything of his.” (H.P. Lovecraft to Frank Belknap Long, 3 June 1923).
     - [The House Of Souls (1922):](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm) [[.txt]](/assets/books/arthur_machen/the_house_of_souls.txt)
@@ -285,33 +254,16 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-# Selected Poetry
-
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
-
-<!-- > "Nature’s first green is gold,
-Her hardest hue to hold..." -->
-
-- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Rudyard Kipling:` [If](https://poets.org/poem/if)
-- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
-- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
-- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H.P. Lovecraft:` [Nemesis](https://www.hplovecraft.com/writings/texts/poetry/p121.aspx)
-- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
-<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
-
 ## **Wisdom & Philosophy**
 
 Wisdom literature is also something of an interest to me.
 
 - `Wisdom Literature & Philosophy`
     - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
-    - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) <!-- , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D) -->
-    - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)
+    <!-- - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D) -->
+    <!-- - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F) -->
     <!-- - [`Dr. Jackson Crawford:`](https://jacksonwcrawford.com/) [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523), [Support](https://jacksonwcrawford.com/books/the-wanderers-havamal/) -->
-- `Recreational Math / Logic`
+<!-- - `Recreational Math / Logic` -->
     - `Raymond Smullyan:` ["The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)
 - `Finance & Economics`
     - `George S. Clason:` [The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793)
@@ -334,9 +286,9 @@ My favorite introduction books & documentation on specific computer programming 
     - `Aditya Y. Bhargava:` [Grokking Algorithms](http://library.lol/main/4EFD486FED05D3DDEB937A247E85E6BD)
     - `David M. Beazley:` [Python Essential Reference (4th Edition)](http://library.lol/main/54A3BB8A2EF2A0AEC99F41600887B78B)
     - `Python Documentation` 
-        - [Standard Library](https://docs.python.org/3/library/index.html)
-        - [Language Reference](https://docs.python.org/3/reference/index.html)
-        - [HOWTOs](https://docs.python.org/3/howto/index.html)
+        - <a href="https://docs.python.org/3/library/index.html" style="color:#025982;">Standard Library</a>
+        - <a href="https://docs.python.org/3/reference/index.html" style="color:#025982;">Language Reference</a>
+        - <a href="https://docs.python.org/3/howto/index.html" style="color:#025982;">HOWTOs</a>
 
 # Physics & Chemistry
 
@@ -378,6 +330,39 @@ I'm also fascinated with mythology & folk lore.
 - `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
 -->
 
+## Past, Present, & Future Goals
+
+- `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
+    
+<!-- - `A realization and subsequent paradigm shift in thinking:` When I was nearing my twenties, I had an epiphany. My life up until that point was mostly composed of physical goals, like exercise, of which I excelled; however, I quickly developed a philosophy contrary to my previous patterns of thought. I realized that one day I would become old, and my efforts would one day vanish with time. So, I focused all my efforts onto thought, and everyday since then I have exercised my mind. In hindsight, a combination of both would have been ideal. -->
+
+<!-- In my youth, I was heavily inspired by <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#025982;">Bruce Lee</a> and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. -->
+
+- `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
+
+- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#025982;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#025982;">neural ramp</a> or springboard to better understand natural languages. 
+
+<!-- See the **Natural Language** section below.  -->
+
+<!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
+
+- `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
+
+- `Financial:` In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. Non-speculative investments exist, and once in a life time opportunities happen every year. 
+
+    - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
+
+    - [`Disasters:`](https://poets.org/poem/if) Many. My current goal is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.
+    
+    <!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
+
+<!-- Social Security (Ponzi Scheme), just like welfare, is an entitlement. -->
+
+<!-- - `Disaster:` Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. As you might imagine, I was less than enthused.
+
+- `Disaster:` 6-figure rugpull. -_- -->
+
+<!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
 
 ## **Inspirational Quotes**
 
@@ -389,7 +374,7 @@ which is doing its best day and night to make you like
 everybody else means to fight the hardest battle
 which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
-> "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. [Be water, my friend](https://youtu.be/cJMwBwFj5nQ)." &mdash; Bruce Lee
+> "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#025982;">Be water, my friend</a>." &mdash; Bruce Lee
 
 > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee
 
@@ -415,7 +400,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde
 
-> "Learning is cheap, education is expensive." &mdash; [Naval Ravikant](https://twitter.com/naval)
+> "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#025982;">Naval Ravikant</a>
 
 > "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler
 
@@ -427,9 +412,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 > "Simplicity is the ultimate form of sophistication." &mdash; Leonardo da Vinci
 
-<!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; [Elon Musk](https://youtu.be/vqcdF1oWaD0) -->
+<!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#025982;">Elon Musk</a> -->
 
-<!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; [Naval Ravikant](https://twitter.com/naval/status/1002107869209096192) -->
+<!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; <a href="https://twitter.com/naval/status/1002107869209096192" style="color:#025982;">Naval Ravikant</a> -->
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
