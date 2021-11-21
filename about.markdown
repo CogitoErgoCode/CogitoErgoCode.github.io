@@ -28,7 +28,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
-## Classical / Neoclassical Piano
+## 🎹 Classical Piano
 
 The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it.
 
@@ -47,20 +47,15 @@ The Mozart Effect, and exposure to classical music having a beneficial effect on
 - `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#025982;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#025982;">Glassworks Opening</a>
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
-## Thom Yorke
+## 🎤 Thom Yorke
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
-- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
+- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
 - `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>,  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), <a href="https://youtu.be/FM7ALFsOH4g" style="color:#025982;">All I Need</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#025982;">Codex</a>, [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, [Nude](https://youtu.be/BbWBRnDK_AE), <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>, [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>, <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>, <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>
 - `Popular:` <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="color:#025982;">Karma Police</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>
-
-## Study & Relaxation
-
-- `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
-- `Ambient:` <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
 
 <!-- # Classical / Neoclassical Violin & Cello
 
@@ -208,28 +203,11 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
     - `Sidewalks and Skeletons:` <a href="https://youtu.be/SVP5yt2ltpc" style="color:#025982;">Sleep Paralysis</a>
     - `Claims Casino:` <a href="https://youtu.be/RiZVjfjgNyY" style="color:#025982;">I'm God</a> -->
 
-## Literary & Artistic Influences
+<!-- ## Literary & Artistic Influences
 
 I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) as well as the [19th & 20th Century Horror Fiction](https://en.wikipedia.org/wiki/Horror_fiction#19th_century) literary genre and its subgenres [Gothic Horror](https://en.wikipedia.org/wiki/Gothic_fiction), and [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction). If I were to attempt to be even less ambiguous I'd say, more specifically [Lovecraftian Yog-Sothothery](https://en.wikipedia.org/wiki/Lovecraftian_horror). <a href="https://www.hplovecraft.com/life/biograph.aspx" style="color:#025982;">H. P. Lovecraft's</a> 28,000 word essay <a href="https://www.hplovecraft.com/writings/texts/essays/shil.aspx" style="color:#025982;">"Supernatural Horror in Literature"</a> would probably summarize. As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#025982;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
-> "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft 
-
-# Selected Poetry
-
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
-
-<!-- > "Nature’s first green is gold,
-Her hardest hue to hold..." -->
-
-- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
-- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
-- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
-- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#025982;">Nemesis</a>
-- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
-<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
+> "That is not dead which can eternal lie, And with strange aeons even death may die.” &mdash; H.P. Lovecraft  -->
 
 <!-- - `Arthur Machen:` “Machen is a Titan—perhaps the greatest living author—and I must read everything of his.” (H.P. Lovecraft to Frank Belknap Long, 3 June 1923).
     - [The House Of Souls (1922):](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm) [[.txt]](/assets/books/arthur_machen/the_house_of_souls.txt)
@@ -253,7 +231,7 @@ Her hardest hue to hold..." -->
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-## Wisdom & Philosophy
+## 🦉 Wisdom, Philosophy, Poetry
 
 Wisdom literature is also something of an interest to me.
 
@@ -271,7 +249,24 @@ Wisdom literature is also something of an interest to me.
         <!-- - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government -->
     - `Thomas J. Stanley (Ph.D):` <!-- The Millionaire Mind, --> [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
 
-## Academic Interests
+# Selected Poetry
+
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+<!-- > "Nature’s first green is gold,
+Her hardest hue to hold..." -->
+
+- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
+- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#025982;">If</a>
+- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
+- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
+- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
+- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#025982;">Nemesis</a>
+- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
+<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515) and other avant-garde poetry.
+
+## 📚 Academic Interests
 
 # Computer Science
 
@@ -324,12 +319,17 @@ I'm also fascinated with mythology & folk lore.
 
     <!-- - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
 
+# Study & Relaxation
+
+- `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
+- `Ambient:` <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
+
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
 - `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
 -->
 
-## Past, Present, & Future Goals
+## ⏳ Past, Present, & Future Goals
 
 - `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
     
@@ -363,7 +363,7 @@ I'm also fascinated with mythology & folk lore.
 
 <!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
 
-## Inspirational Quotes
+## 🗣️ Inspirational Quotes
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
