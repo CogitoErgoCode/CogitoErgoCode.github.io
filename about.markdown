@@ -11,9 +11,9 @@ permalink: /about/
 <img alt="Uphill" src="/assets/images/uphills.png">
 </a> -->
 
-<a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">
+<!-- <a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">
 <img alt="Uphill" src="/assets/images/uphills.png">
-</a>
+</a> -->
 
 <!-- \**This blog was written while listening to <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>* -->
 
