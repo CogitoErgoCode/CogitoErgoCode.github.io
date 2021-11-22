@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:41:00 -0700
+date: 2021-11-04 11:42:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -39,7 +39,8 @@ Before journeying into a debate, however logically sound our position may be, we
 
         Not to be confused with: `Argumentum ad lapidem` or an `appeal to the stone` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Ad lapidem is only a relevance fallacy and not of the red herring subtype. Notice the difference between ad absurdum and ad lapidem, one is ridiculing and irrelevant while the other is simply irrelevant.
 
-    - Another good example of ad absurdum would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. Personally, I also find pathos based rhetoric juvenile.
+    - Another good example of ad absurdum would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. 
+    <!-- Personally, I also find pathos based rhetoric juvenile. -->
 
         > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
 
@@ -72,13 +73,12 @@ A subtype of Informal fallacy (arguments that are logically unsound for lack of 
 
 - **`Argumentum ad ignorantiam`** or an `appeal to ignorance:` Assuming that a claim is false because it has not been or cannot be proven true, or vice versa, assuming that a claim is true because it has not been or cannot be proven false.
 
-    - For example: Assuming there is no God, because it has not been or cannot be proven, is just as ignorant and illogical as assuming there is a God, because it has not been or cannot be disproven. 
+    - For example: Assuming there is no God, because it has not been or cannot be proven, is just as illogical as assuming there is a God, because it has not been or cannot be disproven. 
     
         What lacks proof today may have proof tomorrow, which would mean, it was just as true the day it had no proof as the day in which the proof was found. We do not base our conclusions upon this form of faulty reasoning. 
     
         Further, to ask for scientifically testable, material, non-transcendent evidence for an immaterial, transcendent God or hyper-dimensional entity (i.e. demon) is embarrassingly illogical and stymies scientific progress in the discovery of life in the cosmos beyond our own, which may indeed be of a higher spatial dimensionality, existing outside of our 3-dimensional understanding.
     
-
 <!-- 
 - The problem with the Atheists claim that God does't exist, because there is no proof is that Christians don't believe in a material God either. We believe in a Transcendent God, so asking for material proof by scientific method demonstrates both and error in logic (Argumentum ad ignorantiam), and a lack of understanding in what Christians believe.
 - The scientific method, created by a brilliant scientist and philosopher of science by the name of Sir Francis Bacon, is a system of learning that consists of observation, hypothesis, experimentation, prediction, and theory. It is based on logic and observations of the material universe and its properties. Bacon was a devout Christian.
@@ -198,7 +198,7 @@ Former high-ranking Watch Tower staff have identified various members of the tra
 
 The Bible clearly defines how to identify a false prophet. A true prophet of God won’t err in prophesying. Only a false prophet does. The Jehovah’s Witness organization, that claims to be a prophet of God, is really a false prophet. Jesus warned us by saying, *“For false Christs and false prophets will appear and perform great signs and miracles to deceive even the elect–if that were possible”* &mdash; Matthew 24:24.
 
-> "And if you say in your heart, ‘How shall we know the word which the Lord has not spoken?’— when a prophet speaks in the name of the Lord, **if the thing does not happen or come to pass**, that is the thing which the Lord has not spoken; the prophet has spoken it presumptuously; you shall not be afraid of him." &mdash; Deuteronomy 18:21-22 NKJV
+> "And if you say in your heart, ‘How shall we know the word which the Lord has not spoken?’— **when a prophet speaks in the name of the Lord, if the thing does not happen or come to pass, that is the thing which the Lord has not spoken**; the prophet has spoken it presumptuously; you shall not be afraid of him." &mdash; Deuteronomy 18:21-22 NKJV
 
 In 1972 the Jehovah’s Witness Watchtower claimed to be the prophet of God. So all we have to do is find instances of what they prophesied, not coming to pass! This is shocking, **this particular cult has debunked itself** as far back as the late 1800's, only a hand full of years after its founding.
 
@@ -248,6 +248,8 @@ Here is what other scholars say about the name or pronunciation “Jehovah”:
 
     Ron goes on to explain that even though the Bible the Watchtower Society publishes (The New World Translation) puts the word “Jehovah” in Jesus’ mouth in their New Testament, the word “Jehovah” does not occur a single time in any legitimate manuscript copy of the New Testament.
 
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> What is the correct spelling of God's proper name, "Yahweh" or "Jehovah"? If Jehovah's Witnesses maintain that "Yahweh" is more proper, why do they misspell it "Jehovah"? If the name of God is so important, then should you not only pronounce it correctly, but spell it correctly too?
+
 <!-- As you can see quite plainly, you can't remove a word that never existed in the NT manuscripts, or ever was used by the Jews! (According to Websters, a secular source, so there is no bias), Whenever you see LORD in all caps, that is YHWH, a practice still used in the synagogue today.  -->
 
 *Source(s): [3](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/)*
@@ -280,8 +282,52 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
         - Exodus 3:14 LSB
         > And God said to Moses, **“I AM WHO I AM”**; and He said, “Thus you shall say to the sons of Israel, ‘**I AM** has sent me to you.’” 
 
-    - John 14:8-9 LSB
-    > Philip said to Him, “Lord, show us the Father, and it is enough for us.” 9 Jesus said to him, “Have I been with you all so long and have you not come to know Me, Philip? **He who has seen Me has seen the Father**; how can you say, ‘Show us the Father’?
+<!-- - `Jesus calls Himself “the Alpha and Omega,” the title of Almighty God.`
+
+    - Revelation 22:12-13 LSB
+    > “Behold, **I am coming quickly**, and My reward is with Me, to render to every man according to his work. 13 **I am the Alpha and the Omega, the first and the last, the beginning and the end.**” 
+
+    - Revelation 1:8 LSB
+    > “I am the Alpha and the Omega,” says the Lord **God**, “who is and who was and who is to come, the Almighty.” 
+
+    - ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> In Rev 22:12-13, Jesus Christ, the one who is "coming quickly", says of himself," I am the Alpha and the Omega, the first and the last, the beginning and the end". In Rev 1:17-18, Jesus, the one who "became dead, but, look! I am living forever and ever", refers to himself as the first and the last. Rev 21:6, in speaking of God, says, "...I am the Alpha and the Omega, the beginning and the end .,.". God is also referred to as the "first" and the "last" in Isa 44:6 and Isa 48:12. How can this be since by definition of these words there can only be one first and one last?
+
+    - Revelation 1:17-18 LSB
+    > And when I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, “Do not fear; **I am the first and the last**, 18 and the living One; **and I was dead**, and behold, I am alive forever and ever, and I have the keys of death and of Hades. 
+
+    - Revelation 21:6 LSB
+    > Then He said to me, “They are done. **I am the Alpha and the Omega, the beginning and the end**. I will give to the one who thirsts from the spring of the water of life without cost. 
+
+    - The God of the Old Testament IS the First and The Last
+        - Isaiah 44:6 LSB
+        > “Thus says Yahweh, the King of Israel and his Redeemer, Yahweh of hosts:
+        **‘I am the first, and I am the last,
+        And there is no God besides Me.**
+
+        - Isaiah 48:12 LSB
+        > “Hear Me, O Jacob, even Israel whom I called;
+        **I am He, I am the first, I am also the last**. -->
+
+<!-- - John 14:8-9 LSB
+> Philip said to Him, “Lord, show us the Father, and it is enough for us.” 9 Jesus said to him, “Have I been with you all so long and have you not come to know Me, Philip? **He who has seen Me has seen the Father**; how can you say, ‘Show us the Father’?
+
+When a word is italicized in the Bible, that means it does not appear in the original Greek MSS (Manuscripts). Since quoting the Bible here in my blog causes all the words to become italicized, i've put words that don't appear in the Greek within brackets.
+
+- John 8:24 LSB
+> Therefore I said to you that you will die in your sins. For unless you believe that I am [He], you will die in your sins.”
+
+- John 8:28 LSB
+> So Jesus said, “When you lift up the Son of Man, then you will know that I am [He], and I do nothing from Myself, but I speak these things as the Father taught Me.
+
+    In this context there is an implied predicate nominative (“he”) following the “I am” phrase. What Jesus’ hearers had to acknowledge is that he was who he claimed to be, i.e., the Messiah (cf. 20:31). This view is also reflected in English translations like NIV (“if you do not believe that I am the one I claim to be”), NLT (“unless you believe that I am who I say I am”), and CEV (“if you don’t have faith in me for who I am”). For a different view that takes this “I am” and the one in 8:28 as nonpredicated (i.e., absolute), see R. E. Brown, John (AB), 1:533-38. Such a view sees the nonpredicated “I am” as a reference to the divine Name revealed in Exod 3:14, and is reflected in English translations like NAB (“if you do not believe that I AM, you will die in your sins”) and TEV (“you will die in your sins if you do not believe that ‘I Am Who I Am’”) 
+
+- John 13:19 LSB
+> From now on I am telling you before it occurs, so that when it does occur, you may believe that I am [He].
+
+- John 18:4-8 LSB
+> So Jesus, knowing all the things that were coming upon Him, went forth and said to them, “Whom do you seek?” 5 They answered Him, “Jesus the Nazarene.” He said to them, “**I am** He.” And Judas also, who was betraying Him, was standing with them. 6 So when He said to them, “**I am** He,” **they drew back and fell to the ground**. 7 Therefore He again asked them, “Whom do you seek?” And they said, “Jesus the Nazarene.” 8 Jesus answered, “I told you that **I am** He; so if you seek Me, let these go their way,” 
+- Complete Jewish Bible
+    >> Yeshua, who knew everything that was going to happen to him, went out and asked them, “Whom do you want?” 5 “Yeshua from Natzeret,” they answered. He said to them, **“I AM.”** Also standing with them was Y’hudah, the one who was betraying him. 6 When he said, **“I AM,”** **they went backward from him and fell to the ground**. 7 So he inquired of them once more, “Whom do you want?” and they said, “Yeshua from Natzeret.” 8 “I told you, **‘I AM,’**” answered Yeshua, “so if I’m the one you want, let these others go.”  -->
 
 <!-- -  Jesus Seven Metaphorical 'I AM' Statements
     -  *“I am the bread of life”*
@@ -304,7 +350,7 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
         - NT: John 15:1,5
         
 
-- Jesus is Yahweh 'I AM' Statements
+- Jesus is Yahweh
     
     | God in the Old Testament | Jesus’ Reference to Himself |
     |---|---|
@@ -325,16 +371,6 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
 - John 10:30 LSB
 > **I** [Jesus] **and the Father are one.”** -->
 
-<!-- When a word is italicized in the Bible, that means it does not appear in the original Greek MSS (Manuscripts). 
-
-- John 8:24 
-> Therefore I said to you that you will die in your sins. For **unless you believe that I am** *He* [He is not in the Greek], you will die in your sins.”
-
-- John 8:28
-> So Jesus said, “When you lift up the Son of Man, **then you will know that I am** He [He is not in the Greek], and I do nothing from Myself, but I speak these things as the Father taught Me.
-
-In this context there is an implied predicate nominative (“he”) following the “I am” phrase. What Jesus’ hearers had to acknowledge is that he was who he claimed to be, i.e., the Messiah (cf. 20:31). This view is also reflected in English translations like NIV (“if you do not believe that I am the one I claim to be”), NLT (“unless you believe that I am who I say I am”), and CEV (“if you don’t have faith in me for who I am”). For a different view that takes this “I am” and the one in 8:28 as nonpredicated (i.e., absolute), see R. E. Brown, John (AB), 1:533-38. Such a view sees the nonpredicated “I am” as a reference to the divine Name revealed in Exod 3:14, and is reflected in English translations like NAB (“if you do not believe that I AM, you will die in your sins”) and TEV (“you will die in your sins if you do not believe that ‘I Am Who I Am’”) -->
-
 - `Jesus was prophesied to be God by Isaiah the Prophet`
     - Isaiah 9:6 LSB
     > "For a child will be born to us, a son will be given to us;
@@ -342,7 +378,9 @@ In this context there is an implied predicate nominative (“he”) following th
     **And His [Jesus] name will be called Wonderful Counselor, Mighty God,
     Eternal Father, Prince of Peace**."
 
-        God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 10:21, the same title that is ascribed to the Son of God, Jesus Christ.
+    - ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Jesus Christ is referred to as "Mighty God" in Isa 9:6. Jehovah is referred to as "Mighty God" in Isa 10:20-21. How can this be if there is only ONE God?
+
+        **God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 10:21, the same title that is ascribed to the Son of God, Jesus Christ.**
         
         - Isaiah 10:21 LSB
         > A remnant will return, the remnant of Jacob, to **the mighty God**.
@@ -355,8 +393,7 @@ In this context there is an implied predicate nominative (“he”) following th
     - Colossians 1:16-17 NKJV
     > For **by Him** [See context. This is speaking of Jesus] **all things were created** that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. **All things were created through Him** [Jesus] **and for Him** [Jesus]. 17 And **He** [Jesus] **is before all things**, and **in Him** [Jesus] **all things consist**. 
 
-    - Yet, God says
-        <!-- > “I am the [LORD [YHWH "Yahweh"]](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), who makes **all things**, who stretches out the heavens **all alone**, who spreads abroad the earth **by Myself**” -->
+    - God says
         - Isaiah 44:24 NKJV
         > Thus says the [LORD](https://www.ancient-hebrew.org/god-yhwh/difference-between-lord-Lord-and-LORD.htm), your Redeemer,
         And He who formed you from the womb:
@@ -486,9 +523,13 @@ In this context there is an implied predicate nominative (“he”) following th
 - Interesting to note, that most witnesses are unaware of the fact that they've been lied to. Origially this cult claimed the date to be 1897. See section *'The Witnesses Are False Prophets Since The Late 1800’s'* above.
     > **`1897`** “Our Lord, the appointed King, is now present, since October 1874,” (Studies in the Scriptures, vol. 4, p. 621).
 
-**Q:** Did every eye see Jesus come back in 1914? No. Did any eye see Jesus come back in 1914? No. The Watchtower tries to get out of the clear implications of this verse (Rev. 1:7) by saying: ‘The eyes spoken of here speak of eyes of understanding….Those who had spiritual eyes to understand this is what took place in 1914, realize that Jesus did came back.’ (see You Can Live Forever in Paradise on Earth, p. 146)
+    **Q:** Did every eye see Jesus come back in 1914? No. Did any eye see Jesus come back in 1914? No. The Watchtower tries to get out of the clear implications of this verse (Rev. 1:7) by saying: ‘The eyes spoken of here speak of eyes of understanding….Those who had spiritual eyes to understand this is what took place in 1914, realize that Jesus did came back.’ (see You Can Live Forever in Paradise on Earth, p. 146)
 
-**A:** That is an incorrect interpretation of Revelation 1:7. The word “eye” (Rev. 1:7) is the Greek word “ophthalmos.” That is the same Greek word used for the literal physical eyes of the blind people Jesus healed (e.g., Matthew 20:34). The word “every” (Rev. 1:7) is the Greek word “pas” and it means just what it says: “every” or “all.” 
+    **A:** That is an incorrect interpretation of Revelation 1:7. The word “eye” (Rev. 1:7) is the Greek word “ophthalmos.” That is the same Greek word used for the literal physical eyes of the blind people Jesus healed (e.g., Matthew 20:34). The word “every” (Rev. 1:7) is the Greek word “pas” and it means just what it says: “every” or “all.” 
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Jesus' return is described in Zechariah 14:4. If Jesus has no body and if his return was invisible, how do you explain this verse?
+    - Zechariah 14:4
+    > And in that day **His feet will stand on the Mount of Olives**, which is in front of Jerusalem on the east; and the Mount of Olives will be split in its middle from east to west by a very large valley so that half of the mountain will move toward the north and the other half toward the south.
 
 ***Conclusion: Jesus will return physically. The Second Coming is not going to be some mysterious, secret coming. The whole world will witness it.***
 
@@ -517,7 +558,7 @@ Another way of verifying that there will be far more than 144,000 people in Heav
 - ***Q&A:*** `Where is the throne?` <br>
 This massive uncountable number is **NOT** standing on a “paradise Earth”; they are standing in Heaven “before the throne” (Revelation 7:9).
 
-<br>
+
 The Watchtower justifies their unbiblical teaching regarding the 144,000 by misinterpreting what the Book of Revelation says about the 144,000 persons whom God will seal during the great tribulation (12,000 from each of the 12 tribes of Israel, Rev. 7:4-8). One of the problems for the Watchtower, regarding their interpretation, is that a careful reading of the Bible reveals that the 144,000 will be:
 
 - Jewish (Revelation 7:4)
@@ -527,6 +568,10 @@ The Watchtower justifies their unbiblical teaching regarding the 144,000 by misi
 > "These are the ones who were not defiled with women, for they are **virgins**. These are the ones who follow the Lamb wherever He goes. These were redeemed from among **men**, being firstfruits to God and to the Lamb."
 
 So, not only are the 144,000 Jewish, they are male Jews. And not only are they male Jews. They are male virgins (as the context here in Revelation 14 implies)! This completely rules out the married men and women (non-virgins) who are part of the Watchtower and who consider themselves to be some of the few remaining 144,000. 
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> In Rev 19:1, where does it say that the great crowd will be?
+    - Revelation 19:1
+    > After these things I heard something like a loud voice of a great crowd in heaven, saying, “Hallelujah! Salvation and glory and power belong to our God; 
 
 ***Conclusion: All nations, tribes, peoples, and tongues (Rev. 7:9) are the Church. The 144,000 are a special group of Jews on earth during the tribulation hour, a time period where the church is safely raptured away into heaven to escape the tribulation.***
 
@@ -547,7 +592,7 @@ Following this, Jesus sets up His kingdom on the Earth and rules and reigns for 
 - Revelation 20:10
 > "The devil, who deceived them, was cast into the lake of fire and brimstone **where the beast and the false prophet are**. And **they** will be **tormented day and night forever and ever**."
 
-The coming Antichrist and the false prophet are thrown into the lake of fire right at the beginning of the thousand year reign of Christ. Then at the end of the thousand year reign of Christ, the devil is thrown into the lake of fire. Now, here’s the important thing to notice: The Antichrist and the false prophet are still there!
+The coming Antichrist and the false prophet are thrown into the lake of fire right at the beginning of the thousand year reign of Christ. Then at the end of the thousand year reign of Christ, the devil is thrown into the lake of fire. Now, here’s the important thing to notice: **The Antichrist and the false prophet are still there!**
 
 So, it says “They will be tormented”—not just the devil, but THEY, referring to all three of them: the devil, the Antichrist and the false prophet. They will be tormented day and night forever and ever. The “lake of fire” does not annihilate anybody. And here’s the sobering truth. The Bible teaches that all who reject God’s offer of reconciliation will end up in that very place. The unsaved are going to the very place the Antichrist, the false prophet, and the devil will go: the lake of fire. 
 
@@ -602,6 +647,10 @@ This is an incorrect, unbiblical doctrine known as “soul-sleep.” The Bible t
     > “Assuredly, I say to you, today you will be with Me [where?] in Paradise”. 
     
         Where is Paradise? Revelation 2:7 tells us that Paradise is in the presence of God.  
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> If the soul is the body, why does Jesus make a distinction between the body and the soul?
+    - Matthew 10:28
+    > And do not fear those who kill the body but are unable to kill the soul; **but rather fear Him who is able to destroy both soul and body in hell**.
         
 ***Conclusion: Soul sleep is an unbiblical doctrine.***
 
@@ -672,13 +721,32 @@ The word “firstborn” in Colossians 1:15 is the Greek word “prototokos.” 
 - Colossians 1:16-17
 > 16 “For by Him [Jesus] **all things** [How many things? ALL THINGS] were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. **All things** were created through Him and for Him. 17 And He is before **all things**, and in Him **all things** consist.” 
 
-⚠️ <span style="font-weight:bold;color:#E8AA00;">Warning:</span> To deal with the implications of these two verses (Col. 1:16–17) the Jehovah Witnesses added four words into their false bible translation that are not in the original Greek to give people the impression that Jesus only made some things—not ALL things.
+⚠️ <span style="font-weight:bold;color:#E8AA00;">Warning:</span> To deal with the implications of these two verses (Col. 1:16–17) the Jehovah Witnesses added four words ("other") into their false bible translation that are not in the original Greek to give people the impression that Jesus only made some things—not ALL things. 
 
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> 26 In Col 1:15-17, the NWT inserts the word "other" 4 times even though it is not in the original Greek (See Gr- Engl Interlinear). Why is the word "other" inserted? How would these verses read if the word "other" had not been inserted? What does scripture say about adding words to the Bible?
+
+    - Proverbs 30:5-6
+    > Every word of God is tested;
+    He is a shield to those who take refuge in Him.
+    6 **Do not add to His words
+    Lest He reprove you, and you be proved a liar**.
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> 4 Col 1:16, in talking about Jesus, says that"... All [other] things have been created through him and FOR HIM". If Jesus were Michael the Archangel at the time of creation, would an angel have created all things for himself? Isa 43:7 says God created "everyone ... for my OWN glory ..."
+
+    - Isaiah 43:7
+    > Everyone who is called by My name,
+    And whom I have created **for My glory**,
+    Whom I have formed, even whom I have made.”
+ 
 So, if the cults try to tell you that the term “firstborn” means Jesus was the first being God created, gently tell them that they’re mistaken and that the passage (Colossians 1:15) is actually teaching that Jesus is superior or above creation.
 
 ➕ <span style="font-weight:bold;color:grey;">Additionally:</span> We can also validate that this is what the bible teaches in other areas as well by observing the book of John.
 - John 1:1-3,14
 > “In the beginning was the Word [Jesus], and the Word [Jesus] was with God, and the Word [Jesus] was God. 2 He [Jesus] was in the beginning with God. 3 **All things were made through Him [Jesus]**, and without Him [Jesus] nothing was made that was made... 14 And the Word [Jesus] became flesh and dwelt among us, and we beheld His [Jesus] glory, the glory as of the only begotten of the Father, full of grace and truth.”
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Jn 1:3 says that Jesus created "all things", but in Isa 44:24, God says that he "by myself created the heavens and the earth" and asks the question "Who was with me?" when the heavens and the earth were created. How can this be since if Jesus had been created by God, then he would have been with God when everything else was created?
+
+- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Jn 1:3 says in reference to Christ, "All things came into existence through him, and apart from him not even one thing came into existence". How could Christ have been a created being if ALL things came into existence through him? If Jesus was a created being, then according to Jn 1:3, Jesus would have had to create himself.
 
 ***Conclusion: Paul was saying that Jesus is above all of creation. Jesus is the Creator.***
 
@@ -823,7 +891,7 @@ Jesus is absolutely equal in nature to God the Father. But in John 14:28, while 
     - John 14:9
     > “He who has seen Me has seen the Father.”
 
-***Conclusion: The Father is greater ["meizon"] in rank, not greater in nature. This proves the Hypostatic Union & [Trinity](https://carm.org/doctrine-and-theology/trinity-chart/).***
+***Conclusion: The Father is greater ["meizon"] positionally, not greater in nature. This proves the Hypostatic Union & [Trinity](https://carm.org/doctrine-and-theology/trinity-chart/).***
 
 # 6. Is Jesus Good?
 
@@ -1029,7 +1097,7 @@ To further verify that Solomon was not talking about Jesus (the Messiah who woul
 
 ***Conclusion: You can be absolutely confident that this is not about Jesus as the Watchtower Society would like us to believe.***
 
-*Source(s): [9](https://alwaysbeready.com/cults-attack-on-jesus-deity/), [10](https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union), [11](https://carm.org/about-jesus/if-jesus-is-god-then-why-did-he-not-know-the-time-of-his-return/), [12](https://www.gotquestions.org/Good-Shepherd.html)*
+*Source(s): [9](https://alwaysbeready.com/cults-attack-on-jesus-deity/), [10](https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union), [11](https://carm.org/about-jesus/if-jesus-is-god-then-why-did-he-not-know-the-time-of-his-return/), [12](https://www.gotquestions.org/Good-Shepherd.html), [13](http://mmoutreachinc.com/jehovahs_witnesses/65%20Questions.html)*
 
 ## **Conclusion**
 
