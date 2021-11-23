@@ -40,11 +40,11 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 - `The Stoic Ideal (Stoicism)`
     - <a href="https://youtu.be/cPglxsqsL_c" style="color:#025982;">Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations</a>
     - Philippians 4:8 (Eudaimonia & Aretē)
-- `Rise`
+- `Perseverance`
     - <a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">七転び八起き</a>
     - Proverbs 24:16
 - `Raison d'être via 生き甲斐`
-- <a href="https://youtu.be/lDu6SQjiZ-I" style="color:#025982;">Charlie Chaplin's Speech</a>
+- <a href="https://youtu.be/lDu6SQjiZ-I" style="color:#025982;">`Charlie Chaplin's Speech`</a>
 
 <!-- (https://youtu.be/Auuk1y4DRgk?t=24)
 
