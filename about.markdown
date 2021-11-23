@@ -33,10 +33,9 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 
 - `Biblical Christianity`
-    - `Apostolic Age`
-        - Apocalyptic Jewish Christianity
+    <!-- - Apocalyptic Jewish Christianity -->
+    - Apostolic Age & Ante-Nicene Period
         - Isaiah 40:3 Followers of "The Way" (ἡ ὁδός - hė hodós)
-    - `Ante-Nicene Period`
         - Acts 11:26 (Χριστιανισμός)
 - `The Stoic Ideal (Stoicism)`
     - <a href="https://youtu.be/cPglxsqsL_c" style="color:#025982;">Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations</a>
