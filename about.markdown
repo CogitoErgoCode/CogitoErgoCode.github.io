@@ -261,7 +261,7 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-I mostly watch Netflix with the occasional indie game on the Ninteno Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.
+I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
