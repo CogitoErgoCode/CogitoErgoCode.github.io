@@ -68,21 +68,21 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 - `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#025982;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#025982;">Glassworks Opening</a>
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
-## 🎻 Violin
+<!-- ## 🎻 Violin
 
 - `Eternal Eclipse`
     - `Forgotten Odes:` <a href="https://youtu.be/piRBMOxum3o" style="color:#025982;">Forgotten Odes</a>, <a href="https://youtu.be/rNO7Q9kPb_M" style="color:#025982;">Cloak and Dagger</a>, <a href="https://youtu.be/nBM6OX8MbYs" style="color:#025982;">Theory Of Light</a>, [The Last Funeral](https://youtu.be/Giy_HAKLVs4), [Afterlight](https://youtu.be/GFH_KkAhWqE), <a href="https://youtu.be/pMIb9HRKJJQ" style="color:#025982;">Revolution</a>, <a href="https://youtu.be/kfVmldkxgQc" style="color:#025982;">Fate of the Clockmaker</a>, <a href="https://youtu.be/X7oy2aJDKpc" style="color:#025982;">Autumn Moon</a>, <a href="https://youtu.be/Q5GHpnQVkDc" style="color:#025982;">The Game is Afoot</a>, <a href="https://youtu.be/5E87Mz4X4K8" style="color:#025982;">Shadows in the Sea</a>
 - `Arvo Pärt`
-    - `Tabula Rasa:` <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Fratres</a>, [Ludus](https://youtu.be/7YqF69HLkj8?t=2988)
+    - `Tabula Rasa:` <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Fratres</a>, [Ludus](https://youtu.be/7YqF69HLkj8?t=2988) -->
     
-    <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
+<!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
 ## 🎤 Thom Yorke
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
 - **`KID A MNESIA (2021)`**
-    - [If You Say The Word](https://youtu.be/Jj2nX2BDTYY), [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo)
+    - [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo), [If You Say The Word](https://youtu.be/Jj2nX2BDTYY)
 
 - `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
@@ -353,7 +353,7 @@ I'm also fascinated with mythology & folk lore.
 - Study, reading, writing, & relaxation
     - `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk)
     - `Ambient:` <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
-    - `Acoustic:` <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>, [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8)
+    <!-- - `Acoustic:` <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>, [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8) -->
     - `Folk:` <a href="https://youtu.be/AImY5NVcVKk" style="color:#025982;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#025982;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
     - `Post:` [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227)
 
