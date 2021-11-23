@@ -74,11 +74,13 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
-- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514)
+- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
+- `Acoustic Solos:` [These Are My Twisted Words](https://youtu.be/HDaXg8nJRJo)
 - `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>,  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), <a href="https://youtu.be/FM7ALFsOH4g" style="color:#025982;">All I Need</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#025982;">Codex</a>, [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, [Nude](https://youtu.be/BbWBRnDK_AE), <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>, [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>, <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>, <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>
 - `Popular:` <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="color:#025982;">Karma Police</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>
+- `Unreleased:` [Cut A Hole (Live)](https://youtu.be/Vwk3-fWF8us)
 
 <!-- # Classical / Neoclassical Violin & Cello
 
@@ -274,16 +276,22 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-In my youth, I grew up into all the retro arcades, games, movies, and anime in the 90's. Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM). 
+I Mostly watch Netflix with the occasional indie game on the Ninteno Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.
 
-As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late.
+<!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
+
+<!-- As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late. --> 
 
 - `Netflix`
     - Squid Game (2021)
 - `Nintendo Switch`
-    - Octopath Traveler (2018)
+    <!-- - Octopath Traveler (2018) -->
     - Hollow Knight (2017)
     - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss)
+
+<!-- - `Anime`    
+    - [Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)
+    - [Berserk '97](https://youtu.be/h63YO1cInQM) -->
 
 ## 📜 Literature & Poetry
 
