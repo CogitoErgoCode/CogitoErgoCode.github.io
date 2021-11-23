@@ -92,22 +92,6 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 - `Popular:` <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="color:#025982;">Karma Police</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>
 - `Unreleased:` [Cut A Hole (Live)](https://youtu.be/Vwk3-fWF8us)
 
-<!-- # Classical / Neoclassical Violin & Cello
-
-This section also encapsulates symphony orchestra, & philharmonic.
-
-> “If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music ... I cannot tell if I would have done any creative work of importance in music, but I do know that I get most joy in life out of my violin.” &mdash; Albert Einstein 
-
-- `Eternal Eclipse`
-    - `Forgotten Odes:` <a href="https://youtu.be/piRBMOxum3o" style="color:#025982;">Forgotten Odes</a>, [Afterlight](https://youtu.be/GFH_KkAhWqE), <a href="https://youtu.be/pMIb9HRKJJQ" style="color:#025982;">Revolution</a>, [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), <a href="https://youtu.be/kfVmldkxgQc" style="color:#025982;">Fate of the Clockmaker</a>, <a href="https://youtu.be/nBM6OX8MbYs" style="color:#025982;">Theory Of Light</a>, <a href="https://youtu.be/X7oy2aJDKpc" style="color:#025982;">Autumn Moon</a>, <a href="https://youtu.be/Q5GHpnQVkDc" style="color:#025982;">The Game is Afoot</a>, [The Last Funeral](https://youtu.be/Giy_HAKLVs4), <a href="https://youtu.be/5E87Mz4X4K8" style="color:#025982;">Shadows in the Sea</a>
-- `Arvo Pärt`
-    - `Tabula Rasa:` <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Fratres</a>, [Ludus](https://youtu.be/7YqF69HLkj8?t=2988), [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
-
-<!-- - `Maurice Ravel`
-    - [Valses Nobles et Sentimentales, No. 5 (Cleveland Orchestra, conducted by Pierre Boulez)](https://youtu.be/PDNy_GHNsiE?t=373) -->
-
-<!-- [`Forgotten Odes:`](https://youtu.be/synJbsrk0k8) -->
-
 <!-- - `Paul Dinletir & Kevin Rix (Audiomachine):` [Tangled Earth](https://youtu.be/-O_-y6xI43U), [Being Alive](https://youtu.be/vH_gcp0GEbc), <a href="https://youtu.be/AFuYyHiOmXs" style="color:#025982;">Redshift</a>, <a href="https://youtu.be/Gy7oD4NowhI" style="color:#025982;">Sun And Steel</a>
 - `Thomas Bergersen:` <a href="https://youtu.be/E147pyyxNPo" style="color:#025982;">None Shall Live</a>, <a href="https://youtu.be/EjIvnm0GBH8" style="color:#025982;">Unforgiven</a>, <a href="https://youtu.be/NIODdfGHRF0" style="color:#025982;">Last Of The Light</a>, [Flight of the Silverbird](https://youtu.be/n-Dh3ftkRAs)
 - `Arvo Pärt`
@@ -136,19 +120,10 @@ This section also encapsulates symphony orchestra, & philharmonic.
 - `Globus:` <a href="https://youtu.be/ebk877L4DeU" style="color:#025982;">Preliator</a>
 - `Carl Orff:` <a href="https://youtu.be/O5b7tgkdFH0" style="color:#025982;">Carmina Burana / O Fortuna</a>, [Carmina Burana / Fortune plango vulnera](https://youtu.be/O5b7tgkdFH0?t=151) -->
 
-<!-- # Classical / Fingerstyle Guitar
 
-> "With invisible threads our worlds are connected and in-spite of our differences these worlds can meet in the heart of its being." &mdash; Estas Tonne
+<!-- > "With invisible threads our worlds are connected and in-spite of our differences these worlds can meet in the heart of its being." &mdash; Estas Tonne
 
-- `Estas Tonne:` [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo)
-- `Antonio Muñoz Fernández:` [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/GEKWu0mC1cM" style="color:#025982;">Diamante Negro</a>
-- `Gabriella Quevedo:` <a href="https://youtu.be/mgRoucrBIgI" style="color:#025982;">No Time To Die</a>, <a href="https://youtu.be/OSwturkPfnY" style="color:#025982;">Creep</a>
-
-\**Not purely guitar or classical, containing elements of piano and other instruments.*
-
-- `Paul Dinletir & Kevin Rix (Audiomachine):` <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>
-- [`Black Hill & Silent Island`](https://youtu.be/_GV5_CpaybU): [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227) -->
-
+- `Gabriella Quevedo:` <a href="https://youtu.be/mgRoucrBIgI" style="color:#025982;">No Time To Die</a>, <a href="https://youtu.be/OSwturkPfnY" style="color:#025982;">Creep</a> -->
 
 
 <!-- # Alternative / Progressive
@@ -378,7 +353,7 @@ I'm also fascinated with mythology & folk lore.
 - Study, reading, writing, & relaxation
     - `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk)
     - `Ambient:` <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
-    - `Acoustic:` [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>
+    - `Acoustic:` <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#025982;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#025982;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#025982;">Look Within</a>, [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#025982;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#025982;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#025982;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8)
     - `Folk:` <a href="https://youtu.be/AImY5NVcVKk" style="color:#025982;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#025982;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
     - `Post:` [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227)
 
