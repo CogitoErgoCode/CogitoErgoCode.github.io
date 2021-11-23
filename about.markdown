@@ -74,6 +74,9 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
+- **`KID A MNESIA (2021)`**
+    - [If You Say The Word](https://youtu.be/Jj2nX2BDTYY), [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo)
+
 - `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
@@ -285,7 +288,7 @@ I Mostly watch Netflix with the occasional indie game on the Ninteno Switch. Whe
 - `Netflix`
     - Squid Game (2021)
 - `Nintendo Switch`
-    <!-- - Octopath Traveler (2018) -->
+    - Octopath Traveler (2018)
     - Hollow Knight (2017)
     - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss)
 
