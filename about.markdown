@@ -367,9 +367,12 @@ I'm also fascinated with mythology & folk lore.
 
     - [The Wanderer’s Hávamál](http://library.lol/main/0980C7077EAF3703FD1B929B1D55B523) -->
 
-- Study & Relaxation
+- Study, Reading & Relaxation
     - `Drown out:` <a href="https://youtu.be/nMfPqeZjc2c" style="color:#025982;">White Noise</a>, [Rain](https://youtu.be/q76bMs-NwRk)
     - `Ambient:` <a href="https://youtu.be/3sL0omwElxw" style="color:#025982;">Crackling Fireplace</a>, <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#025982;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#025982;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#025982;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#025982;">Winter Ambience</a>
+    - `Strings:` <a href="https://youtu.be/piRBMOxum3o" style="color:#025982;">Forgotten Odes</a>, [Cloak and Dagger](https://youtu.be/rNO7Q9kPb_M), <a href="https://youtu.be/nBM6OX8MbYs" style="color:#025982;">Theory Of Light</a>, [The Last Funeral](https://youtu.be/Giy_HAKLVs4), <a href="https://youtu.be/7YqF69HLkj8" style="color:#025982;">Arvo Pärt (Tabula Rasa)</a>
+    - `Folk:` <a href="https://youtu.be/AImY5NVcVKk" style="color:#025982;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#025982;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA)
+    - `Post:` [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227)
 
 <!-- 
 - [`Prince Shotoku:`](https://en.wikipedia.org/wiki/Kojiki) [Kojiki](http://library.lol/main/FFD1C93935703D38C3B4098E42D1FAF1)
