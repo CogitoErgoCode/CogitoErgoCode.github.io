@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:43:00 -0700
+date: 2021-11-04 11:44:00 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -65,7 +65,11 @@ Before journeying into a debate, however logically sound our position may be, we
 
 - **`Straw man fallacy:`** Last but not least, misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument.
 
-    - This is used a lot by the cults, especially in the witness organization. Examples will be given below.
+    - This form of misrepresentation is used a lot by the cults, especially in the witness organization. One example would be when they claim that Christians believe in a "three headed God," referring to the Trinity, when this has never been a held belief of any follower of Christ. From the early church fathers on down to present day, Christians have said and taught the same thing that Christ and the Apostles taught, that there is only one God in three personages.
+
+        Nevertheless, they continue to misrepresent what Christ, the Apostles, and all Christians have taught and believed from the very beginning, in order to strengthen their false argument.
+        
+        <!-- It's ironic that they continue with this line of erroneous thinking, when it was their very organization that has divided the one God into multiple individual gods (see John 1:1-3,14 they added the letter 'a' which doesn't appear in the greek essentially splitting Jesus & God into two) -->
 
 # Relevance Fallacies 
 
@@ -172,7 +176,7 @@ Scholars also agree that **no cardinal doctrine is affected** by any viable vari
 
 ## **A Brief History of the "Jehovah's" Witnesses**
 
-In the year 1870, an 18 year old teenager, Charles Taze Russell attended church and found himself unable to accept sound scholarship. He denied the truths found in the Bible, such as: Hell, the Trinity, the deity of Christ. So he organized a Bible study in Pittsburgh, where he began to share his unorthodox beliefs with others, this Bible study grew and the group eventually made him their pastor. 
+In the year 1870, an 18 year old teenager, Charles Taze Russell attended church and found himself unable to accept centuries of sound scholarship. He denied the truths found in the Bible, such as: Hell, the Trinity, the deity of Christ. So he organized a Bible study in Pittsburgh, where he began to share his unorthodox beliefs with others, this Bible study grew and the group eventually made him their pastor. 
 
 By 1879, Charles Russell and his followers believed the Second Coming of Christ had already happened invisibly in 1874. And they declared that to be the case for 40 years. The followers of his teachings have since changed the date of Christ’s invisible coming to 1914. 
 
@@ -282,13 +286,18 @@ Let's look at a few examples of the unbiblical teachings espoused by this cult.
         > "**Your throne, O God, is forever and ever**. The scepter of your kingdom is a scepter of uprightness;"
 
 - **`Jesus calls himself God`**
-    - John 8:58-59
-        > “Jesus said to them, “Most assuredly, I say to you, before Abraham was, **I AM**.” Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.”
+    - John 8:56-59 NKJV
+    > **Your father Abraham rejoiced to see My day, and he saw it and was glad.”**
+    57 Then the Jews said to Him, “You are not yet fifty years old, and have You seen Abraham?”
+    58 Jesus said to them, **“Most assuredly, I say to you, before Abraham was, I AM**.”
+    59 Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going[a] through the midst of them, and so passed by.
+    
+    ⚠️ <span style="font-weight:bold;color:#E8AA00;">Warning:</span> The cults have scrubbed the scholarly greek translation of "I AM" and deliberately changed it to "i have been". Ego Eimi means “I am”, it has never meant "i have been". In Greek, the words recorded in John 8:58 are “‘prin abraam genesthai ego eimi.” Literally, this is “Before Abraham was existing, I am.” “Ego eimi” is literally, “I am.” This is the present tense. To say “I have been” is to use the perfect tense.  In Greek, he would have been “aemane,” but Jesus didn’t use it here. He used the present tense “ego eimi” which is “I am.”
 
-        Jesus declared Himself to be the Great “I AM”, the Old Testament name for God. He's saying that He is the God of the Old Testament. The Jews tried to kill him over it!
-
-        - Exodus 3:14 LSB
-        > And God said to Moses, **“I AM WHO I AM”**; and He said, “Thus you shall say to the sons of Israel, ‘**I AM** has sent me to you.’” 
+    Jesus declared Himself to be the Great “I AM”, the Old Testament name for God. He's saying that He is the God of the Old Testament. The Jews tried to kill him over it!
+    
+    - Exodus 3:14 LSB
+    > And God said to Moses, **“I AM WHO I AM”**; and He said, “Thus you shall say to the sons of Israel, ‘**I AM** has sent me to you.’”
 
 <!-- - **`Jesus calls Himself “the Alpha and Omega,” the title of Almighty God.`**
 
