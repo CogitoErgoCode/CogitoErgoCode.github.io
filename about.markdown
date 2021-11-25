@@ -31,6 +31,8 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## [🦉](/assets/images/wiseowl.png) Beliefs & Philosophy
 
+<!-- Recent revelatory epiphanies I've been attempting to enact. These number among the most difficult things a man can subdue unto himself. It's easy to live a life of epicureanism. -->
+
 - `Biblical Christianity`
     <!-- - Apocalyptic Jewish Christianity -->
     - Apostolic Age & Ante-Nicene Period
