@@ -86,7 +86,8 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
 <!-- font-weight:bold; -->
-- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
+- `Atoms For Peace` 
+    - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
 - **`Radiohead`**
     - `KID A MNESIA (2021):` [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo), [If You Say The Word](https://youtu.be/Jj2nX2BDTYY)
     - `A Moon Shaped Pool (2016):` <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/fzK5kbNL2Ak" style="color:#025982;">Glass Eyes</a>, <a href="https://youtu.be/QZfK4zOQQ3E" style="color:#025982;">Identikit</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>
@@ -102,9 +103,9 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
     - `OK Computer (1997):` <a href="https://youtu.be/jNY_wLukVW0" style="color:#025982;">Airbag</a>, <a href="https://youtu.be/Lt8AfIeJOxw" style="color:#025982;">Paranoid Android</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="font-weight:bold;color:#025982;">Karma Police</a>, <a href="https://youtu.be/XX4EpkR-Sp4" style="color:#025982;">Climbing Up the Walls</a>, <a href="https://youtu.be/u5CVsCnxyXg" style="font-weight:bold;color:#025982;">No Surprises</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>
     - `The Bends (1995):` <a href="https://youtu.be/7qFfFVSerQo" style="font-weight:bold;color:#025982;">High and Dry</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="font-weight:bold;color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="font-weight:bold;color:#025982;">Street Spirit</a>
     - `Pablo Honey (1993):` <a href="https://youtu.be/XFkzRNyygfk" style="font-weight:bold;color:#025982;">Creep</a>
-    - `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c)
-- `Atoms For Peace` 
-    - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
+- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
+- `The Eraser (2006):` <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg)
+- `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), [Unmade](https://youtu.be/27c3JaZq4_c)
 - `Acoustic Solos:` [These Are My Twisted Words](https://youtu.be/HDaXg8nJRJo)
 - `Unreleased:` [Cut A Hole (Live)](https://youtu.be/Vwk3-fWF8us)
 
