@@ -83,15 +83,29 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
-- **`KID A MNESIA (2021)`**
-    - [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo), [If You Say The Word](https://youtu.be/Jj2nX2BDTYY)
-
-- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
+<!-- font-weight:bold; -->
+- `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#025982;">Suspirium</a>, [Bloom (Live from Electric Lady Studios)](https://youtu.be/EdmL835q9To), [Videotape (From The Basement)](https://youtu.be/SnIAxVx7ZUs), [Last Flowers (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=583), [Analyse (From The Basement)](https://youtu.be/SnIAxVx7ZUs?t=285), [Fоg (Again)](https://youtu.be/QEG28XWEhuc?t=636), [I Froze Up](https://youtu.be/QEG28XWEhuc?t=756), [I Want None Of This](https://youtu.be/QEG28XWEhuc?t=1514), [Daily Battles](https://youtu.be/mndJOsGsZnk)
+- **`Radiohead`**
+    - `KID A MNESIA (2021):` [Like Spinning Plates ('Why Us?' Version)](https://youtu.be/QhHMJkeF8zo), [If You Say The Word](https://youtu.be/Jj2nX2BDTYY)
+    - `A Moon Shaped Pool (2016):` <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/fzK5kbNL2Ak" style="color:#025982;">Glass Eyes</a>, <a href="https://youtu.be/QZfK4zOQQ3E" style="color:#025982;">Identikit</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>
+    <!-- <a href="https://youtu.be/TTAU7lLDZYU" style="font-weight:bold;color:#025982;">Daydreaming</a> -->
+    - `The King Of Limbs (2011):` <a href="https://youtu.be/T7t38uDUg5E" style="color:#025982;">Codex</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="font-weight:bold;color:#025982;">Lotus Flower</a>
+    - **`In Rainbows (2007):`** <a href="https://youtu.be/BbWBRnDK_AE" style="color:#025982;">Nude</a>, <a href="https://youtu.be/iY4APDrl66s" style="color:#025982;">All I Need (Microcosmos)</a>, <a href="https://youtu.be/FM7ALFsOH4g" style="color:#025982;">All I Need</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#025982;">Videotape</a>, <a href="https://youtu.be/wqh9GKAtZzo" style="color:#025982;">Go Slowly</a>, <a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>, <a href="https://youtu.be/giSKoJpRiFQ" style="color:#025982;">Up On The Ladder</a>
+    <!-- <a href="---" style="color:#025982;">---</a>, -->
+    <!-- <a href="https://youtu.be/2w6kHS_IRrE" style="color:#025982;">2 + 2 = 5</a> -->
+    - `Hail to the Thief (2003):` <a href="https://youtu.be/INvrv9ppxvQ" style="color:#025982;">Sail To The Moon</a>, <a href="https://youtu.be/Fe6X9fLLp0Y" style="color:#025982;">Go To Sleep</a>, <a href="https://youtu.be/pyTY6Z-Fqzw" style="color:#025982;">Where I End and You Begin</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/PxOO8YkB_Og" style="color:#025982;">Myxomatosis</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, <a href="https://youtu.be/6isz01iv8Ls" style="color:#025982;">A Wolf At the Door</a>
+    - `Amnesiac (2001):` <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#025982;">Pyramid Song</a>, <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>
+    <!-- <a href="https://youtu.be/egUFlyfE1PY" style="color:#025982;">Dollars and Cents</a> -->
+    - `KID A (2000):` <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/1On-ZHfTWOo" style="color:#025982;">Optimistic</a>, <a href="https://youtu.be/Q29iibXXiOs" style="color:#025982;">In Limbo</a>, <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>
+    - `OK Computer (1997):` <a href="https://youtu.be/jNY_wLukVW0" style="color:#025982;">Airbag</a>, <a href="https://youtu.be/Lt8AfIeJOxw" style="color:#025982;">Paranoid Android</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="font-weight:bold;color:#025982;">Karma Police</a>, <a href="https://youtu.be/XX4EpkR-Sp4" style="color:#025982;">Climbing Up the Walls</a>, <a href="https://youtu.be/u5CVsCnxyXg" style="font-weight:bold;color:#025982;">No Surprises</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>
+    - `The Bends (1995):` <a href="https://youtu.be/7qFfFVSerQo" style="font-weight:bold;color:#025982;">High and Dry</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="font-weight:bold;color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="font-weight:bold;color:#025982;">Street Spirit</a>
+    - `Pablo Honey (1993):` <a href="https://youtu.be/XFkzRNyygfk" style="font-weight:bold;color:#025982;">Creep</a>
+    - `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c)
+- `Atoms For Peace` 
+    - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
 - `Acoustic Solos:` [These Are My Twisted Words](https://youtu.be/HDaXg8nJRJo)
-- `Experimental:` [Hearing Damage](https://youtu.be/P7nz6-UVrmU), <a href="https://youtu.be/CLiDemXYSLc" style="color:#025982;">Spectre</a>,  [All I Need (Microcosmos)](https://youtu.be/iY4APDrl66s), <a href="https://youtu.be/FM7ALFsOH4g" style="color:#025982;">All I Need</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#025982;">Codex</a>, [Pyramid Song](https://youtu.be/3M_Gg1xAHE4), <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, [Nude](https://youtu.be/BbWBRnDK_AE), <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>, [Airbag](https://youtu.be/jNY_wLukVW0), [Climbing Up the Walls](https://youtu.be/XX4EpkR-Sp4), <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>, <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, [Where I End and You Begin](https://youtu.be/pyTY6Z-Fqzw), <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>, <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, [Analyse (Acoustic)](https://youtu.be/l6jSJKPJ3Cg), [Unmade](https://youtu.be/27c3JaZq4_c), <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>
-- `Popular:` <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="color:#025982;">Karma Police</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="color:#025982;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>
 - `Unreleased:` [Cut A Hole (Live)](https://youtu.be/Vwk3-fWF8us)
 
 <!-- - `Paul Dinletir & Kevin Rix (Audiomachine):` [Tangled Earth](https://youtu.be/-O_-y6xI43U), [Being Alive](https://youtu.be/vH_gcp0GEbc), <a href="https://youtu.be/AFuYyHiOmXs" style="color:#025982;">Redshift</a>, <a href="https://youtu.be/Gy7oD4NowhI" style="color:#025982;">Sun And Steel</a>
@@ -263,7 +277,7 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.
+I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently. 
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
@@ -275,6 +289,20 @@ I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Swit
     - Octopath Traveler (2018)
     - Hollow Knight (2017)
     - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss)
+
+<!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
+
+<!-- - `Favorite Fictional Universes`
+    - Mortal Kombat
+        
+        I am currently playing Erron Black in MK11U, and while I consider it to have the best fighting mechanics. The modern story isn't very good. The following three entries contain the best elements of the MK universe.
+        - Mortal Kombat I-III ('92 / '93 / '95)
+        - [Mortal Kombat (1995)](https://youtu.be/GKJidSHyv0c?t=47)
+        - Expanded upon in Deception (2004)
+
+    - Primal
+    - Return to Oz -->
+        
 
 <!-- - `Anime`    
     - [Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)
