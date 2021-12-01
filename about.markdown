@@ -29,23 +29,6 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 <!-- \[([a-zA-Z0-9\./#," ]+)\]\((https://[a-zA-Z0-9\./]+)\) -->
 <!-- <a href="$2" style="color:#025982;">$1</a> -->
 
-## [🦉](/assets/images/wiseowl.png) Beliefs & Philosophy
-
-<!-- Recent revelatory epiphanies I've been attempting to enact. These number among the most difficult things a man can subdue unto himself. It's easy to live a life of epicureanism. -->
-
-- `Biblical Christianity`
-    <!-- - Apocalyptic Jewish Christianity -->
-    - Apostolic Age & Ante-Nicene Period
-        - Isaiah 40:3 Followers of "The Way" (ἡ ὁδός - hė hodós)
-        - Acts 11:26 (Χριστιανισμός)
-- `The Stoic Ideal (Stoicism)`
-    - <a href="https://youtu.be/cPglxsqsL_c" style="color:#025982;">Dr. Michael Sugrue on Emperor Marcus Aurelius' Meditations</a>
-    - Philippians 4:8 (Eudaimonia & Aretē)
-- `Perseverance`
-    - <a href="https://youtu.be/ltJ9i5P5GS0" style="color:#025982;">七転び八起き</a>
-    - Proverbs 24:16
-- `Raison d'être via 生き甲斐`
-- <a href="https://youtu.be/lDu6SQjiZ-I" style="color:#025982;">`Charlie Chaplin's Speech`</a>
 
 <!-- (https://youtu.be/Auuk1y4DRgk?t=24)
 
