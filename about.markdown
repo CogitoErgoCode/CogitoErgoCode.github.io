@@ -81,7 +81,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎤 Thom Yorke
 
-Key: <span style="font-weight:bold;color:#025982;">Popular (Video)</span>, <span style="font-weight:bold;color:#660000;">Heart Strings</span>
+Key: <span style="font-weight:bold;color:#025982;">Highly Viewed</span>, <span style="font-weight:bold;color:#660000;">Moving</span>
 
 <!-- , <span style="font-weight:bold;color:#b38600;">Spiritual</span>, <span style="font-weight:bold;color:#660066;">Melancholic</span> -->
 
