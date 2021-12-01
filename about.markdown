@@ -81,8 +81,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎤 Thom Yorke
 
-Key: <span style="font-weight:bold;color:#025982;">Popular</span>, <span style="font-weight:bold;color:#660000;">Moving</span>, <span style="font-weight:bold;color:#b36b00;">Nostalgic</span>
-
+I like almost everything of Yorke's, so I'll list a few in no particular order.
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
@@ -94,7 +93,7 @@ Key: <span style="font-weight:bold;color:#025982;">Popular</span>, <span style="
 <a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>,
 <a href="https://youtu.be/iY4APDrl66s" style="color:#025982;">All I Need (Microcosmos)</a>, 
 <a href="https://youtu.be/WF83_PR2EsA" style="color:#660000;">Videotape</a>, 
-<a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>
+<a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>,
 <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#025982;">Pyramid Song</a>, 
 <a href="https://youtu.be/1uYWYWPc9HU" style="color:#b36b00;">Karma Police</a>, 
 <a href="https://youtu.be/u5CVsCnxyXg" style="color:#025982;">No Surprises</a>, 
@@ -106,6 +105,8 @@ Key: <span style="font-weight:bold;color:#025982;">Popular</span>, <span style="
 <a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>,
 <a href="https://youtu.be/BTZl9KMjbrU" style="color:#660000;">Suspirium</a>, 
 <a href="https://youtu.be/P7nz6-UVrmU" style="color:#025982;">Hearing Damage</a>
+
+<sup>\*<span style="color:#660000;">Moving</span>, <span style="color:#b36b00;">Nostalgic</span></sup>
 
 <!-- - `Atoms For Peace` 
     - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
