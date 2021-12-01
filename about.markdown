@@ -81,39 +81,50 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎤 Thom Yorke
 
-Key: <span style="font-weight:bold;color:#025982;">Popular</span>, <span style="font-weight:bold;color:#660000;">Moving</span>, <span style="font-weight:bold;color:#b36b00;">Nostalgia</span>
-
-<!-- , <span style="font-weight:bold;color:#b38600;">Spiritual</span>, <span style="font-weight:bold;color:#660066;">Melancholic</span> -->
+Key: <span style="font-weight:bold;color:#025982;">Popular</span>, <span style="font-weight:bold;color:#660000;">Moving</span>, <span style="font-weight:bold;color:#b36b00;">Nostalgic</span>
 
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
-<!-- font-weight:bold; -->
-- `Atoms For Peace` 
+<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>,
+<a href="https://youtu.be/CLiDemXYSLc" style="color:#660000;">Spectre</a>,
+<a href="https://youtu.be/T7t38uDUg5E" style="color:#660000;">Codex</a>,
+<a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>,
+<a href="https://youtu.be/iY4APDrl66s" style="color:#025982;">All I Need (Microcosmos)</a>, 
+<a href="https://youtu.be/WF83_PR2EsA" style="color:#660000;">Videotape</a>, 
+<a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>
+<a href="https://youtu.be/3M_Gg1xAHE4" style="color:#025982;">Pyramid Song</a>, 
+<a href="https://youtu.be/1uYWYWPc9HU" style="color:#b36b00;">Karma Police</a>, 
+<a href="https://youtu.be/u5CVsCnxyXg" style="color:#025982;">No Surprises</a>, 
+<a href="https://youtu.be/7qFfFVSerQo" style="color:#025982;">High and Dry</a>,
+<a href="https://youtu.be/n5h0qHwNrHk" style="color:#b36b00;">Fake Plastic Trees</a>, 
+<a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>, 
+<a href="https://youtu.be/d7lbzUUXj0k" style="color:#025982;">Black Star</a>, 
+<a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, 
+<a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>,
+<a href="https://youtu.be/BTZl9KMjbrU" style="color:#660000;">Suspirium</a>, 
+<a href="https://youtu.be/P7nz6-UVrmU" style="color:#025982;">Hearing Damage</a>
+
+<!-- - `Atoms For Peace` 
     - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
 - **`Radiohead`**
     - `KID A MNESIA (2021):` <a href="https://youtu.be/Jj2nX2BDTYY" style="color:#025982;">If You Say The Word</a>, <a href="https://youtu.be/QhHMJkeF8zo" style="color:#025982;">Like Spinning Plates ('Why Us?' Version)</a>
     - `A Moon Shaped Pool (2016):` <a href="https://youtu.be/Del3C2W63Pk" style="color:#025982;">Decks Dark</a>, <a href="https://youtu.be/fzK5kbNL2Ak" style="color:#025982;">Glass Eyes</a>, <a href="https://youtu.be/QZfK4zOQQ3E" style="color:#025982;">Identikit</a>, <a href="https://youtu.be/CLiDemXYSLc" style="font-weight:bold;color:#660000;">Spectre</a>
-    <!-- <a href="https://youtu.be/TTAU7lLDZYU" style="font-weight:bold;color:#025982;">Daydreaming</a> -->
     - `The King Of Limbs (2011):` <a href="https://youtu.be/T7t38uDUg5E" style="font-weight:bold;color:#660000;">Codex</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="font-weight:bold;color:#025982;">Lotus Flower</a>
     - <span style="font-weight:bold;color:#660000;">`In Rainbows (2007):`</span> <a href="https://youtu.be/BbWBRnDK_AE" style="color:#025982;">Nude</a>, <a href="https://youtu.be/iY4APDrl66s" style="font-weight:bold;color:#025982;">All I Need (Microcosmos)</a>, <a href="https://youtu.be/FM7ALFsOH4g" style="font-weight:bold;color:#660000;">All I Need</a>, <a href="https://youtu.be/PRc0iMRoIoc" style="color:#025982;">Faust Arp</a>, <a href="https://youtu.be/pYHEpDnvVPk" style="color:#025982;">Reckoner</a>, <a href="https://youtu.be/WF83_PR2EsA" style="font-weight:bold;color:#660000;">Videotape</a>, <a href="https://youtu.be/wqh9GKAtZzo" style="color:#025982;">Go Slowly</a>, <a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>, <a href="https://youtu.be/giSKoJpRiFQ" style="color:#025982;">Up On The Ladder</a>
-    <!-- <a href="https://youtu.be/2w6kHS_IRrE" style="color:#025982;">2 + 2 = 5</a> -->
     - `Hail to the Thief (2003):` <a href="https://youtu.be/INvrv9ppxvQ" style="color:#025982;">Sail To The Moon</a>, <a href="https://youtu.be/Fe6X9fLLp0Y" style="color:#025982;">Go To Sleep</a>, <a href="https://youtu.be/pyTY6Z-Fqzw" style="color:#025982;">Where I End and You Begin</a>, <a href="https://youtu.be/XWZmzdpyUTY" style="color:#025982;">I Will</a>, <a href="https://youtu.be/PxOO8YkB_Og" style="color:#025982;">Myxomatosis</a>, <a href="https://youtu.be/r7mN9BLr4jU" style="color:#025982;">Scatterbrain</a>, <a href="https://youtu.be/6isz01iv8Ls" style="color:#025982;">A Wolf At the Door</a>
     - `Amnesiac (2001):` <a href="https://youtu.be/3M_Gg1xAHE4" style="font-weight:bold;color:#025982;">Pyramid Song</a>, <a href="https://youtu.be/DQBDsNiCCNM" style="color:#025982;">Like Spinning Plates</a>, <a href="https://youtu.be/vOa--Dhu11M" style="color:#025982;">I Might Be Wrong</a>
-    <!-- <a href="https://youtu.be/egUFlyfE1PY" style="color:#025982;">Dollars and Cents</a> -->
     - `KID A (2000):` <a href="https://youtu.be/NUnXxh5U25Y" style="color:#025982;">Everything In Its Right Place</a>, <a href="https://youtu.be/1On-ZHfTWOo" style="color:#025982;">Optimistic</a>, <a href="https://youtu.be/Q29iibXXiOs" style="color:#025982;">In Limbo</a>, <a href="https://youtu.be/svwJTnZOaco" style="color:#025982;">Idioteque</a>, <a href="https://youtu.be/6W6HhdqA95w" style="color:#025982;">How to Disappear Completely</a>
     - `OK Computer (1997):` <a href="https://youtu.be/jNY_wLukVW0" style="color:#025982;">Airbag</a>, <a href="https://youtu.be/Lt8AfIeJOxw" style="color:#025982;">Paranoid Android</a>, <a href="https://youtu.be/1uYWYWPc9HU" style="font-weight:bold;color:#b36b00;">Karma Police</a>, <a href="https://youtu.be/XX4EpkR-Sp4" style="color:#025982;">Climbing Up the Walls</a>, <a href="https://youtu.be/u5CVsCnxyXg" style="font-weight:bold;color:#025982;">No Surprises</a>, <a href="https://youtu.be/yuZYQvvLXVY" style="color:#025982;">Lucky</a>
-    - <span style="font-weight:bold;color:#b36b00;">`The Bends (1995):`</span> <a href="https://youtu.be/7qFfFVSerQo" style="font-weight:bold;color:#025982;">High and Dry</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="font-weight:bold;color:#b36b00;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="font-weight:bold;color:#025982;">Street Spirit</a>, <a href="https://youtu.be/d7lbzUUXj0k" style="color:#025982;">Black Star</a> 
-    <!-- <a href="https://youtu.be/eHK67LiMI8k" style="color:#025982;">My Iron Lung</a> -->
+    - <span style="font-weight:bold;color:#b36b00;">`The Bends (1995):`</span> <a href="https://youtu.be/7qFfFVSerQo" style="font-weight:bold;color:#025982;">High and Dry</a>, <a href="https://youtu.be/n5h0qHwNrHk" style="font-weight:bold;color:#b36b00;">Fake Plastic Trees</a>, <a href="https://youtu.be/LCJblaUkkfc" style="font-weight:bold;color:#025982;">Street Spirit</a>, <a href="https://youtu.be/d7lbzUUXj0k" style="color:#025982;">Black Star</a>, <a href="https://youtu.be/eHK67LiMI8k" style="color:#025982;">My Iron Lung</a>
     - `Pablo Honey (1993):` <a href="https://youtu.be/XFkzRNyygfk" style="font-weight:bold;color:#025982;">Creep</a>, <a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>
-    <!-- <a href="---" style="color:#025982;">---</a> -->
 - `Piano Solos:` <a href="https://youtu.be/BTZl9KMjbrU" style="font-weight:bold;color:#660000;">Suspirium</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#025982;">Bloom (Live from Electric Lady Studios)</a>, <a href="https://youtu.be/SnIAxVx7ZUs" style="color:#025982;">Videotape (From The Basement)</a>, <a href="https://youtu.be/SnIAxVx7ZUs?t=583" style="color:#025982;">Last Flowers (From The Basement)</a>, <a href="https://youtu.be/SnIAxVx7ZUs?t=285" style="color:#025982;">Analyse (From The Basement)</a>, <a href="https://youtu.be/QEG28XWEhuc?t=636" style="color:#025982;">Fоg (Again)</a>, <a href="https://youtu.be/QEG28XWEhuc?t=756" style="color:#025982;">I Froze Up</a>, <a href="https://youtu.be/QEG28XWEhuc?t=1514" style="color:#025982;">I Want None Of This</a>, <a href="https://youtu.be/mndJOsGsZnk" style="color:#025982;">Daily Battles</a>
 - `The Eraser (2006):` <a href="https://youtu.be/MnMUdko6ljs" style="color:#025982;">Analyse</a>, <a href="https://youtu.be/l6jSJKPJ3Cg" style="color:#025982;">Analyse (Acoustic)</a>
 - `Experimental:` <a href="https://youtu.be/P7nz6-UVrmU" style="font-weight:bold;color:#025982;">Hearing Damage</a>, <a href="https://youtu.be/27c3JaZq4_c" style="color:#025982;">Unmade</a>
 - `Acoustic Solos:` <a href="https://youtu.be/HDaXg8nJRJo" style="color:#025982;">These Are My Twisted Words</a>
-- `Unreleased:` <a href="https://youtu.be/Vwk3-fWF8us" style="color:#025982;">Cut A Hole (Live)</a>
+- `Unreleased:` <a href="https://youtu.be/Vwk3-fWF8us" style="color:#025982;">Cut A Hole (Live)</a> -->
 
 <!-- - `Paul Dinletir & Kevin Rix (Audiomachine):` [Tangled Earth](https://youtu.be/-O_-y6xI43U), [Being Alive](https://youtu.be/vH_gcp0GEbc), <a href="https://youtu.be/AFuYyHiOmXs" style="color:#025982;">Redshift</a>, <a href="https://youtu.be/Gy7oD4NowhI" style="color:#025982;">Sun And Steel</a>
 - `Thomas Bergersen:` <a href="https://youtu.be/E147pyyxNPo" style="color:#025982;">None Shall Live</a>, <a href="https://youtu.be/EjIvnm0GBH8" style="color:#025982;">Unforgiven</a>, <a href="https://youtu.be/NIODdfGHRF0" style="color:#025982;">Last Of The Light</a>, [Flight of the Silverbird](https://youtu.be/n-Dh3ftkRAs)
