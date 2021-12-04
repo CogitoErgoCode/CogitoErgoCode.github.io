@@ -36,6 +36,8 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎹 Classical Piano
 
+My favorite style of classical piano is the waltz.
+
 <!-- The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it. -->
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
@@ -64,7 +66,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎤 Thom Yorke
 
-I like almost everything of Yorke's, so I'll list a few in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows'.
+I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is his defining attribute.
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
@@ -85,7 +87,7 @@ I like almost everything of Yorke's, so I'll list a few in no particular order. 
 <a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>, 
 <a href="https://youtu.be/d7lbzUUXj0k" style="color:#025982;">Black Star</a>, 
 <a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, 
-<a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>,
+<!-- <a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>, -->
 <a href="https://youtu.be/BTZl9KMjbrU" style="color:#660000;">Suspirium</a>, 
 <a href="https://youtu.be/P7nz6-UVrmU" style="color:#025982;">Hearing Damage</a>
 
