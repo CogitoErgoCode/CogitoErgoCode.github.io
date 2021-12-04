@@ -64,7 +64,7 @@ I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="c
 
 ## 🎤 Thom Yorke
 
-I like almost everything of Yorke's, so I'll list a few in no particular order.
+I like almost everything of Yorke's, so I'll list a few in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows'.
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
@@ -351,8 +351,8 @@ My favorite introduction books & documentation on specific computer programming 
 
 I think it's important to have a basic understanding of general physics & chemistry to better understand how the universe operates. For me, I think it helps form better material for some of the subgenres of fantasy. One of the things I'd like to eventually do is write a book. **I have yet to read these all the way through.**
 
-- `Mathematics`
-    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)
+<!-- - `Mathematics`
+    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8) -->
 - `Chemistry`
     - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
     - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
