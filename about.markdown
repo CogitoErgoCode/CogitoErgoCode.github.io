@@ -66,7 +66,7 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Thom Yorke
 
-I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is his defining attribute.
+I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is complementary to his artistic use of the piano, and his most defining attribute.
 
 > "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
 
