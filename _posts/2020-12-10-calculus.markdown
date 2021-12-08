@@ -1,0 +1,382 @@
+---
+layout: post
+title: "The Calculus Of Infinitesimals 🧮"
+date: 2021-11-16 11:37:00 -0700
+categories: math algebra calculus python
+published: false
+---
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!-- When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ -->
+
+## **College Algebra Recapitulation**
+
+When I received perfect scores in College Algebra some years ago, I realized that math wasn't the terrifying thing people made it out to be. You should be relieved by the fact that Algebra is the hardest part of Calculus. In my estimation Trigonometry is even easier than Algebra. Let's do a quick recapitulation.
+
+We will be making use of python's symbolic mathematics library `SymPy`. This will prove to be useful in double checking your work without an instructor’s solution manual.
+
+```py
+from sympy import *
+x, y, z = symbols('x,y,z')
+init_printing(use_unicode=True, wrap_line=False)
+```
+
+> Is it a waste of time because we are doing it by hand, or have we saved time by practicing it?
+
+# Elementry Rules For Calculation
+
+**`Natural, Integer, and Rational Numbers`**
+
+The positive and negative integers, fractions, and zero together are called the rational numbers. The properties of the set of rational numbers are: *infinite*, *ordered* $$(a<b)$$, and *dense everywhere* $$(a<c<b)$$.
+
+- Set of Natural Numbers (*non-negative integers*): $$\mathbb{N} = \{0,1,2,3,...\}$$
+
+- Set of Integers: $$\mathbb{Z} = \{...,-2,-1,0,1,2,...\}$$
+
+- Set of Rational Numbers: $$\mathbb{Q} = \{x\vert x = \frac{p}{q} \space with \space p \in \mathbb{Z}, q \in \mathbb{Z}, and \space q \ne 0\}$$
+
+**`Irrational and Transcendental Numbers`**
+
+The set of rational numbers is not satisfactory for calculus. The simplest examples of algebraic irrationals are the real roots of $$x^n − a = 0 \space (a > 0)$$, as
+numbers of the form $$\sqrt[n]{a}$$, if they are not rational.
+
+- Irrational Numbers: $$\sqrt{3}, \sqrt{5}, \sqrt[2]{2}, \sqrt[3]{2}, \sqrt[3]{10}, \frac{3}{\pi^2}, ...$$
+
+The irrational numbers which are not algebraic irrationals are called transcendental.
+
+- Transcendental: $$\pi = 3.141592..., \space e = 2.718281...$$
+
+Rational and irrational numbers together form the set of real numbers.
+
+- Set of All Real Numbers: $$\mathbb{R}$$
+
+|Properties of Negatives|
+|:-:|
+|$$(-1)a = -a$$|
+|$$-(-a) = a$$|
+|$$(-a)b = a(-b) = -(ab)$$|
+|$$(-a)(-b) = ab$$|
+|$$-(a+b) = -a-b$$|
+|$$-(a-b) = b-a$$|
+
+|Properties of Fractions|
+|:-:|:-:|
+|Multiply|$$\frac{a}{b} \cdot \frac{c}{d}=\frac{ac}{bd}$$|
+|Divide|$$\frac{a}{b} \div \frac{c}{d}=\frac{a}{b} \cdot \frac{d}{c}=\frac{ad}{bc}$$|
+|Add|$$\frac{a}{c} + \frac{b}{c}=\frac{a+b}{c}$$|
+||$$\frac{a}{b} + \frac{c}{d}=\frac{ad+bc}{bd}$$|
+|Cancel|$$\frac{ac}{bc} = \frac{a}{b}$$|
+|Cross-multiply|$$\frac{a}{b}=\frac{c}{d}, \space then \space ad=bc $$|
+
+|Properties of Exponents||
+|:-:|:-:|
+|Product|$$a^ma^n=a^{m+n}$$|
+|Quotient|$$\frac{a^m}{a^n}=a^{m-n}$$|
+|Power of power|$$(a^m)^n=a^{m \cdot n}$$|
+|Power of product|$$(ab)^n=a^nb^n$$|
+|Power of quotient|$$(\frac{a}{b})^n=\frac{a^n}{b^n}$$|
+|Negative exp. w/ quotient|$$(\frac{b}{a})^{-n} = (\frac{a}{b})^n$$|
+|Negative exp. w/ quotient|$$\frac{b^{-m}}{a^{-n}} = \frac{a^n}{b^m}$$|
+|Negative exponent|$$a^{-n}=\frac{1}{a^n}, \space if \space n \gt 0$$|
+|Zero exponent|$$a^0=1, \space if \space a \ne 0$$|
+
+|Properties of Radicals||
+|:-:|:-:|
+|Definition of n<sup>th</sup> root|$$\sqrt[n]{a}=b, \space means \space b^n=a$$|
+|Product|$$\sqrt[n]{a} \cdot \sqrt[n]{b} = \sqrt[n]{ab}$$|
+||$$\sqrt[n]{x} \cdot \sqrt[n]{x} = x$$|
+|Quotient|$$\frac{\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}, \space if \space b \ne 0$$|
+|Root of a power|$$\sqrt[n]{a^m}=(\sqrt[n]{a})^m, \space if \space a \ge 0$$|
+||$$\sqrt[n]{a^n} = a, \space if \space n \space is \space odd$$|
+||$$\sqrt[n]{a^n} = \|a\|, \space if \space n \space is \space even$$|
+|Root of a root|$$\sqrt[m]{\sqrt[n]{a}}=\sqrt[m \cdot n]{a}$$|
+
+|Properties of Logarithms||
+|:-:|:-:|
+||$$\log_b y=x, \space y=b^x$$|
+|Product|$$\log_b xy = \log_b x + \log_b y$$|
+|Quotient|$$\log_b \frac{x}{y} = \log_b x - \log_b y$$|
+|Power|$$\log_b x^p = p \cdot \log_b x $$|
+|Change of Base|$$\log_a x = \frac{\log_b x}{\log_b a}$$|
+|Equality|$$\log_b x = \log_b y, \space x=y$$|
+
+<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$ -->
+
+# Manipulating Algebraic Expressions
+<!-- # Adding & Subtracting Polynomials -->
+
+|Adding Polynomials||
+|:-:|:-:|
+|Find the sum|$$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$|
+|Group Like Terms|$$(x^3+x^3) + (-6x^2+5x^2) + (2x-7x) + 4$$|
+|Combine Like Terms|$$2x^3 - x^2 - 5x + 4$$|
+
+<!-- - **Find the sum:** $$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$
+
+    Since applying distributive property to the plus sign on the right hand side of the expression (cubic polynomial) yields no discernable changes, our first course of action is to group like terms using commutative & associative properties. Finally, combining like terms yields the result.
+
+    - Group Like Terms: $$(x^3+x^3) + (-6x^2+5x^2) + (2x-7x) + 4$$
+    - Combine Like Terms: $$2x^3 - x^2 - 5x + 4$$ -->
+
+|Subtracting Polynomials||
+|:-:|:-:|
+|Find the difference|$$(x^3-6x^2+2x+4) - (x^3+5x^2-7x)$$|
+|Distribute Negative|$$x^3-6x^2+2x+4-x^3-5x^2+7x$$|
+|Group Like Terms|$$(x^3-x^3) + (-6x^2-5x^2) + (2x+7x) + 4$$|
+|Combine Like Terms|$$-11x^2 + 9x + 4$$|
+
+<!-- - **Find the difference:** $$(x^3-6x^2+2x+4) - (x^3+5x^2-7x)$$
+
+    - Distribute Negative: $$x^3-6x^2+2x+4-x^3-5x^2+7x$$
+        - Properties of Negatives
+    - Group like terms: $$(x^3-x^3) + (-6x^2-5x^2) + (2x+7x) + 4$$
+    - Combine like terms: $$-11x^2 + 9x + 4$$ -->
+
+# Manipulating Algebraic Expressions In Python
+
+- **Find the Sum:** $$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$
+
+    ```py
+    e1 = x**3-6*x**2+2*x+4
+    e2 = x**3+5*x**2-7*x
+
+    print(e1.as_poly() + e2.as_poly())
+    ```
+    Result: $$2x^3 - x^2 - 5x + 4$$
+    ```py
+    Poly(2*x**3 - x**2 - 5*x + 4, x, domain='ZZ')
+    ```
+
+- **Find the difference:** $$(x^3-6x^2+2x+4) - (x^3+5x^2-7x)$$
+
+    ```py
+    e1 = x**3-6*x**2+2*x+4
+    e2 = x**3+5*x**2-7*x
+
+    print(e1.as_poly() - e2.as_poly())
+    ```
+    Result: $$-11x^2 + 9x + 4$$
+    ```py
+    Poly(-11*x**2 + 9*x + 4, x, domain='ZZ')
+    ```
+
+# Multiplying & Factoring Polynomials
+
+|Multiplying Binomials Using FOIL|$$(2x+1)(3x-5)$$|
+|:-:|:-:|
+|(**F**)irst|$$2x*3x=\bf6x^2$$|
+|(**O**)uter|$$2x-5=\bf-10x$$|
+|(**I**)nner|$$1*3x=\bf3x$$|
+|(**L**)ast|$$1*-5=\bf-5$$|
+|Group like terms|$$\bf6x^2-10x+3x-5$$|
+|Combine like terms|$$6x^2-7x-5$$|
+
+|Multiplying Polynomials|$$(2x+3)(x^2-5x+4)$$|
+|:-:|:-:|
+|Distribute|$$2x(x^2-5x+4) \space \boldsymbol{+} \space 3(x^2-5x+4)$$|
+||$$(2x^3-10x^2+8x) + (3x^2-15x+12)$$|
+|Group like terms|$$2x^3 + (-10x^2+3x^2) + (8x-15x) + 12$$|
+|Combine like terms|$$2x^3-7x^2-7x+12$$|
+
+# Factoring Polynomials
+
+|Factoring Binomials|$$3x^2-6x$$|
+|:-:|:-:|
+|Find the GCF|$$3x$$|
+|Factored|$$\boldsymbol{3x}(x-2)$$|
+
+|Factoring Trinomials|$$8x^4y^2+6x^3y^3-2xy^4$$|
+|:-:|:-:|
+|Find the GCF|$$2xy^2$$|
+||$$8, 6, -2$$ have a GCF of $$\bf2$$|
+||$$x^4, x^3, x$$ have a GCF of $$\bf{x}$$|
+||$$2xy^2$$ is the GCF of the trinomial|
+|Factored|$$2xy^2(4x^3+3x^2y-y^2)$$|
+
+|Factoring Four Terms|$$(2x+4)(x-3)-5(x-3)$$|
+|:-:|:-:|
+|Find the GCF|$$(x-3)$$|
+||Sometimes, the GCF of an expression is not just a monomial but an entire parenthetical quantity. The two terms $$(2x+4)$$ and $$-5$$ have a common factor $$(x-3)$$|
+|Factored|$$[(2x+4)-5](x-3)$$|
+|Distribute & Simplify|$$(2x-1)(x-3)$$|
+
+- Factoring quadratic trinomials of the form $$x^2+bx+c$$
+    - Find two numbers whose sum equals the coefficient of the x term (b) and whose product is equal to the constant term (c): $$x^2-4x-12$$
+    - Negative six, and positive two: $$(x-6)(x+2)$$
+
+- Factoring quadratic trinomials of the form $$ax^2+bx+c \space where \space a \ne 1$$
+    - Find two numbers whose sum equals the linear coefficient (b) and whose product is equal to the leading coefficient (a) by the additive constant (c)
+    - If the constant term is negative then the signs in each factor must be different, if the sign is positive then they are the same.
+    - : $$2x^2+9x-5$$
+    - : $$2x^2+(10-1)x-5$$
+    - : $$2x^2+10x-x-5$$
+    - : $$2x(x+5)-1(x+5)$$
+    - : $$(x+5)(2x-1)$$
+        
+
+<!--  -->
+
+# Special Product & Factoring Formulas
+
+If A and B are any real numbers or algebraic expressions, then ...
+
+| Difference of Squares |
+|:-:|
+|$$A^2-B^2=(A-B)(A+B)$$|
+|$$4x^2-25$$ <br> $$(2x)^2-5^2$$ <br> $$(2x-5)(2x+5)$$|
+|$$(x+y)^2-z^2$$ <br> $$(x+y-z)(x+y+z)$$|
+|Sum and product of same terms <br> $$(2x - \sqrt{y})(2x + \sqrt{y})$$ <br> $$(2x)^2 - (\sqrt{y})^2$$ <br> $$4x^2 - y$$|
+|$$(x+y-1)(x+y+1)$$ <br> $$[(x+y)-1][(x+y)+1]$$ <br> $$(x+y)^2-1^2$$ <br> $$x^2+2xy+y^2-1$$|
+
+<!-- <p style="text-align: center;">XXX</p> -->
+
+|Square of a Sum|
+|:-:|
+|$$(A+B)^2=A^2+2AB+B^2$$|
+|$$(3x+5)^2$$ <br> $$(3x)^2 + 2(3x)(5) + (5)^2$$ <br> $$9x^2+30x+25$$|
+|Perfect Square <br> $$x^2+6x+9$$ <br> $$x^2+2x3+3^2$$ <br> $$(x+3)^2$$|
+
+|Square of a Difference|
+|:-:|
+|$$(A-B)^2=A^2-2AB+B^2$$|
+
+<p style="text-align:center;">
+Perfect Square
+$$4x^2-4xy+y^2$$
+$$(2x)^2-2(2x)(y)+y^2$$
+$$(2x-y)^2$$
+</p> 
+
+i.e. (see square of a sum)
+
+# Exclusively Special Product Formulas
+
+|Cube of a sum|
+|:-:|
+|$$(A+B)^3=A^3+3A^2B+3AB^2+B^3$$|
+
+<!-- <p style="text-align:center;">
+
+</p> 
+
+<hr style="height:1px;background-color:grey;border:none;"> -->
+
+i.e. (see cube of a difference)
+
+|Cube of a difference|
+|:-:|
+|$$(A-B)^3=A^3-3A^2B+3AB^2-B^3$$|
+
+<p style="text-align:center;">
+$$(x^2-2)^3$$
+$$(x^2)^3-3(x^2)^2(2)+3(x^2)(2)^2-2^3$$
+$$x^6-6x^4+12x^2-8$$
+</p> 
+
+# Exclusively Special Factoring Formulas
+
+|Difference of Cubes|
+|:---:|
+|$$A^3-B^3=(A-B)(A^2+AB+B^2)$$|
+
+<p style="text-align:center;">
+$$27x^3-1$$
+$$(3x)^3-1^3$$
+$$(3x-1)((3x)^2+(3x)(1)+1^2)$$
+$$(3x-1)(9x^2+3x+1)$$
+</p> 
+
+|Sum of Cubes|
+|:---:|
+|$$A^3+B^3=(A+B)(A^2-AB+B^2)$$|
+
+<p style="text-align:center;">
+$$x^6+8$$
+$$(x^2)^3+2^3$$
+$$(x^2+2)((x^2)^2-(x^2)2+2^2)$$
+$$(x^2+2)(x^4-2x^2+4)$$
+</p> 
+
+
+# Multiplying & Factoring Polynomials in Python
+
+- **Using expand() to multiply:** $$(2x+3)(x^2-5x+4)$$
+
+    ```py
+    expand((2*x+3)*(x**2-5*x+4))
+    # result: 2*x**3 - 7*x**2 - 7*x + 12
+    ```
+    result: $$2x^3-7x^2-7x+12$$
+
+- **Using factor() to factor:** $$8x^4y^2+6x^3y^3-2xy^4$$
+
+    ```py
+    factor(8*x**4*y**2+6*x**3*y**3-2*x*y**4)
+    # result: 2*x*y**2*(4*x**3 + 3*x**2*y - y**2)
+    ```
+    result: $$2xy^2(4x^3+3x^2y-y^2)$$
+
+- **Using gcd() to find the GCF of:** $$8x^4y^2+6x^3y^3-2xy^4$$
+
+    ```py
+    gcd([8, 6, -2])
+    # result: 2
+    gcd([x**4, x**3, x])
+    # result: x
+    gcd([y**2, y**3, y**4])
+    # result: y**2
+    gcd([8*x**4*y**2, 6*x**3*y**3, 2*x*y**4])
+    # result: 2*x*y**2
+    ```
+    result: $$2xy^2$$ 
+
+<!-- 
+- Algebra
+    - Manipulating Expressions
+        - Polynomial expressions
+            - adding, multiplying, & factoring
+        - Solve simple linear equations
+        - Quadratic equations
+            - completing the square
+            - quadratic formula
+        - Properties of exponents
+        - Expressions masquerading as exponentials
+            - reciprocals
+            - roots
+        - logarithms
+    - Functions
+        - Linear functions
+            - quadratic, exponential, logarithmic
+
+                Hello $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+            - graph of an n<sup>th</sup> degree polynomial
+        - Manipulating functions
+            - Adding, multiplying
+        - Terminology
+            - Domain, range, odd & even, periodic, zeros, intercepts
+- Geometry
+    - Compute Area: Rectangles, Triangles, Trapezoids, Circles
+    - Volume: Cube, Prism, Sphere
+    - Cross Sections of a 3D shape
+    - Analytic: Points, lines, coordinate plane
+        - Equations for parallel & perpendicular lines.
+        - Equation of a circle
+    
+- Trigonometry
+    - Trigonometric Functions: sin(x), cos(x), and tan(x)
+        - Memorize values of these functions when x takes on:
+            - Values: 0, &pi;/6, &pi;/4, &pi;/3, &pi;/2
+        - Know the graph of each of these functions -->
+
+## **Limits & Continuity**
+
+## **Derivatives**
+
+## **Analyzing Functions**
+
+## **Integrals**
+
+## **Differential Equations**
