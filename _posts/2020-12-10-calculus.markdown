@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Calculus Of Infinitesimals 🧮"
-date: 2021-11-16 11:37:00 -0700
+date: 2021-11-16 11:38:00 -0700
 categories: math algebra calculus python
 published: false
 ---
@@ -9,10 +9,15 @@ published: false
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+
 <!-- When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ -->
 
-## **College Algebra Recapitulation**
+**TL;DR** Search `Exploring Calculus`
+
+## **A Recapitulation of College Algebra**
+
+<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
 
 When I received perfect scores in College Algebra some years ago, I realized that math wasn't the terrifying thing people made it out to be. You should be relieved by the fact that Algebra is the hardest part of Calculus. In my estimation Trigonometry is even easier than Algebra. Let's do a quick recapitulation.
 
@@ -103,7 +108,6 @@ Rational and irrational numbers together form the set of real numbers.
 |Change of Base|$$\log_a x = \frac{\log_b x}{\log_b a}$$|
 |Equality|$$\log_b x = \log_b y, \space x=y$$|
 
-<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$ -->
 
 # Manipulating Algebraic Expressions
 <!-- # Adding & Subtracting Polynomials -->
@@ -215,10 +219,15 @@ Rational and irrational numbers together form the set of real numbers.
     - : $$2x^2+10x-x-5$$
     - : $$2x(x+5)-1(x+5)$$
     - : $$(x+5)(2x-1)$$
+
+# Factoring Expressions With Fractional Exponents
+
+|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
+|:-:|:-:|
+|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
+|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
+|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
         
-
-<!--  -->
-
 # Special Product & Factoring Formulas
 
 If A and B are any real numbers or algebraic expressions, then ...
@@ -242,64 +251,38 @@ If A and B are any real numbers or algebraic expressions, then ...
 |Square of a Difference|
 |:-:|
 |$$(A-B)^2=A^2-2AB+B^2$$|
+|Perfect Square <br> $$4x^2-4xy+y^2$$ <br> $$(2x)^2-2(2x)(y)+y^2$$ <br> $$(2x-y)^2$$|
 
-<p style="text-align:center;">
-Perfect Square
-$$4x^2-4xy+y^2$$
-$$(2x)^2-2(2x)(y)+y^2$$
-$$(2x-y)^2$$
-</p> 
+<!-- i.e. (see square of a sum) -->
 
-i.e. (see square of a sum)
-
-# Exclusively Special Product Formulas
+<!-- # Exclusively Special Product Formulas -->
 
 |Cube of a sum|
 |:-:|
 |$$(A+B)^3=A^3+3A^2B+3AB^2+B^3$$|
 
-<!-- <p style="text-align:center;">
-
+<p style="text-align:center;">
+i.e. (see cube of a difference)
 </p> 
 
-<hr style="height:1px;background-color:grey;border:none;"> -->
-
-i.e. (see cube of a difference)
+<!--<hr style="height:1px;background-color:grey;border:none;"> -->
 
 |Cube of a difference|
 |:-:|
 |$$(A-B)^3=A^3-3A^2B+3AB^2-B^3$$|
+|$$(x^2-2)^3$$ <br> $$(x^2)^3-3(x^2)^2(2)+3(x^2)(2)^2-2^3$$ <br> $$x^6-6x^4+12x^2-8$$|
 
-<p style="text-align:center;">
-$$(x^2-2)^3$$
-$$(x^2)^3-3(x^2)^2(2)+3(x^2)(2)^2-2^3$$
-$$x^6-6x^4+12x^2-8$$
-</p> 
-
-# Exclusively Special Factoring Formulas
+<!-- # Exclusively Special Factoring Formulas -->
 
 |Difference of Cubes|
 |:---:|
 |$$A^3-B^3=(A-B)(A^2+AB+B^2)$$|
-
-<p style="text-align:center;">
-$$27x^3-1$$
-$$(3x)^3-1^3$$
-$$(3x-1)((3x)^2+(3x)(1)+1^2)$$
-$$(3x-1)(9x^2+3x+1)$$
-</p> 
+|$$27x^3-1$$ <br> $$(3x)^3-1^3$$ <br> $$(3x-1)((3x)^2+(3x)(1)+1^2)$$ <br> $$(3x-1)(9x^2+3x+1)$$|
 
 |Sum of Cubes|
 |:---:|
 |$$A^3+B^3=(A+B)(A^2-AB+B^2)$$|
-
-<p style="text-align:center;">
-$$x^6+8$$
-$$(x^2)^3+2^3$$
-$$(x^2+2)((x^2)^2-(x^2)2+2^2)$$
-$$(x^2+2)(x^4-2x^2+4)$$
-</p> 
-
+|$$x^6+8$$ <br> $$(x^2)^3+2^3$$ <br> $$(x^2+2)((x^2)^2-(x^2)2+2^2)$$ <br> $$(x^2+2)(x^4-2x^2+4)$$| 
 
 # Multiplying & Factoring Polynomials in Python
 
@@ -333,50 +316,109 @@ $$(x^2+2)(x^4-2x^2+4)$$
     ```
     result: $$2xy^2$$ 
 
-<!-- 
-- Algebra
-    - Manipulating Expressions
-        - Polynomial expressions
-            - adding, multiplying, & factoring
-        - Solve simple linear equations
-        - Quadratic equations
-            - completing the square
-            - quadratic formula
-        - Properties of exponents
-        - Expressions masquerading as exponentials
-            - reciprocals
-            - roots
-        - logarithms
-    - Functions
-        - Linear functions
-            - quadratic, exponential, logarithmic
+# The Domain of an Algebraic Expression
 
-                Hello $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-            - graph of an n<sup>th</sup> degree polynomial
-        - Manipulating functions
-            - Adding, multiplying
-        - Terminology
-            - Domain, range, odd & even, periodic, zeros, intercepts
-- Geometry
-    - Compute Area: Rectangles, Triangles, Trapezoids, Circles
-    - Volume: Cube, Prism, Sphere
-    - Cross Sections of a 3D shape
-    - Analytic: Points, lines, coordinate plane
-        - Equations for parallel & perpendicular lines.
-        - Equation of a circle
+$$\frac 1 x \space \{x \vert x \ne 0\}$$
+
+$$\sqrt x \space \{x \vert x \ge 0\}$$
+
+$$\frac{1}{\sqrt x} \space \{x \vert x \gt 0\}$$
+
+$$2x^2+3x-1$$
+
+$$x \over x^2-5x+6$$
+
+$$\sqrt x \over x-5$$
+
+$$\mathbb{N}$$
+
+# Simplifying Rational Expressions
+
+|$$x^2-1 \over x^2+x-2$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Factor|$$(x-1)(x+1) \over (x-1)(x+2)$$|
+|Cancel|$$(x+1) \over (x+2)$$|
+
+|$$3(x+2)(x+1) \over 6(x-1)^2$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Reduce|$$(x+2)(x+1) \over 2(x-1)^2$$|
+|Cancel|$$x+2 \over 2(x-1)$$|
+|Distribute|$$x+2 \over 2x-2$$|
+
+|$$y^2-3y-18 \over 2y^2+5y+3$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Factor Quadratic Trinomials|$$(y^2+3y)+(-6y-18) \over (2y^2+2y)+(3y+3)$$|
+|Factor y from $$(y^2+3y)$$ <br>and -6 from $$(-6y-18)$$|$$y(y+3)-6(y+3)$$|
+|Factor 2y from $$(2y^2+2y)$$ <br>and 3 from $$(3y+3)$$|$$2y(y+1)+3(y+1)$$|
+|Factor out GCF|$$(y+3)(y-6) \over (y+1)(2y+3)$$|
+
+# Multiplying and Dividing Rational Expressions
+
+# Adding and Subtracting Rational Expressions
+
+# Simplifying Compound Fractions
+
+# Simplifying Compound Fractions With Fractional Exponents
+
+# Rationalizing The Denominator or Numerator
+
+# Properties of Equations
+
+# Solving Linear Equations
+
+# Solving For One Variable In Terms of Others
+
+# Solving Quadratic Equations
+
+# Inequalities, Rules For
+
+# Solving Linear Inequalities
+
+# Solving a Pair of Simultaneous Inequalities
+
+- Functions
+    - Linear functions
+        - quadratic, exponential, logarithmic
+
+            Hello $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+        - graph of an n<sup>th</sup> degree polynomial
+    - Manipulating functions
+        - Adding, multiplying
+    - Terminology
+        - Domain, range, odd & even, periodic, zeros, intercepts
+
+## **A Recapitulation of Geometry**
+
+<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
+
+Compute Area: Rectangles, Triangles, Trapezoids, Circles
+- Volume: Cube, Prism, Sphere
+- Cross Sections of a 3D shape
+- Analytic: Points, lines, coordinate plane
+    - Equations for parallel & perpendicular lines.
+    - Equation of a circle
+
+
+## **A Recapitulation of Trigonometry**
+
+<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
+
+- Trigonometric Functions: sin(x), cos(x), and tan(x)
+    - Memorize values of these functions when x takes on:
+        - Values: 0, &pi;/6, &pi;/4, &pi;/3, &pi;/2
+    - Know the graph of each of these functions
     
-- Trigonometry
-    - Trigonometric Functions: sin(x), cos(x), and tan(x)
-        - Memorize values of these functions when x takes on:
-            - Values: 0, &pi;/6, &pi;/4, &pi;/3, &pi;/2
-        - Know the graph of each of these functions -->
 
-## **Limits & Continuity**
+## **Exploring Calculus**
 
-## **Derivatives**
+<!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
 
-## **Analyzing Functions**
+# Limits & Continuity
 
-## **Integrals**
+# Derivatives
 
-## **Differential Equations**
+# Analyzing Functions
+
+# Integrals
+
+# Differential Equations
