@@ -398,9 +398,55 @@ The same rules that govern the addition & subtraction of fractions, are directly
 
 # Simplifying Compound Fractions
 
+|Simplify (Method A)|$$\frac x y + 1 \over 1 - \frac y x$$|
+|:-:|:-:|
+|Convert expression<br>into a fraction|$$\frac x y + \frac 1 1 \over \frac 1 1 - \frac y x$$|
+|Expand to get LCD|$$\frac x y + (\frac 1 1 \cdot \frac y y) \over (\frac 1 1 \cdot \frac x x) - \frac y x$$|
+||$$\frac{x+y}{y} \div \frac{x-y}{x}$$|
+|Take the reciprocal of<br>the second fraction and<br>flip the sign|$$\frac{x+y}{y} \cdot \frac{x}{x-y}$$|
+||$$\frac{x(x+y)}{y(x-y)}$$|
 
+|Simplify (Method B)|$$\frac x y + 1 \over 1 - \frac y x$$|
+|:-:|:-:|
+|Find LCD of ALL<br>fractions (xy)|$$\frac{\frac{x}{y} + 1}{1 - \frac{y}{x}} \cdot \frac{xy}{xy}$$|
+||$$\frac{xy(\frac{x}{y} + 1)}{xy(1 - \frac{y}{x})}$$|
+||$$\frac{x^2+xy}{xy-y^2}$$|
+|Factor|$$\frac{x(x+y)}{y(x-y)}$$|
+
+|Simplify|$$\frac{\frac{1}{a+h}-\frac{1}{a}}{h}$$|
+|:-:|:-:|
+|Find the LCD $$a(a+h)$$|$$\frac{(\frac{1}{a+h} \cdot \frac{a}{a}) - (\frac{1}{a} \cdot \frac{a+h}{a+h})}{h}$$|
+||$$\frac{\frac{a}{a(a+h)} - \frac{a+h}{a(a+h)}}{h}$$|
+||$$\frac{a-(a+h)}{a(a+h)} \over h$$|
+||$$\frac{a-(a+h)}{a(a+h)} \cdot \frac{1}{h}$$|
+||$$\frac{-h}{a(a+h)} \cdot \frac{1}{h}$$|
+|Cancel common factors|$$\frac{-1}{a(a+h)}$$|
+
+|Simplify|$$\frac{\frac{x+2}{x-1}-\frac{x-3}{x-2}}{x+2}$$|
+|:-:|:-:|
+||$$\frac{\frac{(x-2)(x+2)-(x-1)(x-3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{(x^2-4)-(x^2-3x-x+3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{x^2-4-x^2+3x+x-3}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{(x^2-x^2)+(3x+x)+(-4-3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{4x-7}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{4x-7}{(x-1)(x-2)} \div x+2$$|
+||$$\frac{4x-7}{(x-1)(x-2)} \cdot \frac{1}{x+2}$$|
+||$$\frac{4x-7}{(x-1)(x-2)(x+2)}$$|
+||$$\frac{4x-7}{(x-1)(x^2-4)}$$|
+||$$\frac{4x-7}{x^3-x^2-4x+4}$$|
 
 # Simplifying Compound Fractions With Fractional Exponents
+
+Problems of this nature are found in calculus.
+
+|Factor out the power<br>of $$1+x^2$$ with the smallest<br>exponent, in this case<br>$$(1+x^2)^{-\frac{1}{2}}$$|$$\frac{(1+x^2)^\frac{1}{2} - x^2(1+x^2)^{-\frac{1}{2}}}{1+x^2}$$|
+|:-:|:-:|
+|To factor out $$(1+x^2)^{-\frac{1}{2}}$$<br>from $$(1+x^2)^{\frac{1}{2}}$$, <br>we subtract exponents:<br>i.e.<br>$$(1+x^2)^{\frac{1}{2}-(-\frac{1}{2})}$$<br>$$(1+x^2)^{\frac{1}{2}+\frac{1}{2}=\frac{2}{2}=1}$$<br>$$(1+x^2)$$|$$\frac{(1+x^2)^{-\frac{1}{2}}\left[(1+x^2)-x^2\right]}{1+x^2}$$|
+|Distribute|$$\frac{(1+x^2)^{-\frac{1}{2}}\left[1+x^2-x^2\right]}{1+x^2}$$<br><br>$$\frac{(1+x^2)^{-\frac{1}{2}}}{(1+x^2)^1}$$|
+|Divide expression by<br>subtracting exponents. Remember,<br>$$\frac{dividend}{divisor}=dividend \div divisor.$$<br>Therefore:<br>$$-\frac{1}{2}-1=-\frac{3}{2}$$|$$(1+x^2)^{-\frac{3}{2}}$$|
+|Implement negative power<br>rule by taking the<br>reciprocal|$$\frac{1}{(1+x^2)^{\frac{3}{2}}}$$|
+
+
 
 # Rationalizing The Denominator or Numerator
 
@@ -464,3 +510,306 @@ Compute Area: Rectangles, Triangles, Trapezoids, Circles
 # Integrals
 
 # Differential Equations
+
+<!-- The Basics
+
+    
+
+    Overview
+    Precalculus Review
+
+    
+
+    Welcome to Calculus
+    The Two Questions of Calculus
+    Average Rates of Change
+    How to Do Math
+    Functions
+    Rational functions
+    Complex number
+    Zeros of polynomial
+    Graphing Lines
+    Parabolas
+    Some Non-Euclidean Geometry
+
+Limits
+
+    
+
+    The Concept of the Limit
+    Evaluating Limits
+
+    
+
+    Finding Rate of Change over an Interval
+    Finding Limits Graphically
+    The Formal Definition of a Limit
+    The Limit Laws, Part I
+    The Limit Laws, Part II
+    One-Sided Limits
+    The Squeeze Theorem
+    Continuity and Discontinuity
+    Evaluating Limits
+    Limits and indeterminate Forms
+    Two Techniques for Evaluating Limits
+    An Overview of Limits
+
+An Introduction to Derivatives
+
+    
+
+    Understanding the Derivative
+    Using the Derivative
+    Some Special Derivatives
+
+    
+
+    Rates of Change, Secants, and Tangents
+    Finding Instantaneous Velocity
+    The Derivative
+    Differentiability
+    The Slope of a Tangent Line
+    Instantaneous Rate
+    The Equation of a Tangent Line
+    More on Instantaneous Rate
+    The Derivative of the Reciprocal Function
+    The Derivative of the Square Root
+
+Computational Techniques
+
+    
+
+    The Power Rule
+    The Product and Quotient Rules
+    The Chain Rule
+
+    
+
+    A Shortcut for Finding Derivatives
+    A Quick Proof of the Power Rule
+    Uses of the Power Rule
+    The Product Rule
+    The Quotient Rule
+    An Introduction to the Chain Rule
+    Using the Chain Rule
+    Combining Computational Techniques
+
+Special Functions
+
+    
+
+    Trigonometric Functions
+    Exponential Functions
+    Logarithmic Functions
+
+    
+
+    A Review of Trigonometry
+    Graphing Trigonometric Functions
+    The Derivatives of Trigonometric Functions
+    The Number Pi
+    Graphing Exponential Functions
+    Derivatives of Exponential Functions
+    The Music of Math
+    Evaluating Logarithmic Functions
+    The Derivative of the Natural Log Function
+    Using the Derivative Rules with Transcendental Functions
+
+Implicit Differentiation
+    
+
+    Implicit Differentiation Basics
+    Applying Implicit Differentiation
+
+    
+
+    An Introduction to Implicit Differentiation
+    Finding the Derivative Implicitly
+    Using Implicit Differentiation
+    Applying Implicit Differentiation
+
+Applications of Differentiation
+
+    
+
+    Position and Velocity
+    Linear Approximation
+    Optimization
+    Related Rates 
+
+    
+
+    Acceleration and the Derivative
+    Solving Word Problems Involving Distance and Velocity
+    Higher-Order Derivatives and Linear Approximation
+    Using the Tangent Line Approximation Formula
+    Newton’s Method
+    The Connection Between Slopes and Optimization
+    The Fence Method
+    The Box Problem
+    The Can Problem
+    The Wire-Cutting Problem
+    The Pebble Problem
+    The Ladder Problem
+    The Baseball Problem
+    The Blimp Problem
+    Math Anxiety
+
+Curve Sketching
+
+    
+
+    Introduction
+    Critical Points
+    Concavity
+    Graphing Using the Derivative
+    Asymptotes
+
+    
+
+    An Introduction to Curve Sketching
+    Three Big Theorems
+    Morale Moment
+    Critical Points
+    Maximum and Minimum
+    Regions Where a Function Increases or Decreases
+    The First Derivative Test
+    Magic Math
+    Concavity and Inflection Points
+    Using the Second Derivative to Examine Concavity
+    The Möbius Band
+    Graphs of Polynomial Functions
+    Cusp Points and the Derivative
+    Romain-Restricted Functions and the Derivative
+    The Second Derivative Test
+    Vertical Asymptotes
+    Horizontal Asymptotes and Infinite Limits
+    Graphing Functions with Asymptotes
+    Functions with Asymptotes and Holes
+    Functions with Asymptotes and Critical Points
+
+The Basics of Integration
+
+    
+
+    Antiderivatives
+    Integration by Substitution
+    Illustrating Integration by Substitution
+    The FUndamental Theorem of Calculus 
+
+    
+
+    Antidifferentiation
+    Antiderivatives of Powers of x
+    Antiderivatives of Trigonometric and Exponential Functions
+    Undoing the Chain Rule
+    Integrating Polynomials by Substitution
+    Integrating Composite Trigonometric Functions by Substitution
+    Integrating Composite Exponential and Rational Functions by Substitution
+    More Integrating Trigonometric Functions by Substitution
+    Choosing Effective Function Decompositions
+
+Applications of Integration
+    
+
+    Motion
+    Finding the Area between Two Curves
+    Integrating with Respect to y
+
+    
+
+    Antiderivatives and Motion
+    Gravity and Vertical Motion
+    Solving Vertical Motion Problems
+    The Area between Two Curves
+    Limits of Integration and Area
+    Common Mistakes to Avoid When Finding Areas
+    Regions Bound by Several Curves
+    Finding Areas by Integrating with Respect to y: Part One
+    Finding Areas by Integrating with Respect to y: Part Two
+    Area, Integration by Substitution, and Trigonometry 
+
+L’Hôpital’s Rule
+    
+
+    Indeterminate Quotients
+
+    
+
+    Indeterminate Forms
+    An Introduction to L’Hôpital’s Rule
+    Basic Uses of L’Hôpital’s Rule
+    More Exotic Examples of Indeterminate Forms
+
+Elementary Functions and Their Inverses
+    
+
+    Inverse Functions
+    The Calculus of Inverse Functions
+    Inverse Trigonometric Functions
+    The Calculus of Inverse Trigonometric Functions
+
+    
+
+    The Exponential and Natural Log Functions
+    Differentiating Logarithmic Functions
+    Logarithmic Differentiation
+    The Basics of Inverse Functions
+    Finding the Inverse of a Function
+    Derivatives of Inverse Functions
+    The Inverse Sine, Cosine, and Tangent Functions
+    The Inverse Secant, Cosecant, and Cotangent Functions
+    Evaluating Inverse Trigonometric Functions
+    Derivatives of Inverse Trigonometric Functions
+    More Calculus of Inverse Trigonometric Functions
+
+Techniques of Integration
+    
+
+    An Introduction to Integration by Partial Fractions
+    Integration by Parts
+
+    
+
+    Finding Partial Fraction Decompositions
+    Partial Fractions
+    Long Division
+    An Introduction to Integration by Parts
+    Applying Integration by Parts to the Natural Log Function
+    Inspirational Examples of Integration by Parts
+    Repeated Application of Integration by Parts
+    Algebraic Manipulation and Integration by Parts
+
+Improper Integrals
+    
+
+    Improper Integrals
+
+    
+
+    The First Type of Improper Integral
+    The Second Type of Improper Integral
+    Infinite Limits of Integration, Convergence, and Divergence
+
+Differential Equations
+    
+
+    Separable Differential Equations
+    Solving First-Order Linear Differential Equations
+
+    
+
+    An Introduction to Differential Equations
+    Solving Separable DIfferential Equations
+    Finding a Particular Solution
+    Direction Fields
+    Euler’s Method
+    First-Order Linear Differential Equations
+
+Review and Final Exam
+    
+
+Review and Final Exam
+    
+
+    Review and Final Exam -->
