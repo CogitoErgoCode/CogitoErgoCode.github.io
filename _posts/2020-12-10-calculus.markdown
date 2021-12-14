@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Calculus Of Infinitesimals 🧮"
-date: 2021-11-16 11:38:00 -0700
+date: 2021-11-16 11:39:00 -0700
 categories: math algebra calculus python
 published: false
 ---
@@ -15,7 +15,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ -->
 
 **TL;DR** Search `Exploring Calculus`
 
-## **A Recapitulation of College Algebra**
+## **Recapitulations: College Algebra**
 
 <!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
 
@@ -446,15 +446,70 @@ Problems of this nature are found in calculus.
 |Divide expression by<br>subtracting exponents. Remember,<br>$$\frac{dividend}{divisor}=dividend \div divisor.$$<br>Therefore:<br>$$-\frac{1}{2}-1=-\frac{3}{2}$$|$$(1+x^2)^{-\frac{3}{2}}$$|
 |Implement negative power<br>rule by taking the<br>reciprocal|$$\frac{1}{(1+x^2)^{\frac{3}{2}}}$$|
 
-
-
 # Rationalizing The Denominator or Numerator
 
-# Properties of Equations
+If a fraction has a denominator of this form, we may rationalize the denominator by multiplying numerator and denominator by the conjugate radical.
+
+|Rationalizing|$$A+B\sqrt{C}$$|
+|:-:|:-:|
+|Conjugate Radical|$$(A-B\sqrt{C})$$|
+|Multiply|$$(A+B\sqrt{C})(A-B\sqrt{C})$$|
+|notes*|$$A^2-B^2C$$|
+
+*This works because, by special product forumla: $$(A+B)(A-B)=A^2-B^2$$, the product of the denominator and its conjugate radical does not contain a radical.
+
+|Rationalizing|$$\frac{1}{1+\sqrt{2}}$$|
+|:-:|:-:|
+|Conjugate Radical|$$1-\sqrt{2}$$|
+|Multiply|$$\frac{1}{1+\sqrt{2}} \cdot \frac{1-\sqrt{2}}{1-\sqrt{2}}$$|
+||$$\frac{1 \cdot 1 - \sqrt{2}}{(1+\sqrt{2})(1-\sqrt{2})}$$|
+||$$\frac{1 - \sqrt{2}}{(1)^2-(\sqrt{2})^2}$$|
+||$$\frac{1 - \sqrt{2}}{1-2}$$|
+|Any expression divided<br>by -1 equals it's opposite.<br>Any expression divided by<br>it's opposite equals -1.|$$\frac{1 - \sqrt{2}}{-1}$$|
+||$$-(1 - \sqrt{2})$$|
+||$$\sqrt{2}-1$$|
+
+|Rationalizing|$$\frac{\sqrt{4+h}-2}{h}$$|
+|:-:|:-:|
+||$$\frac{\sqrt{4+h}-2}{h} \cdot \frac{\sqrt{4+h}+2}{\sqrt{4+h}+2}$$|
+||$$\frac{(\sqrt{4+h})^2-(2)^2}{h(\sqrt{4+h}+2)}$$|
+||$$\frac{4+h-4}{h(\sqrt{4+h}+2)}$$|
+||$$\frac{h}{h(\sqrt{4+h}+2)}$$|
+|Cancel|$$\frac{1}{\sqrt{4+h}+2}$$|
 
 # Solving Linear Equations
 
+The linear equation in one variable is an equation equivalent to one of the form: $$ax+b=0$$, where a and b are real numbers and x is the variable.
+
+|Properties of Equations|
+|:-:|
+|$$A=B <=> A+C=B+C$$|
+|$$A=B <=> CA=CB, \space where \space C \ne 0$$|
+
+|Solving|$$7x-4=3x+8$$|
+|:-:|:-:|
+|Simplify<br>(Distribute & Combine like terms)|$$$$|
+|Transpose|$$7x=3x+8+4$$|
+||$$7x-3x=8+4$$|
+|Simplify<br>(Distribute & Combine like terms)|$$4x=12$$|
+|Divide by Coefficient<br>(or multiply by reciprocal<br>of coefficient)|$$\frac{4x}{4}=\frac{12}{4}$$|
+||$$x=3$$|
+
 # Solving For One Variable In Terms of Others
+
+|Isolate M by factoring|$$F=G\frac{mM}{r^2}$$|
+|:-:|:-:|
+|Factor|$$F=(\frac{Gm}{r^2})M$$|
+|Multiply by the<br>reciprocal of $$\frac{Gm}{r^2}$$<br> to cancel|$$(\frac{r^2}{Gm})F=(\frac{r^2}{Gm})(\frac{Gm}{r^2})M$$|
+||$$M = \frac{r^2F}{Gm}$$|
+
+|Isolate w by factoring|$$A=2lw+2wh+2lh$$|
+|:-:|:-:|
+|Factor/Isolate w by<br>first collecting terms<br>with w|$$A=(2lw+2wh)+2lh$$|
+||$$A=w(2l+2h)+2lh$$|
+|Transpose 2lh|$$A-2lh=w(2l+2h)$$|
+|Divide by coefficient<br>to clear rhs|$$\frac{A-2lh}{(2l+2h)}=\frac{w(2l+2h)}{(2l+2h)}$$|
+|Transpose 2lh|$$w=\frac{A-2lh}{2l+2h}$$|
 
 # Solving Quadratic Equations
 
@@ -475,7 +530,7 @@ Problems of this nature are found in calculus.
     - Terminology
         - Domain, range, odd & even, periodic, zeros, intercepts
 
-## **A Recapitulation of Geometry**
+## **Recapitulations: Geometry**
 
 <!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
 
@@ -487,7 +542,7 @@ Compute Area: Rectangles, Triangles, Trapezoids, Circles
     - Equation of a circle
 
 
-## **A Recapitulation of Trigonometry**
+## **Recapitulations: Trigonometry**
 
 <!-- $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$  -->
 
