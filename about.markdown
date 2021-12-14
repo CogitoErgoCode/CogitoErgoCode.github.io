@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<!-- my rise is eminent, and my domain, infinite -->
+
+
 <!-- ![It's me](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
 <!-- ![Uphill](/assets/images/uphills.png) -->
 
@@ -64,7 +67,9 @@ My favorite style of classical piano is the waltz.
     
 <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
-## 🎤 Thom Yorke
+## 🎤 Singers & Songwriters 
+
+# Thom Yorke (Radiohead & Atoms for Peace)
 
 I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is complementary to his artistic use of the piano, and his most defining attribute.
 
@@ -72,26 +77,71 @@ I like almost everything of Yorke's, so I'll list a few songs in no particular o
 
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
-<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#025982;">Before Your Very Eyes</a>,
-<a href="https://youtu.be/CLiDemXYSLc" style="color:#660000;">Spectre</a>,
-<a href="https://youtu.be/T7t38uDUg5E" style="color:#660000;">Codex</a>,
-<a href="https://youtu.be/cfOa1a8hYP8" style="color:#025982;">Lotus Flower</a>,
-<a href="https://youtu.be/iY4APDrl66s" style="color:#025982;">All I Need (Microcosmos)</a>, 
-<a href="https://youtu.be/WF83_PR2EsA" style="color:#660000;">Videotape</a>, 
-<a href="https://youtu.be/lVata6Ibe4U" style="color:#025982;">Last Flowers</a>,
-<a href="https://youtu.be/3M_Gg1xAHE4" style="color:#025982;">Pyramid Song</a>, 
+<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#000000;">Before Your Very Eyes</a>,
+<a href="https://youtu.be/CLiDemXYSLc" style="color:#990000;">Spectre</a>,
+<a href="https://youtu.be/T7t38uDUg5E" style="color:#990000;">Codex</a>,
+<a href="https://youtu.be/cfOa1a8hYP8" style="color:#000000;">Lotus Flower</a>,
+<a href="https://youtu.be/iY4APDrl66s" style="color:#990000;">All I Need (Microcosmos)</a>, 
+<a href="https://youtu.be/WF83_PR2EsA" style="color:#990000;">Videotape</a>, 
+<a href="https://youtu.be/lVata6Ibe4U" style="color:#000000;">Last Flowers</a>,
+<a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0000b3;">Pyramid Song</a>, 
 <a href="https://youtu.be/1uYWYWPc9HU" style="color:#b36b00;">Karma Police</a>, 
-<a href="https://youtu.be/u5CVsCnxyXg" style="color:#025982;">No Surprises</a>, 
-<a href="https://youtu.be/7qFfFVSerQo" style="color:#025982;">High and Dry</a>,
+<a href="https://youtu.be/u5CVsCnxyXg" style="color:#000000;">No Surprises</a>, 
+<a href="https://youtu.be/7qFfFVSerQo" style="color:#000000;">High and Dry</a>,
 <a href="https://youtu.be/n5h0qHwNrHk" style="color:#b36b00;">Fake Plastic Trees</a>, 
-<a href="https://youtu.be/LCJblaUkkfc" style="color:#025982;">Street Spirit</a>, 
-<a href="https://youtu.be/d7lbzUUXj0k" style="color:#025982;">Black Star</a>, 
-<a href="https://youtu.be/XFkzRNyygfk" style="color:#025982;">Creep</a>, 
+<a href="https://youtu.be/LCJblaUkkfc" style="color:#000000;">Street Spirit</a>, 
+<a href="https://youtu.be/d7lbzUUXj0k" style="color:#b36b00;">Black Star</a>, 
+<a href="https://youtu.be/XFkzRNyygfk" style="color:#000000;">Creep</a>, 
 <!-- <a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>, -->
-<a href="https://youtu.be/BTZl9KMjbrU" style="color:#660000;">Suspirium</a>, 
-<a href="https://youtu.be/P7nz6-UVrmU" style="color:#025982;">Hearing Damage</a>
+<!-- <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,  -->
+<a href="https://youtu.be/P7nz6-UVrmU" style="color:#737373;">Hearing Damage</a>,
+<a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#000000;">Twist</a>,
+<a href="https://youtu.be/0zIBbiSr8Lw" style="color:#000000;">Amok</a>,
+<a href="https://youtu.be/onRk0sjSgFU" style="color:#737373;">Everything In Its Right Place</a>
+<!-- <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>,  -->
+<!-- <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a> -->
 
-<sup>\*<span style="color:#660000;">Moving</span>, <span style="color:#b36b00;">Nostalgic</span></sup>
+- `Piano:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,
+<a href="https://youtu.be/EdmL835q9To" style="color:#025982;">Bloom (Live from Electric Lady Studios)</a>, 
+<a href="https://youtu.be/SnIAxVx7ZUs" style="color:#025982;">Videotape (From The Basement)</a>, 
+<a href="https://youtu.be/SnIAxVx7ZUs?t=583" style="color:#025982;">Last Flowers (From The Basement)</a>, 
+<a href="https://youtu.be/SnIAxVx7ZUs?t=285" style="color:#025982;">Analyse (From The Basement)</a>, 
+<a href="https://youtu.be/QEG28XWEhuc?t=1514" style="color:#025982;">I Want None Of This</a>, 
+<a href="https://youtu.be/mndJOsGsZnk" style="color:#025982;">Daily Battles</a>
+
+<sup>\*<span style="color:#990000;">Moving</span>, 
+<span style="color:#b36b00;">nostalgia</span>, 
+<span style="color:#0000b3;">melancholy</span>, 
+<!-- <span style="color:#007a99;">spiritual</span>,  -->
+<span style="color:#737373;">trance</span></sup>
+
+# Billy Corgan (The Smashing Pumpkins)
+
+Corgan was another significant influence growing up, particularly the albums *Adore: Super Deluxe Edition*, and *Mellon Collie and The Infinite Sadness*. As a side note, Corgan once praised Radiohead, saying "if they're not the best band in the world, then they're one of the best". 
+
+
+<a href="https://youtu.be/fIggUxffTN4" style="color:#025982;">To Forgive</a>, 
+<a href="https://youtu.be/zHBNWbmZtRg" style="color:#025982;">Shame</a>, 
+1979, Soot and Stars, <a href="https://youtu.be/0fDZD46IZ5Q" style="color:#025982;">The Beginning is the End is the Beginning</a>, Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#025982;">Stumbleine</a>, Daphne Descends, Bleeding the orchid, Once Upon a Time, Bullet With Butterfly Wings, Landslide
+
+<!-- The Aeroplane Flies High -->
+
+- `Piano:` <a href="https://youtu.be/zTH9vEroNtM" style="color:#025982;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#025982;">Saturnine (For Piano And Voice)</a> 
+
+<!-- My Blue Heaven -->
+
+
+<!-- # Chino Moreno (Deftones & Team Sleep)
+
+Chino was the voice of my youth, and while that was many years ago, there are still many songs that are still very impressive to me. I think what sets Chino apart from all other vocalist is his dramatic tenor. Chino also sports one of the highest-known vocal ranges at a very respectable 4.5 octaves.
+
+- Smile, Tempest
+
+# Maynard James Keenan (Tool)
+
+Maynard has been described as a baritone, and reportedly has a range of 4 octaves (G1-G5). My favorite album would have to be between *10,000 Days* and *Fear Inoculum*.
+
+- The Pot -->
 
 <!-- - `Atoms For Peace` 
     - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#025982;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#025982;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#025982;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a>
