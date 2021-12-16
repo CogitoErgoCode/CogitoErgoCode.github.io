@@ -108,6 +108,13 @@ Rational and irrational numbers together form the set of real numbers.
 |Change of Base|$$\log_a x = \frac{\log_b x}{\log_b a}$$|
 |Equality|$$\log_b x = \log_b y, \space x=y$$|
 
+|Complex Numbers|
+|:-:|
+|$$i = \sqrt{-1}$$|
+|$$i^2 = -1$$<br>$$\sqrt[n]{x} \cdot \sqrt[n]{x} = x$$|
+|$$i^3 = -i$$<br>$$-\sqrt{-1}$$|
+|$$i^4 = 1$$<br>$$-1\cdot\sqrt{-1}\cdot\sqrt{-1}$$<br>$$i\cdot i\cdot i\cdot i$$<br>$$(i\cdot i)\cdot (i\cdot i)$$<br>$$-1\cdot-1=1$$|
+|$$i^5 = i$$|
 
 # Manipulating Algebraic Expressions
 <!-- # Adding & Subtracting Polynomials -->
@@ -513,9 +520,81 @@ The linear equation in one variable is an equation equivalent to one of the form
 
 # Solving Quadratic Equations
 
-# Inequalities, Rules For
+Quadratic equations are equations of the form: $$ax^2+bx+c=0$$, where a, b, and c are real numbers with $$a \ne 0$$. Understand also, the `Zero-Product Property`, which states, that $$AB=0$$ if and only if A = 0 or B = 0.
+
+|Solve by Factoring|$$x^2+5x=24$$|
+|:-:|:-:|
+|Transpose|$$x^2+5x-24=0$$|
+|Factor Trinomial|$$x^2-3x+8x-24=0$$|
+||$$x(x-3)+8(x-3)=0$$|
+||$$(x-3)(x+8)=0$$|
+|Solutions|$$x-3=0, x=3$$<br>$$x+8=0, x=-8$$|
+
+|Solve by Completing the Square|$$x^2-8x+13=0$$|
+|:-:|:-:|
+|Transpose|$$x^2-8x=-13$$|
+|Complete the Square|$$x^2-8x+(\frac{-8}{2})^2=-13+(\frac{-8}{2})^2$$|
+||$$x^2-8x+16=-13+16$$|
+||$$x^2-8x+16=3$$|
+|Factor|$$(x-4)(x-4)=3$$|
+||$$(x-4)^2=3$$|
+|Take the Square|$$x-4=\sqrt{3}$$|
+|Transpose|$$x=4 \pm \sqrt{3}$$|
+
+|Completeing the Square<br>where leading coefficient $$a \ne 1$$|$$3x^2-12x+6=0$$|
+|:-:|:-:|
+|Transpose|$$3x^2-12x=-6$$|
+|You must factor<br>the leading coefficient<br>from both terms that contain x,<br>before completing the square|$$3(x^2-4x)=3(-2)$$|
+||$$3(x^2-4x+(\frac{-4}{2})^2)=3(-2+(\frac{-4}{2})^2)$$|
+||$$3(x^2-4x+4)=3(-2+4)$$|
+||$$3((x-2)(x-2))=6$$|
+||$$3(x-2)^2=6$$|
+||$$\frac{3(x-2)^2}{3}=\frac{6}{3}$$|
+||$$(x-2)^2=2$$|
+||$$\sqrt{(x-2)^2}=\sqrt 2$$|
+||$$x-2=\sqrt 2$$|
+||$$x=2 \pm \sqrt 2$$|
+
+<!-- |Completeing the Square<br>where leading coefficient $$a \ne 1$$|$$3x^2-12x+6=0$$|
+|:-:|:-:|
+|Transpose|$$3x^2-12x=-6$$|
+|You must factor<br>the leading coefficient<br>from both terms that contain x,<br>before completing the square|$$3(x^2-4x)=-6$$|
+||$$3(x^2-4x+(\frac{-4}{2})^2)=-6+(\frac{-4}{2})^2$$|
+||$$3(x^2-4x+4)=-6+3(4)$$|
+||$$3((x-2)(x-2))=6$$|
+||$$3(x-2)^2=6$$|
+||$$\frac{3(x-2)^2}{3}=\frac{6}{3}$$|
+||$$(x-2)^2=2$$|
+||$$\sqrt{(x-2)^2}=\sqrt 2$$|
+||$$x-2=\sqrt 2$$|
+||$$x=2 \pm \sqrt 2$$| -->
+
+|Solve by Quadratic Equation|$$ax^2+bx+c=0$$|
+|:-:|:-:|
+|Formula|$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$|
+|Problem|$$3x^2-5x-1=0$$|
+|Variables|a=3, b=-5, c=-1|
+|Solve|$$x = {-(-5) \pm \sqrt{(-5)^2-4(3)(-1)} \over 2(3)}$$|
+||$$x = {5 \pm \sqrt{25+12} \over 6}$$|
+|Solution|$$x = {5 \pm \sqrt{37} \over 6}$$|
+
+|Solve by Quadratic Equation|$$ax^2+bx+c=0$$|
+|:-:|:-:|
+|Formula|$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$|
+|Problem|$$x^2+2x+2=0$$|
+|Variables|a=1, b=2, c=2|
+|Solve|$$x = {-(2) \pm \sqrt{(2)^2-4(1)(2)} \over 2(1)}$$|
+||$$x = {-2 \pm \sqrt{4-8} \over 2}$$|
+||$$x = {-2 \pm \sqrt{-4} \over 2}$$|
+||$$x = {-2 \pm \sqrt{-1} \cdot \sqrt{4} \over 2}$$|
+||$$x = {-2 \pm 2i \over 2}$$|
+||$$x = {-1 \pm 1i}$$|
 
 # Solving Linear Inequalities
+
+|Inequalities, Rules For|
+|:-:|
+||
 
 # Solving a Pair of Simultaneous Inequalities
 
