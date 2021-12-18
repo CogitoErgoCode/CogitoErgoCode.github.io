@@ -76,7 +76,7 @@ In no particular order.
         - Diamond, The Children of Coyote Woman, 41
 - `Chino Moreno (Deftones)`
     <!-- - 1995 - 2010:  -->
-    - Adrenaline, White Pony, Around the Fur, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
+    - Adrenaline, Around the Fur, White Pony, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
 - `Maynard James Keenan (Tool)`
     <!-- - 2001 - 2019:  -->
     - Lateralus, 10,000 Days, Fear Inoculum
@@ -86,7 +86,7 @@ In no particular order.
 - `Billy Corgan (TSP)`
     - Adore, Mellon Collie and The Infinite Sadness
 - `Johnny Cash (Cash)`
-    - American IV: The Man Comes Around
+    - American IV: The Man Comes Around,<br>American VI: Ain't No Grave
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
