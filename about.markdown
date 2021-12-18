@@ -83,7 +83,7 @@ In no particular order.
 - `Thom Yorke (Radiohead & Atoms for Peace)`
     <!-- - 2000-2011,2013:  -->
     - KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
-- `Billy Corgan (TSP)`
+- `Billy Corgan (The Smashing Pumpkins)`
     - Adore, Mellon Collie and The Infinite Sadness
 - `Johnny Cash (Cash)`
     - American IV: The Man Comes Around,<br>American VI: Ain't No Grave
