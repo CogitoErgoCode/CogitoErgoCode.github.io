@@ -67,17 +67,19 @@ My favorite style of classical piano is the waltz.
     
 <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
-## 🎤 Singers & Songwriters 
+## 🎤 Modern
 
-# Thom Yorke (Radiohead & Atoms for Peace)
+- Thom Yorke (Radiohead), Billy Corgan (TSP), Chino Moreno (Deftones), Maynard James Keenan (Tool), Charles Michael Parks Jr. (All Them Witches), Johnny Cash (Cash)
+
+<!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
 I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is complementary to his artistic use of the piano, and his most defining attribute.
 
-> "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke
+> "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke -->
 
 <!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
 <!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
-<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#000000;">Before Your Very Eyes</a>,
+<!-- <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#000000;">Before Your Very Eyes</a>,
 <a href="https://youtu.be/CLiDemXYSLc" style="color:#990000;">Spectre</a>,
 <a href="https://youtu.be/T7t38uDUg5E" style="color:#990000;">Codex</a>,
 <a href="https://youtu.be/cfOa1a8hYP8" style="color:#000000;">Lotus Flower</a>,
@@ -91,17 +93,17 @@ I like almost everything of Yorke's, so I'll list a few songs in no particular o
 <a href="https://youtu.be/n5h0qHwNrHk" style="color:#b36b00;">Fake Plastic Trees</a>, 
 <a href="https://youtu.be/LCJblaUkkfc" style="color:#000000;">Street Spirit</a>, 
 <a href="https://youtu.be/d7lbzUUXj0k" style="color:#b36b00;">Black Star</a>, 
-<a href="https://youtu.be/XFkzRNyygfk" style="color:#000000;">Creep</a>, 
+<a href="https://youtu.be/XFkzRNyygfk" style="color:#000000;">Creep</a>,  -->
 <!-- <a href="https://youtu.be/OzL7u5teZhg" style="color:#025982;">You</a>, -->
 <!-- <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,  -->
-<a href="https://youtu.be/P7nz6-UVrmU" style="color:#737373;">Hearing Damage</a>,
+<!-- <a href="https://youtu.be/P7nz6-UVrmU" style="color:#737373;">Hearing Damage</a>,
 <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#000000;">Twist</a>,
 <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#000000;">Amok</a>,
-<a href="https://youtu.be/onRk0sjSgFU" style="color:#737373;">Everything In Its Right Place</a>
+<a href="https://youtu.be/onRk0sjSgFU" style="color:#737373;">Everything In Its Right Place</a> -->
 <!-- <a href="https://youtu.be/7yU8BjfATHc" style="color:#025982;">Unless</a>,  -->
 <!-- <a href="https://youtu.be/l2yEXYCF7tg" style="color:#025982;">Reverse Running</a> -->
 
-- `Piano:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,
+<!-- - `Piano:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,
 <a href="https://youtu.be/EdmL835q9To" style="color:#025982;">Bloom (Live from Electric Lady Studios)</a>, 
 <a href="https://youtu.be/SnIAxVx7ZUs" style="color:#025982;">Videotape (From The Basement)</a>, 
 <a href="https://youtu.be/SnIAxVx7ZUs?t=583" style="color:#025982;">Last Flowers (From The Basement)</a>, 
@@ -111,22 +113,21 @@ I like almost everything of Yorke's, so I'll list a few songs in no particular o
 
 <sup>\*<span style="color:#990000;">Moving</span>, 
 <span style="color:#b36b00;">nostalgia</span>, 
-<span style="color:#0000b3;">melancholy</span>, 
+<span style="color:#0000b3;">melancholy</span>,  -->
 <!-- <span style="color:#007a99;">spiritual</span>,  -->
-<span style="color:#737373;">trance</span></sup>
+<!-- <span style="color:#737373;">trance</span></sup> -->
 
-# Billy Corgan (The Smashing Pumpkins)
+<!-- # Billy Corgan (The Smashing Pumpkins)
 
 Corgan was another significant influence growing up, particularly the albums *Adore: Super Deluxe Edition*, and *Mellon Collie and The Infinite Sadness*. As a side note, Corgan once praised Radiohead, saying "if they're not the best band in the world, then they're one of the best". 
 
-
 <a href="https://youtu.be/fIggUxffTN4" style="color:#025982;">To Forgive</a>, 
 <a href="https://youtu.be/zHBNWbmZtRg" style="color:#025982;">Shame</a>, 
-1979, Soot and Stars, <a href="https://youtu.be/0fDZD46IZ5Q" style="color:#025982;">The Beginning is the End is the Beginning</a>, Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#025982;">Stumbleine</a>, Daphne Descends, Bleeding the orchid, Once Upon a Time, Bullet With Butterfly Wings, Landslide
+1979, Soot and Stars, <a href="https://youtu.be/0fDZD46IZ5Q" style="color:#025982;">The Beginning is the End is the Beginning</a>, Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#025982;">Stumbleine</a>, Daphne Descends, Bleeding the orchid, Once Upon a Time, Bullet With Butterfly Wings, Landslide -->
 
 <!-- The Aeroplane Flies High -->
 
-- `Piano:` <a href="https://youtu.be/zTH9vEroNtM" style="color:#025982;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#025982;">Saturnine (For Piano And Voice)</a> 
+<!-- - `Piano:` <a href="https://youtu.be/zTH9vEroNtM" style="color:#025982;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#025982;">Saturnine (For Piano And Voice)</a>  -->
 
 <!-- My Blue Heaven -->
 
@@ -331,18 +332,18 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently. 
+<!-- I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.  -->
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
 <!-- As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late. --> 
 
-- `Netflix`
-    - Squid Game (2021)
-- `Nintendo Switch`
+- Squid Game (2021)
+
+<!-- - `Nintendo Switch`
     - Octopath Traveler (2018)
     - Hollow Knight (2017)
-    - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss)
+    - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss) -->
 
 <!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
 
