@@ -86,6 +86,7 @@ In no particular order.
 - `Billy Corgan (TSP)`
     - Adore, Mellon Collie and The Infinite Sadness
 - `Johnny Cash (Cash)`
+    - American IV: The Man Comes Around
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
