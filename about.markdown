@@ -74,7 +74,7 @@ In no particular order.
 - `Charles Michael Parks Jr. (All Them Witches)`
     - ATW (2018), Nothing as the Ideal (2020)
         - Diamond, The Children of Coyote Woman, 41
-- `Chino Moreno (Deftones)`
+- `Chino Moreno (Deftones & Team Sleep)`
     <!-- - 1995 - 2010:  -->
     - Adrenaline, Around the Fur, White Pony, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
 - `Maynard James Keenan (Tool)`
