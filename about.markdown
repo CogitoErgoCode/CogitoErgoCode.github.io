@@ -69,7 +69,23 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Modern
 
-- Thom Yorke (Radiohead), Billy Corgan (TSP), Chino Moreno (Deftones), Maynard James Keenan (Tool), Charles Michael Parks Jr. (All Them Witches), Johnny Cash (Cash)
+In no particular order.
+
+- `Charles Michael Parks Jr. (All Them Witches)`
+    - ATW (2018), Nothing as the Ideal (2020)
+        - Diamond, The Children of Coyote Woman, 41
+- `Chino Moreno (Deftones)`
+    <!-- - 1995 - 2010:  -->
+    - Adrenaline, White Pony, Around the Fur, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
+- `Maynard James Keenan (Tool)`
+    <!-- - 2001 - 2019:  -->
+    - Lateralus, 10,000 Days, Fear Inoculum
+- `Thom Yorke (Radiohead & Atoms for Peace)`
+    <!-- - 2000-2011,2013:  -->
+    - KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
+- `Billy Corgan (TSP)`
+    - Adore, Mellon Collie and The Infinite Sadness
+- `Johnny Cash (Cash)`
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
