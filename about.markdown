@@ -71,24 +71,14 @@ My favorite style of classical piano is the waltz.
 
 In no particular order.
 
-- `Charles Michael Parks Jr. (All Them Witches)`
-    - ATW (2018), Nothing as the Ideal (2020)
-        - Diamond, The Children of Coyote Woman, 41
-- `Chino Moreno (Deftones & Team Sleep)`
-    <!-- - 1995 - 2010:  -->
-    - Adrenaline, Around the Fur, White Pony, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
-- `Maynard James Keenan (Tool)`
-    <!-- - 2001 - 2019:  -->
-    - Lateralus, 10,000 Days, Fear Inoculum
-- `Thom Yorke (Radiohead & Atoms for Peace)`
-    <!-- - 2000-2011,2013:  -->
-    - KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
-- `Billy Corgan (The Smashing Pumpkins)`
-    - Adore, Mellon Collie and The Infinite Sadness
-- `Johnny Cash (Cash)`
-    - American IV: The Man Comes Around,<br>American VI: Ain't No Grave
-- `Jeff Buckley`
-    - Grace
+- `Charles Michael Parks Jr. (All Them Witches):` ATW (2018), Nothing as the Ideal (2020)
+    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [Hares On The Mountain](https://youtu.be/fgaCs8cB-ko), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8)
+- `Chino Moreno (Deftones & Team Sleep):` Adrenaline, Around the Fur, White Pony, <br>B-Sides & Rarities, Saturday Night Wrist, Eros
+- `Maynard James Keenan (Tool):` Lateralus, 10,000 Days, Fear Inoculum
+- `Thom Yorke (Radiohead & Atoms for Peace):` KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
+- `Billy Corgan (The Smashing Pumpkins):` Adore, Mellon Collie and The Infinite Sadness
+- `Johnny Cash (Cash):` American IV: The Man Comes Around,<br>American VI: Ain't No Grave
+- `Jeff Buckley:` Grace
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
