@@ -69,16 +69,32 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Modern
 
-In no particular order.
+|Type|Artists|
+|:-:|:-:|
+|??? / Hard / Blues / Southern Rock|Charles Michael Parks Jr.<br>(All Them Witches)|
+|Falsetto / Alternative / Experimental|[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>(Radiohead & Atoms for Peace)|
+|Falsetto / Alternative / Folk / Blues<br> (Tenor vocal range 4 octaves)|[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)|
+|Dramatic Tenor / Alternative<br>One of the highest-known vocal ranges<br>(4.5 octaves)|[Chino Moreno](https://en.wikipedia.org/wiki/Chino_Moreno)<br>(Deftones & Team Sleep)|
+|Baritone / Progressive<br>(A range of 4 octaves)|[Maynard James Keenan](https://en.wikipedia.org/wiki/Maynard_James_Keenan)<br>(Tool)|
+|Calm bass-baritone / Country / Rock / Blues|[Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash)|
+|??? / Alternative|[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins|
 
-- `Charles Michael Parks Jr. (All Them Witches):` ATW (2018), Nothing as the Ideal (2020)
-    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [Hares On The Mountain](https://youtu.be/fgaCs8cB-ko), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)
-- `Chino Moreno (Deftones & Team Sleep):` Adrenaline, Around the Fur, White Pony, B-Sides & Rarities, Saturday Night Wrist, Eros
-- `Maynard James Keenan (Tool):` Lateralus, 10,000 Days, Fear Inoculum
-- `Thom Yorke (Radiohead & Atoms for Peace):` KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
-- `Billy Corgan (The Smashing Pumpkins):` Adore, Mellon Collie and The Infinite Sadness
-- `Johnny Cash (Cash):` American IV: The Man Comes Around,<br>American VI: Ain't No Grave
-- `Jeff Buckley:` Grace
+Currently giving this band a test drive.
+
+- `Charles Michael Parks Jr. (All Them Witches):` Our Mother Electricity, Lightning at the Door, ATW, Lost and Found, Nothing as the Ideal
+    - [Easy](https://youtu.be/VqMsufzas4w), [Right Hand](https://youtu.be/iSddHWkLW-E), [Hares On The Mountain](https://youtu.be/fgaCs8cB-ko), [Family Song for the Leaving](https://youtu.be/M0NYg42dgkM)
+    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)
+
+<!-- - Falsetto
+    - `Thom Yorke (Radiohead & Atoms for Peace):` KID A, Amnesiac, In Rainbows, The King Of Limbs, Amok
+    - `Jeff Buckley:` Grace -->
+
+<!-- - `Chino Moreno (Deftones & Team Sleep):` Adrenaline, Around the Fur, White Pony, Deftones, B-Sides & Rarities, Saturday Night Wrist, Eros
+- `Maynard James Keenan (Tool):` Lateralus, 10,000 Days, Fear Inoculum -->
+
+<!-- - `Billy Corgan (The Smashing Pumpkins):` Adore, Mellon Collie and The Infinite Sadness
+- `Johnny Cash:` American IV: The Man Comes Around,<br>American VI: Ain't No Grave -->
+
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
@@ -341,18 +357,14 @@ Wisdom literature is also something of an interest to me.
 
 ## 🕹️ Entertainment
 
-<!-- I mostly watch Netflix, and enjoy the occasional indie game on the Nintendo Switch. When I was young, the Gameboy Pocket & Anime defined my youth. Not a lot has changed apparently.  -->
+I mostly watch Netflix, and enjoy the occasional indie game from time to time.
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
 <!-- As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late. --> 
 
-- Squid Game (2021)
-
-<!-- - `Nintendo Switch`
-    - Octopath Traveler (2018)
-    - Hollow Knight (2017)
-    - [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss) -->
+- `Netflix:` Squid Game (2021), The Witcher (2019-Present)
+- `Games:` Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Call of Duty, Mortal Kombat
 
 <!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
 
