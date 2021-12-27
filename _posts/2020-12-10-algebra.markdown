@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Reunion of Broken Parts 🧮"
-date: 2021-12-25 01:06:23 -0700
+title: "Precalculus: The Reunion of Broken Parts 🧮"
+date: 2021-12-27 00:56:07 -0700
 categories: math algebra python
 published: false
 ---
@@ -81,6 +81,8 @@ The big idea that multiplying or dividing by a negative number changes the sign 
 
 # Properties of Exponents
 
+The word exponent comes from the Latin "expo" meaning "out of" and "ponere" meaning "place." While there is some debate, it seems that the Babylonians living in present day Iraq were the first to do work with exponents (dating back to the 23rd century BC or earlier!)
+
 |Properties of Exponents|Rules of Exponents|
 |:-:|:-:|
 |Product Property<br>$$a^ma^n=a^{m+n}$$|$$a^3a^2 = (aaa)(aa) = a^5$$|
@@ -97,7 +99,13 @@ The big idea that multiplying or dividing by a negative number changes the sign 
 
 # Scientific Notation
 
-We will use the mass of well known cosmological objects as an example. Tree, Pyramid, Mountain, Moon, Planet, Star, Star Cluster, Star Globular Cluster, Supermassive & Ultramassive Black Hole, Galaxy, Galaxy Group, Galaxy Cluster, Galaxy Supercluster, Galaxy Filament, Observable Universe.
+Archimedes (287 BC - 212 BC), the Greek mathematician, developed a system for representing large numbers using a system very similar to scientific notation. He used his system to calculate the number of grains of sand it would take to fill the universe. His conclusion was 1063 grains of sand because he figured the universe to have a diameter of 1014 stadia or about 2 light years. He may have been... slightly off. \*cough\* Moving on...
+
+Scientific Notation is a way to express numbers as the product of a decimal number and a power of 10. When converting into scientific notation, if we move the decimal to the left, this increases the exponent. If we move the decimal to the right, this decreases the exponent. When you're writing in standard form, a positive exponent indicates moving the decimal to the right
+
+It is important to remember that when you're writing numbers in scientific notation, you can only have one non-zero digit to the left of the decimal, but you can have any number of digits to the right. 
+
+We will use the mass of well known cosmological objects as an example. Tree, Pyramid, Mountain, Moon, Planet, Star, Star Cluster, Star Globular Cluster, Primordial Blackholes, Steller Blackholes, Quasi Star, Quasi Black Hole (Supermassive [A*] & Ultramassive Black Hole), Galaxy, Galaxy Group, Galaxy Cluster, Galaxy Supercluster, Galaxy Filament, Observable Universe.
 
 For the sake of simplicity we will define a `Solar Mass` as $$M_☉ \approx 2 \times 10^{30}$$
 
@@ -105,26 +113,34 @@ For the sake of simplicity we will define a `Solar Mass` as $$M_☉ \approx 2 \t
 |:-:|:-:|
 |General Sherman<br>(The trunk of the largest living tree)<br>$$1 \times 10^6 \space kg$$|One Million Kilograms<br>1,000,000 kg|
 |Great Pyramid of Giza<br>$$6 \times 10^9 \space kg$$|Six Billion Kilograms<br>6,000,000,000 kg|
-|Total mass of the world's human population<br>$$4 \times 10^{11}$$|Four-Hundred Billion Kilograms<br>400,000,000,000 kg|
+|Total mass of the world's human population<br>$$4 \times 10^{11} \space kg$$|Four-Hundred Billion Kilograms<br>400,000,000,000 kg|
+|[Mount Everest](http://www.viktorplamenov.com/home/estimating-the-mass-of-mount-everest)<br>$$2.96471\times 10^{14} \space kg$$|296,471,000,000,000 kg|
+|Earth's Atmosphere<br>$$5.1\times 10^{18} \space kg$$|Five Quintillion One-Hundred Quadrillion Kilograms<br>5,100,000,000,000,000,000 kg|
+|Earth's Oceans<br>$$1.4\times 10^{21} \space kg$$|One-Sextillion Four-Hundred Quintillion Kilograms<br>1,400,000,000,000,000,000,000 kg|
 |The Moon<br>(Earth's Moon)<br>$$7.3\times 10^{22} \space kg$$|Seventy-Three Sextillion Kilograms<br>73,000,000,000,000,000,000,000 kg|
 |The Planet Earth<br>$$6\times 10^{24} \space kg$$|Six Septillion Kilograms<br>6,000,000,000,000,000,000,000,000 kg|
 ||1 $$M_🜨$$|
 
 |Scientific Notation of Stars and Black Holes|Mass In Kilograms|
 |:-:|:-:|
-|The Sun<br>$$2 \times 10^{30} \space kg$$|Two Nonillion Kilograms<br>2,000,000,000,000,000,000,000,000,000,000 kg|
+|The Sun<br>$$2 \times 10^{30} \space kg$$|Two Nonillion Kilograms<br>2,000,000,000,000,000,<br>000,000,000,000,000 kg|
 ||1 $$M_☉$$<br>333,333.3333333333333333333333 $$M_🜨$$|
-|Sagittarius A*<br>Supermassive black hole at the center of the Milky Way<br>$$7–8\times 10^{36}$$|Seven to Eight Undecillion Kilograms<br>7,000,000,000,000,000,000,000,000,000,000,000,000 **to** 8,000,000,000,000,000,000,000,000,000,000,000,000 kg|
+|Sagittarius A*<br>Supermassive black hole at the center of the Milky Way<br>$$7–8\times 10^{36}$$|Seven to Eight Undecillion Kilograms<br>7,000,000,000,000,000,000,<br>000,000,000,000,000,000 **to** 8,000,000,000,000,000,000,<br>000,000,000,000,000,000 kg|
 ||3,500,000 **to** 4,000,000 $$M_☉$$|
-
+|Cygnus A<br>2.5b sm???||
+|Messier 87|6.5 sm???|
+|OJ 287 Ultra 18 billion of sm???||
+|TN 618 66 billion sm!!!||
 
 |Scientific Notation of Larger Structures|Mass In Kilograms|
 |:-:|:-:|
-|The Milky Way Galaxy<br>$$1.2\times 10^{42} \space kg$$|One Tredecillion Two-Hundreded Duodecillion Kilograms<br>1,200,000,000,000,000,000,000,000,000,000,000,000,000,000 kg|
+|The Milky Way Galaxy<br>$$1.2\times 10^{42} \space kg$$|One Tredecillion Two-Hundred<br>Duodecillion Kilograms<br>1,200,000,000,000,000,000,000,<br>000,000,000,000,000,000,000 kg|
 ||600,000,000,000 $$M_☉$$|
-|Hercules–Corona Borealis Great Wall<br>(The largest structure in the known universe)<br>$$4\times 10^{49} \space kg$$|40 Quindecillion Kilograms<br>40,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 kg|
+|Local Group<br>$$2–3\times 10^{42}\space kg$$|2,000,000,000,000,000,000,000,<br>000,000,000,000,000,000,000 **to** 3,000,000,000,000,000,000,000,<br>000,000,000,000,000,000,000 kg|
+||1,000,000,000,000 **to** 1,500,000,000,000 $$M_☉$$|
+|Hercules–Corona Borealis Great Wall<br>(The largest structure in the known universe)<br>$$4\times 10^{49} \space kg$$|40 Quindecillion Kilograms<br>40,000,000,000,000,000,000,000,000,<br>000,000,000,000,000,000,000,000 kg|
 ||20,000,000,000,000,000,000 $$M_☉$$|
-|Mass of the observable universe<br>$$4.4506\times 10^{52} \space kg$$ to $$6\times 10^{52} \space kg$$|44,506,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 **to** 60,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 kg|
+|Mass of the observable universe<br>$$4.4506\times 10^{52} \space kg$$ **to** $$6\times 10^{52} \space kg$$|44,506,000,000,000,000,000,000,000,000,<br>000,000,000,000,000,000,000,000 **to** 60,000,000,000,000,000,000,000,000,000,<br>000,000,000,000,000,000,000,000 kg|
 ||22,253,000,000,000,000,000,000 **to** 30,000,000,000,000,000,000,000 $$M_☉$$|
 
 <!-- |Earth's atmosphere||
@@ -139,31 +155,90 @@ print(f"{2000000000000000000000000000000:.0e}")
 
 # Multiplication & Division With Scientific Notation
 
-|Multiplication||
-|:-:|:-:|
-|||
+When multiplying and dividing in scientific notation, deal with the non-exponential and exponential (containing the power of 10) separately. Multiply or divide the decimal number part first, then multiply or divide the part with exponents, applying the property of exponents to either add or subtract the exponents
 
-|Division||
+|Multiplication|$$(2.1\times 10^{-7})(3.7\times 10^5)$$|
 |:-:|:-:|
-|||
+|Deal with Numbers First|$$2.1\cdot 3.7 = 7.77$$|
+|Use Product Property on Exponents|$$10^{-7}\cdot 10^5$$|
+||$$10^{-7+5} = 10^{-2}$$|
+|Solution|$$7.77\times 10^{-2}$$|
+
+Often when we multiply or divide in scientific notation the end result is not in scientific notation. We will then have to convert the front number into scientific notation and then combine the 10’s using the product property of exponents and adding the exponents.
+
+|Earth Times The Sun|$$(6\times 10^{24})(2\times 10^{30})$$|
+|:-:|:-:|
+|Deal with Numbers First|$$6\cdot 2 = 12$$|
+|Convert to Scientific Notation|$$1.2\times 10^1$$|
+|Use Product Property on Exponents|$$10^1\cdot 10^{24}\cdot 10^{30}$$|
+||$$10^{1+24+30} = 10^{55}$$|
+|Solution|$$1.2\times 10^{55}$$|
+
+|Earth Cubed|$$(6\times 10^{24})^3$$|
+|:-:|:-:|
+|Power of Product Rule|$$(6)^3\times (10^{24})^3$$|
+|Deal with Numbers First|$$6^3 = 216$$|
+|Convert to Scientific Notation|$$2.16\times 10^2$$|
+|*Rewrite for Clarity|$$2.16\times 10^2\cdot (10^{24})^3$$|
+|Use Power of Power Rule on Exponents|$$(10^{24})^3 = 10^{24\cdot 3} = 10^{72}$$|
+|*Rewrite for Clarity|$$2.16\times 10^2\cdot 10^{72}$$|
+|Use Product Property on Exponents|$$10^2\cdot 10^{72} = 10^{2+72} = 10^{74}$$|
+|Solution|$$2.16\times 10^{74}$$|
+
+A similar process is used to divide in scientific notation. First, we divide the decimal part of the number, and then apply a property of exponents to easily divide the powers of 10.
+
+|Division|$$\frac{4.96\times 10^4}{3.1\times 10^{-3}}$$|
+|:-:|:-:|
+|Deal with Numbers First|$$\frac{4.96}{3.1} = 1.6$$|
+|Use Quotient Property on Exponents|$$\frac{10^4}{10^{-3}}$$|
+||$$10^{4-(-3)} = 10^{4+3} = 10^7$$|
+|Solution|$$1.6\times 10^7$$|
+
+|The Sun Divided By The Earth|$$\frac{2\times 10^{30}}{6\times 10^{24}}$$|
+|:-:|:-:|
+|Deal with Numbers First|$$\frac{2}{6} = 0.3333333333333333$$|
+|Convert to Scientific Notation|$$3.333333333333333\times 10^{-1}$$|
+|Use Quotient Property on Exponents|$$\frac{10^{30}}{10^{24}}$$|
+||$$10^{30-24} = 10^6$$|
+|Use Product Property on Exponents|$$10^{-1}\cdot 10^6$$|
+||$$10^{-1+6} = 10^5$$|
+|Solution|$$3.333333333333333\times 10^5 \space kg$$|
+||1 $$M_☉$$<br>333,333.333333333333333 $$M_🜨$$|
 
 # Addition & Subtraction With Scientific Notation
 
-|Addition (Like Powers)||
+|Addition (Like Powers)<br>A teaspoon (5 ml) of<br>neutron star material<br>(5000 million tonnes)|$$(5.5\times 10^{12})+(5.5\times 10^{12})$$|
 |:-:|:-:|
-|||
+|Group Decimals First|$$(5.5+5.5)\times 10^{12}$$|
+|Convert to Scientific Notation|$$11\times 10^{12} = 1.1\times 10^{13}$$|
+|Solution<br>(2 teaspoons)|$$1.1\times 10^{13}$$|
 
-|Addition (Unlike Powers)||
+|Subtraction (Like Powers)<br>The Milky Way Galaxy<br>from the Local Group|$$(3\times 10^{42})-(1.2\times 10^{42})$$|
 |:-:|:-:|
-|||
+|Group Decimals First|$$(3-1.2)\times 10^{42} = 1.8\times 10^{42}$$|
+|Solution|$$1.8\times 10^{42}$$|
 
-|Subtraction (Like Powers)||
+|Subtraction (Like Powers)<br>The Milky Way Galaxy<br>from the Local Group|$$(2\times 10^{42})-(1.2\times 10^{42})$$|
 |:-:|:-:|
-|||
+|Group Decimals First|$$(2-1.2)\times 10^{42} = 0.8\times 10^{42}$$|
+|Convert to Scientific Notation|$$0.8\times 10^{42} = 8\times 10^{41}$$|
+|Solution|$$8\times 10^{41}$$|
 
-|Subtraction (Unlike Powers)||
+Remember that when converting into scientific notation, if we move the decimal to the left, this increases the exponent. If we move the decimal to the right, this decreases the exponent.
+
+Note that it does not matter which number you choose to rewrite. We would get the same result if we chose to rewrite the other number.
+
+|Addition (Unlike Powers)<br>Earth's Atmosphere and Oceans|$$(5.1\times 10^{18}) + (1.4\times 10^{21})$$|
 |:-:|:-:|
-|||
+|Rewrite to have a common power|$$(5.1\times 10^{18}) + (1400\times 10^{18})$$|
+|Group Numbers First|$$(5.1+1400)\times 10^{18} = 1405.1\times 10^{18}$$|
+|Convert to Scientific Notation|$$1.4051\times 10^{21}$$|
+
+|Subtraction (Unlike Powers)<br>Earth's Atmosphere and Oceans<br>from Earth's Mass|$$(6\times 10^{24})-(1.4051\times 10^{21})$$|
+|:-:|:-:|
+|Rewrite to have a common power|$$(6000\times 10^{21})-(1.4051\times 10^{21})$$|
+|Group Numbers First|$$(6000-1.4051)\times 10^{21} = 5998.5949\times 10^{21}$$|
+|Convert to Scientific Notation|$$5.9985949\times 10^{24}$$|
 
 # Other
 
