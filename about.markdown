@@ -72,7 +72,7 @@ My favorite style of classical piano is the waltz.
 |Artists||
 |:-:|:-:|
 |[Coluter Wall](http://www.colterwall.com/bio)<br>Gruff baritone|Western / Country / Folk<br>Imaginary Appalachia|
-|Charles Michael Parks Jr.<br>All Them Witches| Hard / Blues / Southern Rock|
+|Charles Michael Parks Jr.<br>All Them Witches| Hard / Blues / Southern Rock<br>Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal|
 |[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>Falsetto<br>Radiohead & Atoms for Peace|Alternative Rock / Experimental<br>KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok|
 |[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)<br>Falsetto (Tenor vocal range 4 octaves)|Alternative Rock / Folk / Blues<br>Grace|
 |[Chino Moreno](https://en.wikipedia.org/wiki/Chino_Moreno)<br>Dramatic Tenor (4.5 octaves)<br>One of the highest-known vocal ranges<br>Deftones & Team Sleep|Alternative Metal<br>Adrenaline, Around the Fur, White Pony,<br>Deftones, B-Sides & Rarities,<br>Saturday Night Wrist, Eros|
@@ -80,11 +80,11 @@ My favorite style of classical piano is the waltz.
 |[Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash)<br>Calm bass-baritone| Country / Rock / Blues<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave|
 |[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins|Alternative<br>Adore, Mellon Collie and The Infinite Sadness|
 
-Currently giving this band a test drive.
 
-- `Charles Michael Parks Jr. (All Them Witches):` Our Mother Electricity, Lightning at the Door, ATW, Lost and Found, Nothing as the Ideal
+
+<!-- - `Charles Michael Parks Jr. (All Them Witches):` Our Mother Electricity, Lightning at the Door, ATW, Lost and Found, Nothing as the Ideal
     - [Easy](https://youtu.be/VqMsufzas4w), [Right Hand](https://youtu.be/iSddHWkLW-E), [Hares On The Mountain](https://youtu.be/fgaCs8cB-ko), [Family Song for the Leaving](https://youtu.be/M0NYg42dgkM)
-    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)
+    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4) -->
 
 <!-- # Thom Yorke (Radiohead & Atoms for Peace)
 
