@@ -67,7 +67,7 @@ My favorite style of classical piano is the waltz.
     
 <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
-## 🎤 Modern
+## 🎤 Vocalists & Bands
 
 |Artists||
 |:-:|:-:|
