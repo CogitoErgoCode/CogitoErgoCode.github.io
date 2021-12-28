@@ -45,9 +45,21 @@ My favorite style of classical piano is the waltz.
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
+<!-- |Classical Pianists||
+|:-:|:-:|
+|**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#025982;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)|
+||Nocturnes: [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
+|Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#025982;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#025982;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#025982;">La Campanella</a>|
+|Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#025982;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#025982;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#025982;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
+|Rachmaninoff|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#025982;">Moment Musicaux No. 4 in E Minor</a>|
+|Vivaldi|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
+|Ravel|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
+|Tchaikovsky|<a href="https://youtu.be/1aR92yQUS7s" style="color:#025982;">Waltz of the Flowers</a>|
+|Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#025982;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#025982;">Glassworks Opening</a>| -->
+
 - **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#025982;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
     - `Nocturnes:` [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)
-    <!-- <a href="https://youtu.be/olFHFbijAjM" style="color:#025982;">Op. 55, No. 1</a>,  -->
 - `Beethoven:` <a href="https://youtu.be/zucBfXpCA6s" style="color:#025982;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)
 - `Liszt:` <a href="https://youtu.be/L42sbnQxEmw" style="color:#025982;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#025982;">La Campanella</a>
 - `Debussy:` <a href="https://youtu.be/WNcsUNKlAKw" style="color:#025982;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#025982;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#025982;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>
@@ -67,19 +79,21 @@ My favorite style of classical piano is the waltz.
     
 <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
-## 🎤 Vocalists & Bands
+## 🎤 Music
 
-|Artists||
+|Present Day||
 |:-:|:-:|
-|[Coluter Wall](http://www.colterwall.com/bio)<br>Gruff baritone|Western / Country / Folk<br>Imaginary Appalachia|
-|Charles Michael Parks Jr.<br>All Them Witches| Hard / Blues / Southern Rock<br>Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal|
-|[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>Falsetto<br>Radiohead & Atoms for Peace|Alternative Rock / Experimental<br>KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok|
-|[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)<br>Falsetto (Tenor vocal range 4 octaves)|Alternative Rock / Folk / Blues<br>Grace|
-|[Chino Moreno](https://en.wikipedia.org/wiki/Chino_Moreno)<br>Dramatic Tenor (4.5 octaves)<br>One of the highest-known vocal ranges<br>Deftones & Team Sleep|Alternative Metal<br>Adrenaline, Around the Fur, White Pony,<br>Deftones, B-Sides & Rarities,<br>Saturday Night Wrist, Eros|
-|[Maynard James Keenan](https://en.wikipedia.org/wiki/Maynard_James_Keenan)<br>Baritone (A range of 4 octaves)<br>Tool|Alternative Metal / Progressive<br>Lateralus, 10,000 Days, Fear Inoculum|
-|[Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash)<br>Calm bass-baritone| Country / Rock / Blues<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave|
-|[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins|Alternative<br>Adore, Mellon Collie and The Infinite Sadness|
+|[Coluter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14)<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98)<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg)<br>|
+|[Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash)<br>Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>The Man Comes Around, Hurt, Sam Hall,<br>Ain't No Grave (Gonna Hold This Body Down),<br>Redemption Day, I Won't Back Down,<br>Delia's Gone, Thirteen, Tennessee Stud,<br>Big Iron, Solitary Man|
+|Charles Michael Parks Jr.<br>Hard / Blues / Southern Rock<br>All Them Witches|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[41](https://youtu.be/U0783D8Nu4I), [Easy](https://youtu.be/VqMsufzas4w), [Right Hand](https://youtu.be/iSddHWkLW-E)<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko)<br>[Family Song for the Leaving](https://youtu.be/M0NYg42dgkM), [Diamond](https://youtu.be/kh1Jd8xU42U)<br>[The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI)<br>[Charles William](https://youtu.be/SWo-ikcEtqw), [1x1](https://youtu.be/kWCFU8ABdy4)<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8)|
 
+|My Tumultuous Youth||
+|:-:|:-:|
+|[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>Falsetto<br>Radiohead & Atoms for Peace|Alternative Rock / Experimental<br>KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok|
+|[Maynard James Keenan](https://en.wikipedia.org/wiki/Maynard_James_Keenan)<br>Baritone (A range of 4 octaves)<br>Tool|Alternative Metal / Progressive<br>Lateralus, 10,000 Days, Fear Inoculum|
+|[Chino Moreno](https://en.wikipedia.org/wiki/Chino_Moreno)<br>Dramatic Tenor (4.5 octaves)<br>One of the highest-known vocal ranges<br>Deftones & Team Sleep|Alternative Metal<br>Adrenaline, Around the Fur, White Pony,<br>Deftones, B-Sides & Rarities,<br>Saturday Night Wrist, Eros|
+|[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins|Alternative<br>Adore, Mellon Collie and The Infinite Sadness|
+|[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)<br>Falsetto (Tenor vocal range 4 octaves)|Alternative Rock / Folk / Blues<br>Grace|
 
 
 <!-- - `Charles Michael Parks Jr. (All Them Witches):` Our Mother Electricity, Lightning at the Door, ATW, Lost and Found, Nothing as the Ideal
@@ -354,7 +368,8 @@ I mostly watch Netflix, and enjoy the occasional indie game from time to time.
 <!-- As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late. --> 
 
 - `Netflix:` Squid Game (2021), The Witcher (2019-Present)
-- `Games:` Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Call of Duty, Mortal Kombat
+<!-- - `Videogames:` Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Call of Duty, Mortal Kombat -->
+- `Youtube:` [Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k), [Numberphile](https://youtu.be/2s4TqVAbfz4), Peterson
 
 <!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
 
