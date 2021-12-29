@@ -83,7 +83,7 @@ My favorite style of classical piano is the waltz.
 
 |Present Day||
 |:-:|:-:|
-|[Coluter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14)<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98)<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg)<br>|
+|[Colter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14)<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98)<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg)<br>|
 |[Johnny Cash](https://www.johnnycash.com/about/biography/)<br>Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>The Man Comes Around, Hurt, Sam Hall,<br>Ain't No Grave (Gonna Hold This Body Down),<br>Redemption Day, I Won't Back Down,<br>Delia's Gone, Thirteen, Tennessee Stud,<br>Big Iron, Solitary Man|
 |Charles Michael Parks Jr.<br>Hard / Blues / Southern Rock<br>All Them Witches|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[41](https://youtu.be/U0783D8Nu4I), [Easy](https://youtu.be/VqMsufzas4w), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI)<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko)<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)|
 
