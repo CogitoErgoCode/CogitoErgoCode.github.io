@@ -81,94 +81,18 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Music
 
-|Past & Present||
+|Current||
 |:-:|:-:|
 |[Colter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14),<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98),<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg),<br>[Living on the Sand](https://youtu.be/B0G1AAbstdw),<br>[Nothin'](https://youtu.be/s7ab2kns4eg)|
 |[Johnny Cash](https://www.johnnycash.com/about/biography/)<br>Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>The Man Comes Around, Hurt, Sam Hall,<br>Ain't No Grave (Gonna Hold This Body Down),<br>Redemption Day, I Won't Back Down,<br>Delia's Gone, Thirteen, Tennessee Stud,<br>Big Iron, Solitary Man|
 |[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>Radiohead & Atoms for Peace<br>Alternative Rock / Experimental / Art<br>Falsetto|KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok<br><a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspirium</a>, <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Before Your Very Eyes</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>,<br><a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">Codex</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#0073e6;">Lotus Flower</a>, <a href="https://youtu.be/iY4APDrl66s" style="color:#0073e6;">All I Need (Microcosmos)</a>,<br><a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">Videotape</a>, <a href="https://youtu.be/lVata6Ibe4U" style="color:#0073e6;">Last Flowers</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Pyramid Song</a>,<br><a href="https://youtu.be/P7nz6-UVrmU" style="color:#0073e6;">Hearing Damage</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Twist</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#0073e6;">Unless</a><br><a href="https://youtu.be/l2yEXYCF7tg" style="color:#0073e6;">Reverse Running</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">Everything In Its Right Place</a>,<br><a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Bloom (Live from Electric Lady Studios)</a>|
-|[Maynard James Keenan](https://en.wikipedia.org/wiki/Maynard_James_Keenan)<br>Tool<br>Alternative Metal / Progressive<br>Baritone (A range of 4 octaves)|Lateralus, 10,000 Days, Fear Inoculum<br>[Right In Two](https://youtu.be/bndL7wwAj0U), [Vicarious](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU),<br><a href="https://youtu.be/qnlhVVwBfew" style="color:#0073e6;">Rosetta Stoned</a>, [Descending](https://youtu.be/PcSoLwFisaw), [Pneuma](https://youtu.be/5ClCaPmAA7s),<br>[Culling Voices](https://youtu.be/rj3IbZV_YQM)
+
+<!-- |[Maynard James Keenan](https://en.wikipedia.org/wiki/Maynard_James_Keenan)<br>Tool<br>Alternative Metal / Progressive<br>Baritone (A range of 4 octaves)|Lateralus, 10,000 Days, Fear Inoculum<br>[Right In Two](https://youtu.be/bndL7wwAj0U), [Vicarious](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU),<br><a href="https://youtu.be/qnlhVVwBfew" style="color:#0073e6;">Rosetta Stoned</a>, [Descending](https://youtu.be/PcSoLwFisaw), [Pneuma](https://youtu.be/5ClCaPmAA7s),<br>[Culling Voices](https://youtu.be/rj3IbZV_YQM)
 |[Chino Moreno](https://en.wikipedia.org/wiki/Chino_Moreno)<br>Deftones, Team Sleep, Crosses<br>Alternative Metal<br>Dramatic Tenor (4.5 octaves)<br>One of the highest-known vocal ranges|Adrenaline, Around the Fur, White Pony,<br>Deftones, B-Sides & Rarities,<br>Saturday Night Wrist, Eros<br>[Change (In The House of Flies)](https://youtu.be/WPpDyIJdasg),<br>[Passenger (ft. Maynard)](https://youtu.be/FROn3LtGFl0), [Pink Maggit](https://youtu.be/v8f8WQ85Qb0)<br>[Digital Bath](https://youtu.be/dd_461ZrJb8), [Minerva](https://youtu.be/TYTt0-LpLbE), [Lucky You](https://youtu.be/Ija2-DQz38g),<br>[Simple Man](https://youtu.be/fXGp4wC6Ha0), [Xerces](https://youtu.be/PEcv1q0gyMQ), [Cherry Waves](https://youtu.be/jtBmowJLc94),<br>[Rivière](https://youtu.be/euD6xCd2TRM), [Smile](https://youtu.be/rETGJHkZyhs)|
 |[Robert Bartleh Cummings](https://en.wikipedia.org/wiki/Rob_Zombie)<br>White Zombie & Rob Zombie<br>Heavy Metal / Hard Rock / Industrial|[Blood, Milk and Sky](https://youtu.be/loMpBQyooH8)|
 |[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins<br>Alternative|Adore, Mellon Collie and The Infinite Sadness<br><a href="https://youtu.be/fIggUxffTN4" style="color:#0073e6;">To Forgive</a>, <a href="https://youtu.be/zHBNWbmZtRg" style="color:#0073e6;">Shame</a>, 1979, Soot and Stars,<br><a href="https://youtu.be/0fDZD46IZ5Q" style="color:#0073e6;">The Beginning is the End is the Beginning</a>, <br>Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#0073e6;">Stumbleine</a>, Daphne Descends,<br> Bleeding the orchid, Once Upon a Time,<br>Bullet With Butterfly Wings, Landslide,<br><a href="https://youtu.be/zTH9vEroNtM" style="color:#0073e6;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#0073e6;">Saturnine (For Piano And Voice)</a>|
 |[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)<br>Falsetto (Tenor vocal range 4 octaves)<br>Alternative Rock / Folk / Blues|Grace|
-|Charles Michael Parks Jr.<br>All Them Witches<br>Hard / Blues / Southern Rock|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[41](https://youtu.be/U0783D8Nu4I), [Easy](https://youtu.be/VqMsufzas4w), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI),<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko),<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)|
-
-<!-- - `Charles Michael Parks Jr. (All Them Witches):` Our Mother Electricity, Lightning at the Door, ATW, Lost and Found, Nothing as the Ideal
-    - [Easy](https://youtu.be/VqMsufzas4w), [Right Hand](https://youtu.be/iSddHWkLW-E), [Hares On The Mountain](https://youtu.be/fgaCs8cB-ko), [Family Song for the Leaving](https://youtu.be/M0NYg42dgkM)
-    - [Diamond](https://youtu.be/kh1Jd8xU42U), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI), [41](https://youtu.be/U0783D8Nu4I), [Charles William](https://youtu.be/SWo-ikcEtqw), [When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4) -->
-
-<!-- # Thom Yorke (Radiohead & Atoms for Peace)
-
-I like almost everything of Yorke's, so I'll list a few songs in no particular order. My favorite album, if I were forced to pick, would probably be 'In Rainbows', mainly because of Thom Yorke's falsetto, which I think is complementary to his artistic use of the piano, and his most defining attribute.
-
-> "I think the most important thing about music is the sense of escape." &mdash; Thom Yorke -->
-
-<!-- - `Vkgoeswild:` [Sonne-Outro Cover](https://youtu.be/u8XlfckoXc8?t=310) -->
-<!-- - `heklAa:` [Eo](https://youtu.be/eTvJUa6Vg78?t=776) -->
-<!-- <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#000000;">Before Your Very Eyes</a>,
-<a href="https://youtu.be/CLiDemXYSLc" style="color:#990000;">Spectre</a>,
-<a href="https://youtu.be/T7t38uDUg5E" style="color:#990000;">Codex</a>,
-<a href="https://youtu.be/cfOa1a8hYP8" style="color:#000000;">Lotus Flower</a>,
-<a href="https://youtu.be/iY4APDrl66s" style="color:#990000;">All I Need (Microcosmos)</a>, 
-<a href="https://youtu.be/WF83_PR2EsA" style="color:#990000;">Videotape</a>, 
-<a href="https://youtu.be/lVata6Ibe4U" style="color:#000000;">Last Flowers</a>,
-<a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0000b3;">Pyramid Song</a>, 
-<a href="https://youtu.be/1uYWYWPc9HU" style="color:#b36b00;">Karma Police</a>, 
-<a href="https://youtu.be/u5CVsCnxyXg" style="color:#000000;">No Surprises</a>, 
-<a href="https://youtu.be/7qFfFVSerQo" style="color:#000000;">High and Dry</a>,
-<a href="https://youtu.be/n5h0qHwNrHk" style="color:#b36b00;">Fake Plastic Trees</a>, 
-<a href="https://youtu.be/LCJblaUkkfc" style="color:#000000;">Street Spirit</a>, 
-<a href="https://youtu.be/d7lbzUUXj0k" style="color:#b36b00;">Black Star</a>, 
-<a href="https://youtu.be/XFkzRNyygfk" style="color:#000000;">Creep</a>,  -->
-<!-- <a href="https://youtu.be/OzL7u5teZhg" style="color:#0073e6;">You</a>, -->
-<!-- <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,  -->
-<!-- <a href="https://youtu.be/P7nz6-UVrmU" style="color:#737373;">Hearing Damage</a>,
-<a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#000000;">Twist</a>,
-<a href="https://youtu.be/0zIBbiSr8Lw" style="color:#000000;">Amok</a>,
-<a href="https://youtu.be/onRk0sjSgFU" style="color:#737373;">Everything In Its Right Place</a> -->
-<!-- <a href="https://youtu.be/7yU8BjfATHc" style="color:#0073e6;">Unless</a>,  -->
-<!-- <a href="https://youtu.be/l2yEXYCF7tg" style="color:#0073e6;">Reverse Running</a> -->
-
-<!-- - `Piano:` <a href="https://youtu.be/BTZl9KMjbrU" style="color:#990000;">Suspirium</a>,
-<a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Bloom (Live from Electric Lady Studios)</a>, 
-<a href="https://youtu.be/SnIAxVx7ZUs" style="color:#0073e6;">Videotape (From The Basement)</a>, 
-<a href="https://youtu.be/SnIAxVx7ZUs?t=583" style="color:#0073e6;">Last Flowers (From The Basement)</a>, 
-<a href="https://youtu.be/SnIAxVx7ZUs?t=285" style="color:#0073e6;">Analyse (From The Basement)</a>, 
-<a href="https://youtu.be/QEG28XWEhuc?t=1514" style="color:#0073e6;">I Want None Of This</a>, 
-<a href="https://youtu.be/mndJOsGsZnk" style="color:#0073e6;">Daily Battles</a>
-
-<sup>\*<span style="color:#990000;">Moving</span>, 
-<span style="color:#b36b00;">nostalgia</span>, 
-<span style="color:#0000b3;">melancholy</span>,  -->
-<!-- <span style="color:#007a99;">spiritual</span>,  -->
-<!-- <span style="color:#737373;">trance</span></sup> -->
-
-<!-- # Billy Corgan (The Smashing Pumpkins)
-
-Corgan was another significant influence growing up, particularly the albums *Adore: Super Deluxe Edition*, and *Mellon Collie and The Infinite Sadness*. As a side note, Corgan once praised Radiohead, saying "if they're not the best band in the world, then they're one of the best". 
-
-<a href="https://youtu.be/fIggUxffTN4" style="color:#0073e6;">To Forgive</a>, 
-<a href="https://youtu.be/zHBNWbmZtRg" style="color:#0073e6;">Shame</a>, 
-1979, Soot and Stars, <a href="https://youtu.be/0fDZD46IZ5Q" style="color:#0073e6;">The Beginning is the End is the Beginning</a>, Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#0073e6;">Stumbleine</a>, Daphne Descends, Bleeding the orchid, Once Upon a Time, Bullet With Butterfly Wings, Landslide -->
-
-<!-- The Aeroplane Flies High -->
-
-<!-- - `Piano:` <a href="https://youtu.be/zTH9vEroNtM" style="color:#0073e6;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#0073e6;">Saturnine (For Piano And Voice)</a>  -->
-
-<!-- My Blue Heaven -->
-
-
-<!-- # Chino Moreno (Deftones & Team Sleep)
-
-Chino was the voice of my youth, and while that was many years ago, there are still many songs that are still very impressive to me. I think what sets Chino apart from all other vocalist is his dramatic tenor. Chino also sports one of the highest-known vocal ranges at a very respectable 4.5 octaves.
-
-- Smile, Tempest
-
-# Maynard James Keenan (Tool)
-
-Maynard has been described as a baritone, and reportedly has a range of 4 octaves (G1-G5). My favorite album would have to be between *10,000 Days* and *Fear Inoculum*.
-
-- The Pot -->
+|Charles Michael Parks Jr.<br>All Them Witches<br>Hard / Blues / Southern Rock|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[41](https://youtu.be/U0783D8Nu4I), [Easy](https://youtu.be/VqMsufzas4w), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI),<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko),<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [1x1](https://youtu.be/kWCFU8ABdy4)| -->
 
 <!-- - `Atoms For Peace` 
     - `Amok (2013):` <a href="https://youtu.be/ZWrUEsVrdSU" style="font-weight:bold;color:#0073e6;">Before Your Very Eyes</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#0073e6;">Default</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#0073e6;">Unless</a>, <a href="https://youtu.be/l2yEXYCF7tg" style="color:#0073e6;">Reverse Running</a>
@@ -227,15 +151,6 @@ Maynard has been described as a baritone, and reportedly has a range of 4 octave
 
 Some bands **from my youth** that conjure a sense of nostalgia. -->
 
-<!-- - **`Deftones (Chino Moreno)`**: [Bored](https://youtu.be/-WdYo3WlETY), <a href="https://youtu.be/fdfXcNCQjf4" style="color:#0073e6;">Minus Blindfold</a>, [Birthmark](https://youtu.be/66ht-uFeomU), <a href="https://youtu.be/1HwCGSjwq4Y" style="color:#0073e6;">Engine No.9</a>, <a href="https://youtu.be/aUG3C6rS8o0" style="color:#0073e6;">Fireal</a>, [First (Hidden Track)](https://youtu.be/259VClSSaME), <a href="https://youtu.be/XOzs1FehYOA" style="color:#0073e6;">My Own Summer</a>, <a href="https://youtu.be/AFVNrox01SM" style="color:#0073e6;">Around the Fur</a>, <a href="https://youtu.be/aopye0lJUtI" style="color:#0073e6;">Dai the Flu</a>, <a href="https://youtu.be/u0zenvD1EOY" style="color:#0073e6;">Headup</a>, <a href="https://youtu.be/k9kgN2938lI" style="color:#0073e6;">MX</a>, [Damone (Hidden Track)](https://youtu.be/k9kgN2938lI?t=1955), [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), <a href="https://youtu.be/dVMfISO9T1Q0" style="color:#0073e6;">Knife Party</a>, [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), <a href="https://youtu.be/4VxsE1YHUck" style="color:#0073e6;">Feiticeira</a>, <a href="https://youtu.be/BDeGSXVDihk" style="color:#0073e6;">Elite</a>, ["A Wild Chino Appeared!"](https://youtu.be/MVhkBohbFaM), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), <a href="https://youtu.be/XxWildqgiKk" style="color:#0073e6;">Rx Queen</a>, <a href="https://youtu.be/8OPkHScoitA" style="color:#0073e6;">Change / Violet Orlandi Cover</a>, [Hexagram](https://youtu.be/yP4dFHSd-iw), [Needles and Pins](https://youtu.be/Ye-frzA7N0E), [**Minerva**](https://youtu.be/TYTt0-LpLbE), <a href="https://youtu.be/oPvWJFbiakI" style="color:#0073e6;">When Girls Telephone Boys</a>, [**Lucky You**](https://youtu.be/Ija2-DQz38g), <a href="https://youtu.be/EON3DnBbflQ" style="color:#0073e6;">The Chauffeur</a>, [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), <a href="https://youtu.be/EQose8uGj5o" style="color:#0073e6;">Please Please Please Let Me Get What I Want</a>, [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), <a href="https://youtu.be/FzjaN0gPvaE" style="color:#0073e6;">Beware</a>, <a href="https://youtu.be/WLO2fppkO14" style="color:#0073e6;">Kimdracula</a>, [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), <a href="https://youtu.be/woR6ohiFeYE" style="color:#0073e6;">Rocket Skates</a>, <a href="https://youtu.be/8TxPkaMphV0" style="color:#0073e6;">Prince</a>, <a href="https://youtu.be/ZMWh1QYmSvc" style="color:#0073e6;">Royal</a>, [Do You Believe](https://youtu.be/wy-mDxI9Qfs), [What Happened to You?](https://youtu.be/jPd3OUd2sw0), [Radiant City](https://youtu.be/Yoy0f-vRrsw), <a href="https://youtu.be/XAu3BsG8c0A" style="color:#0073e6;">This Link Is Dead</a>, <a href="https://youtu.be/qQM9VktjYa8" style="color:#0073e6;">Headless</a>, [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#0073e6;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#0073e6;">Ataraxia</a>, <a href="https://youtu.be/6k5Sh5oZbVk" style="color:#0073e6;">'Natalie Portman'</a>, <a href="https://youtu.be/k0xavPE02wg" style="color:#0073e6;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#0073e6;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#0073e6;">Ever Since WW1</a> -->
-
-<!-- - `Deftones (Chino Moreno)`: [**Change (In The House of Flies)**](https://youtu.be/WPpDyIJdasg), [**Passenger (ft. Maynard)**](https://youtu.be/FROn3LtGFl0), <a href="https://youtu.be/dVMfISO9T1Q0" style="color:#0073e6;">Knife Party</a>, [Knife Prty (Purity Ring Remix)](https://youtu.be/M3ChUFzJqTM), [**Pink Maggit**](https://youtu.be/v8f8WQ85Qb0), [Pink Maggit (Squarepusher Remix)](https://youtu.be/R-ImRx9hh70), [**Digital Bath**](https://youtu.be/dd_461ZrJb8), <a href="https://youtu.be/XxWildqgiKk" style="color:#0073e6;">Rx Queen</a>, <a href="https://youtu.be/8OPkHScoitA" style="color:#0073e6;">Change / Violet Orlandi Cover</a>, [**Minerva**](https://youtu.be/TYTt0-LpLbE), [**Lucky You**](https://youtu.be/Ija2-DQz38g), <a href="https://youtu.be/EON3DnBbflQ" style="color:#0073e6;">The Chauffeur</a>, [**Simple Man**](https://youtu.be/fXGp4wC6Ha0), <a href="https://youtu.be/EQose8uGj5o" style="color:#0073e6;">Please Please Please Let Me Get What I Want</a>, [Savory](https://youtu.be/3gb-kmStkuM), [**Xerces**](https://youtu.be/PEcv1q0gyMQ), [**Cherry Waves**](https://youtu.be/jtBmowJLc94), [**Rivière**](https://youtu.be/euD6xCd2TRM), [**Smile**](https://youtu.be/rETGJHkZyhs), [Structure of Love II (Renholdër)](https://youtu.be/YuRJ0QPrPHo), [Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#0073e6;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#0073e6;">Ataraxia</a>, <a href="https://youtu.be/6k5Sh5oZbVk" style="color:#0073e6;">'Natalie Portman'</a>, <a href="https://youtu.be/k0xavPE02wg" style="color:#0073e6;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#0073e6;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#0073e6;">Ever Since WW1</a>
-- `Tool (Maynard James Keenan):` <a href="https://youtu.be/MM62wjLrgmA" style="color:#0073e6;">Schism</a>, <a href="https://youtu.be/rDrhI1GUnNg" style="color:#0073e6;">The Patient</a>, [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), <a href="https://youtu.be/qnlhVVwBfew" style="color:#0073e6;">Rosetta Stoned</a>, [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), <a href="https://youtu.be/q7DfQMPmJRI" style="color:#0073e6;">Fear Inoculum</a>, <a href="https://youtu.be/hxsld16TjSU" style="color:#0073e6;">Invincible</a>
-- `Katatonia:` [**Unfurl**](https://youtu.be/ry77WWPUmPs), [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
-- `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw) -->
-
-<!-- - `Porcupine Tree (Steven Wilson):` [**Sleep Of No Dreaming**](https://youtu.be/pbQGiMK5Qdw), <a href="https://youtu.be/OZuxErudMPc" style="color:#0073e6;">Sleep Together</a>, [Way Out Of Here](https://youtu.be/-6psOf1B79w) -->
-
 <!-- - `Rammstein (Till Lindemann):` [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
 
 <!-- - `Rammstein (Till Lindemann):` <a href="https://youtu.be/PBvwcH4XX6U" style="color:#0073e6;">Mein Teil</a>, <a href="https://youtu.be/rrmsJhf89MY" style="color:#0073e6;">Du Riechst So Gut '98</a>, <a href="https://youtu.be/af59U2BRRAU" style="color:#0073e6;">Rosenrot</a>, <a href="https://youtu.be/IxuEtL7gxoM" style="color:#0073e6;">Ich Tu Dir Weh</a>, <a href="https://youtu.be/Weu9nKN1EAs" style="color:#0073e6;">Puppe</a>, [Mein Herz Brennt (Piano Version by Sven Helbig)](https://youtu.be/Dv6Th7kJ64Q) -->
@@ -264,13 +179,6 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
         - [Radiant City](https://youtu.be/Yoy0f-vRrsw), <a href="https://youtu.be/XAu3BsG8c0A" style="color:#0073e6;">This Link Is Dead</a>, <a href="https://youtu.be/qQM9VktjYa8" style="color:#0073e6;">Headless</a>
     - Random (Chino's Other Projects)
         - [VOWWS Structure of Love II feat. Chino Moreno (Renholdër Remix)](https://youtu.be/YuRJ0QPrPHo) *"There's a game I play all the time, two can play at once, why don't you try?"*, [††† Brew](https://youtu.be/QBN-1Q0_Fiw), <a href="https://youtu.be/sBMGiHosRYk" style="color:#0073e6;">Brief Exchange</a>, [Your Skull Is Red](https://youtu.be/XeUducm-5II), <a href="https://youtu.be/y0ogaw5iJH4" style="color:#0073e6;">Ataraxia</a>, <a href="https://youtu.be/6k5Sh5oZbVk" style="color:#0073e6;">'Natalie Portman'</a>, <a href="https://youtu.be/k0xavPE02wg" style="color:#0073e6;">Elizabeth</a>, [Formant](https://youtu.be/A_K4wajiU-0), <a href="https://youtu.be/FAOfWKli7GQ" style="color:#0073e6;">Our Ride to the Rectory</a>, <a href="https://youtu.be/WHddcSyT93Y" style="color:#0073e6;">Ever Since WW1</a>
-- `Tool` 
-    - Lateralus (2001)
-        - <a href="https://youtu.be/MM62wjLrgmA" style="color:#0073e6;">Schism</a>, <a href="https://youtu.be/rDrhI1GUnNg" style="color:#0073e6;">The Patient</a>
-    - **10,000 Days** (2006)
-        - [**Right In Two**](https://youtu.be/bndL7wwAj0U), [**Vicarious**](https://youtu.be/N26N7lQHNW8), [The Pot](https://youtu.be/civuoU_NE38), [Jambi](https://youtu.be/ed_UWFr13pU), <a href="https://youtu.be/qnlhVVwBfew" style="color:#0073e6;">Rosetta Stoned</a>
-    - Fear Inoculum (2019)
-        - [**Descending**](https://youtu.be/PcSoLwFisaw), [**Pneuma**](https://youtu.be/5ClCaPmAA7s), [**Culling Voices**](https://youtu.be/rj3IbZV_YQM), <a href="https://youtu.be/q7DfQMPmJRI" style="color:#0073e6;">Fear Inoculum</a>, <a href="https://youtu.be/hxsld16TjSU" style="color:#0073e6;">Invincible</a>
 - `Katatonia`
     - The Great Cold Distance (2006)
         - [**Soil's Song**](https://youtu.be/zaNAKs5YS_M), [**Rusted**](https://youtu.be/EBsr7uUL4wg), [**Displaced**](https://youtu.be/iCs159Fb4ls?t=3115), [**In the White**](https://youtu.be/iCs159Fb4ls?t=2299), [Journey Through Pressure](https://youtu.be/iCs159Fb4ls?t=2854), [My Twin](https://youtu.be/iCs159Fb4ls?t=754), [Consternation](https://youtu.be/iCs159Fb4ls?t=975), [Leaders](https://youtu.be/iCs159Fb4ls?t=1)
@@ -279,10 +187,6 @@ Some bands **from my youth** that conjure a sense of nostalgia. -->
 -->
 
 <!-- 🜄🜓 -->
-
-<!-- Sometimes there is silence in noise... -->
-
-<!-- > "A remnant of a time long past." -->
 
 <!-- > "You must have a serene state of mind, tranquil like water after a storm." &mdash; @CogitoErgoCode -->
 
@@ -362,10 +266,9 @@ I mostly watch Netflix, and enjoy the occasional indie game from time to time.
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
-<!-- As a young adult onward: Call of Duty, The Elder Scrolls: Oblivion & Skyrim, The Witcher: The Wild Hunt. I have less time these days and I tend towards indie games as of late. --> 
-
 - `Netflix:` Squid Game (2021), The Witcher (2019-Present)
-- `Game:` The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley, Terraria
+- `Movies:` No Country For Old Men, V For Vendetta, The Matrix, Constantine, Logan, Good Will Hunting, A Beautiful Mind, The Princess Bride, Intersteller, The Edge, The Patriot, Aliens, The Revenant, Gran Torino
+- `Games:` The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley, Terraria
 - `Youtube:` [Warrior Poet Society](https://www.youtube.com/c/JohnLovell275), [Garand Thumb](https://www.youtube.com/user/BritishTang), [Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k), [Numberphile](https://youtu.be/2s4TqVAbfz4), [Military Arms Channel](https://www.youtube.com/user/Sturmgewehre), [Peterson](https://www.youtube.com/c/JordanPetersonVideos), [Shapiro](https://www.youtube.com/c/BenShapiro), [Rogan](https://www.youtube.com/user/PowerfulJRE), [hickok45 (my favorite English teacher)](https://www.youtube.com/user/hickok45), [DemolitionRanch (my favorite veternarian)](https://www.youtube.com/user/DemolitionRanch), [Brandon Herrera](https://www.youtube.com/c/BrandonHerrera), [Kentucky Ballistics](https://www.youtube.com/c/KentuckyBallistics), [Honest Outlaw](https://www.youtube.com/c/HonestOutlawReviews), [NileRed (Chem)](https://www.youtube.com/user/TheRedNile), [TheVolgun (SCP)](https://youtu.be/xvD0cty6TPM), [Wolf Lord Rho (40k)](https://youtu.be/bxHXCv4Qewk), [The Exploring Series](https://www.youtube.com/user/ManggMangg), [Mythology & Fiction Explained](https://www.youtube.com/c/MythologyFictionExplained)
 
 <!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
