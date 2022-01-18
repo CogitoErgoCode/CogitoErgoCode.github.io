@@ -78,12 +78,12 @@ My favorite style of classical piano is the waltz.
 
 |Classical Pianists||
 |:-:|:-:|
-|**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)|
+|**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
 |Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
 |Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
-|Rachmaninoff, Vivaldi, Ravel, Tchaikovsky|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
+|Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
 |Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 
 <!-- - **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
@@ -322,14 +322,35 @@ Her hardest hue to hold..."
 
 ## 🕹️ Entertainment
 
-I mostly watch Netflix, and enjoy the occasional indie game from time to time.
+|YouTube|Channels|
+|:-:|:-:|
+|Piano|[Rousseau](https://www.youtube.com/c/Rousseau/videos)
+|Science|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k), [NileRed (Chem)](https://www.youtube.com/user/TheRedNile), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
+|Reviews|[Warrior Poet Society](https://www.youtube.com/c/JohnLovell275), [Garand Thumb](https://www.youtube.com/user/BritishTang), [Military Arms Channel](https://www.youtube.com/user/Sturmgewehre), [hickok45 (my favorite English teacher)](https://www.youtube.com/user/hickok45), [DemolitionRanch (my favorite veternarian)](https://www.youtube.com/user/DemolitionRanch), [Brandon Herrera](https://www.youtube.com/c/BrandonHerrera), [Kentucky Ballistics](https://www.youtube.com/c/KentuckyBallistics), [Honest Outlaw](https://www.youtube.com/c/HonestOutlawReviews)
+|Fantasy|[The Exploring Series](https://www.youtube.com/user/ManggMangg), [Mythology & Fiction Explained](https://www.youtube.com/c/MythologyFictionExplained), [TheVolgun (SCP)](https://youtu.be/xvD0cty6TPM), [Luetin09 (40k Lore)](https://youtu.be/intJPrVtNh4), [Wolf Lord Rho (40k Lore)](https://youtu.be/bxHXCv4Qewk)|
+|Politics|[Peterson](https://www.youtube.com/c/JordanPetersonVideos), [Shapiro](https://www.youtube.com/c/BenShapiro), [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
+
+|Japanese Animation (Past)|
+|:-:|
+|[Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)|
+|[Berserk '97](https://youtu.be/h63YO1cInQM)|
+
+|Netflix|
+|:-:|
+|Squid Game (2021)|
+|The Witcher (2019-Present)|
+|Mr. Robot (Only 1st Season)|
+
+<!-- |Games|
+|:-:|
+|The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley|
+
+|Movies|
+|:-:|
+|No Country For Old Men, V For Vendetta, The Matrix, Constantine, Logan, Good Will Hunting, A Beautiful Mind, The Princess Bride, Intersteller, The Edge, The Patriot, Aliens, The Revenant, Gran Torino, 300 | -->
 
 <!-- Mortal Kombat I-III, Zelda, Pokémon Red and Blue (Gameboy Pocket), Final Fantasy VII, Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball, [Cowboy Bebop](https://youtu.be/fLaBzPPF4cU), and [Berserk](https://youtu.be/h63YO1cInQM).  -->
 
-- `Netflix:` Squid Game (2021), The Witcher (2019-Present)
-- `Movies:` No Country For Old Men, V For Vendetta, The Matrix, Constantine, Logan, Good Will Hunting, A Beautiful Mind, The Princess Bride, Intersteller, The Edge, The Patriot, Aliens, The Revenant, Gran Torino, 300
-- `Games:` The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley
-- `Youtube:` [Warrior Poet Society](https://www.youtube.com/c/JohnLovell275), [Garand Thumb](https://www.youtube.com/user/BritishTang), [Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k), [Numberphile](https://youtu.be/2s4TqVAbfz4), [Military Arms Channel](https://www.youtube.com/user/Sturmgewehre), [Peterson](https://www.youtube.com/c/JordanPetersonVideos), [Shapiro](https://www.youtube.com/c/BenShapiro), [Rogan](https://www.youtube.com/user/PowerfulJRE), [hickok45 (my favorite English teacher)](https://www.youtube.com/user/hickok45), [DemolitionRanch (my favorite veternarian)](https://www.youtube.com/user/DemolitionRanch), [Brandon Herrera](https://www.youtube.com/c/BrandonHerrera), [Kentucky Ballistics](https://www.youtube.com/c/KentuckyBallistics), [Honest Outlaw](https://www.youtube.com/c/HonestOutlawReviews), [NileRed (Chem)](https://www.youtube.com/user/TheRedNile), [TheVolgun (SCP)](https://youtu.be/xvD0cty6TPM), [Wolf Lord Rho (40k)](https://youtu.be/bxHXCv4Qewk), [The Exploring Series](https://www.youtube.com/user/ManggMangg), [Mythology & Fiction Explained](https://www.youtube.com/c/MythologyFictionExplained)
 
 <!-- - `Distant Past:` Cowboy Bebop ('98), Berserk ('97), [Mortal Kombat ('95)](https://youtu.be/GKJidSHyv0c?t=47), Mortal Kombat I-III ('92 / '93 / '95), Zelda, Pokémon Red and Blue ('98), Final Fantasy VII ('97), Devil May Cry, Diablo II: Lord of Destruction, [The Matrix](https://youtu.be/uAXtO5dMqEI), Constantine, Dragon Ball -->
 
