@@ -37,8 +37,9 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 - Enneagram of Personality
     - <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)
 - Autodidactism & Polymathy
-    - Computer Programming
+    - Science & Engineering
         - Python Programming Language
+        - General Physics & Chemistry
     - Polyglotism (<a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">Work In Progress</a>)
         - Phase I: Esperanto, Japanese
         - Phase II: German, Mandarin
