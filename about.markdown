@@ -24,6 +24,8 @@ permalink: /about/
 
 My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, self-taught computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My financial goals will always remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a> and in serial entrepreneurship.
 
+<!-- <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">Work In Progress</a> -->
+
 <!-- |||
 |:-:|:-:|
 |Myers–Briggs Type Indicator|<a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)|
@@ -40,9 +42,11 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
     - Science & Engineering
         - Python Programming Language
         - General Physics & Chemistry
-    - Polyglotism (<a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">Work In Progress</a>)
-        - Phase I: Esperanto, Japanese
-        - Phase II: German, Mandarin
+    - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
+        - Category I (Easy): Esperanto
+        - Category II (Moderate): German
+        - Category III (Hard): Greek, Hebrew
+        - Category IV (Super Hard): Japanese, Mandarin
     - Musical Instruments
         - Digital Piano
 - Didactism & Pedagogy (Survival)
