@@ -36,7 +36,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
     - <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)
 - Enneagram of Personality
     - <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)
-- Autodidactism & Polymathy
+- Autodidactism, Heutagogy, & Polymathy
     - Science & Engineering
         - Python Programming Language
         - General Physics & Chemistry
@@ -45,6 +45,8 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - Phase II: German, Mandarin
     - Musical Instruments
         - Digital Piano
+- Didactism & Pedagogy (Survival)
+    - M.S. Computer Science
 
 <!-- - Computer Programming
     - Python -->
