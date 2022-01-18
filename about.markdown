@@ -43,7 +43,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
     - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
         - Category I (Easy): Esperanto
         - Category II (Moderate): German
-        - Category III (Hard): Greek, Hebrew
+        - Category III (Hard): Koine Greek, Hebrew
         - Category IV (Super Hard): Japanese, Mandarin
     - Musical Instruments
         - Digital Piano
