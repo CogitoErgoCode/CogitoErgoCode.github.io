@@ -334,6 +334,7 @@ Her hardest hue to hold..."
 |:-:|
 |[Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)|
 |[Berserk '97](https://youtu.be/h63YO1cInQM)|
+|Akira Toriyama's<br>Dragon Ball Z<br>Bruce Faulconer|
 
 |Netflix|
 |:-:|
