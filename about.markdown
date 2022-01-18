@@ -22,9 +22,17 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, <a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>, and esperantist. As well as an aspiring pianist & polyglot: <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Mi deziras paroli Esperanton flue</a>, <a href="https://en.wikipedia.org/wiki/Japanese_language" style="color:#0073e6;">私は日本語を勉強しています</a>. According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>). 
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. 
 
-I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#0073e6;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#0073e6;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>.
+- Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)
+- Enneagram of Personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)
+
+
+<!-- According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>). -->
+
+<!-- : <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Mi deziras paroli Esperanton flue</a>, <a href="https://en.wikipedia.org/wiki/Japanese_language" style="color:#0073e6;">私は日本語を勉強しています</a>.   -->
+
+<!-- I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#0073e6;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#0073e6;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>. -->
 
 > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
 
@@ -45,20 +53,17 @@ My favorite style of classical piano is the waltz.
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
-<!-- |Classical Pianists||
+|Classical Pianists||
 |:-:|:-:|
 |**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)|
-||Nocturnes: [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
+|Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
 |Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
-|Rachmaninoff|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>|
-|Vivaldi|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
-|Ravel|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
-|Tchaikovsky|<a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
-|Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>| -->
+|Rachmaninoff, Vivaldi, Ravel, Tchaikovsky|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
+|Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 
-- **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
+<!-- - **`Chopin:`** [Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo)
     - `Nocturnes:` [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)
 - `Beethoven:` <a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)
 - `Liszt:` <a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>
@@ -67,7 +72,7 @@ My favorite style of classical piano is the waltz.
 - `Vivaldi:` [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)
 - `Ravel:` [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)
 - `Tchaikovsky:` <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>
-- `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>
+- `Philip Glass:` [Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a> -->
 <!-- - `Dmitri Shostakovich:` [Piano Concerto No. 2, Mov. II (Pianist, Dmitri Shostakovich Jr. & I Musici de Montréal, conducted by Maxim Shostakovich 1957)](https://youtu.be/PDNy_GHNsiE?t=1007) -->
 
 <!-- ## 🎻 Violin
@@ -81,12 +86,15 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Music
 
-|Current|This is what I currently listen to.<br>New or Stood the test of time.|
+When I'm not listening to classical I'll sometimes listen to Thom Yorke, Johnny Cash, Colter Wall.
+
+|Artists||
 |:-:|:-:|
-|[Colter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14),<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98),<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg),<br>[Living on the Sand](https://youtu.be/B0G1AAbstdw),<br>[Nothin'](https://youtu.be/s7ab2kns4eg)|
-|[Johnny Cash](https://www.johnnycash.com/about/biography/)<br>Outlaw Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>[The Man Comes Around](https://youtu.be/jiMXK9eDrMY), [Hurt](https://youtu.be/8AHCfZTRGiI), [Sam Hall](https://youtu.be/zUpuwdfRW9s),<br>[Ain't No Grave (Gonna Hold This Body Down)](https://youtu.be/9zE4-LX0wrY),<br>[Redemption Day](https://youtu.be/i8h9Y9rdDFM), [I Won't Back Down](https://youtu.be/7LBYrDx_784),<br>[Delia's Gone](https://youtu.be/c_e0bCCIYDU), [Thirteen](https://youtu.be/C0knlDtr5Cc), [Tennessee Stud](https://youtu.be/L1sHAXAW8j8),<br>[Big Iron](https://youtu.be/KNS1cShnh6c), [Devil's Right Hand](https://youtu.be/1ZQAJ1Q-ZTY),<br> [Man in Black](https://youtu.be/il05Ovy5d1I), [Solitary Man](https://youtu.be/-OVHnWyDmdw)|
 |[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)<br>Radiohead & Atoms for Peace<br>Alternative Rock / Experimental / Art<br>Falsetto|KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok<br><a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspirium</a>, <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Before Your Very Eyes</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>,<br><a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">Codex</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#0073e6;">Lotus Flower</a>, <a href="https://youtu.be/iY4APDrl66s" style="color:#0073e6;">All I Need (Microcosmos)</a>,<br><a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">Videotape</a>, <a href="https://youtu.be/lVata6Ibe4U" style="color:#0073e6;">Last Flowers</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Pyramid Song</a>,<br><a href="https://youtu.be/P7nz6-UVrmU" style="color:#0073e6;">Hearing Damage</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Twist</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#0073e6;">Unless</a><br><a href="https://youtu.be/l2yEXYCF7tg" style="color:#0073e6;">Reverse Running</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#0073e6;">Default</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">Everything In Its Right Place</a>,<br><a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Bloom (Live from Electric Lady Studios)</a>|
-|Charles Michael Parks Jr.<br>All Them Witches<br>Hard / Blues / Southern Rock|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko),<br>[41](https://youtu.be/U0783D8Nu4I), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI),<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<!--<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), --> [Easy](https://youtu.be/VqMsufzas4w), [1x1](https://youtu.be/kWCFU8ABdy4)| 
+|[Johnny Cash](https://www.johnnycash.com/about/biography/)<br>Outlaw Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>[The Man Comes Around](https://youtu.be/jiMXK9eDrMY), [Hurt](https://youtu.be/8AHCfZTRGiI), [Sam Hall](https://youtu.be/zUpuwdfRW9s),<br>[Ain't No Grave (Gonna Hold This Body Down)](https://youtu.be/9zE4-LX0wrY),<br>[Redemption Day](https://youtu.be/i8h9Y9rdDFM), [I Won't Back Down](https://youtu.be/7LBYrDx_784),<br>[Delia's Gone](https://youtu.be/c_e0bCCIYDU), [Thirteen](https://youtu.be/C0knlDtr5Cc), [Tennessee Stud](https://youtu.be/L1sHAXAW8j8),<br>[Big Iron](https://youtu.be/KNS1cShnh6c), [Devil's Right Hand](https://youtu.be/1ZQAJ1Q-ZTY), <br>[Don't Take Your Guns to Town](https://youtu.be/CoxQWFtqaYM), <br> [Man in Black](https://youtu.be/il05Ovy5d1I), [Solitary Man](https://youtu.be/-OVHnWyDmdw)|
+|[Colter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14),<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98),<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg),<br>[Living on the Sand](https://youtu.be/B0G1AAbstdw),<br>[Nothin'](https://youtu.be/s7ab2kns4eg)|
+
+<!-- |Charles Michael Parks Jr.<br>All Them Witches<br>Hard / Blues / Southern Rock|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko),<br>[41](https://youtu.be/U0783D8Nu4I), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI),<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [Easy](https://youtu.be/VqMsufzas4w), [1x1](https://youtu.be/kWCFU8ABdy4)|  -->
 
 <!-- |Ad absurdum & ad nauseam|I can no longer listen to these<br>bands anymore because I wore them<br>out in my youth|
 |:-:|:-:|
@@ -268,6 +276,27 @@ Wisdom literature is also something of an interest to me.
         - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
     - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
 
+## 📜 Literature & Poetry
+
+As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
+
+<!-- and other avant-garde poetry. -->
+
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+> "Nature’s first green is gold,
+Her hardest hue to hold..."
+
+- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
+- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
+- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
+- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
+- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">Nemesis</a>
+<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
+<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
+- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>
+
 ## 🕹️ Entertainment
 
 I mostly watch Netflix, and enjoy the occasional indie game from time to time.
@@ -297,30 +326,11 @@ I mostly watch Netflix, and enjoy the occasional indie game from time to time.
     - [Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)
     - [Berserk '97](https://youtu.be/h63YO1cInQM) -->
 
-## 📜 Literature & Poetry
 
-As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
 
-<!-- and other avant-garde poetry. -->
+<!-- ## 📚 Other Academic Interests
 
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
-
-> "Nature’s first green is gold,
-Her hardest hue to hold..."
-
-- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
-- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
-- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">Nemesis</a>
-<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
-<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
-- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>
-
-## 📚 Other Academic Interests
-
-<!-- # Computer Science
+# Computer Science
 
 My favorite introduction books & documentation on specific computer programming languages within computer science. It's been a hobby so long most of my knowledge has become tacit knowledge, but if I had to recommend a single book per favorite language, this would be that list.
 
@@ -334,25 +344,25 @@ My favorite introduction books & documentation on specific computer programming 
     - `Python Documentation` 
         - <a href="https://docs.python.org/3/library/index.html" style="color:#0073e6;">Standard Library</a>
         - <a href="https://docs.python.org/3/reference/index.html" style="color:#0073e6;">Language Reference</a>
-        - <a href="https://docs.python.org/3/howto/index.html" style="color:#0073e6;">HOWTOs</a> -->
+        - <a href="https://docs.python.org/3/howto/index.html" style="color:#0073e6;">HOWTOs</a>
 
 I think it's important to have a basic understanding of general physics & chemistry to better understand how the universe operates. For me, I think it helps form better material for some of the subgenres of fantasy. One of the things I'd like to eventually do is write a book. **I have yet to read these all the way through.**
 
-<!-- - `Mathematics`
-    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8) -->
+- `Mathematics`
+    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)
 - `Chemistry`
     - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
     - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
-    <!-- - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3) -->
+    - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)
 - `Physics`
     - `Young & Freedman:` [University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)
-    <!-- - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813) -->
-    <!-- - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420) -->
+    - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813)
+    - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420)
 - `Philosophical Physics`
     - `Claude Fayette Bragdon:` A Primer of Higher Space, The Fourth Dimension (1913)
     - `Edwin A. Abbott:` [Flatland: A Romance of Many Dimensions, pg.58](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0)
     - `Dr. Michio Kaku:` [Hyperspace: ...Parallel Universes, Time Warps, and the 10th Dimension](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)
-    - `Dr. Paul A. LaViolette:` [Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)
+    - `Dr. Paul A. LaViolette:` [Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802) -->
 
 
 <!-- # Mythology
@@ -387,11 +397,9 @@ I'm also fascinated with mythology & folk lore.
 
 - `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
 
+    *One of my command-line tools was even featured in ▒▒▒▒▒▒▒▒▒<!--BlackArch--> linux operating system and remains a part of their tool list to this day.*
+
 - `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. 
-
-<!-- See the **Natural Language** section below.  -->
-
-<!-- *One of my command-line tools was even featured in BlackArch linux operating system and remains a part of their tool list to this day.* -->
 
 - `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
 
