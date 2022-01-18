@@ -22,9 +22,7 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, self-taught computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My financial goals will always remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a> and in serial entrepreneurship.
-
-<!-- <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">Work In Progress</a> -->
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, self-taught computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My financial goals will always remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a> and in serial entrepreneurship. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
 
 <!-- |||
 |:-:|:-:|
