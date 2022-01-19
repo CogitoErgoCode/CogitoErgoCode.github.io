@@ -113,7 +113,7 @@ My favorite style of classical piano is the waltz.
 
 ## 🎤 Music
 
-When I'm not listening to classical I'll sometimes listen to Thom Yorke, Johnny Cash, Colter Wall.
+When I'm not listening to classical I'll sometimes listen to Thom Yorke, and when I'm feeling particularly rambunctious, Johnny Cash.
 
 |Artists||
 |:-:|:-:|
@@ -332,6 +332,10 @@ Her hardest hue to hold..." -->
 
 ## 🕹️ Entertainment
 
+I rarely play games anymore, but when I do it's usually [indie](https://youtu.be/9rVdUufUBss). I spend most of my time on my projects. When it comes time to wind down, I'm usually messing around on YouTube or Netflix.
+
+<!-- The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley -->
+
 |YouTube|Channels|
 |:-:|:-:|
 |Piano|[Rousseau](https://www.youtube.com/c/Rousseau/videos)
@@ -340,17 +344,17 @@ Her hardest hue to hold..." -->
 |Fantasy|[The Exploring Series](https://www.youtube.com/user/ManggMangg), [Mythology & Fiction Explained](https://www.youtube.com/c/MythologyFictionExplained), [TheVolgun (SCP)](https://youtu.be/xvD0cty6TPM), [Luetin09 (40k Lore)](https://youtu.be/intJPrVtNh4), [Wolf Lord Rho (40k Lore)](https://youtu.be/bxHXCv4Qewk)|
 |Politics|[Peterson](https://www.youtube.com/c/JordanPetersonVideos), [Shapiro](https://www.youtube.com/c/BenShapiro), [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
 
+|Netflix|
+|:-:|
+|Squid Game (2021)|
+|The Witcher (2019-Present)|
+|Mr. Robot (1st Season Only)|
+
 |Japanese Animation (Past)|
 |:-:|
 |[Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)|
 |[Berserk '97](https://youtu.be/h63YO1cInQM)|
 |Akira Toriyama's<br>Dragon Ball Z<br>Bruce Faulconer<br>[The Perfect Warrior](https://youtu.be/INlntMXEe_I)<br>[Warrior Elite](https://youtu.be/w3Eb3C0PF7o)|
-
-|Netflix|
-|:-:|
-|Squid Game (2021)|
-|The Witcher (2019-Present)|
-|Mr. Robot (Only 1st Season)|
 
 <!-- |Games|
 |:-:|
