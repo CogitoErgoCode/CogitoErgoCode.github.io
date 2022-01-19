@@ -41,19 +41,19 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - Python Programming Language
         - General Physics & Chemistry
     - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
-        - Category I (Easy): Esperanto
-        - Category II (Moderate): German
-        - Category III (Hard)
-            - Koine Greek, Hebrew
-        - Category IV (Super Hard)
-            - Japanese, Mandarin
+        - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
     - Musical Instruments
         - Digital Piano
 - Didactism & Pedagogy (Survival)
     - M.S. Computer Science
 
-<!-- - Computer Programming
-    - Python -->
+
+<!-- - <span style="color:#bdbdbf;">Category I (Easy): N/A</span>
+        - Category II (Moderate): German
+        - Category III (Hard)
+            - Koine Greek, Hebrew
+        - Category IV (Super Hard)
+            - Japanese, Mandarin -->
 
 <!-- According to the Myers–Briggs Type Indicator I am an <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>), and my Enneagram of Personality is <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>). -->
 
