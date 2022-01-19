@@ -285,11 +285,34 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-<!-- ## 🦉 Wisdom, Philosophy, Poetry
+## 📜 Literature & Poetry
 
-Wisdom literature is also something of an interest to me.
+> “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.” &mdash; Albert Einstein
 
-- `Wisdom Literature & Philosophy`
+**As a child** I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's Fairy Tales](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>, [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), and various manga. 
+
+- `Robert Frost:` [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)
+
+**As a young adult** my books turned darker after a death in my family. I don't recommend any of these for children. [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
+
+- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
+- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
+- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
+- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
+- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">Nemesis</a>
+<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
+<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+
+<!--  -->
+
+<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
+
+<!-- > "Nature’s first green is gold,
+Her hardest hue to hold..." -->
+
+**As an Adult** I returned to some of my earier influences, and I enjoy wisdom literature, philosophy, and avant-garde poetry. [King Solomon's Proverbs & Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6), [Sun Tzu's The Art Of War](/assets/books/sun_tzu/aow.pdf), [Bruce Lee's Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F), [Dr. Raymond Smullyan's "The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7), [George S. Clason's The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793), [Robert Kiyosaki's Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2), [Dr. Thomas J. Stanley's The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
+
+<!-- - `Wisdom Literature & Philosophy`
     - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
     - `Sun Tzu:` [The Art Of War](/assets/books/sun_tzu/aow.pdf) , [The Complete AOW](http://library.lol/main/4A23CCB57BA9EEE38F8C43FB7DEC4B8D)
     - `Bruce Lee:` [Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)
@@ -301,27 +324,10 @@ Wisdom literature is also something of an interest to me.
     - `Robert Kiyosaki:` 
         - [Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2)
         - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
-    - `Thomas J. Stanley (Ph.D):` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
+    - `Dr. Thomas J. Stanley:` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
+- `Poetry` -->
 
-## 📜 Literature & Poetry
-
-As a child I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>. As a young adult [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), [Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraft](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html).
-
-<!-- and other avant-garde poetry. -->
-
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
-
-> "Nature’s first green is gold,
-Her hardest hue to hold..."
-
-- `Robert Frost:` [Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice), [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), [Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)
-- `Dylan Thomas:` [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)
-- `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
-- `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
-- `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">Nemesis</a>
-<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
-<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)<!--, [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)-->
 - `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>
 
 ## 🕹️ Entertainment
