@@ -41,7 +41,9 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - Python Programming Language
         - General Physics & Chemistry
     - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
-        - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+        - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
+        - 私は日本語を勉強しています。
+        <!-- - German, Mandarin, Koine Greek, Hebrew,  -->
     - Musical Instruments
         - Digital Piano
 - Didactism & Pedagogy (Survival)
@@ -289,7 +291,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 
 > “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.” &mdash; Albert Einstein
 
-**As a child** I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's Fairy Tales](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), & <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>, [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), and various manga. 
+**As a child** I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's Fairy Tales](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>, [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), and various manga. 
 
 - `Robert Frost:` [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)
 
