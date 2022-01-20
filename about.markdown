@@ -43,10 +43,11 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
     - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
         - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
         - 私は日本語を勉強しています。
-        <!-- - German, Mandarin, Koine Greek, Hebrew,  -->
+        - Other languages of interest
+            - German, Mandarin, Koine Greek, Hebrew
     - Musical Instruments
         - Digital Piano
-- Didactism & Pedagogy (Survival)
+- Didactism & Pedagogy
     - M.S. Computer Science
 
 
