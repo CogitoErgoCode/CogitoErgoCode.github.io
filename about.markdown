@@ -42,15 +42,16 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - General Physics & Chemistry
     - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
         - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
-        - 私は日本語を勉強しています。
-        - Other languages of interest
-            - German, Mandarin, Koine Greek, Hebrew
+        - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
+        - Considering: [Ελληνιστική Κοινή](https://en.wikipedia.org/wiki/Koine_Greek)
     - Musical Instruments
         - Digital Piano
 - Didactism & Pedagogy
     - M.S. Computer Science
     <!-- - Ph.D. Computational Linguistics & AI -->
 
+<!-- - Other languages of interest
+            - German, Mandarin, Koine Greek, Hebrew -->
 
 <!-- - <span style="color:#bdbdbf;">Category I (Easy): N/A</span>
         - Category II (Moderate): German
