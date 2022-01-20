@@ -49,6 +49,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - Digital Piano
 - Didactism & Pedagogy
     - M.S. Computer Science
+    <!-- - Ph.D. Computational Linguistics & AI -->
 
 
 <!-- - <span style="color:#bdbdbf;">Category I (Easy): N/A</span>
@@ -345,7 +346,7 @@ I rarely play games anymore, but when I do it's usually [indie](https://youtu.be
 |Science|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k), [NileRed (Chem)](https://www.youtube.com/user/TheRedNile), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
 |Reviews|[Warrior Poet Society](https://www.youtube.com/c/JohnLovell275), [Garand Thumb](https://www.youtube.com/user/BritishTang), [Military Arms Channel](https://www.youtube.com/user/Sturmgewehre), [hickok45 (my favorite English teacher)](https://www.youtube.com/user/hickok45), [DemolitionRanch (my favorite veternarian)](https://www.youtube.com/user/DemolitionRanch), [Brandon Herrera](https://www.youtube.com/c/BrandonHerrera), [Kentucky Ballistics](https://www.youtube.com/c/KentuckyBallistics), [Honest Outlaw](https://www.youtube.com/c/HonestOutlawReviews)
 |Fantasy|[The Exploring Series](https://www.youtube.com/user/ManggMangg), [Mythology & Fiction Explained](https://www.youtube.com/c/MythologyFictionExplained), [TheVolgun (SCP)](https://youtu.be/xvD0cty6TPM), [Luetin09 (40k Lore)](https://youtu.be/intJPrVtNh4), [Wolf Lord Rho (40k Lore)](https://youtu.be/bxHXCv4Qewk)|
-|Politics|[Peterson](https://www.youtube.com/c/JordanPetersonVideos), [Shapiro](https://www.youtube.com/c/BenShapiro), [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
+|Politics|[Peterson](https://youtu.be/yZYQpge1W5s), [Shapiro](https://www.youtube.com/c/BenShapiro), [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
 
 |Netflix|
 |:-:|
