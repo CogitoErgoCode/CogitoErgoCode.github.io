@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "The Art of Argumentation: A Guide To Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:48:00 -0700
+title: "The Art of Argumentation 🪢"
+date: 2021-11-04 11:48:10 -0700
 categories: debate discourse
 published: true
 ---
+
+# A Guide To Maintaining Rational Discourse
 
 Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies.
 
