@@ -44,6 +44,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto): [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
         - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language)
         - Considering: [Ελληνιστική Κοινή](https://en.wikipedia.org/wiki/Koine_Greek)
+        - Considering: [עִבְרִית מִקְרָאִית](https://en.wikipedia.org/wiki/Biblical_Hebrew)
     - Musical Instruments
         - Digital Piano
 - Didactism & Pedagogy
