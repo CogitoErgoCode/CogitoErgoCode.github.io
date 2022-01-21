@@ -22,12 +22,18 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and [esperantist](https://en.wikipedia.org/wiki/Esperanto). As well as an aspiring pianist & polyglot. My command-line tools were once featured in a linux operating system and remain a part of their tool list to this day. <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My command-line tools are featured in a linux operating system and remain a part of their tool list to this day. <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
 
 - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> <!--(<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)-->
 - Enneagram of Personality: 5w6 <!--<a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)-->
-
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
+- Python Programming Language
+- Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
+    <!-- - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) -->
+    - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
+    - 私は日本語を勉強しています。
+    <!-- - [私は日本語を勉強しています。](https://en.wikipedia.org/wiki/Japanese_language) -->
 
 <!-- |||
 |:-:|:-:|
