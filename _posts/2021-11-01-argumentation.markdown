@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:48:10 -0700
+date: 2021-11-04 11:48:20 -0700
 categories: debate discourse
 published: true
 ---
@@ -92,7 +92,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 # The Laws of Thought
 
-The argument often arises, that all religions are right; however, this is not logically possible because it violates the the laws of thought, specifically the law of non-contradiction. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation. So today we will be logically deducing the truth... Since there is one.
+The argument often arises, that all religions are right; however, this is not logically possible because it violates the the laws of thought, specifically the law of non-contradiction. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation.
 
 > "The **laws of thought** are fundamental axiomatic rules upon which rational discourse itself is often considered to be based. The formulation and clarification of such rules have a long tradition in the history of philosophy and logic." &mdash; [Law of thought](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
 
