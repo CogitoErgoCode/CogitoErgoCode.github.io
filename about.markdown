@@ -22,7 +22,12 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, self-taught computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My financial goals will always remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a> and in serial entrepreneurship. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and [esperantist](https://en.wikipedia.org/wiki/Esperanto). As well as an aspiring pianist & polyglot. My command-line tools were once featured in a linux operating system and remain a part of their tool list to this day. <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+
+- Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> <!--(<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)-->
+- Enneagram of Personality: 5w6 <!--<a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)-->
+
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
 
 <!-- |||
 |:-:|:-:|
@@ -32,11 +37,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 |Polyglotism|Phase I: Esperanto, Japanese<br>Phase II: German, Mandarin|
 |Instruments|Digital Piano| -->
 
-- Myers–Briggs Type Indicator
-    - <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> (<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)
-- Enneagram of Personality
-    - <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)
-- Autodidactism, Heutagogy, & Polymathy
+<!-- - Autodidactism, Heutagogy, & Polymathy
     - Science & Engineering
         - Python Programming Language
         - General Physics & Chemistry
@@ -46,10 +47,11 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
         - Considering: [Ελληνιστική Κοινή](https://en.wikipedia.org/wiki/Koine_Greek)
         - Considering: [עִבְרִית מִקְרָאִית](https://en.wikipedia.org/wiki/Biblical_Hebrew)
     - Musical Instruments
-        - Digital Piano
-- Didactism & Pedagogy
-    - M.S. Computer Science
-    <!-- - Ph.D. Computational Linguistics & AI -->
+        - Digital Piano -->
+
+<!-- - Didactism & Pedagogy
+    - M.S. Computer Science -->
+<!-- - Ph.D. Computational Linguistics & AI -->
 
 <!-- - Other languages of interest
             - German, Mandarin, Koine Greek, Hebrew -->
@@ -67,7 +69,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 
 <!-- I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#0073e6;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#0073e6;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>. -->
 
-> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
+<!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
 <!-- \[(\w+)\]\((https://[a-zA-Z0-9\./]+)\) -->
 <!-- \[([a-zA-Z0-9\./#," ]+)\]\((https://[a-zA-Z0-9\./]+)\) -->
@@ -80,7 +82,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 
 ## 🎹 Classical Piano
 
-My favorite style of classical piano is the waltz.
+<!-- My favorite style of classical piano is the waltz.  -->
 
 <!-- The Mozart Effect, and exposure to classical music having a beneficial effect on mental development, is said to be a myth. If that were so, why then do patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488)? Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. I realize that correlation does not always equal causation, but I prefer to believe it. Perhaps this is because I have a bias for the piano, having grown up admiring it. -->
 
@@ -117,7 +119,7 @@ My favorite style of classical piano is the waltz.
     
 <!-- [Summa '77](https://youtu.be/7YqF69HLkj8?t=1057), [Summa '78](https://youtu.be/7YqF69HLkj8?t=1358) -->
 
-## 🎤 Music
+<!-- ## 🎤 Music
 
 When I'm not listening to classical I'll sometimes listen to Thom Yorke, and when I'm feeling particularly rambunctious, Johnny Cash.
 
@@ -127,6 +129,11 @@ When I'm not listening to classical I'll sometimes listen to Thom Yorke, and whe
 |[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins<br>Alternative|Adore, Mellon Collie and The Infinite Sadness<br><a href="https://youtu.be/fIggUxffTN4" style="color:#0073e6;">To Forgive</a>, <a href="https://youtu.be/zHBNWbmZtRg" style="color:#0073e6;">Shame</a>, 1979, Soot and Stars,<br><a href="https://youtu.be/0fDZD46IZ5Q" style="color:#0073e6;">The Beginning is the End is the Beginning</a>, <br>Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#0073e6;">Stumbleine</a>, Daphne Descends,<br> Bleeding the orchid, Once Upon a Time,<br>Bullet With Butterfly Wings, Landslide,<br><a href="https://youtu.be/zTH9vEroNtM" style="color:#0073e6;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#0073e6;">Saturnine (For Piano And Voice)</a>|
 |[Johnny Cash](https://www.johnnycash.com/about/biography/)<br>Outlaw Country / Rock / Blues<br>Calm bass-baritone|American Recordings<br>American IV: The Man Comes Around<br>American VI: Ain't No Grave<br>Unearthed<br>[The Man Comes Around](https://youtu.be/jiMXK9eDrMY), [Hurt](https://youtu.be/8AHCfZTRGiI), [Sam Hall](https://youtu.be/zUpuwdfRW9s),<br>[Ain't No Grave (Gonna Hold This Body Down)](https://youtu.be/9zE4-LX0wrY),<br>[Redemption Day](https://youtu.be/i8h9Y9rdDFM), [I Won't Back Down](https://youtu.be/7LBYrDx_784),<br>[Delia's Gone](https://youtu.be/c_e0bCCIYDU), [Thirteen](https://youtu.be/C0knlDtr5Cc), [Tennessee Stud](https://youtu.be/L1sHAXAW8j8),<br>[Big Iron](https://youtu.be/KNS1cShnh6c), [Devil's Right Hand](https://youtu.be/1ZQAJ1Q-ZTY), <br>[Don't Take Your Guns to Town](https://youtu.be/CoxQWFtqaYM), <br> [Man in Black](https://youtu.be/il05Ovy5d1I), [Solitary Man](https://youtu.be/-OVHnWyDmdw)|
 |[Colter Wall](http://www.colterwall.com/bio)<br>Western / Country / Folk<br>Gruff baritone|Imaginary Appalachia<br>Western Swing & Waltzes<br>[Cowpoke](https://youtu.be/MmxKsK90L14),<br>[Sleeping on the Blacktop](https://youtu.be/drpdrQq8c98),<br>[The Devil Wears a Suit and Tie](https://youtu.be/rqR1cjuPXUg),<br>[Living on the Sand](https://youtu.be/B0G1AAbstdw),<br>[Nothin'](https://youtu.be/s7ab2kns4eg)|
+
+|Miscellaneous||
+|:-:|:-:|
+|Classical Guitar, Romani, Norse Folk, Ambient, Post|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/AImY5NVcVKk" style="color:#0073e6;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#0073e6;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#0073e6;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#0073e6;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#0073e6;">Look Within</a>|
+|Study & Concentration|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>| -->
 
 <!-- |Charles Michael Parks Jr.<br>All Them Witches<br>Hard / Blues / Southern Rock|Our Mother Electricity, Lightning at the Door,<br>ATW, Lost and Found, Nothing as the Ideal<br>[Hares On The Mountain](https://youtu.be/fgaCs8cB-ko),<br>[41](https://youtu.be/U0783D8Nu4I), [The Children of Coyote Woman](https://youtu.be/2MbkyLaAysI),<br>[Diamond](https://youtu.be/kh1Jd8xU42U), [Charles William](https://youtu.be/SWo-ikcEtqw),<br>[When God Comes Back](https://youtu.be/tU-Pfuxzwr8), [Easy](https://youtu.be/VqMsufzas4w), [1x1](https://youtu.be/kWCFU8ABdy4)|  -->
 
@@ -138,10 +145,7 @@ When I'm not listening to classical I'll sometimes listen to Thom Yorke, and whe
 |[Billy Corgan](https://en.wikipedia.org/wiki/Billy_Corgan)<br>The Smashing Pumpkins<br>Alternative|Adore, Mellon Collie and The Infinite Sadness<br><a href="https://youtu.be/fIggUxffTN4" style="color:#0073e6;">To Forgive</a>, <a href="https://youtu.be/zHBNWbmZtRg" style="color:#0073e6;">Shame</a>, 1979, Soot and Stars,<br><a href="https://youtu.be/0fDZD46IZ5Q" style="color:#0073e6;">The Beginning is the End is the Beginning</a>, <br>Blissed and gone, <a href="https://youtu.be/pbrvHcFOulc" style="color:#0073e6;">Stumbleine</a>, Daphne Descends,<br> Bleeding the orchid, Once Upon a Time,<br>Bullet With Butterfly Wings, Landslide,<br><a href="https://youtu.be/zTH9vEroNtM" style="color:#0073e6;">Blank Page</a>, <a href="https://youtu.be/dFq8ys8j-g8" style="color:#0073e6;">Saturnine (For Piano And Voice)</a>|
 |[Jeff Buckley](https://en.wikipedia.org/wiki/Jeff_Buckley)<br>Falsetto (Tenor vocal range 4 octaves)<br>Alternative Rock / Folk / Blues|Grace<br>[Mojo Pin](https://youtu.be/Svo7LZbnUVw)| -->
 
-|Miscellaneous||
-|:-:|:-:|
-|Classical Guitar, Romani, Norse Folk, Ambient, Post|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/AImY5NVcVKk" style="color:#0073e6;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#0073e6;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#0073e6;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#0073e6;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#0073e6;">Look Within</a>|
-|Study & Concentration|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
+
 
 
 <!-- - `Atoms For Peace` 
@@ -292,7 +296,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-## 📜 Literature & Poetry
+<!-- ## 📜 Literature & Poetry
 
 > “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.” &mdash; Albert Einstein
 
@@ -307,17 +311,17 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 - `Edgar Allan Poe:` [The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)
 - `Robert W. Chambers:` [Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)
 - `H.P. Lovecraft:` <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">Nemesis</a>
-<!-- - `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2) -->
-<!-- - `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence) -->
+- `Carmina Burana:` [Fortune plango vulnera (I bemoan the wounds of Fortune)](http://www.classical.net/music/comp.lst/works/orff-cb/carmlyr.php#track2)
+- `William Blake:` [Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
 
-<!--  -->
 
-<!-- > "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song) -->
 
-<!-- > "Nature’s first green is gold,
-Her hardest hue to hold..." -->
+> "...Song of my soul, my voice is dead; Die thou, unsung, as tears unshed Shall dry and die in Lost Carcosa. " &mdash; Robert W. Chambers (Cassilda's Song)
 
-**As an adult** I returned to some of my earier influences, and I enjoy wisdom literature, philosophy, and avant-garde poetry. [King Solomon's Proverbs & Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6), [Sun Tzu's The Art Of War](/assets/books/sun_tzu/aow.pdf), [Bruce Lee's Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F), [Dr. Raymond Smullyan's "The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7), [George S. Clason's The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793), [Robert Kiyosaki's Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2), [Dr. Thomas J. Stanley's The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
+> "Nature’s first green is gold,
+Her hardest hue to hold..."
+
+**As an adult** I returned to some of my earier influences, and I enjoy wisdom literature, philosophy, and avant-garde poetry. [King Solomon's Proverbs & Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6), [Sun Tzu's The Art Of War](/assets/books/sun_tzu/aow.pdf), [Bruce Lee's Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F), [Dr. Raymond Smullyan's "The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7), [George S. Clason's The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793), [Robert Kiyosaki's Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2), [Dr. Thomas J. Stanley's The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533) -->
 
 <!-- - `Wisdom Literature & Philosophy`
     - `King Solomon:` [Proverbs, Ecclesiastes](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)
@@ -332,16 +336,16 @@ Her hardest hue to hold..." -->
         - [Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2)
         - Why 'A' Students Work for 'C' Students and 'B' Students Work for the Government
     - `Dr. Thomas J. Stanley:` The Millionaire Mind, [The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)
-- `Poetry` -->
+- `Poetry`
 
-- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)<!--, [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)-->
-- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>
+- `E.E. Cummings:` [[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), [("crazy jay blue)...")](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=25515)
+- `Rudyard Kipling:` <a href="https://poets.org/poem/if" style="color:#0073e6;">If</a> -->
 
-## 🕹️ Entertainment
+<!-- ## 🕹️ Entertainment
 
 I rarely play games anymore, but when I do it's usually [indie](https://youtu.be/9rVdUufUBss). I spend most of my time on my projects. When it comes time to wind down, I'm usually messing around on YouTube or Netflix.
 
-<!-- The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley -->
+The Witcher 3: Wild Hunt (2015), The Elder Scrolls, Red Dead Redemption II, Call of Duty, Bloodborne, Fallout, Sekiro, Mortal Kombat, Diablo, Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley
 
 |YouTube|Channels|
 |:-:|:-:|
@@ -361,7 +365,7 @@ I rarely play games anymore, but when I do it's usually [indie](https://youtu.be
 |:-:|
 |[Cowboy Bebop '98](https://youtu.be/fLaBzPPF4cU)|
 |[Berserk '97](https://youtu.be/h63YO1cInQM)|
-|Akira Toriyama's<br>Dragon Ball Z<br>Bruce Faulconer<br>[The Perfect Warrior](https://youtu.be/INlntMXEe_I)<br>[Warrior Elite](https://youtu.be/w3Eb3C0PF7o)|
+|Akira Toriyama's<br>Dragon Ball Z<br>Bruce Faulconer<br>[The Perfect Warrior](https://youtu.be/INlntMXEe_I)<br>[Warrior Elite](https://youtu.be/w3Eb3C0PF7o)| -->
 
 <!-- |Games|
 |:-:|
@@ -453,29 +457,29 @@ I'm also fascinated with mythology & folk lore.
 - `Prince Toneri:` [Nihon Shoki](https://en.wikipedia.org/wiki/Nihon_Shoki) 
 -->
 
-## ⏳ Past, Present, & Future Goals
+<!-- ## ⏳ Past, Present, & Future Goals -->
 
-- `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
+<!-- - `Physical (Past):` In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting. -->
     
 <!-- - `A realization and subsequent paradigm shift in thinking:` When I was nearing my twenties, I had an epiphany. My life up until that point was mostly composed of physical goals, like exercise, of which I excelled; however, I quickly developed a philosophy contrary to my previous patterns of thought. I realized that one day I would become old, and my efforts would one day vanish with time. So, I focused all my efforts onto thought, and everyday since then I have exercised my mind. In hindsight, a combination of both would have been ideal. -->
 
 <!-- In my youth, I was heavily inspired by <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#0073e6;">Bruce Lee</a> and his hybrid fighting philosophy 截拳道 (Jeet Kune Do "Way of the Intercepting Fist"). Chinese martial arts (武術; wǔshù) and classical eastern philosophy were among my first and deepest influences as a child. In my adolescence I attended one of the major modern Okinawan martial arts called [Shōrin-ryū](https://en.wikipedia.org/wiki/Sh%C5%8Drin-ry%C5%AB) (少林流). It was likely this experience that filled me with such great discipline as well as an admiration for Japanese culture. I continued training myself with calisthenics until, by the time I was a young man, I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. -->
 
-- `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. 
+<!-- - `Technical (Past):` Inspired by a grey hat named 'Tempest' who I met in the IRC & MSN chatrooms decades ago, I adopted the philosophy of *autodidacticism* and taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
 
-    *One of my command-line tools was even featured in ▒▒▒▒▒▒▒▒▒<!--BlackArch--> linux operating system and remains a part of their tool list to this day.*
+<!-- *One of my command-line tools was even featured in ▒▒▒▒▒▒▒▒▒ linux operating system and remains a part of their tool list to this day.* -->
 
-- `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. 
+<!-- - `Linguistic (Present):` According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages.  -->
 
-- `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left.
+<!-- - `Artistic (Present):` My latest hobby, and preferred way to relax, is to play music on my piano. I've recently purchased a Yamaha P-125 88-key portable digital piano to replace the cheap keyboard I was previously using. Eventually, when I become sufficiently advanced years down the road, I'll likely upgrade to something like a [Nord Stage 3](https://www.sweetwater.com/insync/best-88-key-digital-pianos/). I am currently writing & illustrating a book with what little spare time I have left. -->
 
-- `Financial:` In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. **Zero-sum does not mean that you will not make money, it means you're more likely to lose money.** Non-speculative investments exist, and once in a life time opportunities happen every year. 
+<!-- - `Financial:` In economic or game theory, a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) is an instance where for every winner there is a loser or group of losers. If you subtract the losses from all the gains you end up with zero. In order to increase the likelihood of long-term monetary success, it would be beneficial to avoid speculation except for small percentages of capital. **Zero-sum does not mean that you will not make money, it means you're more likely to lose money.** Non-speculative investments exist, and once in a life time opportunities happen every year.  -->
 
-    - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
+<!-- - [`Triumph:`](https://poets.org/poem/if) Some years ago, I started reading books on business and investing. It wasn't until I found ["Rich Dad Poor Dad" by Robert Kiyosaki](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2) that I formed my first idea. I was inspired to invest, and as fate would have it, a long time friend of mine was looking to invest in me. Being tech savvy I had dabbled with cryptocurrencies years before, but never paid it too much attention, never caring much about money or material possessions. With my newfound interest I managed my investors money and bought into crypto right before it skyrocketed. *Return on investment was 617.241%, and between two interested parties we made 6 figures in a month.* This was my first attempt & success at the right side of the cash flow quadrant.
 
-    - [`Disasters:`](https://poets.org/poem/if) Many. My current goal is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned.
-    
-    <!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
+- [`Disasters:`](https://poets.org/poem/if) Many. My current goal is to achieve financial freedom by acting upon a few business ideas.. It is my desire to learn how to better mitigate risk, and how to become a transaction engineer. I've only just begun to apply the things in which I have learned. -->
+
+<!-- Not to long ago an investment I had waited on for a long time made a 4,483.44% increase and near 7-figure sum according to how much I had intended to invest. I straight up didn't see the silent release... As you might imagine, I was less than enthused. I'm not discouraged however, this is validation that my ideas and thinking are correct. -->
 
 <!-- Social Security (Ponzi Scheme), just like welfare, is an entitlement. -->
 
@@ -485,11 +489,11 @@ I'm also fascinated with mythology & folk lore.
 
 <!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
 
-## 🗣️ Inspirational Quotes
+<!-- ## 🗣️ Inspirational Quotes -->
 
-> “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
+<!-- > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics -->
 
-> "To be nobody but
+<!-- > "To be nobody but
 yourself in a world
 which is doing its best day and night to make you like
 everybody else means to fight the hardest battle
@@ -497,11 +501,11 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 > "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#0073e6;">Be water, my friend</a>." &mdash; Bruce Lee
 
-> "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee
+> "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee -->
 
-> "Don't fight forces, use them." &mdash; R. Buckminster Fuller
+<!-- > "Don't fight forces, use them." &mdash; R. Buckminster Fuller -->
 
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
+<!-- > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller -->
 
 <!-- > "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki -->
 
@@ -509,39 +513,39 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold) -->
 
-> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
+<!-- > "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll -->
 
-> “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
+<!-- > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus -->
 
-> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
+<!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
-> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov
+<!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov -->
 
-> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
+<!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde
+<!-- > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde -->
 
-> "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a>
+<!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
-> "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler
+<!-- > "The person who says he knows what he thinks but cannot express it usually does not know what he thinks" &mdash; Mortimer Adler -->
 
-> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
+<!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
-> “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
+<!-- > “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman -->
 
-> "If you can't explain it simply, you don't understand it well enough." &mdash; Albert Einstein
+<!-- > "If you can't explain it simply, you don't understand it well enough." &mdash; Albert Einstein -->
 
-> "Simplicity is the ultimate form of sophistication." &mdash; Leonardo da Vinci
+<!-- > "Simplicity is the ultimate form of sophistication." &mdash; Leonardo da Vinci -->
 
 <!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#0073e6;">Elon Musk</a> -->
 
 <!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; <a href="https://twitter.com/naval/status/1002107869209096192" style="color:#0073e6;">Naval Ravikant</a> -->
 
-> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
+<!-- > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant -->
 
-> “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC)
+<!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
 
-> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
+<!-- > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt -->
 
 <!-- > "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB -->
 
@@ -569,7 +573,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > "Those who malign others are projecting their own insecurities and limitations upon those they envy." &mdash; R -->
 
-> "Great men are always of a nature originally melancholy." &mdash; Aristotle
+<!-- > "Great men are always of a nature originally melancholy." &mdash; Aristotle -->
 
 <!-- > "Happiness in intelligent people is the rarest thing I know." &mdash; Ernest Hemingway -->
 
@@ -577,17 +581,17 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud -->
 
-> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley 
+<!-- > “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley  -->
 
-> "There was never a genius without a tincture of madness." &mdash; Aristotle
+<!-- > "There was never a genius without a tincture of madness." &mdash; Aristotle -->
 
-> “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft
+<!-- > “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft -->
 
 <!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
 <!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
 
-> “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
+<!-- > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams -->
 
 <!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
 
