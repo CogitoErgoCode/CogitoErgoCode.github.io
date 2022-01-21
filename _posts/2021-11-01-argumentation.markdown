@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Art of Argumentation 🪢"
+title: "Maintaining Rational Discourse 🪢"
 date: 2021-11-04 11:48:10 -0700
 categories: debate discourse
 published: true
