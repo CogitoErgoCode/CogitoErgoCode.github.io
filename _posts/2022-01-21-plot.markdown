@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrency Indicators & Plots 📈"
-date: 2022-01-21 13:50:10 -0700
+date: 2022-01-21 13:50:15 -0700
 categories: python plotting graphing crypto
 published: true
 ---
@@ -312,7 +312,7 @@ crypto/
             Ⓜ plot()
 ```
 
-![ma](/assets/images/trade/tftzoom.png)
+![ma](/assets/images/trade/moving.png)
 <!-- {:height="400px" width="400px"} -->
 
 The best settings for moving averages are: 10, 50, 100, 200. 
