@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrency Indicators & Plots 📈"
-date: 2022-01-21 13:50:15 -0700
+date: 2022-01-21 13:50:20 -0700
 categories: python plotting graphing crypto
 published: true
 ---
@@ -9,6 +9,16 @@ published: true
 ⚠️ This article is for educational purposes only and not intended as financial advice.
 
 ![ma](/assets/images/trade/ribbon.png)
+
+## **Content Covered**
+
+This article covers the most useful indicators used by crypto investors. I'm writing this article while recovering from COVID-19. Yes, I lost my taste, and experienced some brief memory loss where I was slower playing my piano for a day. I was only affected mildly with most symptoms, except for a lingering cough going on 22 days now. You'll have to forgive me if this article isn't as thorough as it could be. I'll likely add more content later on. I'd like to include several other indicators, but will do so at a later date.
+
+- Moving Averages (MA)
+- William's Alligator Fractals
+- Ichimoku Cloud
+- Moving Average Convergence Divergence (MACD)
+- Relative Strength Indicator (RSI)
 
 ## **Extracting Data From Binance.US**
 
@@ -300,6 +310,8 @@ def say(string):
 ```
 
 ## **Plotting Technical Indicators**
+
+- [Mplfinance Styles](https://github.com/matplotlib/mplfinance/blob/master/examples/styles.ipynb)
 
 ## Moving Averages
 
