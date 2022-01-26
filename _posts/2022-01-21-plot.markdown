@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrency Indicators & Plots 📈"
-date: 2022-01-21 13:50:30 -0700
+date: 2022-01-21 13:50:45 -0700
 categories: python plotting graphing crypto
 published: true
 ---
@@ -763,31 +763,30 @@ Bollinger Bands (A.K.A The Best Sideways Indicator) are best utilized when the m
 
 - **`Entry Signal`**: When the price consolidates, and the BBands tighten, a break above or below the bands constitutes a BBand breakout. There is often a fake out break out of bands in the opposite direction and for this reason, BBands should not be used alone for trading decisions.
     - When the bands tighten during a period of low volatility, it raises the likelihood of a sharp price move in either direction. This may begin a trending move. Watch out for a false move in opposite direction which reverses before the proper trend begins.
-- `Volatility`: When the bands separate by an unusual large amount, volatility increases and any existing trend may be ending. 
-- `Edge-to-Edge`: Prices have a tendency to bounce within the bands' envelope, touching one band then moving to the other band. You can use these swings to help identify potential profit targets. For example, if a price bounces off the lower band and then crosses above the moving average, the upper band then becomes the profit target.
-- `Walking The Bands`
-    - Can occur to represent strong bullish or bearish continuation
-    Often a leading indicator of price action to come
-    - Price can exceed or hug a band envelope for prolonged periods during strong trends. On divergence with a momentum oscillator, you may want to do additional research to determine if taking additional profits is appropriate for you. 
-    - A strong trend continuation can be expected when the price moves out of the bands. However, if prices move immediately back inside the band, then the suggested strength is negated.
 
+|:-:|:-:|
+|Volatility|When the bands separate by an unusual large amount, volatility increases and any existing trend may be ending.|
+|Edge-to-Edge|Prices have a tendency to bounce within the bands' envelope, touching one band then moving to the other band. You can use these swings to help identify potential profit targets. For example, if a price bounces off the lower band and then crosses above the moving average, the upper band then becomes the profit target.|
+|Walking The Bands|Can occur to represent strong bullish or bearish continuation, often a leading indicator of price action to come|
+||Price can exceed or hug a band envelope for prolonged periods during strong trends. On divergence with a momentum oscillator, you may want to do additional research to determine if taking additional profits is appropriate for you.|
+||A strong trend continuation can be expected when the price moves out of the bands. However, if prices move immediately back inside the band, then the suggested strength is negated.|
 
 ```py
 import mplfinance as mpf
 
 class BollingerBands:
 
-    def bbands(self, df):
+    def bbands(self, df, window=20):
         tp  = (df['high'] + df['low'] + df['close'])/3
-        sma = tp.rolling(20).mean()
-        std = tp.rolling(20).std()
+        sma = tp.rolling(window).mean()
+        std = tp.rolling(window).std()
         up  = sma + (std*2)
         dn  = sma - (std*2)
 
         return sma, up, dn
 
-    def plot(self, df):
-        sma, up, dn = self.bbands(df)
+    def plot(self, df, window=20):
+        sma, up, dn = self.bbands(df, window)
 
         apds = [
             mpf.make_addplot(sma, panel=0, type='line', ylabel=f"sma"  , color='#2d40ce'),
@@ -954,6 +953,7 @@ from binance.binance    import Binance, say
 from analysis.moving    import MovingAverage
 from analysis.williams  import AlligatorFractals
 from analysis.ichimoku  import IchimokuKinkoHyo
+from analysis.bollinger import BollingerBands
 from analysis.macd      import MAConvergenceDivergence
 from analysis.rsi       import RelativeStrengthIndicator
 
@@ -976,9 +976,9 @@ def main():
     
     say("connectivity established")
     
-    say("plotting moving averages")
-    ma = MovingAverage()
-    ma.plot(df, *range(10,100+10,10))
+    # say("plotting moving averages")
+    # ma = MovingAverage()
+    # ma.plot(df, *range(10,100+10,10))
     # ma.plot(df, *range(10,200+10,5))
     # ma.plot(df)
 
@@ -986,9 +986,13 @@ def main():
     # wa = AlligatorFractals()
     # wa.plot(df)
 
-    # say("plotting ichimoku kinko hyo")
-    # cloud = IchimokuKinkoHyo()
-    # cloud.plot(df)
+    say("plotting ichimoku kinko hyo")
+    cloud = IchimokuKinkoHyo()
+    cloud.plot(df)
+
+    # say("plotting bollinger bands")
+    # cloud = BollingerBands()
+    # cloud.plot(df, 14)
 
     # say("plotting relative strength indicator")
     # rsi = RelativeStrengthIndicator()
@@ -997,7 +1001,6 @@ def main():
     # say("plotting MACD")
     # macd = MAConvergenceDivergence()
     # macd.plot(df)
-
 
 if __name__ == "__main__":
     main()
