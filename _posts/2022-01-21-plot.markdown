@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrency Indicators & Plots 📈"
-date: 2022-01-21 13:50:45 -0700
+date: 2022-01-21 13:50:50 -0700
 categories: python plotting graphing crypto
 published: true
 ---
@@ -822,6 +822,9 @@ class BollingerBands:
 
 ## **Plotting Technical Indicators With TA-Lib**
 
+- [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/doc_index.html)
+- [More Documentation](https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html)
+
 ## Relative Strength Indicator
 
 ```
@@ -914,9 +917,9 @@ class MAConvergenceDivergence:
         macd, macdsignal, macdhist = MACD(df['close'], fastperiod=18, slowperiod=26, signalperiod=11)
         
         apds = [
-            mpf.make_addplot(macd          , panel=1, type='line'   , ylabel='MACD', color='r'),
-            mpf.make_addplot(macdsignal    , panel=1, type='line'   , ylabel='MACD', color='b'),
-            mpf.make_addplot(macdhist      , panel=1, type='bar'    , ylabel='MACD', color='orange')
+            mpf.make_addplot(macd      , panel=1, type='line', ylabel='MACD', color='r'),
+            mpf.make_addplot(macdsignal, panel=1, type='line', ylabel='MACD', color='b'),
+            mpf.make_addplot(macdhist  , panel=1, type='bar' , ylabel='MACD', color='orange')
         ]
 
         # CUSTOM STYLE
