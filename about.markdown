@@ -355,7 +355,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 
 ## 🎤 Artists
 
-From my childhood, all the way through the ages to the present day, Thom yorke is the only artist that has stood the test of time. I honestly feel as though he is unique among artists, in that when he dies, his music will most likely be awarded heavily as he cements himself into some kind of legendary status. 
+From my childhood, all the way through the ages to the present day, Thom Yorke is the only artist that has stood the test of time. I honestly feel as though he is unique among artists, in that when he dies, his music will most likely be awarded heavily as he cements himself into some kind of legendary status. He's the John Nash of the arts.
 
 <!-- He is the personification of perfection in music, the epitome of brilliance in the arts. -->
 
