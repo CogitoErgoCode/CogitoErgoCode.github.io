@@ -607,7 +607,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud -->
 
-<!-- > “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley  -->
+> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley 
 
 <!-- > "There was never a genius without a tincture of madness." &mdash; Aristotle -->
 
