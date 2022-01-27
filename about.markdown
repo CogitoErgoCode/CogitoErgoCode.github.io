@@ -24,8 +24,6 @@ permalink: /about/
 
 My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My command-line tools are featured in a linux operating system distribution and remain a part of it's tool list to this day. <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
 
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
-
 - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> <!--(<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)-->
 - Enneagram of Personality: 5w6 <!--<a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)-->
 - Python Programming Language
@@ -94,7 +92,7 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
-|Classical Pianists||
+|||
 |:-:|:-:|
 |**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
 |Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
@@ -302,9 +300,42 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
     - [The King in Yellow (1895):](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm) [[.txt]](/assets/books/robert_w_chambers/the_king_in_yellow.txt)
         - [The Demoiselle d'Ys](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS) -->
 
-<!-- ## 📜 Literature & Poetry
+## 📜 Literature & Poetry
 
-> “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.” &mdash; Albert Einstein
+|Beliefs & Philosophy||
+|:-:|:-:|
+|Christ Jesus|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|King Solomon|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)<br>[Dr. Michael Sugrue on Marcus Aurelius' Meditations](https://youtu.be/Auuk1y4DRgk)|
+|Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
+|||
+|**Strategy**||
+|Sun Tzu|[The Art Of War](/assets/books/sun_tzu/aow.pdf)|
+|Miyamoto Musashi|[The Book of Five Rings](https://libgen.is/book/index.php?md5=C992A13DD42308AA84E6AEEEE208E9BF)|
+|||
+|**Sciences**||
+|Claude Fayette Bragdon|[A Primer of Higher Space, The Fourth Dimension (1913)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)|
+|Edwin A. Abbott|[Flatland: A Romance of Many Dimensions, pg.58](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0)|
+|Dr. Michio Kaku|[Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)|
+|Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
+|Dr. Raymond Smullyan|["The Lady, or the Tiger?"](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
+|||
+|**Finance**||
+|George S. Clason|[The Richest Man in Babylon](http://library.lol/main/965C61CF09858EC359F2E00C1971E793)|
+|Robert Kiyosaki's|[Rich Dad Poor Dad (1997)](http://library.lol/main/FA913718EA4585DC4282D5E51ABD3DC2)|
+|Dr. Thomas J. Stanley's|[The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)|
+|||
+|**Poetry**||
+|E.E. Cummings|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
+|Rudyard Kipling|<a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>|
+
+<!-- |Finance||
+|:-:|:-:|
+|Poetry||
+|:-:|:-:| -->
+
+
+<!-- > “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.” &mdash; Albert Einstein
 
 **As a child** I grew up with [Dr. Seuss](https://en.wikipedia.org/wiki/The_Butter_Battle_Book), [Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Grimm's Fairy Tales](https://www.gutenberg.org/files/52521/52521-h/52521-h.htm), <a href="https://en.wikipedia.org/wiki/Animorphs" style="color:#0073e6;">Applegate</a>, [Wu Cheng'en](/assets/books/wu_cheng_en/journey_to_the_west.pdf), and various manga. 
 
@@ -495,21 +526,23 @@ I'm also fascinated with mythology & folk lore.
 
 <!-- - `Literary:` It's also worth mentioning that I've been collecting material to write & illustrate a novel in one of the subgenres of fantasy. -->
 
-<!-- ## 🗣️ Inspirational Quotes -->
+## 🗣️ Inspirational Quotes
 
-<!-- > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics -->
+> “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
 <!-- > "To be nobody but
 yourself in a world
 which is doing its best day and night to make you like
 everybody else means to fight the hardest battle
-which any human being can fight and never stop fighting." &mdash; E.E. Cummings
+which any human being can fight and never stop fighting." &mdash; E.E. Cummings -->
 
-> "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#0073e6;">Be water, my friend</a>." &mdash; Bruce Lee
+<!-- > "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. <a href="https://youtu.be/cJMwBwFj5nQ" style="color:#0073e6;">Be water, my friend</a>." &mdash; Bruce Lee -->
 
-> "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee -->
+<!-- > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee -->
 
-<!-- > "Don't fight forces, use them." &mdash; R. Buckminster Fuller -->
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
+
+> "Don't fight forces, use them." &mdash; R. Buckminster Fuller
 
 <!-- > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller -->
 
@@ -517,13 +550,13 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein -->
 
-<!-- > "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold) -->
+> "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold)
 
-<!-- > "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll -->
+> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
 
-<!-- > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus -->
+> “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
 
-<!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
+> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
 
 <!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov -->
 
@@ -547,11 +580,11 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; <a href="https://twitter.com/naval/status/1002107869209096192" style="color:#0073e6;">Naval Ravikant</a> -->
 
-<!-- > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant -->
+> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
-<!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
+> “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC)
 
-<!-- > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt -->
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
 
 <!-- > "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB -->
 
@@ -595,9 +628,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings
 
 <!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
-<!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
+> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
 
-<!-- > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams -->
+> “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
 <!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
 
