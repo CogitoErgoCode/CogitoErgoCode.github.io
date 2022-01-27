@@ -612,7 +612,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
-> “No man is free who is not master of himself.” &mdash; Epictetus
+> "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
+
+<!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
 
 ## 🪙 Support This Blog
 
