@@ -94,11 +94,11 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 
 |||
 |:-:|:-:|
-|**Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
+|**Frédéric François Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
 |Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
-|Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
-|Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
-|Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
+|Ludwig van Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Franz Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
+|Claude Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
 |Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
 |Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 
@@ -305,7 +305,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |Beliefs & Philosophy||
 |:-:|:-:|
 |Christ Jesus|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
-|King Solomon|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|King Solomon<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)<br>[Dr. Michael Sugrue on Marcus Aurelius' Meditations](https://youtu.be/Auuk1y4DRgk)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 |||
