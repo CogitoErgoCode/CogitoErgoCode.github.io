@@ -301,7 +301,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |:-:|:-:|
 |Christ Jesus|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |King Solomon,<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
-|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)<br>[(Dr. Michael Sugrue on Marcus Aurelius' Meditations)](https://youtu.be/Auuk1y4DRgk)|
+|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 |||
 |**Strategy**||
@@ -326,6 +326,8 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |Dylan Thomas|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |E.E. Cummings|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
 |Rudyard Kipling|<a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>|
+
+<!-- <br>[(Dr. Michael Sugrue on Marcus Aurelius' Meditations)](https://youtu.be/Auuk1y4DRgk) -->
 
 <!-- |Edgar Allan Poe|[The Conqueror Worm](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html)|
 |Robert W. Chambers|[Cassilda's Song](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html)|
