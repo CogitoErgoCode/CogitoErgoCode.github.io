@@ -299,15 +299,14 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 
 |Beliefs & Philosophy||
 |:-:|:-:|
-|Christ Jesus|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|Christ Jesus<br>(The Apostles)|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |King Solomon,<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 |||
 |**Strategy**||
 |Sun Tzu|[The Art Of War](/assets/books/sun_tzu/aow.pdf)|
-|Miyamoto Musashi|[The Book of Five Rings](https://libgen.is/book/index.php?md5=C992A13DD42308AA84E6AEEEE208E9BF)|
-|Bruce Lee|[Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)|
+|Miyamoto Musashi|<!--[The Book of Five Rings](https://libgen.is/book/index.php?md5=C992A13DD42308AA84E6AEEEE208E9BF)<br>-->[The Book of Five Rings](https://libgen.is/book/index.php?md5=E1C594AF067803D0B6340C7DDECB285C)|
 |||
 |**Sciences**||
 |Claude Fayette Bragdon|[A Primer of Higher Space, The Fourth Dimension (1913)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)|
@@ -322,10 +321,15 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |Dr. Thomas J. Stanley's|[The Millionaire Next Door](http://library.lol/main/FFA8830FFF138F2CCCE9DBBBBAD2B533)|
 |||
 |**Poetry**||
-|Robert Frost|[Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice)|
-|Dylan Thomas|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
+|Robert Frost|[Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679)|
 |E.E. Cummings|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
 |Rudyard Kipling|<a href="https://poets.org/poem/if" style="color:#0073e6;">If</a>|
+
+<!-- |Dylan Thomas|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)| -->
+
+<!-- [Fire and Ice](https://www.poetryfoundation.org/poems/44263/fire-and-ice) -->
+
+<!-- |Bruce Lee|[Tao of Jeet Kune Do](http://library.lol/main/FD659281CDB9E76F449AC8A01B9C8B2F)| -->
 
 <!-- <br>[(Dr. Michael Sugrue on Marcus Aurelius' Meditations)](https://youtu.be/Auuk1y4DRgk) -->
 
