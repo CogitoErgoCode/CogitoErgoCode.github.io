@@ -301,7 +301,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |:-:|:-:|
 |Christ Jesus<br>(The Apostles)|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |King Solomon,<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
-|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=2A30602C8F833FA4AE161980D7C09DC1)|
+|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 |||
 |**Strategy**||
