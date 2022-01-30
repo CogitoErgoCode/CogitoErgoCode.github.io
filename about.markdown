@@ -306,7 +306,7 @@ I've always enjoyed [Dark Fantasy](https://en.wikipedia.org/wiki/Dark_fantasy) a
 |||
 |**Strategy**||
 |Sun Tzu|[The Art Of War](/assets/books/sun_tzu/aow.pdf)|
-|Miyamoto Musashi|<!--[The Book of Five Rings](https://libgen.is/book/index.php?md5=C992A13DD42308AA84E6AEEEE208E9BF)<br>-->[The Book of Five Rings](https://libgen.is/book/index.php?md5=E1C594AF067803D0B6340C7DDECB285C)|
+|Miyamoto Musashi|<!--[The Book of Five Rings](https://libgen.is/book/index.php?md5=E1C594AF067803D0B6340C7DDECB285C)<br>-->[The Book of Five Rings](https://libgen.is/book/index.php?md5=C992A13DD42308AA84E6AEEEE208E9BF)|
 |||
 |**Sciences**||
 |Claude Fayette Bragdon|[A Primer of Higher Space, The Fourth Dimension (1913)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)|
