@@ -22,11 +22,14 @@ permalink: /about/
 
 <!-- ## ![cain](/assets/gifs/cain.webp){:height="40px" width="25px"} **"Stay awhile and listen..."** -->
 
-My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, polymath, <!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> and esperantist. As well as an aspiring pianist & polyglot. My command-line tools are featured in a linux operating system distribution and remain a part of it's tool list to this day. <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, computer programmer, investor, and esperantist. As well as an aspiring pianist & polyglot.<!--<a href="https://en.wikipedia.org/wiki/Polymath" style="color:#0073e6;">polymath</a>,--> <!-- As well as an aspiring pianist & polyglot. My command-line tools have been featured in linux operating system distributions.--> <!--My financial goals are on the right side of the cashflow quadrant and in serial entrepreneurship.--> <!--<a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>-->  If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+
+## 🧙 Personality & Polymathy
 
 - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> <!--(<a href="/assets/images/MyersBriggsTypes.png" style="color:#0073e6;">chart</a>, <a href="/assets/images/mbti_sports.png" style="color:#0073e6;">sports</a>, <a href="/assets/images/titles.jpg" style="color:#0073e6;">view</a>)-->
-- Enneagram of Personality: 5w6 <!--<a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> (<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)-->
+- Enneagram of Personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> <!--(<a href="/assets/images/enneagram.png" style="color:#0073e6;">chart</a>)-->
 - Python Programming Language
+- Aspiring Classical Pianist
 - Polyglotism (<a href="https://www.state.gov/foreign-language-training/" style="color:#0073e6;">Work In Progress</a>)
     <!-- - [Propaedeutic](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) -->
     - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
@@ -94,9 +97,9 @@ My name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Auto
 
 |||
 |:-:|:-:|
-|**Frédéric François Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), <a href="https://youtu.be/3H0SRv8QNwk" style="color:#0073e6;">Minute Waltz Op.64 #1</a>, [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
+|**Frédéric François Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
 |Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
-|Ludwig van Beethoven|<a href="https://youtu.be/zucBfXpCA6s" style="color:#0073e6;">"Moonlight" Sonata Op.27 #2 Mov 3</a>, [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Ludwig van Beethoven|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |Franz Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Claude Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
 |Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
