@@ -38,12 +38,24 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 
-## 🎤 Artists
+## 📚 Literature
 
 |||
 |:-:|:-:|
-|Thom Yorke|Most Everything|
-|Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
+|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)|
+|🛸 Antigravity |[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
+|🧠 Logic Puzzles|[Dr. Raymond Smullyan](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
+
+## 🎨 Artists
+
+|||
+|:-:|:-:|
+|🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
+|🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
+|🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
+
+
+<!-- |🖌️ Maurits Cornelis Escher|Mathematical: ([LW-358](https://mcescher.com/wp-content/uploads/2019/04/LW-358.jpg), [LW-386](https://mcescher.com/wp-content/uploads/2019/04/LW-386.jpg), [LW-387](https://mcescher.com/wp-content/uploads/2019/04/LW-387.jpg), [LW-395](https://mcescher.com/wp-content/uploads/2019/04/LW-395.jpg)), Impossible Constructions: ([LW-439](https://mcescher.com/wp-content/uploads/2019/05/LW-439.jpg))| -->
 
 <!-- |[Thom Yorke](https://en.wikipedia.org/wiki/Thom_Yorke)|KID A, Amnesiac, In Rainbows,<br>The King Of Limbs, Amok<br><a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspirium</a>, <a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Before Your Very Eyes</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>,<br><a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">Codex</a>, <a href="https://youtu.be/cfOa1a8hYP8" style="color:#0073e6;">Lotus Flower</a>, <a href="https://youtu.be/iY4APDrl66s" style="color:#0073e6;">All I Need (Microcosmos)</a>,<br><a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">Videotape</a>, <a href="https://youtu.be/lVata6Ibe4U" style="color:#0073e6;">Last Flowers</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Pyramid Song</a>,<br><a href="https://youtu.be/P7nz6-UVrmU" style="color:#0073e6;">Hearing Damage</a>, <a href="https://youtu.be/svwJTnZOaco" style="color:#0073e6;">Idioteque</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Twist</a>, <a href="https://youtu.be/0zIBbiSr8Lw" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/7yU8BjfATHc" style="color:#0073e6;">Unless</a>,<br><a href="https://youtu.be/l2yEXYCF7tg" style="color:#0073e6;">Reverse Running</a>, <a href="https://youtu.be/yxWBd840E9g" style="color:#0073e6;">Default</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">Everything In Its Right Place</a>,<br><a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Bloom (Live from Electric Lady Studios)</a>,<br><a href="https://youtu.be/hJ9ljQXIrY4" style="color:#0073e6;">Open Again (Live from Electric Lady Studios)</a>| -->
 
@@ -64,8 +76,6 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
 
 > "Don't fight forces, use them." &mdash; R. Buckminster Fuller
-
-<!-- > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller -->
 
 <!-- > "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki -->
 
@@ -103,7 +113,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
-> “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC)
+<!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
 
 > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
 
@@ -147,11 +157,11 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft -->
 
-> “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie
-
-> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
+<!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
 
 > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
+
+> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
