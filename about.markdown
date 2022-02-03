@@ -63,6 +63,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
+
 <!-- > "To be nobody but
 yourself in a world
 which is doing its best day and night to make you like
@@ -114,8 +116,6 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
 <!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
-
-> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
 
 <!-- > "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB -->
 
