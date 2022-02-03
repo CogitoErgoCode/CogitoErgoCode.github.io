@@ -13,10 +13,6 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
 - 私は日本語を勉強しています。
 
-<!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
-
-<!-- I enjoy the <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror" style="color:#0073e6;">Lovecraftian</a> literary genre, cooking, and cultivating a healthy balance between mind and body. I have a growing interest in linguistics and enjoy solving <a href="http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7" style="color:#0073e6;">recreational logic puzzles</a>. If you would like to follow my language learning progress, you can follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. I am currently returning to school for my M.S. in Computer Science. My financial goals remain on the <a href="/assets/images/cfq.png" style="color:#0073e6;">right side of the cashflow quadrant</a>. -->
-
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
 ## 🎹 Classical Piano
