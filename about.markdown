@@ -62,10 +62,15 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |||
 |:-:|:-:|
 |🖼️ Unknown|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
+|🖌️ John Martin|[*](https://en.wikipedia.org/wiki/John_Martin_(painter))|
 |🖌️ Gustave Doré|[*](https://www.wikiart.org/en/gustave-dore/all-works)|
 |🖌️ Leonardo da Vinci|[Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
 |🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
 |🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
+
+<!-- |[Edgar Allan Poe](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html), [Robert W. Chambers](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html), <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">H.P. Lovecraft</a>|
+
+|🐙 Sub Specie Aeternitatis|[Stoker](/assets/books/bram_stoker/dracula.pdf), [Milton](/assets/books/john_milton/paradise_lost.txt), [Alighieri](http://library.lol/main/6366445002314492376F421A2D159185), Poe, Rice, [Lovecraftian Yog-Sothothery](/assets/books/hp_lovecraft/lovecraft.pdf), [Chambers](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm#THE_DEMOISELLE_DYS), [Machen](https://www.gutenberg.org/files/25016/25016-h/25016-h.htm#Page_111), [Blackwood](https://www.gutenberg.org/files/10897/10897-h/10897-h.htm) & [Bierce](http://www.ambrosebierce.org/haita.html)| -->
 
 ## 🎶 Music
 
