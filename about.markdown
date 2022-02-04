@@ -40,6 +40,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 ## 📚 Curiosities
 
+> "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
+
 |||
 |:-:|:-:|
 |🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)|
