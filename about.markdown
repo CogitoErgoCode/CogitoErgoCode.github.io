@@ -31,6 +31,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 ## 📜 Wisdom & Philosophy
 
+> “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius' Meditations 
+
 |||
 |:-:|:-:|
 |Christ Jesus<br>(The Apostles)|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
