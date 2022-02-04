@@ -35,7 +35,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |Christ Jesus<br>(The Apostles)|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |King Solomon,<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
-|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7)|
+|Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7), [Quotations](https://www.goodreads.com/author/quotes/17212.Marcus_Aurelius)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 
 <!-- 🔎 -->
@@ -165,6 +165,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 <!-- > “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft -->
 
 <!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
+
+<!-- “I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.” &mdash; Marcus Aurelius, Meditations  -->
 
 > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
 
