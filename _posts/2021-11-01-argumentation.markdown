@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:48:20 -0700
+date: 2021-11-04 11:48:30 -0700
 categories: debate discourse
 published: true
 ---
@@ -37,6 +37,8 @@ Before journeying into a debate, however logically sound our position may be, we
     <!-- Personally, I also find pathos based rhetoric juvenile. -->
 
         > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
+
+        > “How much more grievous are the consequences of anger than the causes of it.” &mdash; Marcus Aurelius, Meditations 
 
 - **`Argumentum ad verecundiam:`** An `appeal to authority` is where an assertion is deemed true because of the position or authority of the person asserting it. Subtypes of `ad verecundiam` include: Appeal to accomplishment & Courtier's reply.
 
