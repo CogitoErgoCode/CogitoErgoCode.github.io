@@ -62,7 +62,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |||
 |:-:|:-:|
 |🖼️ Unknown|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
-|🖌️ Leonardo da Vinci|The Last Supper, [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg)|
+|🖌️ Gustave Doré|[*](https://www.wikiart.org/en/gustave-dore/all-works)|
+|🖌️ Leonardo da Vinci|[Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
 |🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
 |🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
 |🖊️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
