@@ -45,7 +45,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)|
+|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
 |🛸 Antigravity |[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
 |🌌 Astronomy|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)|
 |🧠 Logic Puzzles|[Dr. Raymond Smullyan](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
