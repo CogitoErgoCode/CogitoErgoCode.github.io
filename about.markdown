@@ -41,21 +41,21 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 
 <!-- 🔎 -->
-## 📚 Literature & Curiosities
+## 📚 Entertainment & Literature
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
 |||
 |:-:|:-:|
 |🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
-|🛸 Antigravity |[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
+|🛸 Antigravity|[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
 |🌌 Astronomy|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)|
 |🧠 Logic Puzzles|[Dr. Raymond Smullyan](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
 |💬 Linguistics|[Mark Rosenfelder](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
 |♟️ Chess|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>(Childhood)|
 
 
-## 🎨 Artists
+## 🎨 Fine Art & Poetry
 
 > “Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.” &mdash; Leonardo da Vinci 
 
@@ -63,11 +63,16 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |🖼️ Unknown|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
 |🖌️ Gustave Doré|[*](https://www.wikiart.org/en/gustave-dore/all-works)|
-|🖌️ Leonardo da Vinci|[Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
+|🖌️ Leonardo da Vinci|[Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
+|🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
+|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
+
+## 🎶 Music
+
+|||
+|:-:|:-:|
 |🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
 |🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
-|🖊️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
-|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
 
 
 <!-- |🖌️ Maurits Cornelis Escher|Mathematical: ([LW-358](https://mcescher.com/wp-content/uploads/2019/04/LW-358.jpg), [LW-386](https://mcescher.com/wp-content/uploads/2019/04/LW-386.jpg), [LW-387](https://mcescher.com/wp-content/uploads/2019/04/LW-387.jpg), [LW-395](https://mcescher.com/wp-content/uploads/2019/04/LW-395.jpg)), Impossible Constructions: ([LW-439](https://mcescher.com/wp-content/uploads/2019/05/LW-439.jpg))| -->
