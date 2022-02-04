@@ -57,11 +57,14 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 ## 🎨 Artists
 
+> “Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.” &mdash; Leonardo da Vinci 
+
 |||
 |:-:|:-:|
+|🖌️ Leonardo da Vinci|The Last Supper, Vitruvian Man, Salvatore Mundi|
 |🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
 |🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
-|🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
+|🖊️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
 
 
 <!-- |🖌️ Maurits Cornelis Escher|Mathematical: ([LW-358](https://mcescher.com/wp-content/uploads/2019/04/LW-358.jpg), [LW-386](https://mcescher.com/wp-content/uploads/2019/04/LW-386.jpg), [LW-387](https://mcescher.com/wp-content/uploads/2019/04/LW-387.jpg), [LW-395](https://mcescher.com/wp-content/uploads/2019/04/LW-395.jpg)), Impossible Constructions: ([LW-439](https://mcescher.com/wp-content/uploads/2019/05/LW-439.jpg))| -->
@@ -123,6 +126,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 <!-- > "There is no skill called “business.” Avoid business magazines and business classes. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." &mdash; <a href="https://twitter.com/naval/status/1002107869209096192" style="color:#0073e6;">Naval Ravikant</a> -->
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
+
+<!-- > “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci  -->
 
 <!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
 
