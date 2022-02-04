@@ -38,8 +38,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7)|
 |Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
 
-<!-- 📚 -->
-## 🔎 Curiosities
+<!-- 🔎 -->
+## 📚 Literature & Curiosities
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
