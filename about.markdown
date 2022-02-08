@@ -54,19 +54,17 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |💬 Linguistics|[Mark Rosenfelder](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
 |♟️ Chess|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>(Childhood)|
 
-<!-- |🦢 Origami|(Childhood)| -->
-
-
-## 🎨 Fine Art & Poetry
+## 🎨 Art & Poetry
 
 > “Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.” &mdash; Leonardo da Vinci 
 
 |||
 |:-:|:-:|
 |♾️ Recursion|[Pantokrator](https://en.wikipedia.org/wiki/Patterns_in_nature)| 
+|🔱 Engravings and mezzotints|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
 |✨ Optical Illusions|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)<br>(Childhood)|
-|🧮 Impossible|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)<br>(Childhood)|
-|🔱 Romanticism<br>(Engravings and mezzotints)|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
+|🧮 Impossible Constructions|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)<br>(Childhood)|
+|🦢 Origami|(Childhood)|
 |🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)<br>(Childhood)|
 
 <!-- https://en.wikipedia.org/wiki/List_of_optical_illusions -->
