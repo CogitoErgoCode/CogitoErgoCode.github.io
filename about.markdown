@@ -54,6 +54,8 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |💬 Linguistics|[Mark Rosenfelder](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
 |♟️ Chess|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>(Childhood)|
 
+<!-- |🦢 Origami|(Childhood)| -->
+
 
 ## 🎨 Fine Art & Poetry
 
@@ -61,12 +63,21 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|🖼️ Unknown|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
-|🖌️ John Martin|[*](https://en.wikipedia.org/wiki/John_Martin_(painter))|
-|🖌️ Gustave Doré|[*](https://www.wikiart.org/en/gustave-dore/all-works)|
+|♾️ Recursion|[Design](https://en.wikipedia.org/wiki/Patterns_in_nature)| 
+|🧮 Impossible|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)<br>(Youth)|
+|🔱 Romanticism<br>(Engravings and mezzotints)|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
+|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)<br>(Childhood)|
+
+<!-- [Julia set (Actual Math)](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot (Actual Math)](https://en.wikipedia.org/wiki/Mandelbrot_set) -->
+
+<!-- |||
+|:-:|:-:|
 |🖌️ Leonardo da Vinci|[Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
 |🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
-|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
+|🖌️ John Martin|[The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), Le Pandemonium Louvre|
+|🖌️ Gustave Doré|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://www.wikiart.org/en/gustave-dore/paradiso)|
+|🖼️ Camille Flammarion<br>(Unknown)|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
+|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)| -->
 
 <!-- |[Edgar Allan Poe](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html), [Robert W. Chambers](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html), <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">H.P. Lovecraft</a>|
 
