@@ -64,10 +64,12 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |||
 |:-:|:-:|
 |♾️ Recursion|[Pantokrator](https://en.wikipedia.org/wiki/Patterns_in_nature)| 
+|✨ Optical Illusions|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)|
 |🧮 Impossible|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)<br>(Youth)|
 |🔱 Romanticism<br>(Engravings and mezzotints)|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
 |🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)<br>(Childhood)|
 
+<!-- https://en.wikipedia.org/wiki/List_of_optical_illusions -->
 <!-- [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals) -->
 
 <!-- [Julia set (Actual Math)](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot (Actual Math)](https://en.wikipedia.org/wiki/Mandelbrot_set) -->
