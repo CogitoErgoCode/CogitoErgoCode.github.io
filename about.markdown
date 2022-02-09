@@ -23,7 +23,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |**Frédéric François Chopin**|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio)|
 |Chopin's Nocturnes|[Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
-|Ludwig van Beethoven|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Ludwig van Beethoven<br>(Childhood)|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |Franz Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Claude Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
 |Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
@@ -35,10 +35,10 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|Christ Jesus<br>(The Apostles)|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|Christ Jesus,<br>The Apostles|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |King Solomon,<br>King David|[Proverbs, Ecclesiastes, & Psalms](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Emperor Marcus Aurelius|[Meditations](https://libgen.is/book/index.php?md5=6ACD847C7BA985F3E656AC7E8290D7D7), [Quotations](https://www.goodreads.com/author/quotes/17212.Marcus_Aurelius)|
-|Aesop|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>(Childhood)|
+|Aesop<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
 
 <!-- 🔎 -->
 ## 📚 Entertainment & Literature
@@ -50,9 +50,9 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
 |🛸 Antigravity|[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
 |🧠 Logic Puzzles|[Dr. Raymond Smullyan](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
-|🌌 Astronomy|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)<br>(Childhood)|
+|🌌 Astronomy<br>(Childhood)|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)|
 |💬 Linguistics|[Mark Rosenfelder](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
-|♟️ Chess|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>(Childhood)|
+|♟️ Chess<br>(Childhood)|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)|
 
 ## 🎨 Art & Poetry
 
@@ -61,11 +61,11 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |||
 |:-:|:-:|
 |♾️ Recursion|[Pantokrator](https://en.wikipedia.org/wiki/Patterns_in_nature)| 
-|🔱 Engravings and mezzotints|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
-|✨ Optical Illusions|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)<br>(Childhood)|
-|🧮 Impossible Constructions|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)<br>(Childhood)|
-|🦢 Origami|(Childhood)|
-|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)<br>(Childhood)|
+|🔱 Engravings and mezzotints<br>(Childhood)|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
+|✨ Optical Illusions<br>(Childhood)|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)|
+|🧮 Impossible Constructions<br>(Childhood)|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)|
+|🦢 Origami<br>(Childhood)|N/A|
+|🪶 Poetry<br>(Childhood)|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
 
 <!-- https://en.wikipedia.org/wiki/List_of_optical_illusions -->
 <!-- [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals) -->
