@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:48:30 -0700
+date: 2021-11-04 11:48:31 -0700
 categories: debate discourse
 published: true
 ---
@@ -33,12 +33,13 @@ Before journeying into a debate, however logically sound our position may be, we
 
         Not to be confused with: `Argumentum ad lapidem` or an `appeal to the stone` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Ad lapidem is only a relevance fallacy and not of the red herring subtype. Notice the difference between ad absurdum and ad lapidem, one is ridiculing and irrelevant while the other is simply irrelevant.
 
-    - Another good example of ad absurdum would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. 
-    <!-- Personally, I also find pathos based rhetoric juvenile. -->
+    - Another good example of ad passiones would be `ad misericordiam` or an appeal to pity, a fallacy in which someone tries to win support for an argument or idea by exploiting his opponent's feelings of pity or guilt. This is an error in logic and an immediate loss. 
+        
+        > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
 
-        > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
+<!-- > "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools." &mdash; Ecclesiastes 7:9
 
-        > “How much more grievous are the consequences of anger than the causes of it.” &mdash; Marcus Aurelius, Meditations 
+> “How much more grievous are the consequences of anger than the causes of it.” &mdash; Marcus Aurelius, Meditations  -->
 
 - **`Argumentum ad verecundiam:`** An `appeal to authority` is where an assertion is deemed true because of the position or authority of the person asserting it. Subtypes of `ad verecundiam` include: Appeal to accomplishment & Courtier's reply.
 
