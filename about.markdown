@@ -201,9 +201,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- “I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.” &mdash; Marcus Aurelius, Meditations  -->
 
-> "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
+<!-- > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius -->
 
-> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
+<!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
