@@ -38,7 +38,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[The Gospel Message](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
 |Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
-|Financial Wisdom|[The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
+|Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
 |Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
 
