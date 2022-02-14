@@ -37,7 +37,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[The Gospel Message](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
-|Stoicism|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's De Tranquillitate Animi (On the Tranquility of the Mind)](https://youtu.be/vl5WDfwY4PY)|
+|Stoicism|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
 
 <!-- |Christ Jesus,<br>The Apostles|[The Gospels](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)| -->
