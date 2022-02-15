@@ -31,16 +31,20 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 ## 📜 Wisdom & Philosophy
 
-> “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius' Meditations 
+> “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations 
 
 |||
 |:-:|:-:|
-|Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[The Gospel Message](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke, John, Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
-|Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
+|Ancient Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
-|Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
+|Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching (22, 27, 31, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
+
+<!-- [Lao Tzu's Tao Te Ching #27](https://youtu.be/wRnN_RBBCxI?t=1090) -->
+
+<!-- 47?, 67? -->
 
 <!-- ||[The Book of John](https://youtu.be/XeRJuK4hCKo)| -->
 
