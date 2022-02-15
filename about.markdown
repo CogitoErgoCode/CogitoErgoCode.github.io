@@ -37,7 +37,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Sapiential Wisdom Literature|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
-|Hellenistic Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates (Classical)](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
+|Hellenistic Greek Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates (Classical)](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
 |Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Haiku](https://youtu.be/dan5PntGO7E), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
@@ -61,11 +61,11 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
-|🛸 Antigravity|[Dr. Paul A. LaViolette](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
-|🧠 Logic Puzzles|[Dr. Raymond Smullyan](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
+|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon's A Primer Of Hiher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott's Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Dr. Michio Kaku's Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
+|🛸 Antigravity|[Dr. Paul A. LaViolette's Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
+|🧠 Logic Puzzles|[Dr. Raymond Smullyan's Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
 |🌌 Astronomy<br>(Childhood)|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)|
-|💬 Linguistics|[Mark Rosenfelder](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
+|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
 |♟️ Chess<br>(Childhood)|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)|
 
 ## 🎨 Art & Poetry
