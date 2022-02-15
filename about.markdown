@@ -37,9 +37,9 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke, John, Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
-|Ancient Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
+|Ancient Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
-|Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
+|Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Haiku](https://youtu.be/dan5PntGO7E), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
 
 <!-- [Lao Tzu's Tao Te Ching #27](https://youtu.be/wRnN_RBBCxI?t=1090) -->
@@ -79,7 +79,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |✨ Optical Illusions<br>(Childhood)|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)|
 |🧮 Impossible Constructions<br>(Childhood)|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)|
 |🦢 Origami<br>(Childhood)|N/A|
-|🪶 Poetry<br>(Childhood)|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
+|🪶 Poetry<br>(Childhood)|[Haiku](https://youtu.be/dan5PntGO7E), [Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
 
 <!-- https://en.wikipedia.org/wiki/List_of_optical_illusions -->
 <!-- [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals) -->
