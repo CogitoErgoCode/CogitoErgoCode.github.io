@@ -37,7 +37,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
-|Ancient Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
+|Classical Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
 |Classics of Eastern Thought<br>(Childhood)|[Lao Tzu's Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Haiku](https://youtu.be/dan5PntGO7E), [Sun Tzu's The Art of War](\assets\books\sun_tzu\aow.pdf)|
 |Greek fabulists<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)|
@@ -103,7 +103,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
+|🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
 |🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
 
 
