@@ -35,7 +35,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke, John, Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
+|Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)|
 |Inspired Wisdom|[King Solomon's Proverbs](https://youtu.be/bupxWZkT8Mk), [King Solomon's Ecclesiastes](https://youtu.be/isbGMX_xNnY), [King David's Psalms](https://youtu.be/KiSEnfyrepI)|
 |Ancient Greek & Roman Philosophy<br>(Eudaimonia, Aretē, & Stoicism)|[Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU), [Socrates](https://youtu.be/6pZl0GVjns4), [Seneca's Ninth Book Of The Dialogues](https://youtu.be/vl5WDfwY4PY)|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)|
