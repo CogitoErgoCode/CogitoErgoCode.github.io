@@ -41,10 +41,10 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
-|Lao Tzu<br>600 B.C. or 400 B.C|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854)<br>Ancient Chinese Taoist Philosophy|
 |Aesop of Sardis<br>The Sage of Lydia<br>620 - 564 B.C.<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist|
 |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise|
 |Socrates<br>470 - 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy|
+|Lao Tzu<br>6th Century B.C.<br>Tao Te Ching Dates To 4th|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854)<br>Ancient Chinese Taoist Philosophy|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 
