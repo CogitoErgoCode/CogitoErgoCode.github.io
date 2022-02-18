@@ -35,7 +35,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. While I have only one belief in Christ, in accordance with the law of non-contradiction, I have many philosophies. I've found [equanimity](https://en.wikipedia.org/wiki/Equanimity) to be a reoccurring theme in my personal philosophy. 
 
-According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). In philosophical Taoism, equanimity is the practice and the effect of that practice. Equanimity is considered essential for carrying out the theological virtues (Aretē). 
+According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). In Philosophical Taoism, equanimity is the practice and the effect of that practice. Equanimity is considered essential for carrying out the theological virtues (Aretē). 
 
 <!-- And so, it is not, but the appreciation of equanimity. -->
 
@@ -64,6 +64,7 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 |Christ Jesus<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. - 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|René Descartes<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism)|
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
