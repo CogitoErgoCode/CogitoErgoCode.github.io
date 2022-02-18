@@ -33,20 +33,26 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-> “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations 
+The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. For many years, I have made an effort to collect philosophies bearing resemblance to the ultimate truth. A truth I believe is written on the hearts of men.
 
-<!-- ||[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)| -->
+> Even Gentiles, who do not have God’s written law, show that they know his law when they instinctively obey it, even without having heard it. They demonstrate that God’s law is written in their hearts, for their own conscience and thoughts either accuse them or tell them they are doing right. &mdash; Romans 2:14-15
+
+<!-- Understand that there is a distinction between what a man believes as his faith and healthy philosophies.  -->
+
+<!-- > “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations  -->
 
 |||
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
 |Aesop of Sardis<br>The Sage of Lydia<br>620 - 564 B.C.<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist|
-|Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise|
 |Socrates<br>470 - 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy|
 |Lao Tzu<br>6th Century B.C.<br>Tao Te Ching Dates To 4th|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854)<br>Ancient Chinese Taoist Philosophy|
+|Christ Jesus<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. - 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+
+<!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
 <!-- ||
 |:-:|
