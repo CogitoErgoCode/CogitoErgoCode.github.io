@@ -33,7 +33,9 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. For many years, I have made an effort to collect philosophies bearing resemblance to the ultimate truth. A truth I believe is written on the hearts of men.
+The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. 
+
+<!-- For many years, I have made an effort to collect philosophies bearing resemblance to the ultimate truth. A truth I believe is written on the hearts of men. -->
 
 > Even Gentiles, who do not have God’s written law, show that they know his law when they instinctively obey it, even without having heard it. They demonstrate that God’s law is written in their hearts, for their own conscience and thoughts either accuse them or tell them they are doing right. &mdash; Romans 2:14-15
 
