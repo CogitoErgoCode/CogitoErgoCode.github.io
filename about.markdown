@@ -64,7 +64,7 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 |Christ Jesus<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. - 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat")|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
