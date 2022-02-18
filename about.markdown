@@ -33,11 +33,13 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. While I have only one belief in Christ, in accordance with the law of non-contradiction, I have many philosophies. I've found [equanimity](https://en.wikipedia.org/wiki/Equanimity) to be a reoccurring theme in my personal philosophy. According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). In philosophical Taoism, equanimity is the practice and the effect of that practice. Equanimity is considered essential for carrying out the theological virtues (Aretē).
+The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. While I have only one belief in Christ, in accordance with the law of non-contradiction, I have many philosophies. I've found [equanimity](https://en.wikipedia.org/wiki/Equanimity) to be a reoccurring theme in my personal philosophy. According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). In philosophical Taoism, equanimity is the practice and the effect of that practice. Equanimity is considered essential for carrying out the theological virtues (Aretē). 
 
-> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things.
+<!-- And so, it is not, but the appreciation of equanimity. -->
 
-<!-- Philippians 4:8
+> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things. &mdash; Philippians 4:8
+
+<!-- 
 2 Peter 1:3
 2 Peter 1:5 -->
 
