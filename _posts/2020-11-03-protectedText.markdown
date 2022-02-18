@@ -1,7 +1,7 @@
 ---
 layout    : post
-title     : "Not Very ProtectedText.com 🔏"
-date      : 2020-11-05 22:50:01 -0700
+title     : "Bruteforcing ProtectedText.com 🔏"
+date      : 2020-11-05 22:50:10 -0700
 categories: infosec encryption bruteforce
 published : True
 ---
