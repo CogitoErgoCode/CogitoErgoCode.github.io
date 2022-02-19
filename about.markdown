@@ -83,8 +83,11 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
+<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
+
 |||
 |:-:|:-:|
+|**Sir Isaac Newton**<br>*The greatest scientific mind the world has ever produced.*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
 |Edwin A. Abbott<br>20 December 1838 – 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
 |Claude Fayette Bragdon<br>August 1, 1866 - September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
 |Dr. Raymond Merrill Smullyan<br>May 25, 1919|[Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)<br>Logic Puzzles|
