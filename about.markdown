@@ -29,7 +29,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 |Pyotr Ilyich Tchaikovsky<br>7 May 1840 – 6 November 1893|<a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
 |Sergei Vasilyevich Rachmaninoff<br>1 April 1873 – 28 March 1943|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>|
 |Maurice Ravel<br>7 March 1875 – 28 December 1937|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
-|Philip Glass<br>January 31, 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
+|Philip Glass<br>January 31 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)|
 
 ## 📜 Wisdom & Philosophy
@@ -60,14 +60,14 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
-|Aesop of Sardis<br>The Sage of Lydia<br>620 - 564 B.C.<br>(Childhood)|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist|
+|Aesop of Sardis<br>The Sage of Lydia<br>620 - 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
 |Lao Tzu<br>6th Century B.C.|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854)<br>Ancient Chinese Philosophical Taoism|
 |Socrates<br>470 - 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
 |Plato<br>428/427 - 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic - Book VII](https://youtu.be/CqGsg01ycpk?t=11099)<br>Classical Greek Philosophy<br>(<a href="https://youtu.be/JTfxKKo8ToE" style="color:#006699;">Mind–body dualism</a>, Theory of forms, Allegory of the cave)|
 |**Christ Jesus**<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. - 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
@@ -79,20 +79,38 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 <!-- [Sun Tzu's The Art of War](https://youtu.be/jxcMRkqaQdw) -->
 
 <!-- 🔎 -->
-## 📚 Entertainment & Literature
+## 📚 Science & Entertainment
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
 |||
 |:-:|:-:|
-|🐠 Higher Dimensional Physics|[Claude Fayette Bragdon's A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf), [Edwin A. Abbott's Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained (tl;dr)](https://youtu.be/UnURElCzGc0), [Dr. Michio Kaku's Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Numberphile](https://youtu.be/2s4TqVAbfz4)|
-|🛸 Antigravity|[Dr. Paul A. LaViolette's Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)|
-|🧠 Logic Puzzles|[Dr. Raymond Smullyan's Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)|
-|🌌 Astronomy<br>(Childhood)|[Kurzgesagt (Stars)](https://youtu.be/3mnSDifDSxQ), [Kurzgesagt (Black Holes)](https://youtu.be/0FH9cgRhQ-k)|
-|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
-|♟️ Chess<br>(Childhood)|[Bobby Fischer](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)|
+|Edwin A. Abbott<br>20 December 1838 – 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
+|Claude Fayette Bragdon<br>August 1, 1866 - September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
+|Dr. Raymond Merrill Smullyan<br>May 25, 1919|[Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)<br>Logic Puzzles|
+|Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
+|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 – January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
+|Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)<br>Parallel Universes, Time Warps, and the 10th Dimension|
+|Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
+|Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
 
-## 🎨 Art & Poetry
+<!-- 
+|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
+
+, [Numberphile](https://youtu.be/2s4TqVAbfz4) -->
+
+<!-- - `Mathematics`
+    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)
+- `Chemistry`
+    - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
+    - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
+    - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)
+- `Physics`
+    - `Young & Freedman:` [University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)
+    - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813)
+    - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420) -->
+
+## 🎨 Art, Poetry, & Literature
 
 > “Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.” &mdash; Leonardo da Vinci 
 
