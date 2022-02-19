@@ -21,14 +21,14 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 |||
 |:-:|:-:|
-|Antonio Vivaldi<br>4 March 1678 – 28 July 1741|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
-|Ludwig van Beethoven<br>17 December 1770 – 26 March 1827<br>(Childhood)|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
-|**Frédéric François Chopin**<br>1 March 1810 – 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
-|Franz Liszt<br>22 October 1811 – 31 July 1886|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
-|Claude Debussy<br>22 August 1862 – 25 March 1918|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
-|Pyotr Ilyich Tchaikovsky<br>7 May 1840 – 6 November 1893|<a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
-|Sergei Vasilyevich Rachmaninoff<br>1 April 1873 – 28 March 1943|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>|
-|Maurice Ravel<br>7 March 1875 – 28 December 1937|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
+|Antonio Vivaldi<br>4 March 1678 to 28 July 1741|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
+|Ludwig van Beethoven<br>17 December 1770 to 26 March 1827<br>(Childhood)|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|**Frédéric François Chopin**<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
+|Franz Liszt<br>22 October 1811 to 31 July 1886|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
+|Claude Debussy<br>22 August 1862 to 25 March 1918|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
+|Pyotr Ilyich Tchaikovsky<br>7 May 1840 to 6 November 1893|<a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
+|Sergei Vasilyevich Rachmaninoff<br>1 April 1873 to 28 March 1943|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>|
+|Maurice Ravel<br>7 March 1875 to 28 December 1937|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
 |Philip Glass<br>January 31 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)|
 
@@ -60,14 +60,14 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
-|Aesop of Sardis<br>The Sage of Lydia<br>620 - 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
+|Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
 |Lao Tzu<br>6th Century B.C.|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854)<br>Ancient Chinese Philosophical Taoism|
-|Socrates<br>470 - 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
-|Plato<br>428/427 - 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic - Book VII](https://youtu.be/CqGsg01ycpk?t=11099)<br>Classical Greek Philosophy<br>(<a href="https://youtu.be/JTfxKKo8ToE" style="color:#006699;">Mind–body dualism</a>, Theory of forms, Allegory of the cave)|
-|**Christ Jesus**<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. - 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
-|Lucius Annaeus Seneca the Younger<br>4 B.C. - 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|Emperor Marcus Aurelius<br>121 - 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 - 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
+|Socrates<br>470 – 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
+|Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic - Book VII](https://youtu.be/CqGsg01ycpk?t=11099)<br>Classical Greek Philosophy<br>(<a href="https://youtu.be/JTfxKKo8ToE" style="color:#006699;">Mind–body dualism</a>, Theory of forms, Allegory of the cave)|
+|**Christ Jesus**<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. – 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
+|Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 – 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
@@ -78,8 +78,7 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 
 <!-- [Sun Tzu's The Art of War](https://youtu.be/jxcMRkqaQdw) -->
 
-<!-- 🔎 -->
-## 📚 Science & Entertainment
+## 🧮 Science & Entertainment
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
@@ -87,13 +86,13 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 
 |||
 |:-:|:-:|
-|Euclid of Alexandria<br>*"The father of geometry."*<br>Hellenistic Greek Mathematician<br>Mid-4th to Mid-3rd Century B.C.|[Euclid's Elements of Geometry](https://libgen.is/book/index.php?md5=6B2CD6A579CC3E5B3803249CC8D9863E)|
+|Euclid of Alexandria<br>*"The father of geometry."*<br>Mid-4th to Mid-3rd Century B.C.|[Euclid's Elements of Geometry](https://libgen.is/book/index.php?md5=6B2CD6A579CC3E5B3803249CC8D9863E)<br>Hellenistic Greek Mathematics|
 |**Sir Isaac Newton**<br>*The greatest scientific mind the world has ever produced.*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
-|Edwin A. Abbott<br>20 December 1838 – 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
-|Claude Fayette Bragdon<br>August 1, 1866 - September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
+|Edwin A. Abbott<br>20 December 1838 to 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
+|Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
 |Dr. Raymond Merrill Smullyan<br>May 25, 1919|[Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)<br>Logic Puzzles|
 |Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
-|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 – January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
+|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
 |Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)<br>Parallel Universes, Time Warps, and the 10th Dimension|
 |Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
 |Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
