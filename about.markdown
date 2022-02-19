@@ -19,10 +19,11 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
+<!-- |Antonio Vivaldi<br>4 March 1678 to 28 July 1741|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)| -->
+
 |||
 |:-:|:-:|
-|Antonio Vivaldi<br>4 March 1678 to 28 July 1741|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
-|Ludwig van Beethoven<br>17 December 1770 to 26 March 1827<br>(Childhood)|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Ludwig van Beethoven<br>17 December 1770 to 26 March 1827|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |**Frédéric François Chopin**<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
 |Franz Liszt<br>22 October 1811 to 31 July 1886|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Claude Debussy<br>22 August 1862 to 25 March 1918|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
@@ -67,7 +68,7 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 |**Christ Jesus**<br>Yahweh Made Manifest In The Line Of King David, As Prophesied<br>4 B.C. – 33 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 – 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon "Brain in a vat", pineal gland)|
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
