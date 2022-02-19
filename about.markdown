@@ -87,6 +87,7 @@ According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia
 
 |||
 |:-:|:-:|
+|Euclid of Alexandria<br>*"The father of geometry."*<br>Hellenistic Greek Mathematician<br>Mid-4th to Mid-3rd Century B.C.|[Euclid's Elements of Geometry](https://libgen.is/book/index.php?md5=6B2CD6A579CC3E5B3803249CC8D9863E)|
 |**Sir Isaac Newton**<br>*The greatest scientific mind the world has ever produced.*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
 |Edwin A. Abbott<br>20 December 1838 – 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
 |Claude Fayette Bragdon<br>August 1, 1866 - September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
