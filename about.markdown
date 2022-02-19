@@ -17,14 +17,14 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 
 ## 🧮 Science & Mathematics
 
-> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
-
-<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
+> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
 
 |||
 |:-:|:-:|
 |Euclid of Alexandria<br>*"The father of geometry."*<br>Mid-4th to Mid-3rd Century B.C.|[Euclid's Elements of Geometry](https://libgen.is/book/index.php?md5=6B2CD6A579CC3E5B3803249CC8D9863E)<br>Hellenistic Greek Mathematics|
-|**Sir Isaac Newton**<br>*The greatest scientific mind the world has ever produced.*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|**Sir Isaac Newton**<br>*The greatest scientific mind the world has ever produced.*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|Albert Einstein<br>*One of the greatest scientific minds the world has ever produced.*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0) <!--https://libgen.is/book/index.php?md5=F91C2A34BE17CA6B197D0DD2FEC085A8-->|
+|||
 
 ## 🕹️ Entertainment
 
@@ -199,7 +199,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
 
-> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
+> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
 
 <!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov -->
 
