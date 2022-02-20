@@ -33,6 +33,30 @@ I've created a few lists of recommended reading below, I hope you find them as e
 |Albert Einstein<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<!--https://libgen.is/book/index.php?md5=F91C2A34BE17CA6B197D0DD2FEC085A8--><br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
 |**Undiscovered**|The third great unification in physics, the unification of the remaining fundamental forces.|
 
+I've decided to include a list of university texts, manuals, and documentation as well. Some I have read, the others I'm interested in working through. Every item on this list represents the very best example of the building blocks of each respective science.
+
+|||
+|:-:|:-:|
+|**Mathematics**||
+|Lots of People|[Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)|
+||
+|**Computer Science**||
+|Brian W. Kernighan, Dennis M. Ritchie<br>*"K&R"*|[The C Programming Language, 2nd Edition](https://libgen.is/book/index.php?md5=556E6BEE561B776C95C6872C441BAAD1)|
+|Aditya Bhargava|[Grokking Algorithms](https://libgen.is/book/index.php?md5=1A699911F1094229B4D6C5DF601A09AD)|
+|David M. Beazley|[Python Essential Reference (4th Edition)](http://library.lol/main/54A3BB8A2EF2A0AEC99F41600887B78B)|
+|Python Documentation|<a href="https://docs.python.org/3/library/index.html" style="color:#0073e6;">Standard Library</a>, <a href="https://docs.python.org/3/reference/index.html" style="color:#0073e6;">Language Reference</a>, <a href="https://docs.python.org/3/howto/index.html" style="color:#0073e6;">HOWTOs</a>|
+||
+|**Physics**||
+|Young & Freedman|[University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)|
+|Halliday & Resnick|[Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813)|
+|James S. Walker|[Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420)|
+||
+|**Chemistry**||
+|Nivaldo J. Tro|[Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)|
+|Lots of People|[Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)|
+|David Klein|[Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)|
+
+
 ## ♟️ Entertainment
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
@@ -51,20 +75,8 @@ I've created a few lists of recommended reading below, I hope you find them as e
 |Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
 
 <!-- 
-|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|
+|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|-->
 
-, [Numberphile](https://youtu.be/2s4TqVAbfz4) -->
-
-<!-- - `Mathematics`
-    - `Lots of People:` [Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)
-- `Chemistry`
-    - `Nivaldo J. Tro:` [Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)
-    - `Lots of People:` [Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)
-    - `David Klein:` [Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)
-- `Physics`
-    - `Young & Freedman:` [University Physics with Modern Physics (15th Edition)](http://library.lol/main/16A1B9AC736037E762F7E0E7B524BC0F), [Instructor's Solution Manual (15th Edition)](http://library.lol/main/F2DEE59DEA93D377D50D3F58925AAEBB)
-    - `Halliday & Resnick:` [Fundamentals of Physics (11th Edition)](http://library.lol/main/368C733FB5BB221FFA7305729B6A4813)
-    - `James S. Walker:` [Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420) -->
 
 ## 📜 Wisdom & Philosophy
 
