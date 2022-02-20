@@ -13,7 +13,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
 - 私は日本語を勉強しています。
 
-I've created a few lists of recommended reading below, I hope you find them as edifying as I did.
+I've created a few lists of recommended reading below, I hope you find them as edifying as I have.
 
 <!-- I hope you derive as much pleasure from reading them as I have.  -->
 
