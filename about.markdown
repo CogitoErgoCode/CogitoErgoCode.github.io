@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and computer programmer. I am also a crypto investor, esperantist, and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
+Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and self-taught computer programmer. I am also a crypto investor, esperantist, and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
 
 - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
 - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a>
@@ -35,11 +35,11 @@ I've created a few lists of recommended reading below, I hope you find them as e
 
 I've decided to include a list of university texts, manuals, and documentation as well. Some I have read, the others I'm interested in working through. Every item on this list represents the very best example of the building blocks of each respective science.
 
+<!-- |**Mathematics**|| -->
+<!-- |Lots of People|[Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)| -->
+
 |||
 |:-:|:-:|
-|**Mathematics**||
-|Lots of People|[Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)|
-||
 |**Computer Science**||
 |Brian W. Kernighan, Dennis M. Ritchie<br>*"K&R"*|[The C Programming Language, 2nd Edition](https://libgen.is/book/index.php?md5=556E6BEE561B776C95C6872C441BAAD1)|
 |Aditya Bhargava|[Grokking Algorithms](https://libgen.is/book/index.php?md5=1A699911F1094229B4D6C5DF601A09AD)|
