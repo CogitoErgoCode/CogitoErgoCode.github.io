@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and computer programmer. I am also a crypto investor, esperantist, and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and computer programmer. I am also a crypto investor, esperantist, and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
 
 - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
 - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a>
@@ -12,6 +12,10 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 - Aspiring classical pianist
 - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
 - 私は日本語を勉強しています。
+
+I've created a few lists of recommended reading below, I hope you find them as edifying as I have.
+
+<!-- I hope you derive as much pleasure from reading them as I have.  -->
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
