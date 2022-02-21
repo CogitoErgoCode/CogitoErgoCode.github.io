@@ -13,7 +13,9 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
 - 私は日本語を勉強しています。
 
-I've created a few lists of recommended reading below, I hope you will find them as edifying as I have.
+I've created a few lists of recommended reading below.
+
+<!-- , I hope you will find them as edifying as I have. -->
 
 <!-- I hope you derive as much pleasure from reading them as I have.  -->
 
@@ -21,7 +23,7 @@ I've created a few lists of recommended reading below, I hope you will find them
 
 ## 🧮 Science & Mathematics
 
-> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
+> Any theory, no matter how beautiful, must eventually confront experimental verification. &mdash; Dr. Michio Kaku
 
 |||
 |:-:|:-:|
@@ -75,7 +77,7 @@ I've created a few lists of recommended reading below, I hope you will find them
 |Dr. Raymond Merrill Smullyan<br>May 25, 1919|[Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)<br>Logic Puzzles|
 |Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
 |Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
-|Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7)<br>Parallel Universes, Time Warps, and the 10th Dimension|
+|Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
 |Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
 |Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
 
@@ -222,6 +224,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 > "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
 
 > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
+
+> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
 
 > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
 
