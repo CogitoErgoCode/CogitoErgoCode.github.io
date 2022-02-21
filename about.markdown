@@ -41,7 +41,7 @@ I've decided to include a list of university texts, manuals, and documentation a
 
 |||
 |:-:|:-:|
-|**Computer Science**||
+|**Computer Programming**||
 |Brian W. Kernighan, Dennis M. Ritchie<br>*"K&R"*|[The C Programming Language, 2nd Edition](https://libgen.is/book/index.php?md5=556E6BEE561B776C95C6872C441BAAD1)|
 |Aditya Bhargava|[Grokking Algorithms](https://libgen.is/book/index.php?md5=1A699911F1094229B4D6C5DF601A09AD)|
 |David M. Beazley|[Python Essential Reference (4th Edition)](http://library.lol/main/54A3BB8A2EF2A0AEC99F41600887B78B)|
