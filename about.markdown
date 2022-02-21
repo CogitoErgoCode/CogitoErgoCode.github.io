@@ -13,7 +13,7 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 - [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
 - 私は日本語を勉強しています。
 
-I've created a few lists of recommended reading below, I hope you find them as edifying as I have.
+I've created a few lists of recommended reading below, I hope you will find them as edifying as I have.
 
 <!-- I hope you derive as much pleasure from reading them as I have.  -->
 
@@ -34,12 +34,12 @@ I've created a few lists of recommended reading below, I hope you find them as e
 |Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
 |**Undiscovered**<br>*The greatest scientific mind the world will have ever produced since Maxwell*|The third great unification in physics, the unification of the remaining fundamental forces.|
 
-I've decided to include a list of university texts, manuals, and documentation as well. Some I have read, the others I'm interested in working through. Every item on this list represents the very best example of the building blocks of each respective science.
+<!-- I've decided to include a list of university texts, manuals, and documentation as well. Some I have read, the others I'm interested in working through. Every item on this list represents the very best example of the building blocks of each respective science. -->
 
 <!-- |**Mathematics**|| -->
 <!-- |Lots of People|[Handbook of Mathematics (6th Edition)](http://libgen.is/book/index.php?md5=E8C280904FDC5A19900986BA5004B8B8)| -->
 
-|||
+<!-- |||
 |:-:|:-:|
 |**Computer Programming**||
 |Brian W. Kernighan, Dennis M. Ritchie<br>*"K&R"*|[The C Programming Language, 2nd Edition](https://libgen.is/book/index.php?md5=556E6BEE561B776C95C6872C441BAAD1)|
@@ -54,7 +54,7 @@ I've decided to include a list of university texts, manuals, and documentation a
 ||
 |**Chemistry**||
 |Nivaldo J. Tro|[Chemistry: A Molecular Approach, 5th Global Edition](https://libgen.is/book/index.php?md5=F5A8C9EA38F60342EFC33475AA683FBD)|
-|Theodore Brown, H. LeMay, Bruce Bursten, Catherine Murphy, Patrick Woodward, Matthew Stoltzfus|[Chemistry: The Central Science in SI Units, Expanded Edition, 15th Global Edition](https://libgen.is/book/index.php?md5=14A64CC8AB46966C8A58D498329E8288)|
+|Theodore Brown, H. LeMay, Bruce Bursten, Catherine Murphy, Patrick Woodward, Matthew Stoltzfus|[Chemistry: The Central Science in SI Units, Expanded Edition, 15th Global Edition](https://libgen.is/book/index.php?md5=14A64CC8AB46966C8A58D498329E8288)| -->
 
 <!-- |Nivaldo J. Tro|[Principles of Chemistry: A Molecular Approach](https://libgen.is/book/index.php?md5=710B0164D21009967C0A8731ED703AF1)| -->
 
