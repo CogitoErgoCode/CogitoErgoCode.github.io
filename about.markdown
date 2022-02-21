@@ -53,9 +53,12 @@ I've decided to include a list of university texts, manuals, and documentation a
 |James S. Walker|[Physics (5th Edition)](http://library.lol/main/B8E9622C67A228DA70E63D7DE9645EFD), [Physics 5th, Instructor’s Solutions Manual](http://library.lol/main/5004AB5F9C80930EC71AB8B9A0BC4420)|
 ||
 |**Chemistry**||
-|Nivaldo J. Tro|[Chemistry - A Molecular Approach (5th Edition)](http://library.lol/main/118AD6079334F07661D451643A168081)|
-|Lots of People|[Chemistry - The Central Science (13th Edition)](http://library.lol/main/315EB04A70DE4C08F4435B28BC88633A)|
-|David Klein|[Organic Chemistry](http://library.lol/main/6F2DC1915FF26DB07CE7A5863A60F6A3)|
+|Nivaldo J. Tro|[Chemistry: A Molecular Approach, 5th Global Edition](https://libgen.is/book/index.php?md5=F5A8C9EA38F60342EFC33475AA683FBD)|
+|Theodore Brown, H. LeMay, Bruce Bursten, Catherine Murphy, Patrick Woodward, Matthew Stoltzfus|[Chemistry: The Central Science in SI Units, Expanded Edition, 15th Global Edition](https://libgen.is/book/index.php?md5=14A64CC8AB46966C8A58D498329E8288)|
+
+<!-- |Nivaldo J. Tro|[Principles of Chemistry: A Molecular Approach](https://libgen.is/book/index.php?md5=710B0164D21009967C0A8731ED703AF1)| -->
+
+<!-- |David Klein|[Organic Chemistry, 4th Edition](https://libgen.is/book/index.php?md5=51CAA2BB678EBD77DC69F6C64FEB8EB6)| -->
 
 
 ## ♟️ Entertainment
