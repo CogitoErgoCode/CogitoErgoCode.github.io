@@ -4,14 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and self-taught computer programmer. I am also a crypto investor, esperantist, and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
+Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, and self-taught computer programmer. I am also a crypto investor, [esperantist](https://en.wikipedia.org/wiki/Esperanto), and aspiring polymath. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
 
-- Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
-- Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a>
-- Python computer programmer
-- Aspiring classical pianist
-- [Mi deziras paroli Esperanton flue](https://en.wikipedia.org/wiki/Esperanto).
-- 私は日本語を勉強しています。
+- Personality Type
+    - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
+    - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a>
+- Current Goals
+    - Aspiring classical pianist
+    - Mi deziras paroli Esperanton flue.
+
+<!-- - Python computer programmer -->
+<!-- - 私は日本語を勉強しています。 -->
 
 I've created a few lists of recommended reading below.
 
