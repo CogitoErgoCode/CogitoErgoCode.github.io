@@ -6,6 +6,8 @@ categories: python web spidering crawling scraping data extraction
 published: true
 ---
 
+Well, it's 2/22/2022 on a Tuesday, and in the past week i've read over 22 books. I thought that was odd and that I should just go ahead and publish this article. Happy 2's Day!
+
 ## **Content Covered**
 
 The *Web Scraping* series of articles cover various methods and libraries that achieve the end goal of crawling websites and performing data extraction via scraping. Making use of a websites REST API has been covered by previous articles. These article will focus on the methods available to us when we encounter a site without a provided application programming interface.

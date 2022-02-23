@@ -31,6 +31,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 |**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
 |Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
 |**Albert Einstein**<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<!--https://libgen.is/book/index.php?md5=F91C2A34BE17CA6B197D0DD2FEC085A8--><br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
+|Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|[Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://libgen.is/book/index.php?md5=FE6910526003C503D504FB2D56993985), [Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time](https://libgen.is/book/index.php?md5=802AA421C926121251E3394BB514ECD5)|
 |**Undiscovered**<br><sub>***The God Equation***</sub>|[The God Equation by Dr. Michio Kaku](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426)|
 
@@ -39,8 +40,6 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 <!-- |Johannes Kepler<br>27 December 1571 to 15 November 1630|[Epitome of Copernican Astronomy & Harmonies of the World](https://libgen.is/book/index.php?md5=396B54B169EE62332367E4A0C67F3488)| -->
 <!-- |Max Planck<br>23 April 1858 to 4 October 1947|| -->
 <!-- |Erwin Schrödinger<br>12 August 1887 to 4 January 1961|| -->
-<!-- |Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)| -->
-
 
 <!-- I've decided to include a list of university texts, manuals, and documentation as well. Some I have read, the others I'm interested in working through. Every item on this list represents the very best example of the building blocks of each respective science. -->
 
