@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Web Scraping: Requests And BeautifulSoup 🌐"
-date: 2022-02-22 12:00:01 -0700
+date: 2022-02-22 12:00:02 -0700
 categories: python web spidering crawling scraping data extraction
 published: true
 ---
 
-Well, it's 2/22/2022 on a Tuesday, and in the past 2 weeks I've read over 22 books. I thought that was odd and that I should just go ahead and publish this article. Happy 2's Day!
+Well, it's 2/22/2022 on a Tuesday, and in the past 2 weeks I've read over 22 books on wisdom and philosophy. I thought that was odd and that I should just go ahead and publish this article. The books which resonated with me you can read on my about page. Happy 2's Day!
 
 ## **Content Covered**
 
