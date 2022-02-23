@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping: Requests And BeautifulSoup 🌐"
-date: 2022-02-21 17:16:59 -0700
+date: 2022-02-22 17:17:00 -0700
 categories: python web spidering crawling scraping data extraction
 published: true
 ---
