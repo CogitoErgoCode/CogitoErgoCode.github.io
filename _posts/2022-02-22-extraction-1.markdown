@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping: Requests And BeautifulSoup 🌐"
-date: 2022-02-22 12:00:02 -0700
+date: 2022-02-22 12:00:03 -0700
 categories: python web spidering crawling scraping data extraction
 published: true
 ---
@@ -10,7 +10,7 @@ Well, it's 2/22/2022 on a Tuesday, and in the past 2 weeks I've read over 22 boo
 
 ## **Content Covered**
 
-The *Web Scraping* series of articles cover various methods and libraries that achieve the end goal of crawling websites and performing data extraction via scraping. Making use of a websites REST API has been covered by previous articles. These article will focus on the methods available to us when we encounter a site without a provided application programming interface.
+The *Web Scraping* series of articles cover various methods and libraries that achieve the end goal of crawling websites and performing data extraction via scraping. Making use of a websites REST API has been covered by previous articles. These articles will focus on the methods available to us when we encounter a site without a provided application programming interface.
 
 - The Requests & BeautifulSoup Libraries
     - IPs, geolocation, dowloading images
