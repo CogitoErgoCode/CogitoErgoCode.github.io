@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PDF To Speech 💬"
-date: 2022-02-23 12:00:00 -0700
+date: 2022-02-23 12:00:02 -0700
 categories: pdf tts speech
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 ⚠️ pyttsx3 does not work with all PDFs!
 
-So the past couple weeks I've read over 22 books thanks to a little trick I've been employing on youtube with audiobooks and a special chrome extension that allows be to speed up said audiobooks past 2x playback speed. 
+So the past couple weeks I've read over 22 books thanks to a little trick I've been employing on youtube with audiobooks and a special chrome extension that allows me to speed up said audiobooks past 2x playback speed. 
 
 I got to thinking, that it would be nice if I had the same capability with some of my PDFs, as most of my library is composed of hundreds of PDFs.
 
