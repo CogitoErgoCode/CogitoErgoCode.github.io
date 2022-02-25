@@ -8,7 +8,7 @@ published: true
 
 ## **The First Attempt**
 
-⚠️ pyttsx3 does not work with all PDFs!
+⚠️ PyPDF library does not work with all PDFs!
 
 So the past couple weeks I've read over 22 books thanks to a little trick I've been employing on youtube with audiobooks and a special chrome extension that allows me to speed up said audiobooks past 2x playback speed. 
 
