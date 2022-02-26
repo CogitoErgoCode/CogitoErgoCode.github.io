@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PDF To Speech 💬"
-date: 2022-02-23 12:00:02 -0700
+date: 2022-02-23 12:00:03 -0700
 categories: pdf tts speech
 published: true
 ---
@@ -16,7 +16,7 @@ I got to thinking, that it would be nice if I had the same capability with some 
 
 >  This works **well for some** PDF files, but **poorly for others**... &mdash; [extractText()](https://pythonhosted.org/PyPDF2/PageObject.html#PyPDF2.pdf.PageObject.extractText)
 
-I'm a little annoyed at my first attempt, mostly because I programmed it only to find out that the underlying library only extracts texts well, from *"some"* PDFs. Anyhow, I'll share what I have, it does work for *"some"* PDFs afterall.
+I am comically annoyed at my first attempt, mostly because I programmed it only to find out that the underlying library only extracts texts well, from *"some"* PDFs. Anyhow, I'll share what I have, it does work for *"some"* PDFs afterall.
 
 # The Main Program
 
@@ -46,7 +46,7 @@ if __name__ == "__main__":
     main()
 ```
 
-# Sample output from `pdf.read()`.
+# Sample output from `pdf.read()`
 
 The program will essentially read the PDF aloud, sentence by sentence, while printing what is read to stdout.
 
@@ -170,7 +170,7 @@ def read_from(self, pageNumber):
 
 # The Read Page Method
 
-This method is used in both the `read()` method and `read_from()` method.
+This method is used in both `read()` and `read_from()` methods.
 
 ```py
 def read_page(self, pageObj):
@@ -224,10 +224,12 @@ def extract_info(self, pdf):
     return menu
 ```
 
-## **Conclusion**
+<!-- ## **The Final Attempt**
 
-While the above program is functional, I'm looking for a solution in a different library that will support all PDFs without having to hand design my own PDF extraction library from scratch. If I find one, I'll update this article with a second attempt just above the conclusion section.
+```py
 
-I've tried pdfminer.six but the documentation leaves much to be desired.
+``` -->
 
-If you have any recommendations, please email me. Any suggestions you provide will be credited to you in future sections.
+## **Summary**
+
+While the above program is functional, I'm looking for a solution in a different library that will support all PDFs. If you have any suggestions feel free to contact my email. Any suggestions you provide will be credited to you in future sections.
