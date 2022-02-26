@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:00 -0700
+date: 2022-02-25 12:00:01 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -25,7 +25,6 @@ Additionally, patients with epilepsy find a decrease in epileptiform activity wh
 ## The Benefits Of A Bilingual Brain
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMmOLN5zBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
 Learning a second language can increase problem solving ability.
 
@@ -48,9 +47,11 @@ The [Sapir–Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tkm0TNFzIeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This blog essentially acts as an expression of this technique.
+
 > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
 
-> I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile! &mdash; Richard P. Feynman
+<!-- > I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile! &mdash; Richard P. Feynman -->
 
 ## Spaced Repetition
 
