@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:11 -0700
+date: 2022-02-25 12:00:12 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -105,7 +105,7 @@ Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now anyone who knows me knows that I embody the INTJ+5w6 Personality type almost to a stereotype. Just because we haven't talked in awhile doesn't me that I have somehow purged you okay lol. 
+Now, anyone who knows me knows that I embody the INTJ+5w6 Personality type almost to a stereotype. Just because we haven't talked in awhile doesn't me that I have somehow purged you okay lol. 
 
 <!-- [How to know you're actually a christian.](https://youtu.be/5J0BaD5Zhag?t=1818) -->
 
@@ -115,7 +115,7 @@ There's only two people throughout my existence that have been removed entirely,
  
 I think it's best to deal with people like this, not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
 
-> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **men who cannot succeed themselves wish everyone else to be ruined.**"
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
 
 Epictetus is another stoic philosopher that will help you deal will viscous attacks from others.
 
@@ -127,7 +127,7 @@ Epictetus is another stoic philosopher that will help you deal will viscous atta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chiKi95j9UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I usually set my audiobooks on youtube around the suggested 2.60x. In the past couple of weeks I've read over 22 books thanks to this little trick I've been employing on youtube.
+I usually set my audiobooks on youtube around the suggested 2.6x. In the past couple of weeks I've read over 22 books thanks to this little trick I've been employing on youtube.
 
 ## PDF To Speech 💬
 
