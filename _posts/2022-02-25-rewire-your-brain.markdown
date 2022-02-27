@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:16 -0700
+date: 2022-02-25 12:00:18 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -106,23 +106,22 @@ Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now, anyone who knows me knows that I embody the INTJ+5w6 Personality type almost to a stereotype. Just because we haven't talked in awhile doesn't mean that I have somehow purged you okay lol. 
-
-<!-- [How to know you're actually a christian.](https://youtu.be/5J0BaD5Zhag?t=1818) -->
-
-There's only two people throughout my existence that have been removed entirely, and they were previous friends who decided to bring false witness against me, and propagate lies. Although, I must say the last friend was being corrupted by someone else. If he should wake up, I would encourage him to reach out again. I simply cannot be around the extremely toxic and ignorant person who is dragging him down. I can't watch.
+This section is just a reminder that your time is precious, and not to waste it upon people who would purposely drag you down. Keep in mind that those who malign others are projecting their own insecurities and limitations upon those they envy.
 
 > There are six things which Yahweh hates, Even seven which are an abomination to Him: Haughty eyes, a lying tongue, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
- 
+
 I think it's best to deal with people like this, not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
 
 > "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
 
-Epictetus is another stoic philosopher that will help you deal will vicious attacks from others.
+Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
 
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+<!-- [How to know you're actually a christian.](https://youtu.be/5J0BaD5Zhag?t=1818) -->
+
 
 ## Video Speed Controller
 
