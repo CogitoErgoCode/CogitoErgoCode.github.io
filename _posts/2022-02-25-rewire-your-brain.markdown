@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:01 -0700
+date: 2022-02-25 12:00:10 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -26,17 +26,28 @@ Additionally, patients with epilepsy find a decrease in epileptiform activity wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMmOLN5zBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Learning a second language can increase problem solving ability.
+- Learning a second language can increase problem solving ability. 
 
-## Sapir-Whorf Hypothesis
+- The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RKK7wGAYP6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- ## The Telescope Rule -->
 
-<!-- - Problem Solving -->
+- According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
 
-The [Sapir–Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language. 
+<!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
 
-<!-- I've always wondered how my thoughts and influences might change if I became multilingual. Another thought was whether or not programming languages and musical languages, if you will, had any impact on this theory. -->
+<!-- The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
+
+|||
+|:-:|:-:|
+|Category I (Easy)<br>24-30 weeks (600-750 class hours)|Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, **Spanish**, Swedish|
+|Category II (Moderate)<br>Approximately 36 weeks (900 class hours)|**German**, Haitian Creole, Indonesian, Malay, Swahili|
+|Category III (Hard)<br>Approximately 44 weeks (1100 class hours)|Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese|
+|Category IV (Super Hard)<br>88 weeks (2200 class hours)|Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean|
+
+According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+
+It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours). -->
 
 ## Active Recall
 
@@ -58,42 +69,43 @@ This blog essentially acts as an expression of this technique.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-zNHHpXoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-## The Telescope Rule
+## Lifestyle, Diet & Exercise
 
-According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMZfyEy_jpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
+Generally, foods that increase serotonin and brain health should be incorporated into your diet. Below I've made a list of my own findings that seem to match what Dr. Berg is saying. 
 
-The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
+In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
 
-|||
-|:-:|:-:|
-|Category I (Easy)<br>24-30 weeks (600-750 class hours)|Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, **Spanish**, Swedish|
-|Category II (Moderate)<br>Approximately 36 weeks (900 class hours)|**German**, Haitian Creole, Indonesian, Malay, Swahili|
-|Category III (Hard)<br>Approximately 44 weeks (1100 class hours)|Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese|
-|Category IV (Super Hard)<br>88 weeks (2200 class hours)|Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean|
+> But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh. &mdash; Ecclesiastes 12:12
 
-According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+Unfortunately, I've let myself go for over a decade and because I am endomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
-It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
+- Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
+- Exersize and light therapy "sunlight" (Vitamin D) are also beneficial. 
+- Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
+- Avoid all forms of heavy drinking.
+- Reduce your sugar intake with stevia. 
+- Vitamin K2 & Bs.
 
-## Diet & Exercise
 
-Generally, foods that increase serotonin and brain health should be incorporated into your diet. Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
-
-Exersize and light therapy "sunlight" (Vitamin D) are also beneficial. Reduce your sugar intake with stevia. Vitamin K2 & Bs.
-
-## Lifestyle
+<!-- ## Lifestyle Choices -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Y18Vz51Nkos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tgp-oZ_f6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Tgp-oZ_f6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-This section will probably be controversial. I have had a lot of friends, and girlfriends in the past that smoked weed. Just keep in mind that I believe that people should be able to live their lives in the way that they choose. As for me, because of my goals, both intellectually and [religiously](https://biblehub.com/greek/5331.htm), I have not incorporated it's use into my lifestyle. 
+<!-- This section will probably be controversial. I have had a lot of friends, and girlfriends in the past that smoked weed. Just keep in mind that I believe that people should be able to live their lives in the way that they choose. As for me, because of my goals, both intellectually and [religiously](https://biblehub.com/greek/5331.htm), I have not incorporated it's use into my lifestyle.  -->
 
 <!-- I am not telling people how to live their lives. Having said that, if you are young and you feel as though you are called by God or science to a higher purpose. I'd suggest other activities. -->
+
+## Purging Negativity & Toxic People From Your Life
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Video Speed Controller
 
