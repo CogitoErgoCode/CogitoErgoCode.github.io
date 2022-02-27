@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:15 -0700
+date: 2022-02-25 12:00:16 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -82,7 +82,7 @@ In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang wh
 Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
 - Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
-- Organic, Grass-fed, and Non-GMO being of vital importance.
+- Organic, grass-fed, and non-gmo being of vital importance.
 - Exersize and light therapy "sunlight" (Vitamin D) are also beneficial. 
 - Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
 - Avoid all forms of heavy drinking.
@@ -118,7 +118,7 @@ I think it's best to deal with people like this, not with immaturity, but with s
 
 > "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
 
-Epictetus is another stoic philosopher that will help you deal will viscous attacks from others.
+Epictetus is another stoic philosopher that will help you deal will vicious attacks from others.
 
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
