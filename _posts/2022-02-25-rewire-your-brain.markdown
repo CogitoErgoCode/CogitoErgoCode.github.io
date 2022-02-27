@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:13 -0700
+date: 2022-02-25 12:00:14 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -82,6 +82,7 @@ In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang wh
 Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
 - Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
+- Organic, Grass-fed, and Non-GMO being of vital importance.
 - Exersize and light therapy "sunlight" (Vitamin D) are also beneficial. 
 - Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
 - Avoid all forms of heavy drinking.
