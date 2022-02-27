@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:14 -0700
+date: 2022-02-25 12:00:15 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -106,7 +106,7 @@ Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now, anyone who knows me knows that I embody the INTJ+5w6 Personality type almost to a stereotype. Just because we haven't talked in awhile doesn't me that I have somehow purged you okay lol. 
+Now, anyone who knows me knows that I embody the INTJ+5w6 Personality type almost to a stereotype. Just because we haven't talked in awhile doesn't mean that I have somehow purged you okay lol. 
 
 <!-- [How to know you're actually a christian.](https://youtu.be/5J0BaD5Zhag?t=1818) -->
 
