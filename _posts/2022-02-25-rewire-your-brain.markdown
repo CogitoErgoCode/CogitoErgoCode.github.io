@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:24 -0700
+date: 2022-02-25 12:00:26 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -89,39 +89,6 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 - Avoid all forms of heavy drinking.
 - Reduce your sugar intake with stevia. 
 - Vitamin K2 & Bs.
-
-<!-- ## Lifestyle Choices -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Y18Vz51Nkos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Uneducated People Make Up the Majority of Smokers in the U.S. -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Tgp-oZ_f6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<!-- This section will probably be controversial. I have had a lot of friends, and girlfriends in the past that smoked weed. Just keep in mind that I believe that people should be able to live their lives in the way that they choose. As for me, because of my goals, both intellectually and [religiously](https://biblehub.com/greek/5331.htm), I have not incorporated it's use into my lifestyle.  -->
-
-<!-- I am not telling people how to live their lives. Having said that, if you are young and you feel as though you are called by God or science to a higher purpose. I'd suggest other activities. -->
-
-## Purging Negativity
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-This section is just a reminder that your time is precious, and not to waste it upon people who would slander or berate you. Keep in mind that those who malign others are projecting their own insecurities and limitations upon those they envy.
-
-> There are six things which Yahweh hates, Even seven which are an abomination to Him: Haughty eyes, a lying tongue, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
-
-I think it's best to deal with people like this, not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
-
-> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
-
-Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
-
-> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
-
-> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
-
-<!-- [How to know you're actually a christian.](https://youtu.be/5J0BaD5Zhag?t=1818) -->
-
 
 ## Video Speed Controller
 
@@ -347,13 +314,38 @@ def extract_info(self, pdf):
     return menu
 ```
 
-<!-- ## **The Final Attempt**
+## The Philosophy of Stoicism: Purging Negativity 
 
-```py
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-``` -->
+This section is just a reminder that your time is precious, and not to waste it upon people who would slander or berate you. Keep in mind that those who malign others are projecting their own insecurities and limitations upon those they envy.
 
-<!-- ## **Summary**
+> There are six things which Yahweh hates, Even seven which are an abomination to Him: Haughty eyes, a lying tongue, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
 
-- Pick up an instrument
-- Become Bilingual:  -->
+I think it's best to deal with people like this, not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
+
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
+
+Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
+
+> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
