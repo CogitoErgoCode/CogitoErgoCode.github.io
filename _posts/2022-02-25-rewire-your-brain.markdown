@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:21 -0700
+date: 2022-02-25 12:00:23 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -106,7 +106,7 @@ Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This section is just a reminder that your time is precious, and not to waste it upon people who would purposely drag you down. Keep in mind that those who malign others are projecting their own insecurities and limitations upon those they envy.
+This section is just a reminder that your time is precious, and not to waste it upon people who would slander or berate you. Keep in mind that those who malign others are projecting their own insecurities and limitations upon those they envy.
 
 > There are six things which Yahweh hates, Even seven which are an abomination to Him: Haughty eyes, a lying tongue, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
 
