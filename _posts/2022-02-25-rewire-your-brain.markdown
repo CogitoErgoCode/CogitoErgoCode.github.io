@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:20 -0700
+date: 2022-02-25 12:00:21 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -84,7 +84,7 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 
 - Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
 - Organic, grass-fed, and non-gmo being of vital importance.
-- Exersize and light therapy "sunlight" (Vitamin D) are also beneficial. 
+- Exercise and light therapy "sunlight" (Vitamin D) are also beneficial. 
 - Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
 - Avoid all forms of heavy drinking.
 - Reduce your sugar intake with stevia. 
