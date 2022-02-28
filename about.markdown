@@ -9,9 +9,11 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
 <!-- - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
 - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> -->
 
-<!-- - Aspiring Classical pianist -->
-<!-- - Python computer programmer -->
-<!-- - Mi deziras paroli Esperanton flue. -->
+<!-- - [Current Goals & Aspirations](https://cogitoergocode.github.io/rewire-your-brain/)
+    - Mi deziras paroli Esperanton flue.
+    - University Education In Physics 
+    - Classical pianist -->
+    
 <!-- - 私は日本語を勉強しています。 -->
 
 I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
