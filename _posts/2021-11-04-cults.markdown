@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Save Your Loved Ones From The Cults ☠️"
-date: 2021-11-04 11:49:01 -0700
+date: 2021-11-04 11:49:02 -0700
 categories: god bible religion cults
 published: true
 ---
@@ -1165,3 +1165,20 @@ Even though I could've ended this article without including anything past provin
 | [NLT](https://www.tyndale.com/nlt/what-is-the-new-living-translation) | Biblia Hebraica Stuttgartensia (1977) / UBS Greek New Testament (4th corrected ed.); Novum Testamentum Graece (27th ed., 1993) | **70.08%** | 39.90% | 90+ |  -->
 
 <!-- <a href="https://carm.org/doctrine-and-theology/what-is-the-hypostatic-union/?highlight=hypostatic+union" style="text-align: center; font-family: italic; font-size: small;">The Hypostatic Union, CARM</a> -->
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
