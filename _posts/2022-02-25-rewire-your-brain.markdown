@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:23 -0700
+date: 2022-02-25 12:00:24 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -53,7 +53,7 @@ It's interesting to note that Esperanto can be learned in 150 hours. If we look 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukLnPbIffxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-Ever feel as though you're always learning and never able to come to the knowledge of the truth? Well I'm sorry to have to break it to you my friend, but reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with the Feynman technique, and spaced repetition. 
+Reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with the Feynman technique, and spaced repetition. 
 
 ## The Feynman Technique
 
@@ -102,7 +102,7 @@ Uneducated People Make Up the Majority of Smokers in the U.S. -->
 
 <!-- I am not telling people how to live their lives. Having said that, if you are young and you feel as though you are called by God or science to a higher purpose. I'd suggest other activities. -->
 
-## Purging Negativity & Toxic People From Your Life
+## Purging Negativity
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
