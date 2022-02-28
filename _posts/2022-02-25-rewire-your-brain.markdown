@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:19 -0700
+date: 2022-02-25 12:00:20 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -78,7 +78,7 @@ Generally, foods that increase serotonin and brain health should be incorporated
 
 In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
 
-> But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh. &mdash; Ecclesiastes 12:12
+> "But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh." &mdash; Ecclesiastes 12:12 LSB
 
 Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
@@ -89,7 +89,6 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 - Avoid all forms of heavy drinking.
 - Reduce your sugar intake with stevia. 
 - Vitamin K2 & Bs.
-
 
 <!-- ## Lifestyle Choices -->
 
@@ -128,7 +127,7 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chiKi95j9UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I usually set my audiobooks on youtube around the suggested 2.6x. In the past couple of weeks I've read over 22 books thanks to this little trick I've been employing on youtube.
+I usually set my audiobooks on youtube around the suggested 2.65x. In the past couple of weeks I've read over 22 books thanks to this little trick I've been employing on youtube.
 
 ## PDF To Speech 💬
 
@@ -321,7 +320,7 @@ def extract_info(self, pdf):
     The menu dictionary's data structure is as follows:
 
     {
-        index: (pageNumber, pageObject), 
+        index: (pageNumber <int>, obj.title <TextStringObject>, pdf.getPage <PageObject>), 
         index: ...,
         ...
     }
