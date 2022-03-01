@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:34 -0700
-categories: tips tricks autodidactism
+date: 2022-02-25 12:01:00 -0700
+categories: tips tricks study autodidactism
 published: true
 ---
 
@@ -37,7 +37,7 @@ Additionally, The Mozart effect is also interesting to note: patients with epile
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukLnPbIffxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-Reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with the Feynman technique, and spaced repetition. 
+Reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with interleaved practice, the Feynman technique, and spaced repetition. 
 
 # The Feynman Technique
 
