@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:27 -0700
+date: 2022-02-25 12:00:28 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -89,6 +89,12 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 - Avoid all forms of heavy drinking.
 - Reduce your sugar intake with stevia. 
 - Vitamin K2 & Bs.
+
+## The Philosophy Of Stoicism
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Stoicism and equanimity are excellent ways to handle the vicissitudes of life.
 
 ## Video Speed Controller
 
@@ -313,9 +319,3 @@ def extract_info(self, pdf):
 
     return menu
 ```
-
-## The Philosophy Of Stoicism
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Stoicism and equanimity are excellent ways to handle the vicissitudes of life.
