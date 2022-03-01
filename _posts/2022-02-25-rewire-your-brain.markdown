@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:28 -0700
+date: 2022-02-25 12:00:29 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -68,7 +68,21 @@ This blog essentially acts as an expression of this technique.
 ## Spaced Repetition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-zNHHpXoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
+1d / 3d / 1w / 1m
+
+## Interleaved Practice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-O5Y3TwrUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`random.shuffle(x)`
+
+## Time Management
+
+When you do come back to your studies from spaced repetition, use one of the following time management techniques:
+- The Pomodoro Technique
+- 90/120-Minute Method (Ultradian Rhythm)
+- 52-17 method
 
 ## Lifestyle, Diet & Exercise
 
