@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:29 -0700
+date: 2022-02-25 12:00:30 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -79,10 +79,15 @@ This blog essentially acts as an expression of this technique.
 
 ## Time Management
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUXNiDJJ_9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 When you do come back to your studies from spaced repetition, use one of the following time management techniques:
 - The Pomodoro Technique
-- 90/120-Minute Method (Ultradian Rhythm)
-- 52-17 method
+    - 25/5 x 4 then 30m break
+- 90-Minute Method (Ultradian Rhythm)
+    - 90 or 120 minutes of study
+    - Break for 20 minutes
+- 52-17 Method
 
 ## Lifestyle, Diet & Exercise
 
