@@ -236,15 +236,15 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
 
-> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
+<!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
-> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
+<!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
 <!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov -->
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-<!-- > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde -->
+> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894), First published anonymously in the Saturday Review (17 November 1894)
 
 <!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
