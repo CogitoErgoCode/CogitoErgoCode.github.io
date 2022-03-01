@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:31 -0700
+date: 2022-02-25 12:00:32 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -115,10 +115,9 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 
 Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract critics, and generally not very good people.
 
-> "Say to yourself first thing in the morning: today I shall meet
-people who are meddling, ungrateful, aggressive, treacherous,
-malicious, unsocial. All this has afflicted them through their
-ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
+<!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
+
+“When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
 
 One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
 
