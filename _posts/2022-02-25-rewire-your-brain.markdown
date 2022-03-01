@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:33 -0700
+date: 2022-02-25 12:00:34 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -10,29 +10,60 @@ This is going to be a lite article on techniques that stimulate and accelerate t
 
 > “Once you stop learning you start dying” &mdash; Albert Einstein
 
-## Amplifying Neuroplasticity
+## **Amplifying Neuroplasticity**
+
+# How to Grow Your Brain
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWSZ1DKjNzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recreational mathematics like logic puzzles, and strategy board games like chess have been shown to increase neuroplasticity. Obviously programming, mathematics, and physics would be extremely beneficial.
 
-## The Mozart effect & The Corpus Callosum
+# The Corpus Callosum
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R0JKCYZ8hng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Additionally, patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488). Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. 
+Additionally, The Mozart effect is also interesting to note: patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488). Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. 
 
-## The Benefits Of A Bilingual Brain
+# The Benefits Of A Bilingual Brain
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMmOLN5zBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Learning a second language can increase problem solving ability. 
-
 - The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language. 
 
-<!-- ## The Telescope Rule -->
+## **Study Techniques**
 
-- According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
+# Active Recall
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukLnPbIffxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+Reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with the Feynman technique, and spaced repetition. 
+
+# The Feynman Technique
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkm0TNFzIeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This blog essentially acts as an expression of this technique.
+
+> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
+
+<!-- > I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile! &mdash; Richard P. Feynman -->
+
+# Interleaved Practice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-O5Y3TwrUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`random.shuffle(x)`
+
+# Spaced Repetition - Negation Of The Forgetting Curve
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-zNHHpXoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1d / 3d / 1w / 1m
+
+# The Telescope Rule
+
+According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
 
 <!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
 
@@ -49,35 +80,9 @@ According to a preliminary study, Esperanto led to a **50% improvement in French
 
 It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours). -->
 
-## Active Recall
+## **Productivity Enhancement**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ukLnPbIffxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-Reading and studying are two very different things, and of those things which compose proper study, active recall reigns supreme. Best when used in combination with the Feynman technique, and spaced repetition. 
-
-## The Feynman Technique
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkm0TNFzIeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-This blog essentially acts as an expression of this technique.
-
-> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
-
-<!-- > I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile! &mdash; Richard P. Feynman -->
-
-## Spaced Repetition
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-zNHHpXoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-1d / 3d / 1w / 1m
-
-## Interleaved Practice
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J-O5Y3TwrUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-`random.shuffle(x)`
-
-## Time Management
+# Time Management
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUXNiDJJ_9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -89,47 +94,7 @@ When you do come back to your studies from spaced repetition, use one of the fol
     - Break for 20 minutes
 - 52-17 Method
 
-## Lifestyle, Diet & Exercise
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vMZfyEy_jpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Generally, foods that increase serotonin and brain health should be incorporated into your diet. Below I've made a list of my own findings that seem to match what Dr. Berg is saying. 
-
-In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
-
-> "But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh." &mdash; Ecclesiastes 12:12 LSB
-
-Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
-
-- Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
-- Organic, grass-fed, and non-gmo being of vital importance.
-- Exercise and light therapy "sunlight" (Vitamin D) are also beneficial. 
-- Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
-- Avoid all forms of heavy drinking.
-- Reduce your sugar intake with stevia. 
-- Vitamin K2 & Bs.
-
-## The Philosophy Of Stoicism
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract critics, and generally not very good people.
-
-<!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
-
-> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
-
-One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
-
-> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
-
-Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
-
-> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
-
-> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
-
-## Video Speed Controller
+# Video Speed Controller
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chiKi95j9UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -352,3 +317,43 @@ def extract_info(self, pdf):
 
     return menu
 ```
+
+## **Lifestyle, Diet & Exercise**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMZfyEy_jpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Generally, foods that increase serotonin and brain health should be incorporated into your diet. Below I've made a list of my own findings that seem to match what Dr. Berg is saying. 
+
+In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
+
+> "But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh." &mdash; Ecclesiastes 12:12 LSB
+
+Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
+
+- Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
+- Organic, grass-fed, and non-gmo being of vital importance.
+- Exercise and light therapy "sunlight" (Vitamin D) are also beneficial. 
+- Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
+- Avoid all forms of heavy drinking.
+- Reduce your sugar intake with stevia. 
+- Vitamin K2 & Bs.
+
+## **The Philosophy Of Stoicism**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract critics, and generally not very good people.
+
+<!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
+
+> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
+
+One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
+
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
+
+Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
+
+> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
