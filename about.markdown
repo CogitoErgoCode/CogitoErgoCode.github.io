@@ -222,9 +222,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee -->
 
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller, Beyond Civilization: Humanity's Next Great Adventure (1999), p. 137
 
-> "Don't fight forces, use them." &mdash; R. Buckminster Fuller
+> "Don't fight forces, use them." &mdash; R. Buckminster Fuller, In Shelter (May 1932)
 
 <!-- > "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki -->
 
@@ -234,17 +234,17 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
 
-> “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus
+> “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus, Book II, ch. 17. of Discourses
 
 <!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-<!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov -->
+> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov, "Science Past, Science Future" (1975) p. 208
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894), First published anonymously in the Saturday Review (17 November 1894)
+> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
 
 <!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
@@ -302,7 +302,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud -->
 
-> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley 
+> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley, Proper Studies (1927)
 
 <!-- > "There was never a genius without a tincture of madness." &mdash; Aristotle -->
 
