@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:00:30 -0700
+date: 2022-02-25 12:00:31 -0700
 categories: tips tricks autodidactism
 published: true
 ---
@@ -113,7 +113,22 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Stoicism and equanimity are excellent ways to handle the vicissitudes of life.
+Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract critics, and generally not very good people.
+
+> "Say to yourself first thing in the morning: today I shall meet
+people who are meddling, ungrateful, aggressive, treacherous,
+malicious, unsocial. All this has afflicted them through their
+ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
+
+One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
+
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
+
+Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
+
+> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
 
 ## Video Speed Controller
 
