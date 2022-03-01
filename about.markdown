@@ -240,7 +240,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov, "Science Past, Science Future" (1975) p. 208
+> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
