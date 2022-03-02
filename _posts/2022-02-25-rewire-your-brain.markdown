@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:07 -0700
+date: 2022-02-25 12:01:08 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -333,16 +333,18 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 - Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
 - Organic, grass-fed, and non-gmo being of vital importance.
 - Exercise and light therapy "sunlight" (Vitamin D) are also beneficial. 
-- Avoid all forms of [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk)
+- Avoid all forms of smoking.
 - Avoid all forms of heavy drinking.
 - Reduce your sugar intake with stevia. 
 - Vitamin K2 & Bs.
+
+<!-- [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk) -->
 
 ## **The Philosophy Of Stoicism**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract critics, and generally not very good people.
+Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract creditors, predators, critics, and generally not very good people.
 
 <!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
 
@@ -350,7 +352,7 @@ Stoicism is an excellent way to handle the vicissitudes of life. As you progress
 
 One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
 
-> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and **those who cannot succeed themselves wish everyone else to be ruined.**"
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and those who cannot succeed themselves wish everyone else to be ruined."
 
 Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
 
