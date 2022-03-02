@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:00 -0700
+date: 2022-02-25 12:01:07 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -92,7 +92,7 @@ When you do come back to your studies from spaced repetition, use one of the fol
 - 90-Minute Method (Ultradian Rhythm)
     - 90 or 120 minutes of study
     - Break for 20 minutes
-- 52-17 Method
+- 52/17 Method
 
 # Video Speed Controller
 
@@ -357,3 +357,14 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+## **Conclusion**
+
+For myself, I intend to focus my efforts on the following pursuits in no particular order.
+
+- ***Piano*** for its effects upon the corpus callosum. I also enjoy this activity.
+- ***Python*** because I need to maintain this skill as it will be extremely useful in the future in combination with physics, not to mention it also stimulates neuroplasticity and in conjunction with this blog, acts as an expression of the feynman technique.
+- ***Physics*** for its effects upon neuroplasticity. This is where most of the study techniques mentioned above will be applied, as it is a new addition to the lineup, one which I will likely undergo formally.
+- ***Esperanto*** because of its ability to amplify problem solving ability, perception, and for its propaedeutic properties in preparing the mind for multilingualism while maintaining adherence to telescope rule.
+
+My advice to you, if you're trying to implement some of these ideas into your own life, is to utilize telescope rule. Start small and work your way up. Choose an instrument, choose a language, and decide on which way you'd like to increase neuroplasticity through chess or science. Eat healthy, exercise regularly, and remain equanimous in trying times. 
