@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:08 -0700
+date: 2022-02-25 12:01:10 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -359,6 +359,13 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+## **Focus**
+
+It can be difficult to remain focused and free from distraction. For me this almost always takes the form of noise. One way to remain in tune with wht you're doing is with some form of ambient sound to peacefully drown out distractions.
+
+|:-:|:-:|
+|Study & Concentration|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
 
 ## **Conclusion**
 
