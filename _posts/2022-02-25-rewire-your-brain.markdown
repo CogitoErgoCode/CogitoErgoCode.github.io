@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:10 -0700
+date: 2022-02-25 12:01:11 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -360,12 +360,14 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
 
-## **Focus**
+## **Focus & Inner Peace**
 
-It can be difficult to remain focused and free from distraction. For me this almost always takes the form of noise. One way to remain in tune with wht you're doing is with some form of ambient sound to peacefully drown out distractions.
+It can be difficult to remain focused and free from distraction. For me this almost always takes the form of noise. One way to remain in tune with what you're doing is with some form of ambient sound to peacefully drown out distractions.
 
-|:-:|:-:|
-|Study & Concentration|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
+|:-:|
+|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
+
+<!-- [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/AImY5NVcVKk" style="color:#0073e6;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#0073e6;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#0073e6;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#0073e6;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#0073e6;">Look Within</a>| -->
 
 ## **Conclusion**
 
