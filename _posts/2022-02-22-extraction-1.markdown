@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping: Requests And BeautifulSoup 🌐"
-date: 2022-02-22 12:00:03 -0700
+date: 2022-02-22 12:00:05 -0700
 categories: python web spidering crawling scraping data extraction
 published: true
 ---
@@ -22,7 +22,8 @@ The *Web Scraping* series of articles cover various methods and libraries that a
 
 ## **The Basics Of The Requests Library**
 
-- [Requests Documentation](https://docs.python-requests.org/en/latest/)
+|:-:|
+|[Requests Documentation](https://docs.python-requests.org/en/latest/)|
 
 
 All of Requests’ functionality can be accessed by 7 methods. They all return an instance of the Response object. For the purposes of this article we will be focusing mainly upon the get and post methods and how they relate to the request method via `**kwargs`.
