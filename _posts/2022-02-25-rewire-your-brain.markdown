@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:11 -0700
+date: 2022-02-25 12:01:12 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -65,9 +65,11 @@ This blog essentially acts as an expression of this technique.
 
 According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
 
+> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
+
 <!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
 
-<!-- The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
+The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
 
 |||
 |:-:|:-:|
@@ -78,7 +80,7 @@ According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_lang
 
 According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
 
-It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours). -->
+It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
 ## **Productivity Enhancement**
 
@@ -364,8 +366,14 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 
 It can be difficult to remain focused and free from distraction. For me this almost always takes the form of noise. One way to remain in tune with what you're doing is with some form of ambient sound to peacefully drown out distractions.
 
-|:-:|
-|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
+> Delta Waves – Sleep Music / NREM sleep, Alpha Waves are neural oscillations, Theta Waves (Cortical theta rhythm and Hippocampal theta rhythm). Beta waves associated with muscle contractions in isotonic movements, Gamma waves can help to release serotonin, endorphin and dopamine, so it works as happiness music for depression treatment. &mdash; Greenred Productions
+
+<!-- Alpha Waves help your mind to get to the state of focus, which is perfect for studying or preparing for exam or test you have at school or university. It also maintains your alertness while studying. Superintelligence beta waves will help to concentrate for tasks, enhance intelligence. -->
+
+|||
+|:-:|:-:|
+|Greenred Productions|<a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>|
+|Assorted|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
 
 <!-- [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <a href="https://youtu.be/AImY5NVcVKk" style="color:#0073e6;">Warrior</a>, <a href="https://youtu.be/Lq4pBie6ph4" style="color:#0073e6;">The Loom</a>, [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#0073e6;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#0073e6;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#0073e6;">Look Within</a>| -->
 
