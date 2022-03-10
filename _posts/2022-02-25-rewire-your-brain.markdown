@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:01:12 -0700
+date: 2022-02-25 12:02:12 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -326,12 +326,6 @@ def extract_info(self, pdf):
 
 Generally, foods that increase serotonin and brain health should be incorporated into your diet. Below I've made a list of my own findings that seem to match what Dr. Berg is saying. 
 
-In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
-
-> "But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh." &mdash; Ecclesiastes 12:12 LSB
-
-Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
-
 - Salmon, eggs, some cheese, blueberries, almonds, spinach, turkey, avocado, fresh garlic, avocado oil for cooking, olive oil for dressing, olives, high fiber.
 - Organic, grass-fed, and non-gmo being of vital importance.
 - Exercise and light therapy "sunlight" (Vitamin D) are also beneficial. 
@@ -341,6 +335,12 @@ Unfortunately, I've let myself go for over a decade and because I am ectomorphic
 - Vitamin K2 & Bs.
 
 <!-- [smoking](https://www.youtube.com/embed/Tgp-oZ_f6Xk) -->
+
+In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang while fully extended each time). For comparison, I had surpassed the highest repetition count for pull-ups In the Marine Corps PFT (23) on my own. Even though this was accomplished many years ago, and I have not since kept up with this form of exercise, it was one of my earlier accomplishments in life worth noting.
+
+> "But in addition to this, my son, be warned: the making of many books is endless, and much devotion to books is wearying to the flesh." &mdash; Ecclesiastes 12:12 LSB
+
+Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
 ## **The Philosophy Of Stoicism**
 
