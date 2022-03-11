@@ -169,26 +169,20 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 |||
 |:-:|:-:|
-|♾️ Recursion|[Pantokrator](https://en.wikipedia.org/wiki/Patterns_in_nature)| 
-|🔱 Engravings and mezzotints<br>(Childhood)|[John Martin](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [Gustave Doré](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)|
-|✨ Optical Illusions<br>(Childhood)|[Autostereogram](https://en.wikipedia.org/wiki/Autostereogram)|
-|🧮 Impossible Constructions<br>(Childhood)|[Maurits Cornelis Escher](https://mcescher.com/gallery/most-popular/)|
-|🦢 Origami<br>(Childhood)|N/A|
-|🪶 Poetry<br>(Childhood)|[Haiku](https://youtu.be/dan5PntGO7E), [Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)|
+|Pantokrator<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
+|Leonardo da Vinci<br>15 April 1452 to 2 May 1519|[The Lost Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg)|
+|John Martin<br>19 July 1789 to 17 February 1854|[Sun to Stand Still](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), [Le Pandemonium Louvre](https://upload.wikimedia.org/wikipedia/commons/0/08/John_Martin_Le_Pandemonium_Louvre.JPG)|
+|Gustave Doré<br>6 January 1832 to 23 January 1883|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://uploads0.wikiart.org/images/gustave-dore/paradiso.jpg)|
+|Rudyard Kipling<br>30 December 1865 to 18 January 1936|[If](https://poets.org/poem/if)|
+|Robert Frost<br>March 26, 1874 to January 29, 1963|[Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679)|
+|E.E. Cummings<br>October 14, 1894 to September 3, 1962|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
+|Maurits Cornelis Escher<br>17 June 1898 to 27 March 1972|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
+|Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
+|Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
 
-<!-- https://en.wikipedia.org/wiki/List_of_optical_illusions -->
-<!-- [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals) -->
-
-<!-- [Julia set (Actual Math)](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot (Actual Math)](https://en.wikipedia.org/wiki/Mandelbrot_set) -->
 
 <!-- |||
 |:-:|:-:|
-|🖌️ Leonardo da Vinci|[Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg), [The Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)|
-|🖌️ Maurits Cornelis Escher|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
-|🖌️ John Martin|[The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), Le Pandemonium Louvre|
-|🖌️ Gustave Doré|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://www.wikiart.org/en/gustave-dore/paradiso)|
-|🖼️ Camille Flammarion<br>(Unknown)|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg)<br>(Childhood)|
-|🪶 Poetry|[Robert Frost](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679), [E.E. Cummings](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town), <a href="https://poets.org/poem/if" style="color:#0073e6;">Rudyard Kipling</a>, [Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)| -->
 
 <!-- |[Edgar Allan Poe](https://www.poetryfoundation.org/poems/48633/the-conqueror-worm) [[Study]](https://www.cummingsstudyguides.net/Guides2/Worm.html), [Robert W. Chambers](https://cthulhufiles.com/stories/chambers/chambers-cassildas-song.html), <a href="https://www.hplovecraft.com/writings/texts/poetry/p121.aspx" style="color:#0073e6;">H.P. Lovecraft</a>|
 
@@ -198,8 +192,15 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 |||
 |:-:|:-:|
-|🎤 Thom Yorke|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
-|🎶 Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
+|Thom Yorke<br>October 7, 1968|<a href="https://youtu.be/ZWrUEsVrdSU" style="color:#0073e6;">Amok</a>, <a href="https://youtu.be/onRk0sjSgFU" style="color:#0073e6;">KID A</a>, <a href="https://youtu.be/3M_Gg1xAHE4" style="color:#0073e6;">Amnesiac</a>, <a href="https://youtu.be/WF83_PR2EsA" style="color:#0073e6;">In Rainbows</a>, <a href="https://youtu.be/T7t38uDUg5E" style="color:#0073e6;">The King Of Limbs</a>, <a href="https://youtu.be/I7QZG0Ca7Fw" style="color:#0073e6;">Anima</a>, <a href="https://youtu.be/BTZl9KMjbrU" style="color:#0073e6;">Suspiria</a>, <a href="https://youtu.be/CLiDemXYSLc" style="color:#0073e6;">Spectre</a>, <a href="https://youtu.be/EdmL835q9To" style="color:#0073e6;">Piano solos</a>|
+|Max Cooper|[Repetition](https://youtu.be/nO9aot9RgQc), [Order From Chaos](https://youtu.be/_7wKjTf_RlI)|
+
+> "Delta Waves – Sleep Music / NREM sleep, Alpha Waves are neural oscillations, Theta Waves (Cortical theta rhythm and Hippocampal theta rhythm). Beta waves associated with muscle contractions in isotonic movements, Gamma waves can help to release serotonin, endorphin and dopamine..." &mdash; Greenred Productions
+
+|Study||
+|:-:|:-:|
+|Greenred Productions|<a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>|
+|Assorted|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
 
 
 <!-- |🖌️ Maurits Cornelis Escher|Mathematical: ([LW-358](https://mcescher.com/wp-content/uploads/2019/04/LW-358.jpg), [LW-386](https://mcescher.com/wp-content/uploads/2019/04/LW-386.jpg), [LW-387](https://mcescher.com/wp-content/uploads/2019/04/LW-387.jpg), [LW-395](https://mcescher.com/wp-content/uploads/2019/04/LW-395.jpg)), Impossible Constructions: ([LW-439](https://mcescher.com/wp-content/uploads/2019/05/LW-439.jpg))| -->
@@ -210,7 +211,7 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
-> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt, "Citizenship in a Republic", a speech at the Sorbonne, Paris, France (23 April 1910)
 
 <!-- > "To be nobody but
 yourself in a world
