@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:48:31 -0700
+date: 2021-11-04 11:49:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -9,6 +9,8 @@ published: true
 # A Guide To Maintaining Rational Discourse
 
 Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies.
+
+> "There is no greater evil one can suffer than to hate reasonable discourse." &mdash; Socrates, Phaedo, Plato's account of Socrates' death.
 
 # Red Herring Fallacies
 
