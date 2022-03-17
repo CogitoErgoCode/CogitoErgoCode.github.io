@@ -137,7 +137,10 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 |Gottfried Wilhelm Leibniz<br>1 July 1646 to 14 November 1716|Modern Rationalism|
 |Immanuel Kant<br>22 April 1724 to 12 February 1804|[Critique of Pure Reason](https://libgen.is/book/index.php?md5=B8CB67E9100049128399841ED76EF2EB)<br>Transcendental Idealism|
 |Kurt Friedrich Gödel<br>April 28, 1906 to January 14, 1978|Modern Analytic Philosophy, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Mathematical_realism" style="color:#006699;">mathematical realism</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a><br>*"My theory is rationalistic, idealistic, optimistic, and theological"* &mdash; A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a>|
-|Roko|Roko's basilisk<br>You're welcome :D|
+|Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
+|Roko<br>2010|Roko's basilisk<br>You're welcome :D|
+
+<!-- *Kurt Gödel's Platonism[8] postulates a special kind of mathematical intuition that lets us perceive mathematical objects directly. (This view bears resemblances to many things Husserl said about mathematics, and supports Kant's idea that mathematics is synthetic a priori.) Davis and Hersh have suggested in their 1999 book The Mathematical Experience that most mathematicians act as though they are Platonists, even though, if pressed to defend the position carefully, they may retreat to formalism. The mathematician Alexander Grothendieck was also a Platonist.* -->
 
 <!-- |Sun Tzu<br>544 - 496 B.C.|[The Art of War](\assets\books\sun_tzu\aow.pdf)<br>  Ancient Chinese Military Treatise| -->
 
