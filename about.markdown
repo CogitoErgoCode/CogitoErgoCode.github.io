@@ -38,6 +38,8 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|[Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://libgen.is/book/index.php?md5=FE6910526003C503D504FB2D56993985), [Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time](https://libgen.is/book/index.php?md5=802AA421C926121251E3394BB514ECD5)|
 |**Undiscovered**<br><sub>***The God Equation***</sub>|[The God Equation by Dr. Michio Kaku](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426)|
 
+<!-- |George Boole<br>2 November 1815 to 8 December 1864|[The Laws of Thought](https://libgen.is/book/index.php?md5=BF7CCC5365758B7E5B62A08DD2D64CF2)<br>One of the greatest mathematicians and logicians of all time. Boolean logic is credited with laying the foundations for the Information Age.| -->
+
 <!-- |Euclid of Alexandria<br>*The father of geometry.*<br>Mid-4th to Mid-3rd Century B.C.|[Euclid's Elements of Geometry](https://libgen.is/book/index.php?md5=6B2CD6A579CC3E5B3803249CC8D9863E)<br>Hellenistic Greek Mathematics| -->
 <!-- |Galileo Galilei<br>15 February 1564 to 8 January 1642|[The Essential Galileo](https://libgen.is/book/index.php?md5=116987DD7B26BB54D11B0CB76BA6918A)| -->
 <!-- |Johannes Kepler<br>27 December 1571 to 15 November 1630|[Epitome of Copernican Astronomy & Harmonies of the World](https://libgen.is/book/index.php?md5=396B54B169EE62332367E4A0C67F3488)| -->
@@ -96,31 +98,95 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. I've found [equanimity](https://en.wikipedia.org/wiki/Equanimity) to be a reoccurring theme in the philosophies I gravitate towards. According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). 
-
-<!-- In Philosophical Taoism, equanimity is the practice and the effect of that practice. Equanimity is considered essential for carrying out the theological virtues (Aretē). -->
-
-<!-- While I have only one belief in Christ, in accordance with the law of non-contradiction, I have many philosophies.  -->
-
- 
-
-<!-- And so, it is not, but the appreciation of equanimity. -->
+> The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. 
 
 <!-- > Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things. &mdash; Philippians 4:8 -->
 
-<!-- 
-2 Peter 1:3
-2 Peter 1:5 -->
-
-<!-- For many years, I have made an effort to collect philosophies bearing resemblance to the ultimate truth. A truth I believe is written on the hearts of men. -->
-
 <!-- > Even Gentiles, who do not have God’s written law, show that they know his law when they instinctively obey it, even without having heard it. They demonstrate that God’s law is written in their hearts, for their own conscience and thoughts either accuse them or tell them they are doing right. &mdash; Romans 2:14-15 -->
-
-<!-- Understand that there is a distinction between what a man believes as his faith and healthy philosophies.  -->
 
 <!-- > “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations  -->
 
+# Metaphysics (The Ultimate Structure of Reality)
+
+My metaphysical views falls within <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">Mind–body dualism</a>.
+
+<!-- https://youtu.be/JTfxKKo8ToE -->
+
+<!-- Idealism, Monism -->
+
+<!-- God, Reality bending paradoxes, and higher spatial dimensionality. -->
+
+<!-- https://plato.stanford.edu/entries/dualism/ -->
+<!-- https://plato.stanford.edu/entries/cosmological-argument/ -->
+<!-- https://plato.stanford.edu/entries/teleological-arguments/ -->
+<!-- https://plato.stanford.edu/entries/ontological-arguments/ -->
+<!-- https://plato.stanford.edu/entries/descartes-ontological/ -->
+
 |||
+|:-:|:-:|
+|Plato<br>*Classical Greek Philosophy*<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), Theaetetus 158b-d, [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Anamnesis)|
+|Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See Plato's Theory of forms, René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
+|Thomas Aquinas<br>1225 to 7 March 1274|[Summa Theologica](https://libgen.is/book/index.php?md5=A4050540FB4E90B5091C432CEC5BD0A6)<br>*"Physics says nothing about where the laws of physics themselves come from. So the cosmological proof of Saint Thomas Aquinas concerning the First Mover or First Cause is left relevant even today."* &mdash; Dr. Michio Kaku, Professor of theoretical physics, The God Equation|
+|René Descartes<br>*"cogito, ergo sum"*<br>*"sum res cogitans"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism, Descartes' evil demon <a href="https://en.wikipedia.org/wiki/Brain_in_a_vat" style="color:#006699;">"Brain in a vat"</a>, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
+|Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
+|Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
+
+# Epistemology (The Nature of Knowledge)
+
+My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
+
+<!-- , skepticism, and solipsism. -->
+
+ <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
+
+> "My theory is rationalistic, idealistic, optimistic, and theological" &mdash; Kurt Friedrich Gödel
+
+|||
+|:-:|:-:|
+|Descartes, Spinoza, & Leibniz|[The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
+
+<!-- A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a> -->
+
+<!-- (https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) -->
+
+<!-- It is said that he anticipated Albert Einstein by arguing, against Newton, that space, time, and motion are completely relative as he quipped,[74] "As for my own opinion, I have said more than once, that I hold space to be something merely relative, as time is, that I hold it to be an order of coexistences, as time is an order of successions."[75] Einstein, who called himself a "Leibnizian" even wrote in the introduction to Max Jammer's book Concepts of Space that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time; it has been argued that Leibniz paved the way for Einstein's theory of relativity. -->
+
+<!-- |Immanuel Kant<br>22 April 1724 to 12 February 1804|[Critique of Pure Reason](https://libgen.is/book/index.php?md5=B8CB67E9100049128399841ED76EF2EB)<br>Transcendental Idealism| -->
+
+
+# Ethics (Moral Philosophy)
+
+My ethics views fall within virtue ethics. I've found [equanimity](https://en.wikipedia.org/wiki/Equanimity) to be a reoccurring theme in the philosophies I gravitate towards. According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). 
+
+|||
+|:-:|:-:|
+|King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
+|King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
+|Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
+|Lao Tzu<br>6th Century B.C.|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Tao Te Ching, Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html)<br>Ancient Chinese Philosophical Taoism|
+|Socrates<br>470 – 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
+|**Christ Jesus**<br>*Yahweh made manifest in the line of King David as prophesied.*<br>4 B.C. – 30 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
+|Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+
+# Aesthetics (The Nature of Beauty)
+
+My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, the golden ratio, fibonacci, etc.
+
+|||
+|:-:|:-:|
+|Pantokrator<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
+
+
+# Thought Experiments & Paradoxes 
+
+|||
+|:-:|:-:|
+|Roko<br>2010|Roko's basilisk<br>You're welcome :D|
+
+
+<!-- |||
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
@@ -133,12 +199,12 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 |Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Thomas Aquinas<br>1225 to 7 March 1274|[Summa Theologica](https://libgen.is/book/index.php?md5=A4050540FB4E90B5091C432CEC5BD0A6)<br>*"Physics says nothing about where the laws of physics themselves come from. So the cosmological proof of Saint Thomas Aquinas concerning the First Mover or First Cause is left relevant even today."* &mdash; Dr. Michio Kaku, Professor of theoretical physics, The God Equation|
-|René Descartes<br>*"cogito, ergo sum"*<br>*"sum res cogitans"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern Rationalism, 17th-century philosophy, Age of Enlightenment<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon <a href="https://en.wikipedia.org/wiki/Brain_in_a_vat" style="color:#006699;">"Brain in a vat"</a>, pineal gland)|
+|René Descartes<br>*"cogito, ergo sum"*<br>*"sum res cogitans"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>Modern Rationalism<br>(Mind–body dualism, Cartesian dualism, Descartes' Evil Demon <a href="https://en.wikipedia.org/wiki/Brain_in_a_vat" style="color:#006699;">"Brain in a vat"</a>, pineal gland)|
 |Gottfried Wilhelm Leibniz<br>1 July 1646 to 14 November 1716|Modern Rationalism|
 |Immanuel Kant<br>22 April 1724 to 12 February 1804|[Critique of Pure Reason](https://libgen.is/book/index.php?md5=B8CB67E9100049128399841ED76EF2EB)<br>Transcendental Idealism|
 |Kurt Friedrich Gödel<br>April 28, 1906 to January 14, 1978|Modern Analytic Philosophy, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Mathematical_realism" style="color:#006699;">mathematical realism</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a><br>*"My theory is rationalistic, idealistic, optimistic, and theological"* &mdash; A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a>|
 |Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
-|Roko<br>2010|Roko's basilisk<br>You're welcome :D|
+|Roko<br>2010|Roko's basilisk<br>You're welcome :D| -->
 
 <!-- *Kurt Gödel's Platonism[8] postulates a special kind of mathematical intuition that lets us perceive mathematical objects directly. (This view bears resemblances to many things Husserl said about mathematics, and supports Kant's idea that mathematics is synthetic a priori.) Davis and Hersh have suggested in their 1999 book The Mathematical Experience that most mathematicians act as though they are Platonists, even though, if pressed to defend the position carefully, they may retreat to formalism. The mathematician Alexander Grothendieck was also a Platonist.* -->
 
@@ -151,7 +217,6 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 <!-- ||
 |:-:|
 |Financial Wisdom|[George S. Clason's The Richest Man in Babylon](https://youtu.be/wglndSWrvsM), [Raison d'être via Ikigai (生き甲斐)](\assets\images\ikigai.jpg), [Robert Kiyosaki's Rich Dad Poor Dad](https://libgen.is/book/index.php?md5=FA913718EA4585DC4282D5E51ABD3DC2), [Right Side of The Cashflow Quadrant](\assets\images\cfq.png), [The Millionaire Next Door](https://libgen.is/book/index.php?md5=FFA8830FFF138F2CCCE9DBBBBAD2B533)| -->
-
 
 <!-- [Sun Tzu's The Art of War](https://youtu.be/jxcMRkqaQdw) -->
 
@@ -178,7 +243,6 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 |||
 |:-:|:-:|
-|Pantokrator<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
 |Leonardo da Vinci<br>15 April 1452 to 2 May 1519|[The Lost Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg)|
 |John Martin<br>19 July 1789 to 17 February 1854|[Sun to Stand Still](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), [Le Pandemonium Louvre](https://upload.wikimedia.org/wikipedia/commons/0/08/John_Martin_Le_Pandemonium_Louvre.JPG)|
 |Gustave Doré<br>6 January 1832 to 23 January 1883|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://uploads0.wikiart.org/images/gustave-dore/paradiso.jpg)|
