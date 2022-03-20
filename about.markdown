@@ -108,7 +108,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 # Metaphysics (The Ultimate Structure of Reality)
 
-My metaphysical views fall within the ontological philosophy of the mind known as the [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically, <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this fits perfectly with higher spatial dimensions. These problems will probably only be solved by a artificial superintelligence or technological singularity.
+My metaphysical views fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this fits perfectly with higher spatial dimensions. These conclusions will probably only be revealed by an artificial superintelligence or technological singularity.
 
 <!-- https://youtu.be/JTfxKKo8ToE -->
 
@@ -140,7 +140,18 @@ My epistemological views fall within rationalism. As do most of the worlds great
 
  <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
 
- <!-- , a "Leibnizian" who believed in the "God of Spinoza" and rationalized Relativity -->
+<!-- Leibniz's best known contribution to metaphysics is his theory of monads, as exposited in Monadologie. He proposes his theory that the universe is made of an infinite number of simple substances known as monads.[72] Monads can also be compared to the corpuscles of the mechanical philosophy of René Descartes and others. These simple substances or monads are the "ultimate units of existence in nature". Monads have no parts but still exist by the qualities that they have. These qualities are continuously changing over time, and each monad is unique. They are also not affected by time and are subject to only creation and annihilation.[73] Monads are centers of force; substance is force, while space, matter, and motion are merely phenomenal. It is said that he anticipated Albert Einstein by arguing, against Newton, that space, time, and motion are completely relative as he quipped,[74] "As for my own opinion, I have said more than once, that I hold space to be something merely relative, as time is, that I hold it to be an order of coexistences, as time is an order of successions."[75] Einstein, who called himself a "Leibnizian" even wrote in the introduction to Max Jammer's book Concepts of Space that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time; it has been argued that Leibniz paved the way for Einstein's theory of relativity.[76]
+
+Leibniz distinguishes three forms of evil: moral, physical, and metaphysical. Moral evil is sin, physical evil is pain, and metaphysical evil is limitation.[4] God permits moral and physical evil for the sake of greater goods, and metaphysical evil (i.e., limitation) is unavoidable since any created universe must necessarily fall short of God's absolute perfection.
+
+Leibniz's proof of God can be summarized in the Théodicée.[77] Reason is governed by the principle of contradiction and the principle of sufficient reason. Using the principle of reasoning, Leibniz concluded that the first reason of all things is God.[77] All that we see and experience is subject to change, and the fact that this world is contingent can be explained by the possibility of the world being arranged differently in space and time. The contingent world must have some necessary reason for its existence. Leibniz uses a geometry book as an example to explain his reasoning. If this book was copied from an infinite chain of copies, there must be some reason for the content of the book.[78] Leibniz concluded that there must be the "monas monadum" or God.
+
+The ontological essence of a monad is its irreducible simplicity. Unlike atoms, monads possess no material or spatial character. They also differ from atoms by their complete mutual independence, so that interactions among monads are only apparent. Instead, by virtue of the principle of pre-established harmony, each monad follows a pre-programmed set of "instructions" peculiar to itself, so that a monad "knows" what to do at each moment. By virtue of these intrinsic instructions, each monad is like a little mirror of the universe. Monads need not be "small"; e.g., each human being constitutes a monad, in which case free will is problematic.
+
+Monads are purported to have gotten rid of the problematic:
+
+interaction between mind and matter arising in the system of Descartes;
+lack of individuation inherent to the system of Spinoza, which represents individual creatures as merely accidental. -->
 
 > "My theory is rationalistic, idealistic, optimistic, and theological" &mdash; Kurt Friedrich Gödel
 
