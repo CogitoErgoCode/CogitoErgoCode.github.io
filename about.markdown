@@ -28,7 +28,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 |||
 |:-:|:-:|
-|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>*The greatest scientific mind the world has ever produced*<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
 |Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
 |**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
 |Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
@@ -108,7 +108,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 # Metaphysics (The Ultimate Structure of Reality)
 
-My metaphysical views fall within <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">Mind–body dualism</a>.
+My metaphysical views fall within the ontological philosophy of the mind known as the [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically, <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this fits perfectly with higher spatial dimensions. These problems will probably only be solved by a artificial superintelligence or technological singularity.
 
 <!-- https://youtu.be/JTfxKKo8ToE -->
 
@@ -134,18 +134,20 @@ My metaphysical views fall within <a href="https://en.wikipedia.org/wiki/Mind%E2
 
 # Epistemology (The Nature of Knowledge)
 
-My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
+My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians (i.e Newton, Leibniz, etc.), logicians (i.e. Gödel), and physicists (i.e. Einstein was a "Leibnizian" and Spinozist). Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
 
 <!-- , skepticism, and solipsism. -->
 
  <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
+
+ <!-- , a "Leibnizian" who believed in the "God of Spinoza" and rationalized Relativity -->
 
 > "My theory is rationalistic, idealistic, optimistic, and theological" &mdash; Kurt Friedrich Gödel
 
 |||
 |:-:|:-:|
 |Descartes, Spinoza, & Leibniz|[The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)|
-|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a>, <a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
 
 <!-- A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a> -->
 
