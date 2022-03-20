@@ -98,7 +98,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. 
+The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. There is some overlap in my metaphysical & epistemological views.
 
 <!-- > Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things. &mdash; Philippians 4:8 -->
 
@@ -138,7 +138,7 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 
 # Epistemology (The Nature of Knowledge)
 
-My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians (i.e Newton, Leibniz, etc.), logicians (i.e. Gödel), and physicists (i.e. Einstein was a "Leibnizian" and Spinozist). Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
+My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists [i.e Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc]. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
 
 <!-- , skepticism, and solipsism. -->
 
