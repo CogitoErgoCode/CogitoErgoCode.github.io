@@ -98,7 +98,7 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 <!-- Recent revelatory epiphanies I’ve been attempting to enact. These number among the most difficult things a man can subdue unto himself. It’s easy to live a life of epicureanism, but a true test of inner strength is to imbue one’s soul with stoic equanimity. While my beliefs rest in Christ, my philosophy is not blind to... keep in mind that belief and philosophy are separate. -->
 
-> The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. 
+The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. 
 
 <!-- > Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things. &mdash; Philippians 4:8 -->
 
@@ -108,7 +108,11 @@ I've created a few lists of recommended reading below. If you'd like to follow m
 
 # Metaphysics (The Ultimate Structure of Reality)
 
-My metaphysical views fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this fits perfectly with higher spatial dimensions. These conclusions will probably only be revealed by an artificial superintelligence or technological singularity.
+My metaphysical views fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this harmonizes with a cosmology of higher spatial dimensions. 
+
+<!-- These conclusions will probably only be revealed by an artificial superintelligence or technological singularity. -->
+
+> "The laws of nature become simpler and elegant when expressed in higher dimensions" &mdash; Dr. Peter Freund, as quoted by Dr. Michio Kaku in his book Hyperspace.
 
 <!-- https://youtu.be/JTfxKKo8ToE -->
 
@@ -193,11 +197,11 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Pantokrator<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
 
 
-# Thought Experiments & Paradoxes 
+<!-- # Thought Experiments & Paradoxes 
 
 |||
 |:-:|:-:|
-|Roko<br>2010|Roko's basilisk<br>You're welcome :D|
+|Roko<br>2010|Roko's basilisk<br>You're welcome :D| -->
 
 
 <!-- |||
@@ -403,6 +407,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 <!-- > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius -->
 
 <!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
+
+<!-- > "Is all that we see or seem But a dream within a dream?" &mdash; Poe -->
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
