@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:02:12 -0700
+date: 2022-02-25 12:03:00 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -24,12 +24,39 @@ Recreational mathematics like logic puzzles, and strategy board games like chess
 
 Additionally, The Mozart effect is also interesting to note: patients with epilepsy find a decrease in epileptiform activity while listening to Mozart's K.448 and Piano Concerto No. 23 (K. 488). Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason. 
 
-# The Benefits Of A Bilingual Brain
+# Multilingualism, Linguistic Relativity, and Telescope Rule
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMmOLN5zBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Learning a second language can increase problem solving ability. 
-- The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language. 
+- Learning a second language can increase problem solving ability.
+- According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language.
+- The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
+    - ***Esperanto***: the world's most widely spoken constructed international auxiliary language. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. 
+    - ***Toki Pona***: A language composed of only 137 essential words! Toki pona is partly inspired by Taoist philosophy, the language is designed to help users concentrate on basic things and to promote positive thinking, in accordance with the Sapir–Whorf hypothesis.
+    - ***Lojban***: originally conceived as a means to examine the influence of language on the speaker's thought via Sapir–Whorf hypothesis, Lojban was created to reflect the principles of logic. Lojban is proposed as as a potential means of machine translation, and as a tool to explore the intersection between human language and software.
+
+<!-- > Toki Pona is a human language I invented in 2001. It was my attempt to understand the meaning of life in 120 words. There are now thousands of speakers and 137 essential words. &mdash; Sonja Lang, [https://tokipona.org/](https://tokipona.org/) -->
+
+<!-- # The Telescope Rule
+
+According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
+
+> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
+
+As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages.
+
+The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
+
+|||
+|:-:|:-:|
+|Category I (Easy)<br>24-30 weeks (600-750 class hours)|Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, **Spanish**, Swedish|
+|Category II (Moderate)<br>Approximately 36 weeks (900 class hours)|**German**, Haitian Creole, Indonesian, Malay, Swahili|
+|Category III (Hard)<br>Approximately 44 weeks (1100 class hours)|Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese|
+|Category IV (Super Hard)<br>88 weeks (2200 class hours)|Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean|
+
+According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+
+It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours). -->
 
 ## **Study Techniques**
 
@@ -60,27 +87,6 @@ This blog essentially acts as an expression of this technique.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-zNHHpXoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1d / 3d / 1w / 1m
-
-# The Telescope Rule
-
-According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. 
-
-> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
-
-<!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
-
-The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
-
-|||
-|:-:|:-:|
-|Category I (Easy)<br>24-30 weeks (600-750 class hours)|Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, **Spanish**, Swedish|
-|Category II (Moderate)<br>Approximately 36 weeks (900 class hours)|**German**, Haitian Creole, Indonesian, Malay, Swahili|
-|Category III (Hard)<br>Approximately 44 weeks (1100 class hours)|Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese|
-|Category IV (Super Hard)<br>88 weeks (2200 class hours)|Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean|
-
-According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
-
-It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
 ## **Productivity Enhancement**
 
@@ -350,9 +356,9 @@ Stoicism is an excellent way to handle the vicissitudes of life. As you progress
 
 <!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
 
-> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran
+> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran (Translation by Gregory Hays)
 
-One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
+<!-- One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
 
 > "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and those who cannot succeed themselves wish everyone else to be ruined."
 
@@ -360,7 +366,7 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
-> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus -->
 
 ## **Focus & Inner Peace**
 
@@ -383,7 +389,8 @@ For myself, I intend to focus my efforts on the following pursuits in no particu
 
 - ***Piano*** for its effects upon the corpus callosum. I also enjoy this activity.
 - ***Python*** because I need to maintain this skill as it will be extremely useful in the future in combination with physics, not to mention it also stimulates neuroplasticity and in conjunction with this blog, acts as an expression of the feynman technique.
-- ***Physics*** for its effects upon neuroplasticity. This is where most of the study techniques mentioned above will be applied, as it is a new addition to the lineup, one which I will likely undergo formally.
+- ***Physics*** for its effects upon neuroplasticity. This is where most of the study techniques mentioned above will be applied, as it is a new addition to the lineup.
+<!-- , one which I will likely undergo formally. -->
 - ***Esperanto*** because of its ability to amplify problem solving ability, perception, and for its propaedeutic properties in preparing the mind for multilingualism while maintaining adherence to telescope rule.
 
-My advice to you, if you're trying to implement some of these ideas into your own life, is to utilize telescope rule. Start small and work your way up. Choose an instrument, choose a language, and decide on which way you'd like to increase neuroplasticity through chess or science. Eat healthy, exercise regularly, and remain equanimous in trying times. 
+If you're trying to implement some of these ideas into your own life, start small (telescope rule) and work your way up. Choose an instrument (Corpus Callosum), choose a language (Problem solving & Whorfanism), and pick up chess or a field of science (neuroplasticity). Eat healthy, exercise regularly, and remain equanimous.
