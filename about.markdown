@@ -129,7 +129,7 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 
 |||
 |:-:|:-:|
-|Plato<br>*Classical Greek Philosophy*<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), Theaetetus 158b-d, [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Anamnesis)|
+|Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), Theaetetus 158b-d, [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Anamnesis)|
 |Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See Plato's Theory of forms, René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
 |Thomas Aquinas<br>1225 to 7 March 1274|[Summa Theologica](https://libgen.is/book/index.php?md5=A4050540FB4E90B5091C432CEC5BD0A6)<br>*"Physics says nothing about where the laws of physics themselves come from. So the cosmological proof of Saint Thomas Aquinas concerning the First Mover or First Cause is left relevant even today."* &mdash; Dr. Michio Kaku, Professor of theoretical physics, The God Equation|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism, Descartes' evil demon <a href="https://en.wikipedia.org/wiki/Brain_in_a_vat" style="color:#006699;">"Brain in a vat"</a>, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
@@ -194,7 +194,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 
 |||
 |:-:|:-:|
-|Pantokrator<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
+|First Cause, Pantokrator, Monas Monadum<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
 
 
 <!-- # Thought Experiments & Paradoxes 
@@ -291,6 +291,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Study||
 |:-:|:-:|
 |Greenred Productions|<a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>|
+|Visual|[Floating In Space](https://youtu.be/cWuzJBboQyE), [Cosmic Dreams](https://youtu.be/gpwrVoz-YfE)|
 |Assorted|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
 
 
