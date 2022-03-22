@@ -1,17 +1,48 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:50:01 -0700
+date: 2021-11-04 11:51:00 -0700
 categories: debate discourse
 published: true
 ---
 
 ## **A Guide To Maintaining Rational Discourse**
 
-Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies.
+Before journeying into a debate, however logically sound our position may be, we should attempt to maintain rational discourse by preparing ourselves to delineate both the axiomatic laws of thought and a set of logical errors known as [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies). I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies. However, I first wish to address the laws of thought.
 
 > "There is no greater evil one can suffer than to hate reasonable discourse." &mdash; Socrates, Phaedo, Plato's account of Socrates' death.
 
+# The Laws of Thought
+
+The three fundamental laws of logic are fundamental axiomatic rules upon which rational discourse itself is based. The three laws can be stated symbolically as follows:
+
+1. **`The law of contradiction (or non-contradiction)`**
+
+    Essentially, Two truths cannot contradict one another. Aristotle stated it in this way, that "The most certain opinion of all" was "that opposed statements cannot be at the same time true." On the other hand, for any pair of contradictory premises, one must be true and the other false. The Law of Non-Contradiction prevents both premises being true, while the Law of Excluded Middle points out that a pair of contradictory premises exhausts all possibilities.
+
+    > For all propositions p, it is impossible for both p and not p to be true, or: ∼(p · ∼p), in which ∼ means “not” and · means “and.” &mdash; [Britannica](https://www.britannica.com/topic/laws-of-thought)
+
+    The argument often arises, that all religions are right; however, this is not logically possible because it violates the the laws of thought, specifically the law of non-contradiction. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation. 
+
+    > *'Nothing can both be and not be.'* In other words: *"two or more contradictory statements cannot both be true in the same sense at the same time"*: ¬(A∧¬A). &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
+
+    Another way of putting it is: a proposition must be either true or false—not both true and false, nor in some limbo state in between truth and falsity. This can be useful in listing all possible alternatives and refuting all of them but the correct one.
+2. **`The law of excluded middle (or third)`**
+
+    A principle in modern logic that means something is either true or it is false. There is no "middle" between true and false. In classical logic, this principle for a proposition A would be A∨¬A. Its opposite is dialetheism.
+
+    > Either p or ∼p must be true, there being no third or middle true proposition between them, or: p ∨ ∼p, in which ∨ means “or.” &mdash; [Britannica](https://www.britannica.com/topic/laws-of-thought)
+
+    > *'Everything must either be or not be.'* In accordance with the law of excluded middle or excluded third, for every proposition, either its positive or negative form is true: A∨¬A. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
+3. **`The principle (or law) of identity`**
+
+    The law of identity states that if a statement has been determined to be true, then the statement is true. Here is an example, if I make a statement that 'It is storming,' and it is the truth, then the statement must be true. Imagine that! Applying this logically, lightning cannot be rain, a frog cannot be a dragon, each thing is something specific unto itself and has it's own particular identity.
+
+    > If a propositional function F is true of an individual variable x, then F is true of x, or: F(x) ⊃ F(x), in which ⊃ means “formally implies.” &mdash; [Britannica](https://www.britannica.com/topic/laws-of-thought)
+    >> Another formulation of the principle of identity asserts that a thing is identical with itself, or (∀x) (x = x), in which ∀ means “for every”; or simply that x is x.
+
+    > *'Whatever is, is.'* For all a: a = a. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
+    
 # Red Herring Fallacies
 
 > "A red herring fallacy, **one of the main subtypes of fallacies of relevance**, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
@@ -95,33 +126,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 - **`Argumentum ad nauseam`** or `argumentum ad infinitum` otherwise known as an `Argument from repetition:` Repeating an argument until nobody cares to discuss it any more and referencing that lack of objection as evidence of support for the truth of the conclusion.
 
-# The Laws of Thought
 
-The argument often arises, that all religions are right; however, this is not logically possible because it violates the the laws of thought, specifically the law of non-contradiction. To deny these laws, one would be using these laws in the process, thus self-refuting them. If one says "There's no such thing as truth." That's a truth claim, to which you should respond "Except the truth that there is no truth?" ergo Self-Refutation.
-
-> "The **laws of thought** are fundamental axiomatic rules upon which rational discourse itself is often considered to be based. The formulation and clarification of such rules have a long tradition in the history of philosophy and logic." &mdash; [Law of thought](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
-
-The laws in question are as follows:
-
-- **`The law of identity:`** *"Whatever is, is."* For all a: a = a.
-    - The law of identity states that if a statement has been determined to be true, then the statement is true. For example, if I make a statement that 'It is snowing,' and it is the truth, then the statement must be true. If we look at the law of identity in more general terms, it says that each thing that exists is made up of its own particular characteristics that are a part of what it is.
-
-        > If a propositional function F is true of an individual variable x, then F is true of x, or: F(x) ⊃ F(x), in which ⊃ means “formally implies.” Another formulation of the principle of identity asserts that a thing is identical with itself, or (∀x) (x = x), in which ∀ means “for every”; or simply that x is x. &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
-
-        When you apply this to logic, the law of identity essentially means that everything is itself and it cannot be something else. Snow cannot be clouds, and water cannot be a pole. Each thing is something specific that has a particular identity. So when I say that it is snowing, snowing refers to a particular event. Given that 'snowing' refers to a specific thing, if I make this statement while it is actually snowing, then it must be a true statement.
-
-- **`The law of non-contradiction:`** *"Nothing can both be and not be."* In other words: "two or more contradictory statements cannot both be true in the same sense at the same time": ¬(A∧¬A). Essentially, Two truths cannot contradict one another. Aristotle stated it in this way, that "The most certain opinion of all" was "that opposed statements cannot be at the same time true."
-    - On the other hand, for any pair of contradictory premises, one must be true and the other false. The Law of Non-Contradiction prevents both premises being true, while the Law of Excluded Middle points out that a pair of contradictory premises exhausts all possibilities. 
-
-        > For all propositions p, it is impossible for both p and not p to be true, or: ∼(p · ∼p), in which ∼ means “not” and · means “and.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
-        
-        Another way of putting it is: a proposition must be either true or false—not both true and false, nor in some limbo state in between truth and falsity. This can be useful in listing all possible alternatives and refuting all of them but the correct one.
-
-- **`The law of excluded middle:`** *"Everything must either be or not be."* for every proposition, either its positive or negative form is true: A∨¬A.
-
-    - A principle in modern logic that means something is either true or it is false. There is no "middle" between true and false. In classical logic, this principle for a proposition A would be A∨¬A. Its opposite is dialetheism. 
-
-        > Either p or ∼p must be true, there being no third or middle true proposition between them, or: p ∨ ∼p, in which ∨ means “or.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
 
 ## **Dealing With Vicious Ad Hominem and Slander**
 
