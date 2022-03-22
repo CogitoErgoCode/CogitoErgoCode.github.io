@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:49:00 -0700
+date: 2021-11-04 11:49:02 -0700
 categories: debate discourse
 published: true
 ---
 
-# A Guide To Maintaining Rational Discourse
+## **A Guide To Maintaining Rational Discourse**
 
 Before journeying into a debate, however logically sound our position may be, we should always attempt to maintain rational discourse by preparing ourselves to delineate, through memorization, a set of logical errors called [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), upon encountering them. I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies.
 
@@ -122,3 +122,121 @@ The laws in question are as follows:
     - A principle in modern logic that means something is either true or it is false. There is no "middle" between true and false. In classical logic, this principle for a proposition A would be A∨¬A. Its opposite is dialetheism. 
 
         > Either p or ∼p must be true, there being no third or middle true proposition between them, or: p ∨ ∼p, in which ∨ means “or.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
+
+## **Dealing With Slander and Immaturity**
+
+There are three ways I respond to slander. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason of a person to behave in such a manor unless they're acting on envy or out of ignorance.
+
+# The Christian Method
+
+First understand that God hates this behavior so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character.
+
+> There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
+
+<!-- > But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. &mdash; Matthew 5:22 -->
+
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10|
+|Do not associate with the slanderer.|Proverbs 20:19|
+|Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
+|God will secretly destroy the slanderer.|Psalm 101:5|
+|**Whoever utters slander is a fool.**|Proverbs 10:18|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28|
+|Every careless word will be judged.|Matthew 12:36|
+|By Judging others, you judge God's law.|James 4:11|
+|Who are you to judge another?|James 4:12|
+|Those who endure persecution will receive the crown of life.|James 1:12|
+|Insulting others has dire consequences.|Matthew 5:22|
+|An admonition to false teachers.|Jeremiah 23:1-3|
+
+# The Stoic Method
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+Stoicism is an good way to handle the vicissitudes of life. 
+
+<!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
+
+> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran (Translation by Gregory Hays)
+
+One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
+
+> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and those who cannot succeed themselves wish everyone else to be ruined."
+
+Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
+
+> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+<!-- say nothing -->
+
+# The Taoist Method
+
+> Yield and overcome;<br>
+Bend and be straight;<br>
+Empty and be full;<br>
+Wear out and be new;<br>
+Have little and gain;<br>
+Have much and be confused.<br>
+>
+Therefore the wise embrace the one<br>
+And set an example to all.<br>
+Not putting on a display,<br>
+They shine forth.<br>
+Not justifying themselves,<br>
+They are distinguished.<br>
+Not boasting,<br>
+They receive recognition.<br>
+Not bragging,<br>
+They never falter.<br>
+**They do not quarrel,**<br>
+**So no one quarrels with them.**<br>
+Therefore the ancients say, “Yield and overcome.”<br>
+Is that an empty saying?<br>
+Be truly whole,<br>
+And all things will come to you.<br>
+>
+&mdash; Tao Te Ching, Twenty Two
+
+## **Wise Words From The Book Theaetetus**
+
+> "Only I beg that you will observe this condition: do not be unjust in your questions. It is the height of unreasonableness that a person who professes to care for moral goodness should
+be consistently unjust in discussion. I mean by injustice, in this connection,
+the behavior of a man who does not take care to keep controversy distinct
+from discussion; a man who forgets that in controversy he may play about
+and trip up his opponent as often as he can, but that in discussion he must
+be serious, he must keep on helping his opponent to his feet again, and point out to him only those of his slips which are due to himself or to the
+intellectual society which he has previously frequented. If you observe
+this distinction, those who associate with you will blame themselves for
+their confusion and their difficulties, not you. They will seek your company,
+and think of you as their friend; but they will loathe themselves, and seek
+refuge from themselves in philosophy, in the hope that they may thereby
+become different people and be rid forever of the men that they once were.
+But if you follow the common practice and do the opposite, you will get the opposite results. Instead of philosophers, you will make your companions grow up to be the enemies of philosophy.
+>
+‘So, if you take my advice, as I said before, you will sit down with us
+without ill will or hostility, in a kindly spirit. You will genuinely try to
+find out what our meaning is when we maintain that all things are in
+motion and that for each person and each city, things are what they seem
+to them to be. And upon this basis you will inquire whether knowledge and
+perception are the same thing or different things. But you will not proceed
+as you did just now. You will not base your argument upon the use and
+wont of language; you will not follow the practice of most men, who drag words this way and that at their pleasure, so making every imaginable
+difficulty for one another." &mdash; Socrates (Plato)
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
