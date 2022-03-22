@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:03:01 -0700
+date: 2022-02-25 12:03:03 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -31,7 +31,7 @@ Additionally, The Mozart effect is also interesting to note: patients with epile
 - Learning a second language can increase problem solving ability.
 - According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language.
 - The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
-    - ***Esperanto***: the world's most widely spoken constructed international auxiliary language. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. 
+    - ***Esperanto***: the world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
     - ***Toki Pona***: a language composed of only 137 essential words! Toki pona is partly inspired by Taoist philosophy, the language is designed to help users concentrate on basic things and to promote positive thinking, in accordance with the Sapir–Whorf hypothesis.
     - ***Lojban***: originally conceived as a means to examine the influence of language on the speaker's thought via Sapir–Whorf hypothesis, Lojban was created to reflect the principles of logic. Lojban is proposed as a potential means of machine translation, and as a tool to explore the intersection between human language and software.
 
@@ -348,31 +348,11 @@ In my youth I was able to reach *31 chin-ups consecutively* (from a dead hang wh
 
 Unfortunately, I've let myself go for over a decade and because I am ectomorphic I've returned to a state that doesn't resemble the hard work of my youth. Having said that, I intend to slowly build back over time.
 
-## **The Philosophy Of Stoicism**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Stoicism is an excellent way to handle the vicissitudes of life. As you progress in life and become successful at whatever it is you're doing, whether it is physical, intellectual, financial, or spiritual pursuits; you will begin to attract creditors, predators, critics, and generally not very good people.
-
-<!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
-
-> “When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran (Translation by Gregory Hays)
-
-<!-- One way to deal with people like this, is not with immaturity, but with stoicism and equanimity. I am reminded of the wise words of Lucius Annaeus Seneca the Younger in De Tranquillitate Animi ([On the Tranquility of the Mind](https://youtu.be/vl5WDfwY4PY?t=1032)) in his ninth book of the dialogues:
-
-> "hence comes the State of Mind of those who loathe their idleness complain that they have nothing to do and view the progress of others with the bitterest jealousy for an unhappy sloth favours the growth of envy and those who cannot succeed themselves wish everyone else to be ruined."
-
-Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
-
-> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
-
-> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus -->
-
-## **Focus & Inner Peace**
+## **Maintaining Focus**
 
 It can be difficult to remain focused and free from distraction. For me this almost always takes the form of noise. One way to remain in tune with what you're doing is with some form of ambient sound to peacefully drown out distractions.
 
-> Delta Waves – Sleep Music / NREM sleep, Alpha Waves are neural oscillations, Theta Waves (Cortical theta rhythm and Hippocampal theta rhythm). Beta waves associated with muscle contractions in isotonic movements, Gamma waves can help to release serotonin, endorphin and dopamine, so it works as happiness music for depression treatment. &mdash; Greenred Productions
+> Delta Waves – Sleep Music / NREM sleep, Alpha Waves are neural oscillations, Theta Waves (Cortical theta rhythm and Hippocampal theta rhythm). Beta waves associated with muscle contractions in isotonic movements, Gamma waves can help to release serotonin, endorphin and dopamine ... &mdash; Greenred Productions
 
 <!-- Alpha Waves help your mind to get to the state of focus, which is perfect for studying or preparing for exam or test you have at school or university. It also maintains your alertness while studying. Superintelligence beta waves will help to concentrate for tasks, enhance intelligence. -->
 
