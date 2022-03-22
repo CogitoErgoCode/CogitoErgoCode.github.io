@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:51:00 -0700
+date: 2021-11-04 11:52:00 -0700
 categories: debate discourse
 published: true
 ---
 
-## **A Guide To Maintaining Rational Discourse**
+<!-- ## **A Guide To Maintaining Rational Discourse** -->
 
 Before journeying into a debate, however logically sound our position may be, we should attempt to maintain rational discourse by preparing ourselves to delineate both the axiomatic laws of thought and a set of logical errors known as [informal fallacies](https://en.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies). I have found that these errors in logic are constantly and continuously employed by a large percentage of people in debate. I will describe a few of the most relevant fallacies. However, I first wish to address the laws of thought.
 
 > "There is no greater evil one can suffer than to hate reasonable discourse." &mdash; Socrates, Phaedo, Plato's account of Socrates' death.
 
-# The Laws of Thought
+## **The Laws of Thought**
 
 The three fundamental laws of logic are fundamental axiomatic rules upon which rational discourse itself is based. The three laws can be stated symbolically as follows:
 
@@ -42,7 +42,42 @@ The three fundamental laws of logic are fundamental axiomatic rules upon which r
     >> Another formulation of the principle of identity asserts that a thing is identical with itself, or (∀x) (x = x), in which ∀ means “for every”; or simply that x is x.
 
     > *'Whatever is, is.'* For all a: a = a. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Law_of_thought#Three_traditional_laws:_identity,_non-contradiction,_excluded_middle)
+
+## **Informal Fallacies**
+
+Arguments that are logically unsound for lack of well-grounded premises.
+
+>  In philosophy, reasoning that fails to establish its conclusion because of deficiencies in form or wording. Informal fallacies are types of inductive argument the premises of which fail to establish the conclusion because of their content. &mdash; [Britannica](https://www.britannica.com/summary/fallacy)
+
+> Informal fallacies are a type of incorrect argument in natural language. The source of the error is not just due to the form of the argument, as is the case for formal fallacies, but can also be due to their content and context. Fallacies, despite being incorrect, usually appear to be correct and thereby can seduce people into accepting and using them. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Informal_fallacy)
+
+# Fallacies of Relevance (Relevance Fallacies)
+
+A subtype of Informal fallacy (arguments that are logically unsound for lack of well-grounded premises).
+
+- **`Argumentum ad lapidem`** or an `appeal to the stone,` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Not to be confused with `reductio ad absurdum` or an `appeal to ridicule` (see Red Herring Fallacies)
+
+- **`Argumentum ad ignorantiam`** or an `appeal to ignorance:` Assuming that a claim is false because it has not been or cannot be proven true, or vice versa, assuming that a claim is true because it has not been or cannot be proven false.
+
+    - For example: Assuming there is no God, because it has not been or cannot be proven, is just as illogical as assuming there is a God, because it has not been or cannot be disproven. 
     
+        What lacks proof today may have proof tomorrow, which would mean, it was just as true the day it had no proof as the day in which the proof was found. We do not base our conclusions upon this form of faulty reasoning. 
+    
+    <!-- Further, to ask for scientifically testable, material, non-transcendent evidence for an immaterial, transcendent God or hyper-dimensional entity (i.e. demon) is embarrassingly illogical. Shutting down argumentation for God stymies scientific progress in the discovery of life in the cosmos beyond our own, which may indeed be of a higher spatial dimensionality, existing outside of our 3-dimensional understanding. -->
+
+    <!-- The life scientists are searching for in the cosmos may indeed be of a higher spatial dimensionality, existing outside of our 3-dimensional understanding. They're perhaps looking in the wrong place. -->
+    
+<!-- 
+- The problem with the Atheists claim that God does't exist, because there is no proof is that Christians don't believe in a material God either. We believe in a Transcendent God, so asking for material proof by scientific method demonstrates both and error in logic (Argumentum ad ignorantiam), and a lack of understanding in what Christians believe.
+- The scientific method, created by a brilliant scientist and philosopher of science by the name of Sir Francis Bacon, is a system of learning that consists of observation, hypothesis, experimentation, prediction, and theory. It is based on logic and observations of the material universe and its properties. Bacon was a devout Christian.
+-->
+
+<!-- > The wicked fool says in his heart, “There is no God.”
+They act corruptly, they commit abominable deeds;
+There is no one who does good. &mdash; Psalm 14:1 -->
+
+- **`Argumentum ad nauseam`** or `argumentum ad infinitum` otherwise known as an `Argument from repetition:` Repeating an argument until nobody cares to discuss it any more and referencing that lack of objection as evidence of support for the truth of the conclusion.
+
 # Red Herring Fallacies
 
 > "A red herring fallacy, **one of the main subtypes of fallacies of relevance**, is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. This includes any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion." &mdash; [Red Herring Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies#Red_herring_fallacies)
@@ -98,33 +133,6 @@ The three fundamental laws of logic are fundamental axiomatic rules upon which r
     Nevertheless, they continue to misrepresent what Christ, the Apostles, and all Christians have taught and believed from the very beginning, in order to strengthen their false argument.
     
     It's ironic that they continue with this line of erroneous thinking, when it was their very organization that has divided the one God into multiple individual gods (see John 1:1-3,14 they added the letter 'a' which doesn't appear in the greek essentially splitting Jesus & God into two) -->
-
-# Relevance Fallacies 
-
-A subtype of Informal fallacy (arguments that are logically unsound for lack of well-grounded premises).
-
-- **`Argumentum ad lapidem`** or an `appeal to the stone,` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Not to be confused with `reductio ad absurdum` or an `appeal to ridicule` (see Red Herring Fallacies)
-
-- **`Argumentum ad ignorantiam`** or an `appeal to ignorance:` Assuming that a claim is false because it has not been or cannot be proven true, or vice versa, assuming that a claim is true because it has not been or cannot be proven false.
-
-    - For example: Assuming there is no God, because it has not been or cannot be proven, is just as illogical as assuming there is a God, because it has not been or cannot be disproven. 
-    
-        What lacks proof today may have proof tomorrow, which would mean, it was just as true the day it had no proof as the day in which the proof was found. We do not base our conclusions upon this form of faulty reasoning. 
-    
-    <!-- Further, to ask for scientifically testable, material, non-transcendent evidence for an immaterial, transcendent God or hyper-dimensional entity (i.e. demon) is embarrassingly illogical. Shutting down argumentation for God stymies scientific progress in the discovery of life in the cosmos beyond our own, which may indeed be of a higher spatial dimensionality, existing outside of our 3-dimensional understanding. -->
-
-    <!-- The life scientists are searching for in the cosmos may indeed be of a higher spatial dimensionality, existing outside of our 3-dimensional understanding. They're perhaps looking in the wrong place. -->
-    
-<!-- 
-- The problem with the Atheists claim that God does't exist, because there is no proof is that Christians don't believe in a material God either. We believe in a Transcendent God, so asking for material proof by scientific method demonstrates both and error in logic (Argumentum ad ignorantiam), and a lack of understanding in what Christians believe.
-- The scientific method, created by a brilliant scientist and philosopher of science by the name of Sir Francis Bacon, is a system of learning that consists of observation, hypothesis, experimentation, prediction, and theory. It is based on logic and observations of the material universe and its properties. Bacon was a devout Christian.
--->
-
-<!-- > The wicked fool says in his heart, “There is no God.”
-They act corruptly, they commit abominable deeds;
-There is no one who does good. &mdash; Psalm 14:1 -->
-
-- **`Argumentum ad nauseam`** or `argumentum ad infinitum` otherwise known as an `Argument from repetition:` Repeating an argument until nobody cares to discuss it any more and referencing that lack of objection as evidence of support for the truth of the conclusion.
 
 
 
