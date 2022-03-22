@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:50:00 -0700
+date: 2021-11-04 11:50:01 -0700
 categories: debate discourse
 published: true
 ---
@@ -125,7 +125,7 @@ The laws in question are as follows:
 
 ## **Dealing With Vicious Ad Hominem and Slander**
 
-There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with said slanderer. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance.
+There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance.
 
 # The Christian Method
 
@@ -152,7 +152,7 @@ First understand that God hates this behavior so much that he refers to it as an
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/R9OCA6UFE-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Stoicism is an good way to handle the vicissitudes of life. 
+Stoicism is an good way to handle the vicissitudes of life. Remaining equanimous in the face of evil is a skill known only to silver men.
 
 <!-- > "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil." &mdash; Emperor Marcus Aurelius' Meditations, Chapter 2. Written among the Quadi on the River Gran -->
 
@@ -164,13 +164,17 @@ One way to deal with people like this, is not with immaturity, but with stoicism
 
 Epictetus is another stoic philosopher that will help you deal with vicious attacks from others.
 
-> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
-
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
+
+Epictetus reminds us that sometimes the most appropriate response is simply to laugh to oneself. A provocateur cannot truly know who you are can they? So, then they are assuming, essentially playing God, and in their hubris they have become a fool worthy of ridicule and scorn.
+
+> “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
 <!-- say nothing -->
 
-# The Taoist Method
+# The Philosophical Taoist Method
+
+The best translation of the Tao Te Ching is by far the one translated by [Gia-Fu Feng](https://eheart.com/TAO/TTC/TTCchapters-small.pdf).
 
 > Yield and overcome;<br>
 Bend and be straight;<br>
@@ -204,11 +208,7 @@ And all things will come to you.<br>
 be consistently unjust in discussion. I mean by injustice, in this connection,
 the behavior of a man who does not take care to keep controversy distinct
 from discussion; a man who forgets that in controversy he may play about
-and trip up his opponent as often as he can, but that in discussion he must
-be serious, he must keep on helping his opponent to his feet again, and point out to him only those of his slips which are due to himself or to the
-intellectual society which he has previously frequented. If you observe
-this distinction, those who associate with you will blame themselves for
-their confusion and their difficulties, not you. They will seek your company,
+and trip up his opponent as often as he can, but that **in discussion he must be serious, he must keep on helping his opponent to his feet again, and point out to him only those of his slips which are due to himself or to the intellectual society which he has previously frequented**. If you observe this distinction, those who associate with you will blame themselves for their confusion and their difficulties, not you. They will seek your company,
 and think of you as their friend; but they will loathe themselves, and seek
 refuge from themselves in philosophy, in the hope that they may thereby
 become different people and be rid forever of the men that they once were.
@@ -222,7 +222,7 @@ to them to be. And upon this basis you will inquire whether knowledge and
 perception are the same thing or different things. But you will not proceed
 as you did just now. You will not base your argument upon the use and
 wont of language; you will not follow the practice of most men, who drag words this way and that at their pleasure, so making every imaginable
-difficulty for one another." &mdash; Socrates (Plato)
+difficulty for one another.'" &mdash; Socrates (Plato)
 
 <script>
 	var refTagger = {
