@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:49:02 -0700
+date: 2021-11-04 11:49:04 -0700
 categories: debate discourse
 published: true
 ---
@@ -123,9 +123,9 @@ The laws in question are as follows:
 
         > Either p or ∼p must be true, there being no third or middle true proposition between them, or: p ∨ ∼p, in which ∨ means “or.” &mdash; [Websters](https://www.britannica.com/topic/laws-of-thought)
 
-## **Dealing With Slander and Immaturity**
+## **Dealing With Vicious Ad Hominem and Slander**
 
-There are three ways I respond to slander. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason of a person to behave in such a manor unless they're acting on envy or out of ignorance.
+There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with said slanderer. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manor unless they're acting on envy or out of ignorance.
 
 # The Christian Method
 
