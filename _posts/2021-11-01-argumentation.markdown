@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:53:00 -0700
+date: 2021-11-04 11:53:01 -0700
 categories: debate discourse
 published: true
 ---
@@ -181,7 +181,9 @@ Epictetus is another stoic philosopher that will help you deal with vicious atta
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
 
-Epictetus reminds us that sometimes the most appropriate response is simply to laugh to oneself. A provocateur cannot truly know who you are can they? So, then they are assuming, essentially playing God, and in their hubris they have become a fool worthy of ridicule and scorn.
+Epictetus reminds us that sometimes the most appropriate response is simply to laugh to oneself. A provocateur cannot truly know who you are can they? 
+
+<!-- So, then they are assuming, essentially playing God, and in their hubris they have become a fool worthy of ridicule and scorn. -->
 
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
 
