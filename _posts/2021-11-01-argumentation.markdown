@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:52:00 -0700
+date: 2021-11-04 11:53:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -142,7 +142,9 @@ There are three ways I respond to slander, each of these ways usually end up wit
 
 # The Christian Method
 
-First understand that God hates this behavior so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character.
+First understand that God hates this behavior so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+
+<!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
 
 > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
 
@@ -151,7 +153,7 @@ First understand that God hates this behavior so much that he refers to it as an
 |"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10|
 |Do not associate with the slanderer.|Proverbs 20:19|
 |Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
-|God will secretly destroy the slanderer.|Psalm 101:5|
+|God will destroy the slanderer.|Psalm 101:5|
 |**Whoever utters slander is a fool.**|Proverbs 10:18|
 |By gossip a troublemaker separates the best of friends.|Proverbs 16:28|
 |Every careless word will be judged.|Matthew 12:36|
