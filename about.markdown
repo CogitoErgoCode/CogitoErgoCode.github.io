@@ -138,7 +138,9 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 
 # Epistemology (The Nature of Knowledge)
 
-My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists [i.e Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc]. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
+<!-- My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists [i.e Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc]. -->
+
+My epistemological views fall within rationalism like Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
 
 <!-- , skepticism, and solipsism. -->
 
