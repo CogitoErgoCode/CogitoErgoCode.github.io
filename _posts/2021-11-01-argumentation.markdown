@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:53:01 -0700
+date: 2021-11-04 11:53:02 -0700
 categories: debate discourse
 published: true
 ---
@@ -138,11 +138,46 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 ## **Dealing With Vicious Ad Hominem and Slander**
 
-There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance.
+<!-- There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance. -->
 
 # The Christian Method
 
-First understand that God hates this behavior so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+> "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Matthew 11:28-30
+
+Imagine, for a moment, the perfect transcendental infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of love who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23).
+
+|||
+|:-:|:-:|
+|Omnitemporal (Eternal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
+|Omnipresent|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
+|Omniscient|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 21:17|
+|Omnipotent|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3|
+|Omnibenevolent|Mt 5:48, Ex 34:6|
+|Unique|Dt 4:35;32:39, Is 43:10-11;44:6;45:5|
+
+<!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
+
+> The one who does not love does not know God, for God is love. &mdash; 1 john 4:8
+
+
+Now imagine the reaction of this pure and limitless being, as he watches every secret and hidden thing unfold over the eons. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, drunkenness, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, Re 2:4-5), hate (1 John 3:15), and slander. Let's now compare and contrast with the enemy of mankind. What is God's reaction to the following character traits do you think?
+
+<!-- Re 2:9; 3:9 -->
+
+|Christ|Satan|
+|:-:|:-:|
+|Savior & Truth|Murderer & Liar<br>Jn 8:44|
+|Authentic|Counterfeit|
+|Righteous|Evil<br>Mt 13:19, 38, Jn 17:15; Eph 6:16; 2 Th 3:3; 1 Jn 3:12; 5:18-19|
+|Friend|Enemy<br>1 Pe 5:8|
+|Honest|Devious|
+|Liberates & Relieves|Oppresses & Enslaves|
+|Loves, Advocates & Intercedes <br>Romans 8:34|Hates, Accuses & Slanders<br>Zech 3:1, Re 12:10|
+|Humble|Prideful|
+|Heals|Debilitates|
+
+Does it really come as a surprise to anyone, that the most pure an holy of all beings might be disgusted, or hate these things? Let's take a close look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+
 
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
 
