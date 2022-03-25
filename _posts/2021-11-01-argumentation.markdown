@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:53:02 -0700
+date: 2021-11-04 11:53:03 -0700
 categories: debate discourse
 published: true
 ---
@@ -176,7 +176,7 @@ Now imagine the reaction of this pure and limitless being, as he watches every s
 |Humble|Prideful|
 |Heals|Debilitates|
 
-Does it really come as a surprise to anyone, that the most pure an holy of all beings might be disgusted, or hate these things? Let's take a close look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+Does it really come as a surprise to anyone, that the most pure and holy of all beings might be disgusted, or hate these things? Let's take a close look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
 
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
