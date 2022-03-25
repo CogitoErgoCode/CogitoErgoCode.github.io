@@ -134,15 +134,15 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism)|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
 
+<!-- |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
+||Ultimate Ensemble| -->
+
+
 # Epistemology (The Nature of Knowledge)
 
-<!-- My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists [i.e Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc]. -->
+My epistemological views fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Spinoza, Leibniz (created calculus like Newton, Leibniz paved the way for Einstein's theory of relativity), Gödel, and Einstein (called himself a "Leibnizian," and was also a Spinozist). etc. I'm also a fan of skeptical scenarios.
 
-My epistemological views fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc. I'm also a fan of skeptical scenarios.
-
-<!-- , skepticism, and solipsism. -->
-
- <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
+<!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
 
 <!-- Leibniz's best known contribution to metaphysics is his theory of monads, as exposited in Monadologie. He proposes his theory that the universe is made of an infinite number of simple substances known as monads.[72] Monads can also be compared to the corpuscles of the mechanical philosophy of René Descartes and others. These simple substances or monads are the "ultimate units of existence in nature". Monads have no parts but still exist by the qualities that they have. These qualities are continuously changing over time, and each monad is unique. They are also not affected by time and are subject to only creation and annihilation.[73] Monads are centers of force; substance is force, while space, matter, and motion are merely phenomenal. It is said that he anticipated Albert Einstein by arguing, against Newton, that space, time, and motion are completely relative as he quipped,[74] "As for my own opinion, I have said more than once, that I hold space to be something merely relative, as time is, that I hold it to be an order of coexistences, as time is an order of successions."[75] Einstein, who called himself a "Leibnizian" even wrote in the introduction to Max Jammer's book Concepts of Space that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time; it has been argued that Leibniz paved the way for Einstein's theory of relativity.[76]
 
@@ -165,11 +165,9 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 |Aristotle<br>384–322 BC|Metaphysics 1011a6<br>[The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)|
 |Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See Plato's Theory of forms, René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>(Descartes' Evil Demon, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
-|Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
 |Gilbert Harman<br>May 26, 1938 to November 13, 2021|[Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat)|
 |Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
 
-<!-- ||[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)| -->
 
 <!-- A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a> -->
 
