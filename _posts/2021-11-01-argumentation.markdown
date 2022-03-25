@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:53:03 -0700
+date: 2021-11-04 11:54:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -157,12 +157,9 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 <!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
 
-> The one who does not love does not know God, for God is love. &mdash; 1 john 4:8
+> The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8
 
-
-Now imagine the reaction of this pure and limitless being, as he watches every secret and hidden thing unfold over the eons. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, drunkenness, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, Re 2:4-5), hate (1 John 3:15), and slander. Let's now compare and contrast with the enemy of mankind. What is God's reaction to the following character traits do you think?
-
-<!-- Re 2:9; 3:9 -->
+Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast with the enemy of mankind.
 
 |Christ|Satan|
 |:-:|:-:|
@@ -176,7 +173,7 @@ Now imagine the reaction of this pure and limitless being, as he watches every s
 |Humble|Prideful|
 |Heals|Debilitates|
 
-Does it really come as a surprise to anyone, that the most pure and holy of all beings might be disgusted, or hate these things? Let's take a close look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+Does it really come as a surprise to anyone that he might be disgusted? Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
 
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
