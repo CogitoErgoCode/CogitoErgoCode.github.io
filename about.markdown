@@ -129,16 +129,16 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 
 |||
 |:-:|:-:|
-|Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, Anamnesis)|
+|Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy & Platonism*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, Anamnesis)|
 |Thomas Aquinas<br>1225 to 7 March 1274|[Summa Theologica](https://libgen.is/book/index.php?md5=A4050540FB4E90B5091C432CEC5BD0A6)<br>*"Physics says nothing about where the laws of physics themselves come from. So the cosmological proof of Saint Thomas Aquinas concerning the First Mover or First Cause is left relevant even today."* &mdash; Dr. Michio Kaku, Professor of theoretical physics, The God Equation|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism)|
-
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
 
 # Epistemology (The Nature of Knowledge)
 
 <!-- My epistemological views fall within rationalism. As do most of the worlds greatest mathematicians, logicians, and physicists [i.e Newton, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc]. -->
 
-My epistemological views fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc. I'm also a fan of skeptical scenarios. Gödel represents my views on the [philosophy of mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/).
+My epistemological views fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Leibniz, Gödel, Einstein ("Leibnizian" and Spinozist), etc. I'm also a fan of skeptical scenarios.
 
 <!-- , skepticism, and solipsism. -->
 
@@ -166,7 +166,6 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 |Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See Plato's Theory of forms, René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>(Descartes' Evil Demon, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
 |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
-|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>, <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
 |Gilbert Harman<br>May 26, 1938 to November 13, 2021|[Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat)|
 |Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
 
