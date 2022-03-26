@@ -295,7 +295,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Study||
 |:-:|:-:|
 |Greenred Productions|<a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>, <a href="https://youtu.be/Ilb1Bky3Z10" style="color:#0073e6;">ADHD Relief</a>|
-|Visual|[Floating In Space](https://youtu.be/cWuzJBboQyE), [Cosmic Dreams](https://youtu.be/gpwrVoz-YfE)|
+|Visual|[Floating In Space (1h)](https://youtu.be/cWuzJBboQyE), [Floating In Space (8h)](https://youtu.be/5_Blq9W9cT8), [Cosmic Dreams](https://youtu.be/gpwrVoz-YfE)|
 |Assorted|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
 
 
