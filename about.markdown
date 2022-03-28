@@ -4,7 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, programmer, [esperantist](https://en.wikipedia.org/wiki/Esperanto), and aspiring classical pianist. I like to teach myself things and blog about it. I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+Hello, my name is Ryan and I am a programmer, [esperantist](https://en.wikipedia.org/wiki/Esperanto), aspiring classical pianist, and life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>. I like to teach myself things and blog about it. I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
+
+<!-- > “Mathematics is the language in which God has written the universe” &mdash; Galileo Galilei -->
+
+<!-- > "I do not feel obliged to believe that the same God who has endowed us with senses, reason, and intellect has intended us to forgo their use ..." &mdash; Galileo Galilei, astronomer, physicist, engineer, philosopher, and mathematician -->
+
+<!--, Letter to the Grand Duchess Christina (1615) -->
+
+<!-- > Philosophy is written in that great book which ever lies before our eyes &mdash; I mean the universe &mdash; but we cannot understand it if we do not first learn the language and grasp the symbols, in which it is written. This book is written in the mathematical language, and the symbols are triangles, circles and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth. &mdash; Galileo Galilei, The Assayer (Il Saggiatore, 1623) -->
+
+<!-- , as translated by Thomas Salusbury (1661), p. 178, as quoted in The Metaphysical Foundations of Modern Science (2003) by Edwin Arthur Burtt, p. 75. -->
 
 <!-- - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
 - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> -->
@@ -129,7 +139,6 @@ My metaphysical views fall within the ontological [mind-body problem](https://en
 |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
 |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"|
-
 
 # Epistemology (The Nature of Knowledge)
 
