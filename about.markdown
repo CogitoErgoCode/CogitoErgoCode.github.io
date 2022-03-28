@@ -13,12 +13,12 @@ Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wi
     - Mi deziras paroli Esperanton flue.
     - University Education In Physics 
     - Classical pianist -->
-    
+
 <!-- - 私は日本語を勉強しています。 -->
 
 I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
 
-<sub>INTJ+5w6</sub>
+<sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
 
 <!-- You must have a serene state of mind, tranquil like water after a storm. You must yield and overcome, bend and become straight, empty your mind to be filled, wear out to be renewed. Soon you will have forgotten all things, and soon all things will have forgotten you. -->
 
