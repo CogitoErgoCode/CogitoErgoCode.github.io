@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:55:01 -0700
+date: 2021-11-04 11:56:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -144,8 +144,6 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 > "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Matthew 11:28-30
 
-> “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
-
 Imagine, for a moment, the perfect transcendental infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of [agape](https://biblehub.com/greek/26.htm) love (1 Jn 4:8) who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23, 1 Ti 2:6, Mt 20:28, Mk 10:45).
 
 <!-- > The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8, on agape love -->
@@ -162,6 +160,8 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 <!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
 
 Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, 1 Jn 4:8, Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast God with the enemy of mankind.
+
+> “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
 
 |Christ|Satan|
 |:-:|:-:|
