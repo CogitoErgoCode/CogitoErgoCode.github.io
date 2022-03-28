@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:54:00 -0700
+date: 2021-11-04 11:55:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -144,7 +144,11 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 > "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Matthew 11:28-30
 
-Imagine, for a moment, the perfect transcendental infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of love who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23).
+> “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
+
+Imagine, for a moment, the perfect transcendental infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of [agape](https://biblehub.com/greek/26.htm) love (1 Jn 4:8) who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23, 1 Ti 2:6, Mt 20:28, Mk 10:45).
+
+<!-- > The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8, on agape love -->
 
 |||
 |:-:|:-:|
@@ -157,9 +161,7 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 <!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
 
-> The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8
-
-Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast with the enemy of mankind.
+Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, 1 Jn 4:8, Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast God with the enemy of mankind.
 
 |Christ|Satan|
 |:-:|:-:|
@@ -250,6 +252,22 @@ Be truly whole,<br>
 And all things will come to you.<br>
 >
 &mdash; Tao Te Ching, Twenty Two
+
+<!-- ## ****
+
+> Ninth. Kindness is invincible - if it is sincere, not fawning or 9
+pretence. What can the most aggressive man do to you if you
+continue to be kind to him? If, as opportunity arises, you gently
+admonish him and take your time to re-educate him at the very
+moment when he is trying to do you harm? 'No, son, we were
+born for other purposes than this. There is no way that I can
+be harmed, but you are harming yourself, son.' And show him
+delicately how things are, making the general point that bees
+do not act like this, or any other creatures of gregarious nature.
+But your advice must not be ironic or critical. It should be
+affectionate, with no hurt feelings, not a lecture or a demonstration to impress others, but the way you would talk to
+someone by himself irrespective of company. -->
+
 
 ## **Wise Words From The Book Theaetetus**
 
