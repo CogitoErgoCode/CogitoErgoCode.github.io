@@ -4,19 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, self-taught computer programmer, [esperantist](https://en.wikipedia.org/wiki/Esperanto), crypto investor, and aspiring polymath. Lately I've turned my attention towards physics. In my spare time I like to play classical piano. 
+Hello, my name is Ryan and I am a life long <a href="https://en.wikipedia.org/wiki/Autodidacticism" style="color:#0073e6;">autodidact</a>, programmer, [esperantist](https://en.wikipedia.org/wiki/Esperanto), and aspiring classical pianist. I like to teach myself things and blog about it. I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>.
 
 <!-- - Myers–Briggs Type Indicator: <a href="https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988" style="color:#0073e6;">INTJ</a> 
 - Enneagram of personality: <a href="https://enneagram.bz/en/6180d7e1-5388-4802-a80d-02205b796c53" style="color:#0073e6;">5w6</a> -->
 
-<!-- - [Current Goals & Aspirations](https://cogitoergocode.github.io/rewire-your-brain/)
-    - Mi deziras paroli Esperanton flue.
-    - University Education In Physics 
-    - Classical pianist -->
-
+<!-- Mi deziras paroli Esperanton flue -->
 <!-- - 私は日本語を勉強しています。 -->
-
-I've created a few lists of recommended reading below. If you'd like to follow my language learning progress, I would encourage you to follow me on <a href="https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64" style="color:#0073e6;">DuoLingo</a>. 
 
 <sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
 
