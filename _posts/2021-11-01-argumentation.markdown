@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:55:00 -0700
+date: 2021-11-04 11:55:01 -0700
 categories: debate discourse
 published: true
 ---
@@ -150,7 +150,7 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 <!-- > The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8, on agape love -->
 
-|||
+|Attributes||
 |:-:|:-:|
 |Omnitemporal (Eternal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
 |Omnipresent|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
