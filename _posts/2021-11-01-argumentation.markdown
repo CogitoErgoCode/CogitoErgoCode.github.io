@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:56:00 -0700
+date: 2021-11-04 11:57:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -224,6 +224,16 @@ Epictetus reminds us that sometimes the most appropriate response is simply to l
 <!-- say nothing -->
 
 # The Philosophical Taoist Method
+
+In some Chinese translations of the New Testament, λόγος (logos) is translated with the Chinese word dao (道) (e.g. John 1:1-3,14), indicating that the translators considered the concept of Tao to be somewhat equivalent to logos in Greek philosophy and the Logos (Jesus) in Christianity. See [Sinicizing Christianity, Zheng (2017), p. 187](https://books.google.com/books?id=M9YkDwAAQBAJ). In the thinking of noted christian author C.S. Lewis, God created the Tao and fully displayed it through the person of Jesus Christ. 
+
+<!-- A sinicized view of the logos is acceptable -->
+
+<!-- Noted Christian author C.S. Lewis used the word Tao to describe:
+
+> "the doctrine of objective value, the belief that certain attitudes are really true, and others really false, the kind of thing the Universe is and the kind of things we are." &mdash; Lewis, C.S. The Abolition of Man. p. 18.
+
+He asserted that every religion and philosophy contains foundations of universal ethics as an attempt to line up with the Tao—the way mankind was designed to be. In Lewis' thinking, God created the Tao and fully displayed it through the person of Jesus Christ. -->
 
 The best translation of the Tao Te Ching is by far the one translated by [Gia-Fu Feng](https://eheart.com/TAO/TTC/TTCchapters-small.pdf).
 
