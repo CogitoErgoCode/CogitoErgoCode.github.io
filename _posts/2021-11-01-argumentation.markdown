@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:57:00 -0700
+date: 2021-11-04 11:58:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -225,7 +225,11 @@ Epictetus reminds us that sometimes the most appropriate response is simply to l
 
 # The Philosophical Taoist Method
 
-In some Chinese translations of the New Testament, λόγος (logos) is translated with the Chinese word dao (道) (e.g. John 1:1-3,14), indicating that the translators considered the concept of Tao to be somewhat equivalent to logos in Greek philosophy and the Logos (Jesus) in Christianity. See [Sinicizing Christianity, Zheng (2017), p. 187](https://books.google.com/books?id=M9YkDwAAQBAJ). In the thinking of noted christian author C.S. Lewis, God created the Tao and fully displayed it through the person of Jesus Christ. 
+In some Chinese translations of the New Testament, λόγος (logos) is translated with the Chinese word dao (道) (e.g. John 1:1-3,14), indicating that the translators considered the concept of Tao to be somewhat equivalent to logos in Greek philosophy and the Logos (The Word/Jesus) in Christianity.<sup>[source](https://books.google.com/books?id=M9YkDwAAQBAJ)</sup>
+
+<!-- Sinicizing Christianity, Zheng (2017), p. 187 -->
+
+<!-- In the thinking of noted christian author C.S. Lewis, God created the Tao and fully displayed it through the person of Jesus Christ.  -->
 
 <!-- A sinicized view of the logos is acceptable -->
 
