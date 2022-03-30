@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:00:00 -0700
+date: 2021-11-04 12:01:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -151,7 +151,7 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 |Attributes||
 |:-:|:-:|
-|Omnitemporal<br>(Eternal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
+|Eternal<br>(Omnitemporal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
 |Omnipresent<br>(Omnispatial)|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
 |Omniscient|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 21:17|
 |Omnipotent|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3|
@@ -166,7 +166,7 @@ Now imagine the reaction of this pure, holy, and limitless God, as he watches th
 
 |Christ|Satan|
 |:-:|:-:|
-|Savior & Truth|Murderer & Liar<br>Jn 8:44|
+|Savior & Truth<br>2 Pe 1:1, Is 43:11|Murderer & Liar<br>Jn 8:44|
 |Authentic|Counterfeit|
 |Righteous|Evil<br>Mt 13:19, 38, Jn 17:15; Eph 6:16; 2 Th 3:3; 1 Jn 3:12; 5:18-19|
 |Friend|Enemy<br>1 Pe 5:8|
