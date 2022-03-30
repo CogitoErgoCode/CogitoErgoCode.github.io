@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:02:00 -0700
+date: 2021-11-04 12:03:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -139,7 +139,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 ## **Dealing With Vicious Ad Hominem and Slander**
 
 <!-- There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance. -->
-All wisdom suggests that if you find yourself in such a situation, that you are to distance yourself from this type of person. This "type" of person is described biblically as a fool and a simple babbler, the Stoics relate them to the bitterly jealous, and the Taoists ignore their existence entirely. Realize that those who malign others are projecting their own insecurities and limitations from a position of ignorance, and often times deep-seated envy. Each of the methods described below usually end up with ignoring or not associating with aforementioned provocateur.
+<!-- All wisdom suggests that if you find yourself in such a situation, that you are to distance yourself from this type of person. This "type" of person is described biblically as a fool and a simple babbler, the Stoics relate them to the bitterly jealous, and the Taoists ignore their existence entirely. Realize that those who malign others are projecting their own insecurities and limitations from a position of ignorance, and often times deep-seated envy. Each of the methods described below usually end up with ignoring or not associating with aforementioned provocateur. -->
 
 # The Christian Method
 
