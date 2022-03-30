@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 11:58:00 -0700
+date: 2021-11-04 11:59:00 -0700
 categories: debate discourse
 published: true
 ---
