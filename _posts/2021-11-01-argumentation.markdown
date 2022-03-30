@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:01:00 -0700
+date: 2021-11-04 12:02:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -185,12 +185,12 @@ Does it really come as a surprise to anyone that God might be disgusted? Let's t
 
 <!-- > But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. &mdash; Matthew 5:22 -->
 
-|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10|
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
 |Do not associate with the slanderer.|Proverbs 20:19|
 |Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
 |God will destroy the slanderer.|Psalm 101:5|
 |**Whoever utters slander is a fool.**|Proverbs 10:18|
-|By gossip a troublemaker separates the best of friends.|Proverbs 16:28|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
 |Every careless word will be judged.|Matthew 12:36|
 |By Judging others, you judge God's law.|James 4:11|
 |Who are you to judge another?|James 4:12|
