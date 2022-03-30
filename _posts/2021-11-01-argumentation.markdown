@@ -139,6 +139,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 ## **Dealing With Vicious Ad Hominem and Slander**
 
 <!-- There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance. -->
+All wisdom suggests that if you find yourself in such a situation, that you are to distance yourself from this type of person. This "type" of person is described biblically as a fool and a simple babbler, the Stoics relate them to the bitterly jealous, and the Taoists ignore their existence entirely. Realize that those who malign others are projecting their own insecurities and limitations. Each of the methods described below usually end up with ignoring or not associating with aforementioned provocateur.
 
 # The Christian Method
 
@@ -150,8 +151,8 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 |Attributes||
 |:-:|:-:|
-|Omnitemporal (Eternal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
-|Omnipresent|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
+|Omnitemporal<br>(Eternal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
+|Omnipresent<br>(Omnispatial)|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
 |Omniscient|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 21:17|
 |Omnipotent|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3|
 |Omnibenevolent|Mt 5:48, Ex 34:6|
@@ -175,7 +176,7 @@ Now imagine the reaction of this pure, holy, and limitless God, as he watches th
 |Humble|Prideful|
 |Heals|Debilitates|
 
-Does it really come as a surprise to anyone that he might be disgusted? Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+Does it really come as a surprise to anyone that God might be disgusted? Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
 
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
