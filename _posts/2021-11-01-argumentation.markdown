@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:05:00 -0700
+date: 2021-11-04 12:07:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -151,11 +151,11 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 |Attributes||
 |:-:|:-:|
-|Eternal<br>(Omnitemporal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
-|Omnipresent<br>(Omnispatial)|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
-|Omniscient|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 21:17|
-|Omnipotent|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3|
-|Omnibenevolent|Mt 5:48, Ex 34:6|
+|[Eternal](https://www.gotquestions.org/eternal-God.html)<br>(Omnitemporal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17|
+|[Omnipresent](https://www.gotquestions.org/God-omnipresent.html)<br>(Omnispatial)|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28|
+|All Knowing<br>([Omniscient](https://www.gotquestions.org/God-omniscient.html))|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 21:17|
+|All Powerful<br>([Omnipotent](https://www.gotquestions.org/God-omnipotent.html))|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3|
+|All Good<br>([Omnibenevolent](https://www.gotquestions.org/God-omnibenevolent.html))|Mt 5:48, Ex 34:6|
 |Unique|Dt 4:35;32:39, Is 43:10-11;44:6;45:5|
 
 <!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
