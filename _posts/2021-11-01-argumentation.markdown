@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:03:00 -0700
+date: 2021-11-04 12:04:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -178,7 +178,6 @@ Now imagine the reaction of this pure, holy, and limitless God, as he watches th
 
 Does it really come as a surprise to anyone that God might be disgusted? Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
-
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
 
 > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
@@ -194,6 +193,8 @@ Does it really come as a surprise to anyone that God might be disgusted? Let's t
 |Every careless word will be judged.|Matthew 12:36|
 |By Judging others, you judge God's law.|James 4:11|
 |Who are you to judge another?|James 4:12|
+|Evil words come from an evil heart.|Lk 6:45 NLT|
+|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy.|Ga 5:19-21 NLT|
 |Those who endure persecution will receive the crown of life.|James 1:12|
 |Insulting others has dire consequences.|Matthew 5:22|
 |An admonition to false teachers.|Jeremiah 23:1-3|
