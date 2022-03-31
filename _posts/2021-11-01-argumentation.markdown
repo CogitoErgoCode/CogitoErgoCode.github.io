@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:04:00 -0700
+date: 2021-11-04 12:05:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -194,10 +194,16 @@ Does it really come as a surprise to anyone that God might be disgusted? Let's t
 |By Judging others, you judge God's law.|James 4:11|
 |Who are you to judge another?|James 4:12|
 |Evil words come from an evil heart.|Lk 6:45 NLT|
-|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy.|Ga 5:19-21 NLT|
 |Those who endure persecution will receive the crown of life.|James 1:12|
 |Insulting others has dire consequences.|Matthew 5:22|
 |An admonition to false teachers.|Jeremiah 23:1-3|
+
+Let's look at the difference between a true follower of Christ, and one who is Christian in name only, from the context of slander. [This article](https://www.gotquestions.org/works-of-the-flesh.html) is fairly informative as well.
+
+|True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
+|:-:|:-:|
+|**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT|
+
 
 # The Stoic Method
 
