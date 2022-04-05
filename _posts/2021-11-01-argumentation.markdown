@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:07:00 -0700
+date: 2021-11-04 12:08:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -204,6 +204,11 @@ Let's look at the difference between a true follower of Christ, and one who is C
 |:-:|:-:|
 |**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT|
 
+> Then Peter came to him and said, “Lord, how many times must I forgive my brother[**a**] who sins against me? As many as seven times?” Jesus said to him, “Not seven times, I tell you, but seventy-seven times![**b**] &mdash; Matthew 18:21-22 NET
+
+Footnotes (NET bible translator notes)
+- **a.** Matthew 18:21 tn Here the term “brother” means “fellow believer” or “fellow Christian” (cf. BDAG 18 s.v. ἀδελφός 2.a), whether male or female. Concerning the familial connotations, see also the note on the first occurrence of this term in v. 15.
+- **b.** Matthew 18:22 tn Or “seventy times seven,” i.e., **an unlimited number of times**. See L&N 60.74 and 60.77 for the two possible translations of the phrase.
 
 # The Stoic Method
 
@@ -228,6 +233,12 @@ Epictetus reminds us that sometimes the most appropriate response is simply to l
 <!-- So, then they are assuming, essentially playing God, and in their hubris they have become a fool worthy of ridicule and scorn. -->
 
 > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus
+
+Remember that if we do not entertain provocations they cannot cause us discomfort.
+
+> “We suffer more often in imagination than in reality” &mdash; Lucius Annaeus Seneca
+
+<!-- > “**Men are disturbed not by things, but by the views which they take of things.** Thus death is nothing terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death, that it is terrible. When, therefore, we are hindered, or disturbed, or grieved let us never impute it to others, but to ourselves; that is, to our own views. It is the action of an uninstructed person to reproach others for his own misfortunes; of one entering upon instruction, to reproach himself; and of one perfectly instructed, to reproach neither others or himself.” &mdash;  Epictetus, The Enchiridion of Epictetus -->
 
 <!-- say nothing -->
 
