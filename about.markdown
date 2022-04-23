@@ -194,6 +194,7 @@ My ethics views fall within virtue ethics. I've found [equanimity](https://en.wi
 |**Christ Jesus**<br>*Yahweh made manifest in the line of King David as prophesied.*<br>4 B.C. – 30 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|Charlie Chaplin<br>16 April 1889 to 25 December 1977|[The Great Dictator Speech](https://youtu.be/w8HdOHrc3OQ)|
 
 # Aesthetics (The Nature of Beauty)
 
