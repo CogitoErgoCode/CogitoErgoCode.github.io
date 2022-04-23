@@ -8,7 +8,7 @@ Hello, my name is Ryan and I am a programmer, [esperantist](https://en.wikipedia
 
 <!-- > “Mathematics is the language in which God has written the universe” &mdash; Galileo Galilei -->
 
-<!-- > "I do not feel obliged to believe that the same God who has endowed us with senses, reason, and intellect has intended us to forgo their use ..." &mdash; Galileo Galilei, astronomer, physicist, engineer, philosopher, and mathematician -->
+<!-- > "I do not feel obliged to believe that the same God who has endowed us with senses, reason, and intellect has intended us to forgo their use ..." &mdash; Galileo Galilei, astronomer, physicist, engineer, mathematician and philosopher -->
 
 <!--, Letter to the Grand Duchess Christina (1615) -->
 
@@ -278,6 +278,11 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
 
+<!-- |Rainer Maria Rilke<br>4 December 1875 – 29 December 1926|[“I live my life in widening circles”](https://reflections.yale.edu/article/seize-day-vocation-calling-work/i-live-my-life-widening-circles)| -->
+
+<!-- |Indie games, lore, and fiction are impressive expressions of Art.|Octopath Traveler (2018), Hollow Knight (2017), [Hyper Light Drifter (2016)](https://youtu.be/9rVdUufUBss), Stardew Valley, The Witcher 3: Wild Hunt (2015), Bloodborne (2015), The Elder Scrolls, D2:LOD (2001), FFVII ('97)| -->
+
+<!-- |Lovecraftian Yog-Sothothery & Sub Specie Aeternitatis|| -->
 
 <!-- |||
 |:-:|:-:|
@@ -299,7 +304,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |:-:|:-:|
 |Greenred Productions|<a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>, <a href="https://youtu.be/Ilb1Bky3Z10" style="color:#0073e6;">Focus</a>, [Sleep](https://youtu.be/5ceUwj4GPew)|
 |Visual|[Floating In Space (1h)](https://youtu.be/cWuzJBboQyE), [Floating In Space (8h)](https://youtu.be/5_Blq9W9cT8), [Cosmic Dreams](https://youtu.be/gpwrVoz-YfE)|
-|Assorted|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>|
+|Misc|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>, [The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), <!--<a href="https://youtu.be/AImY5NVcVKk" style="color:#0073e6;">Warrior</a>,--> <a href="https://youtu.be/Lq4pBie6ph4" style="color:#0073e6;">The Loom</a>, [Ineffable](https://youtu.be/hjOzmFNietA), [Kvitravn (White Raven)](https://youtu.be/JhiUacGzIg8), [Tognatale](https://youtu.be/V-Rj1GS9anA), [A wild river to take you home](https://youtu.be/fIS1foqEs-Y), [The gathering of deer](https://youtu.be/mTLunRuCGQQ?t=227), [Eo](https://youtu.be/eTvJUa6Vg78?t=776), <a href="https://youtu.be/R2Xy4n0tZCk" style="color:#0073e6;">Begin Again</a>, <a href="https://youtu.be/3p9p3iQfYb4" style="color:#0073e6;">Abandoned Soul</a>, <a href="https://youtu.be/PFtO9WDiRsA" style="color:#0073e6;">Look Within</a>|
 
 
 <!-- |🖌️ Maurits Cornelis Escher|Mathematical: ([LW-358](https://mcescher.com/wp-content/uploads/2019/04/LW-358.jpg), [LW-386](https://mcescher.com/wp-content/uploads/2019/04/LW-386.jpg), [LW-387](https://mcescher.com/wp-content/uploads/2019/04/LW-387.jpg), [LW-395](https://mcescher.com/wp-content/uploads/2019/04/LW-395.jpg)), Impossible Constructions: ([LW-439](https://mcescher.com/wp-content/uploads/2019/05/LW-439.jpg))| -->
