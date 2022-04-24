@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:08:00 -0700
+date: 2021-11-04 12:08:01 -0700
 categories: debate discourse
 published: true
 ---
@@ -120,6 +120,8 @@ There is no one who does good. &mdash; Psalm 14:1 -->
     - An example might be: "If you're so smart, why aren't you rich?"
     
         This type of conclusion is an error in logic. Essentially, nothing is "above your pay-grade". No matter your tax bracket, the merits of your argument should be taken seriously. 
+
+        > But Jesus replied, “Foxes have dens to live in, and birds have nests, but the Son of Man has no place even to lay his head.” &mdash; Matthew 8:20
 
 - **`Argumentum ad populum:`** An `appeal to the majority`, is a proposition that is claimed to be true or good solely because a majority or many people believe it to be so. This is also known as: the bandwagon argument.
 
