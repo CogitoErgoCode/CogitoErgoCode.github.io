@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How To Rewire Your Brain 🧠"
-date: 2022-02-25 12:03:03 -0700
+title: "Rewiring The Brain 🧠"
+date: 2022-02-25 12:03:04 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
