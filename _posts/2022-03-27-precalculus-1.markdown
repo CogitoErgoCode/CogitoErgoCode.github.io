@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I of V 🧮"
-date: 2022-03-27 00:00:02 -0700
+date: 2022-03-27 00:00:10 -0700
 categories: math algebra trig precalculus trigonometry
 published: true
 ---
@@ -421,6 +421,29 @@ Remember that when converting into scientific notation, if we move the decimal t
 |Group Numbers First|$$(6000-1.4051)\times 10^{21} = 5998.5949\times 10^{21}$$|
 |Convert to Scientific Notation|$$5.9985949\times 10^{24}$$|
 
+# Pythagorean Theorem
+
+We can use the **Pythagorean Theorem** to calculate the length of a diagonal. Remember that $$a^2 + b^2 = c^2$$ or alternatively $$c = \sqrt{a^2 + b^2}$$, where c represents the diagonal or hypotenuse. The Pythagorean Theorem utilizes the opposite & adjacent legs of the right triangle to find the hypotenuse. 
+
+[![TRI](/assets/images/math/tri.png){:height="250px" width="250px" style="display:block; margin-left:auto; margin-right:auto"}](https://sciencenotes.org/wp-content/uploads/2016/09/trigtriangle.png)
+
+|Pythagorean Theorem|$$a=7 ft, \, b=8 ft$$|
+|:-:|:-:|
+|Substitute|$$a^2 + b^2 = c^2$$<br>$$(7 \, ft)^2 + (8 \, ft)^2 = c^2$$|
+|Square|$$49 \, ft^2 + 64 \, ft^2 = c^2$$|
+|Combine|$$113 \, ft^2 = c^2$$|
+|Square Both Sides|$$\sqrt{113 \, ft^2} = \sqrt{c^2}$$|
+|Solution|$$c = 10.63014581273465 \, ft$$|
+|Round to tenths place|$$c = 10.63 \, ft$$|
+
+# Common Formulas
+
+There are a few common formulas you should be familiar with below before moving on to the next article.
+
+![GEO](/assets/images/math/geo.jpg)
+
+<!-- # Unit Conversion -->
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
