@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:08:04 -0700
+date: 2021-11-04 12:08:05 -0700
 categories: debate discourse
 published: true
 ---
@@ -203,6 +203,8 @@ Does it really come as a surprise to anyone that God might be disgusted? Let's t
 |An admonition to false teachers.|Jeremiah 23:1-3|
 
 Let's look at the difference between a true follower of Christ, and one who is Christian in name only, from the context of slander. [This article](https://www.gotquestions.org/works-of-the-flesh.html) is fairly informative as well.
+
+> If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
 
 |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
