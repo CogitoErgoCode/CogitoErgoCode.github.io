@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Precalculus Fundamentals, Part I of V 🧮"
-date: 2022-03-27 00:00:10 -0700
+title: "Precalculus Fundamentals, Part I 🧮"
+date: 2022-03-27 00:00:11 -0700
 categories: math algebra trig precalculus trigonometry
 published: true
 ---
@@ -272,6 +272,33 @@ expression is that we are now allowed to use all of our exponent properties to s
 |Power of power property|$$(y^{\frac{3}{2}})^{\frac{1}{3}} = y^{\frac{3}{2}\cdot \frac{1}{3}} = y^{\frac{3}{6}}$$|
 |Solution|$$y^{\frac{1}{2}}$$|
 
+# 📏 Adding & Subtracting Radical Expressions
+
+Two or more square roots can be combined using the distributive property if they have the same radicand (number underneath the radical sign). Radicals are called **like radicals** if they have the same radicand and the same index (square root, cubed root, or fifth root). Sometimes you can break down a radicand into factors to simplify the radicand, you might then be able to combine it with another like term. In many ways, like radicals are analogous to like terms.
+
+|Adding Like Radicals|$$7\sqrt{8}+6\sqrt{8}$$|
+|:-:|:-:|
+|Apply Distributive Property|$$(7+6)\sqrt{8}$$<br>$$13\sqrt{8}$$|
+|Simplify|$$13 \cdot \sqrt{2 \cdot 4}$$<br>$$13 \cdot \sqrt{4} \cdot \sqrt{2}$$<br>$$13 \cdot 2 \cdot \sqrt{2}$$<br>$$26\sqrt{2}$$|
+
+|Subtracting Like Radicals|$$7\sqrt{12}-8\sqrt{12}$$|
+|:-:|:-:|
+|Apply Distributive Property|$$(7-8)\sqrt{12}$$<br>$$-1\sqrt{12}$$|
+|Simplify|$$-1 \cdot \sqrt{4 \cdot 3}$$<br>$$-1 \cdot \sqrt{4} \cdot \sqrt{3}$$<br>$$-1 \cdot 2 \cdot \sqrt{3}$$<br>$$-2\sqrt{3}$$|
+
+When dealing with radicals with an unlike radicand, the first step is to simplify the radicands first.
+
+|Unlike Radicals|$$4\sqrt{50x} - 6\sqrt{32x}$$|
+|:-:|:-:|
+|Simplify|$$4 \cdot \sqrt{50 \cdot x} - 6 \cdot \sqrt{32 \cdot x}$$<br>$$4 \cdot \sqrt{25 \cdot 2 \cdot x} - 6 \cdot \sqrt{16 \cdot 2 \cdot x}$$<br>$$4 \cdot 5 \cdot \sqrt{2 \cdot x} - 6 \cdot 4 \cdot \sqrt{2 \cdot x}$$<br>$$20 \cdot \sqrt{2x} - 24 \cdot \sqrt{2x}$$|
+|Apply Distributive Property|$$(20-24) \cdot \sqrt{2x}$$<br>$$-4\sqrt{2x}$$|
+
+<!-- # Multiplying Radical Expressions
+
+|Multiplying Radicals|$$$$|
+|:-:|:-:|
+||| -->
+
 # 📏 Scientific Notation
 
 The Greek mathematician Archimedes (287 BC - 212 BC), developed a system for representing large numbers using a system very similar to scientific notation. Scientific notation is a way to express numbers as the product of a decimal number and a power of 10. It is important to remember that when you're writing numbers in scientific notation, you can only have one non-zero digit to the left of the decimal, but you can have any number of digits to the right. When you're writing in scientific notation, Keep in mind:
@@ -442,7 +469,10 @@ There are a few common formulas you should be familiar with below before moving 
 
 ![GEO](/assets/images/math/geo.jpg)
 
+
 <!-- # Unit Conversion -->
+
+
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
