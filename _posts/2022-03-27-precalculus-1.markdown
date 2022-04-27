@@ -1,14 +1,39 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I 🧮"
-date: 2022-03-27 00:00:11 -0700
-categories: math algebra trig precalculus trigonometry
-published: true
+date: 2022-03-27 00:01:00 -0700
+categories: math algebra precalculus
+published: false
 ---
 
-After passing college mathematics with perfect scores some years ago, I thought it would be interesting to create a series of math tutorials spanning from college algebra to calculus. Basic math knowledge is assumed, but I may add descriptions and clarifications for the younger audiences for which the first half of these articles are written. Hopefully, my notes will be useful to others going through these courses.
+
+## **Content Covered**
+
+<!-- After passing college mathematics with perfect scores some years ago,  -->
+
+I thought it would be interesting to create a series of math tutorials spanning from college algebra to calculus. Basic math knowledge is assumed, but I may add descriptions and clarifications for the younger audiences for which the first half of these articles are written.  Hopefully my notes will be useful to others going through these courses.
 
 > Algebra is a branch of mathematics in which arithmetical operations and formal manipulations are applied to abstract symbols rather than specific numbers. &mdash; [Britannica (paraphrase)](https://www.britannica.com/science/algebra)
+
+Here is an outline of my notes, which I used to pass my three month class, with perfect scores, in sixteen days:
+- Essential Concepts
+    <!-- - Real Numbers, Negative Numbers, Fractions, Absolute Values, Order of Operations -->
+- Exponents
+    <!-- - Scientific Notation -->
+- Radicals
+    <!-- - Rational Exponents, Rationalizing Denominators -->
+- Expressions
+    <!-- - Fractional Expressions, Rational Expressions -->
+- Polynomials
+    <!-- - Defining, Adding & Subtracting, Multiplying & Dividing, Factoring -->
+- Complex Numbers
+- Logarithms
+- Equations & Inequalities
+    <!-- - Linear, Quadratic, Absolute Value Inequalities, Systems of Equations & Inequalities, Exponential, Logarithmic Equations -->
+- Functions
+- Applications
+    <!-- - Area, Volume, Pythagorean Theorem, Unit Conversion (1&2pdf), Arithmetic Sequences, Distance, Rate, Time, Percentage Problems, Mixture Problems, Weighted Average (2), System of Equations (3), Geometric Sequences -->
+
 
 
 ## **The Reunion of Broken Parts**
@@ -26,6 +51,8 @@ from sympy import *
 x, y, z = symbols('x,y,z')
 init_printing(use_unicode=True, wrap_line=False)
 ``` -->
+
+## **Essential Concepts**
 
 # Set Theory, Roster Method, & Set-Builder Notation
 
@@ -217,7 +244,7 @@ When PEMDAS becomes unclear, remember that math problems are solved left to righ
 An algebraic expression is simplified when parentheses have been removed and
 like terms have been combined. -->
 
-# 📏 Properties of Exponents
+## 📏 **Exponents**
 
 The word exponent comes from the Latin "expo" meaning "out of" and "ponere" meaning "place." The Babylonians living in present day Iraq were the first to work with exponents, dating back to the 23rd century BC or earlier!
 
@@ -237,67 +264,6 @@ The word exponent comes from the Latin "expo" meaning "out of" and "ponere" mean
 |Property of Negative Ex.<br>$$a^{-n}=\frac{1}{a^n}, \, if \, n \gt 0$$|$$\frac{a^3b^{-2}c}{2d^{-1}e^{-4}f^2} = \frac{a^3cde^4}{2b^2f^2}$$|
 |Property of Negative Ex.<br>$$(\frac{b}{a})^{-n} =\frac{b^{-n}}{a^{-n}}=\frac{a^{n}}{b^{n}}=(\frac{a}{b})^n$$|$$7^{-3} = \frac{1}{7^3} = \frac{1}{343}$$|
 |Property of Negative Ex.<br>$$\frac{b^{-m}}{a^{-n}} = \frac{a^n}{b^m}$$||
-
-# 📏 Radicals
-
-Just as multiplication and division are inverse operations of one another, radicals and exponents are also inverse operations of each other, meaning they cancel each other out. Fractional exponents and radicals can be written as one another by using the property of fractional exponents. The largest advantage of being able to change a radical expression into an exponential
-expression is that we are now allowed to use all of our exponent properties to simplify.
-
-|Properties of Radicals||
-|:-:|:-:|
-|Definition of n<sup>th</sup> root<br>$$\sqrt[n]{a}=b, \, means \, b^n=a$$<br>By the definition of n<sup>th</sup> root<br>$$a^{\frac{1}{n}}=\sqrt[n]{a}$$|$$(a^{\frac{1}{n}})^n=a^{(\frac{1}{n})n}=a^1=a$$|
-|Root of a power<br>$$\sqrt[n]{a^m}=(\sqrt[n]{a})^m, \, if \, a \ge 0$$||
-|Product Property<br>$$\sqrt[n]{ab} = \sqrt[n]{a} \cdot \sqrt[n]{b}$$<br>$$\sqrt[n]{x} \cdot \sqrt[n]{x} = x$$|$$\sqrt[3]{27xy^3} = \sqrt[3]{27}\cdot \sqrt[3]{x}\cdot \sqrt[3]{y^3}$$<br>$$3\cdot \sqrt[3]{x}\cdot y = 3y\sqrt[3]{x}$$|
-|Definition of Rational or<br>Property of Fractional Exp.<br>$$a^{\frac{m}{n}} = (\sqrt[n]{a})^m$$<br>$$a^{\frac{m}{n}} = \sqrt[n]{a^m}$$|$$(\sqrt[6]{3x})^5 = (3x)^{\frac{5}{6}}$$<br>$$\frac{1}{(\sqrt[3]{xy})^2} = (xy)^{-\frac{2}{3}}$$|
-|Quotient Property<br>$$\frac{\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}, \, if \, b \ne 0$$|$$\frac{\sqrt[3]{x^2y}}{\sqrt[3]{8xy^2}} = \sqrt[3]{\frac{x^2y}{8xy^2}}$$<br>$$\sqrt[3]{\frac{x}{8y}} = \sqrt[3]{\frac{1}{8}\cdot \frac{x}{y}}$$<br>$$\frac{\sqrt[3]{1}}{\sqrt[3]{8}}\cdot \sqrt[3]{\frac{x}{y}} = \frac{1}{2}\sqrt[3]{xy^{-1}}$$|
-|$$\sqrt[n]{a^n} = a, \, if \, n \, is \, odd$$<br>$$\sqrt[n]{a^n} = \|a\|, \, if \, n \, is \, even$$||
-|Root of a root<br>$$\sqrt[m]{\sqrt[n]{a}}=\sqrt[m \cdot n]{a}$$|$$\sqrt{\sqrt[3]{729}} = \sqrt[6]{729} = 3$$<br>$$\sqrt{x\sqrt{x}} = \sqrt{xx^{\frac{1}{2}}}$$<br>$$\sqrt{xx^{\frac{1}{2}}} = (xx^{\frac{1}{2}})^{\frac{1}{2}}$$<br>$$(x^{\frac{1}{1}}\cdot x^{\frac{1}{2}})^{\frac{1}{2}} = (x^{\frac{1}{1}+\frac{1}{2}})^{\frac{1}{2}}$$<br>$$(x^{\frac{3}{2}})^{\frac{1}{2}} = x^{\frac{3}{4}}$$<br>$$\sqrt[4]{x^3} = (\sqrt[4]{x})^3 = (x^3)^{\frac{1}{4}} = x^{\frac{3}{4}}$$|
-
-# 📏 Rational or Fractional Exponents and Radicals
-
-|Simplify|$$\sqrt[6]{y^5}\sqrt[3]{y^2}$$|
-|:-:|:-:|
-|Rewrite as Rational Exponents|$$y^{\frac{5}{6}} \cdot y^{\frac{2}{3}}$$|
-|Product Property of Exponents|$$y^{\frac{5}{6}+\frac{2}{3}}$$|
-|Find the LCM of 6 & 3|$$6 = 2 \cdot 3$$<br>$$3 = 1 \cdot 3$$<br>$$LCM \; is \; 6$$|
-|Add Unlike Fractions w\ LCD|$$(\frac{5 \, \cdot \, 1}{6 \, \cdot \, 1}) + (\frac{2 \, \cdot \, 2}{3 \, \cdot \, 2}) = \frac{5+4}{6}$$|
-|Find the GCF of 9 & 6|$$9 = 3^2$$<br>$$3 = 1 \cdot 3$$<br>$$GCF \; is \; 3$$|
-|Simplify Fraction \w GCD|$$\frac{9 \, \div \, 3}{6 \, \div \, 3} = \frac{3}{2}$$|
-|Solution|$$y^{\frac{3}{2}}$$|
-
-|Simplify|$$\sqrt[3]{y\sqrt{y}} = y^{\frac{1}{2}}$$|
-|:-:|:-:|
-|Definition of Rational Exponents|$$\sqrt[3]{y\sqrt[2]{y^1}} = \sqrt[3]{y\cdot y^{\frac{1}{2}}}$$|
-|Definition & Product Property|$$(y\cdot y^{\frac{1}{2}})^{\frac{1}{3}} = (y^{\frac{1}{1} + \frac{1}{2}})^{\frac{1}{3}} = (y^{\frac{2}{2} + \frac{1}{2}})^{\frac{1}{3}}$$|
-|Power of power property|$$(y^{\frac{3}{2}})^{\frac{1}{3}} = y^{\frac{3}{2}\cdot \frac{1}{3}} = y^{\frac{3}{6}}$$|
-|Solution|$$y^{\frac{1}{2}}$$|
-
-# 📏 Adding & Subtracting Radical Expressions
-
-Two or more square roots can be combined using the distributive property if they have the same radicand (number underneath the radical sign). Radicals are called **like radicals** if they have the same radicand and the same index (square root, cubed root, or fifth root). Sometimes you can break down a radicand into factors to simplify the radicand, you might then be able to combine it with another like term. In many ways, like radicals are analogous to like terms.
-
-|Adding Like Radicals|$$7\sqrt{8}+6\sqrt{8}$$|
-|:-:|:-:|
-|Apply Distributive Property|$$(7+6)\sqrt{8}$$<br>$$13\sqrt{8}$$|
-|Simplify|$$13 \cdot \sqrt{2 \cdot 4}$$<br>$$13 \cdot \sqrt{4} \cdot \sqrt{2}$$<br>$$13 \cdot 2 \cdot \sqrt{2}$$<br>$$26\sqrt{2}$$|
-
-|Subtracting Like Radicals|$$7\sqrt{12}-8\sqrt{12}$$|
-|:-:|:-:|
-|Apply Distributive Property|$$(7-8)\sqrt{12}$$<br>$$-1\sqrt{12}$$|
-|Simplify|$$-1 \cdot \sqrt{4 \cdot 3}$$<br>$$-1 \cdot \sqrt{4} \cdot \sqrt{3}$$<br>$$-1 \cdot 2 \cdot \sqrt{3}$$<br>$$-2\sqrt{3}$$|
-
-When dealing with radicals with an unlike radicand, the first step is to simplify the radicands first.
-
-|Unlike Radicals|$$4\sqrt{50x} - 6\sqrt{32x}$$|
-|:-:|:-:|
-|Simplify|$$4 \cdot \sqrt{50 \cdot x} - 6 \cdot \sqrt{32 \cdot x}$$<br>$$4 \cdot \sqrt{25 \cdot 2 \cdot x} - 6 \cdot \sqrt{16 \cdot 2 \cdot x}$$<br>$$4 \cdot 5 \cdot \sqrt{2 \cdot x} - 6 \cdot 4 \cdot \sqrt{2 \cdot x}$$<br>$$20 \cdot \sqrt{2x} - 24 \cdot \sqrt{2x}$$|
-|Apply Distributive Property|$$(20-24) \cdot \sqrt{2x}$$<br>$$-4\sqrt{2x}$$|
-
-<!-- # Multiplying Radical Expressions
-
-|Multiplying Radicals|$$$$|
-|:-:|:-:|
-||| -->
 
 # 📏 Scientific Notation
 
@@ -448,6 +414,336 @@ Remember that when converting into scientific notation, if we move the decimal t
 |Group Numbers First|$$(6000-1.4051)\times 10^{21} = 5998.5949\times 10^{21}$$|
 |Convert to Scientific Notation|$$5.9985949\times 10^{24}$$|
 
+## 📏 **Radicals**
+
+Just as multiplication and division are inverse operations of one another, radicals and exponents are also inverse operations of each other, meaning they cancel each other out. Fractional exponents and radicals can be written as one another by using the property of fractional exponents. The largest advantage of being able to change a radical expression into an exponential
+expression is that we are now allowed to use all of our exponent properties to simplify.
+
+|Properties of Radicals||
+|:-:|:-:|
+|Definition of n<sup>th</sup> root<br>$$\sqrt[n]{a}=b, \, means \, b^n=a$$<br>By the definition of n<sup>th</sup> root<br>$$a^{\frac{1}{n}}=\sqrt[n]{a}$$|$$(a^{\frac{1}{n}})^n=a^{(\frac{1}{n})n}=a^1=a$$|
+|Root of a power<br>$$\sqrt[n]{a^m}=(\sqrt[n]{a})^m, \, if \, a \ge 0$$||
+|Product Property<br>$$\sqrt[n]{ab} = \sqrt[n]{a} \cdot \sqrt[n]{b}$$<br>$$\sqrt[n]{x} \cdot \sqrt[n]{x} = x$$|$$\sqrt[3]{27xy^3} = \sqrt[3]{27}\cdot \sqrt[3]{x}\cdot \sqrt[3]{y^3}$$<br>$$3\cdot \sqrt[3]{x}\cdot y = 3y\sqrt[3]{x}$$|
+|Definition of Rational or<br>Property of Fractional Exp.<br>$$a^{\frac{m}{n}} = (\sqrt[n]{a})^m$$<br>$$a^{\frac{m}{n}} = \sqrt[n]{a^m}$$|$$(\sqrt[6]{3x})^5 = (3x)^{\frac{5}{6}}$$<br>$$\frac{1}{(\sqrt[3]{xy})^2} = (xy)^{-\frac{2}{3}}$$|
+|Quotient Property<br>$$\frac{\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}, \, if \, b \ne 0$$|$$\frac{\sqrt[3]{x^2y}}{\sqrt[3]{8xy^2}} = \sqrt[3]{\frac{x^2y}{8xy^2}}$$<br>$$\sqrt[3]{\frac{x}{8y}} = \sqrt[3]{\frac{1}{8}\cdot \frac{x}{y}}$$<br>$$\frac{\sqrt[3]{1}}{\sqrt[3]{8}}\cdot \sqrt[3]{\frac{x}{y}} = \frac{1}{2}\sqrt[3]{xy^{-1}}$$|
+|$$\sqrt[n]{a^n} = a, \, if \, n \, is \, odd$$<br>$$\sqrt[n]{a^n} = \|a\|, \, if \, n \, is \, even$$||
+|Root of a root<br>$$\sqrt[m]{\sqrt[n]{a}}=\sqrt[m \cdot n]{a}$$|$$\sqrt{\sqrt[3]{729}} = \sqrt[6]{729} = 3$$<br>$$\sqrt{x\sqrt{x}} = \sqrt{xx^{\frac{1}{2}}}$$<br>$$\sqrt{xx^{\frac{1}{2}}} = (xx^{\frac{1}{2}})^{\frac{1}{2}}$$<br>$$(x^{\frac{1}{1}}\cdot x^{\frac{1}{2}})^{\frac{1}{2}} = (x^{\frac{1}{1}+\frac{1}{2}})^{\frac{1}{2}}$$<br>$$(x^{\frac{3}{2}})^{\frac{1}{2}} = x^{\frac{3}{4}}$$<br>$$\sqrt[4]{x^3} = (\sqrt[4]{x})^3 = (x^3)^{\frac{1}{4}} = x^{\frac{3}{4}}$$|
+
+# 📏 Rational or Fractional Exponents and Radicals
+
+|Simplify|$$\sqrt[6]{y^5}\sqrt[3]{y^2}$$|
+|:-:|:-:|
+|Rewrite as Rational Exponents|$$y^{\frac{5}{6}} \cdot y^{\frac{2}{3}}$$|
+|Product Property of Exponents|$$y^{\frac{5}{6}+\frac{2}{3}}$$|
+|Find the LCM of 6 & 3|$$6 = 2 \cdot 3$$<br>$$3 = 1 \cdot 3$$<br>$$LCM \; is \; 6$$|
+|Add Unlike Fractions w\ LCD|$$(\frac{5 \, \cdot \, 1}{6 \, \cdot \, 1}) + (\frac{2 \, \cdot \, 2}{3 \, \cdot \, 2}) = \frac{5+4}{6}$$|
+|Find the GCF of 9 & 6|$$9 = 3^2$$<br>$$3 = 1 \cdot 3$$<br>$$GCF \; is \; 3$$|
+|Simplify Fraction \w GCD|$$\frac{9 \, \div \, 3}{6 \, \div \, 3} = \frac{3}{2}$$|
+|Solution|$$y^{\frac{3}{2}}$$|
+
+|Simplify|$$\sqrt[3]{y\sqrt{y}} = y^{\frac{1}{2}}$$|
+|:-:|:-:|
+|Definition of Rational Exponents|$$\sqrt[3]{y\sqrt[2]{y^1}} = \sqrt[3]{y\cdot y^{\frac{1}{2}}}$$|
+|Definition & Product Property|$$(y\cdot y^{\frac{1}{2}})^{\frac{1}{3}} = (y^{\frac{1}{1} + \frac{1}{2}})^{\frac{1}{3}} = (y^{\frac{2}{2} + \frac{1}{2}})^{\frac{1}{3}}$$|
+|Power of power property|$$(y^{\frac{3}{2}})^{\frac{1}{3}} = y^{\frac{3}{2}\cdot \frac{1}{3}} = y^{\frac{3}{6}}$$|
+|Solution|$$y^{\frac{1}{2}}$$|
+
+# 📏 Adding & Subtracting Radical Expressions
+
+Two or more square roots can be combined using the distributive property if they have the same radicand (number underneath the radical sign). Radicals are called **like radicals** if they have the same radicand and the same index (square root, cubed root, or fifth root). Sometimes you can break down a radicand into factors to simplify the radicand, you might then be able to combine it with another like term. In many ways, like radicals are analogous to like terms.
+
+|Adding Like Radicals|$$7\sqrt{8}+6\sqrt{8}$$|
+|:-:|:-:|
+|Apply Distributive Property|$$(7+6)\sqrt{8}$$<br>$$13\sqrt{8}$$|
+|Simplify|$$13 \cdot \sqrt{2 \cdot 4}$$<br>$$13 \cdot \sqrt{4} \cdot \sqrt{2}$$<br>$$13 \cdot 2 \cdot \sqrt{2}$$<br>$$26\sqrt{2}$$|
+
+|Subtracting Like Radicals|$$7\sqrt{12}-8\sqrt{12}$$|
+|:-:|:-:|
+|Apply Distributive Property|$$(7-8)\sqrt{12}$$<br>$$-1\sqrt{12}$$|
+|Simplify|$$-1 \cdot \sqrt{4 \cdot 3}$$<br>$$-1 \cdot \sqrt{4} \cdot \sqrt{3}$$<br>$$-1 \cdot 2 \cdot \sqrt{3}$$<br>$$-2\sqrt{3}$$|
+
+When dealing with radicals with an unlike radicand, the first step is to simplify the radicands first.
+
+|Unlike Radicals|$$4\sqrt{50x} - 6\sqrt{32x}$$|
+|:-:|:-:|
+|Simplify|$$4 \cdot \sqrt{50 \cdot x} - 6 \cdot \sqrt{32 \cdot x}$$<br>$$4 \cdot \sqrt{25 \cdot 2 \cdot x} - 6 \cdot \sqrt{16 \cdot 2 \cdot x}$$<br>$$4 \cdot 5 \cdot \sqrt{2 \cdot x} - 6 \cdot 4 \cdot \sqrt{2 \cdot x}$$<br>$$20 \cdot \sqrt{2x} - 24 \cdot \sqrt{2x}$$|
+|Apply Distributive Property|$$(20-24) \cdot \sqrt{2x}$$<br>$$-4\sqrt{2x}$$|
+
+# Multiplying Radical Expressions
+
+|Multiplying Radicals|$$$$|
+|:-:|:-:|
+|||
+
+# Rationalizing The Denominator or Numerator
+
+If a fraction has a denominator of this form, we may rationalize the denominator by multiplying numerator and denominator by the conjugate radical.
+
+|Rationalizing|$$A+B\sqrt{C}$$|
+|:-:|:-:|
+|Conjugate Radical|$$(A-B\sqrt{C})$$|
+|Multiply|$$(A+B\sqrt{C})(A-B\sqrt{C})$$|
+|notes*|$$A^2-B^2C$$|
+
+*This works because, by special product forumla: $$(A+B)(A-B)=A^2-B^2$$, the product of the denominator and its conjugate radical does not contain a radical.
+
+|Rationalizing|$$\frac{1}{1+\sqrt{2}}$$|
+|:-:|:-:|
+|Conjugate Radical|$$1-\sqrt{2}$$|
+|Multiply|$$\frac{1}{1+\sqrt{2}} \cdot \frac{1-\sqrt{2}}{1-\sqrt{2}}$$|
+||$$\frac{1 \cdot 1 - \sqrt{2}}{(1+\sqrt{2})(1-\sqrt{2})}$$|
+||$$\frac{1 - \sqrt{2}}{(1)^2-(\sqrt{2})^2}$$|
+||$$\frac{1 - \sqrt{2}}{1-2}$$|
+|Any expression divided<br>by -1 equals it's opposite.<br>Any expression divided by<br>it's opposite equals -1.|$$\frac{1 - \sqrt{2}}{-1}$$|
+||$$-(1 - \sqrt{2})$$|
+||$$\sqrt{2}-1$$|
+
+|Rationalizing|$$\frac{\sqrt{4+h}-2}{h}$$|
+|:-:|:-:|
+||$$\frac{\sqrt{4+h}-2}{h} \cdot \frac{\sqrt{4+h}+2}{\sqrt{4+h}+2}$$|
+||$$\frac{(\sqrt{4+h})^2-(2)^2}{h(\sqrt{4+h}+2)}$$|
+||$$\frac{4+h-4}{h(\sqrt{4+h}+2)}$$|
+||$$\frac{h}{h(\sqrt{4+h}+2)}$$|
+|Cancel|$$\frac{1}{\sqrt{4+h}+2}$$|
+
+
+## Polynomials
+
+$$a_nx^n+a_{n-1}x^{n-1} + a_{n-2}x^{n-2} + \dots + a_1x + a_0,$$
+
+A **polynomial** is composed of a single term or a sum of two or more terms containing variables with whole-number exponents. If a polynomial can be considered simplified when it contains no grouping symbols and no like terms, then a simplified polynomial of precisely one term is called a **monomial**. A simplified polynomial of two and three terms are referred to as a **binomial** and a **trinomial** respectively. Simplified polynomials with four or more terms have no special names. 
+
+Another way of looking at it might be to say that a polynomial is simply a sum of monomials, a binomial is a sum of two monomials, and a trinomial is the sum of three monomials. The **standard form** of a polynomial is written with the terms in the order of descending powers of the variable. **The degree of a polynomial** is the greatest degree of all the terms of the polynomial. 
+
+|Defining Polynomials||
+|:-:|:-:|
+|Linear ($$x^1$$) Binomial (2 Terms)|$$5x+1$$|
+|Quadratic ($$x^2$$) Trinomial (3 Terms)|$$2x^2-3x+4$$|
+|Cubic ($$x^3$$) Four Term Polynomial<br>(Not written in standard form)|$$3-x+x^2-\frac{1}{2}x^3$$|
+
+# 📏 Manipulating Algebraic Expressions
+<!-- # Adding & Subtracting Polynomials -->
+
+|Adding Polynomials||
+|:-:|:-:|
+|Find the sum|$$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$|
+|Group Like Terms|$$(x^3+x^3) + (-6x^2+5x^2) + (2x-7x) + 4$$|
+|Combine Like Terms|$$2x^3 - x^2 - 5x + 4$$|
+
+<!-- - **Find the sum:** $$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$
+
+    Since applying distributive property to the plus sign on the right hand side of the expression (cubic polynomial) yields no discernable changes, our first course of action is to group like terms using commutative & associative properties. Finally, combining like terms yields the result. -->
+
+|Subtracting Polynomials||
+|:-:|:-:|
+|Find the difference|$$(x^3-6x^2+2x+4) - (x^3+5x^2-7x)$$|
+|Distribute Negative|$$x^3-6x^2+2x+4-x^3-5x^2+7x$$|
+|Group Like Terms|$$(x^3-x^3) + (-6x^2-5x^2) + (2x+7x) + 4$$|
+|Combine Like Terms|$$-11x^2 + 9x + 4$$|
+
+<!-- # Manipulating Algebraic Expressions In Python
+
+- **Find the Sum:** $$(x^3-6x^2+2x+4) + (x^3+5x^2-7x)$$
+
+    ```py
+    e1 = x**3-6*x**2+2*x+4
+    e2 = x**3+5*x**2-7*x
+
+    print(e1.as_poly() + e2.as_poly())
+    ```
+    Result: $$2x^3 - x^2 - 5x + 4$$
+    ```py
+    Poly(2*x**3 - x**2 - 5*x + 4, x, domain='ZZ')
+    ```
+
+- **Find the difference:** $$(x^3-6x^2+2x+4) - (x^3+5x^2-7x)$$
+
+    ```py
+    e1 = x**3-6*x**2+2*x+4
+    e2 = x**3+5*x**2-7*x
+
+    print(e1.as_poly() - e2.as_poly())
+    ```
+    Result: $$-11x^2 + 9x + 4$$
+    ```py
+    Poly(-11*x**2 + 9*x + 4, x, domain='ZZ')
+    ``` -->
+
+
+# 📏 Multiplying Polynomials
+
+|Multiplying Binomials Using FOIL|$$(2x+1)(3x-5)$$|
+|:-:|:-:|
+|(**F**)irst|$$2x \cdot 3x=\bf6x^2$$|
+|(**O**)uter|$$2x-5=\bf-10x$$|
+|(**I**)nner|$$1 \cdot 3x=\bf3x$$|
+|(**L**)ast|$$1 \cdot -5=\bf-5$$|
+|Group like terms|$$\bf6x^2-10x+3x-5$$|
+|Combine like terms|$$6x^2-7x-5$$|
+
+|Multiplying Polynomials|$$(2x+3)(x^2-5x+4)$$|
+|:-:|:-:|
+|Distribute|$$2x(x^2-5x+4) \, \boldsymbol{+} \, 3(x^2-5x+4)$$|
+||$$(2x^3-10x^2+8x) + (3x^2-15x+12)$$|
+|Group like terms|$$2x^3 + (-10x^2+3x^2) + (8x-15x) + 12$$|
+|Combine like terms|$$2x^3-7x^2-7x+12$$|
+
+# Factoring Polynomials
+
+|Factoring Binomials|$$3x^2-6x$$|
+|:-:|:-:|
+|Find the GCF|$$3x$$|
+|Factored|$$\boldsymbol{3x}(x-2)$$|
+
+|Factoring Trinomials|$$8x^4y^2+6x^3y^3-2xy^4$$|
+|:-:|:-:|
+|Find the GCF|$$2xy^2$$|
+||$$8, 6, -2$$ have a GCF of $$\bf2$$|
+||$$x^4, x^3, x$$ have a GCF of $$\bf{x}$$|
+||$$2xy^2$$ is the GCF of the trinomial|
+|Factored|$$2xy^2(4x^3+3x^2y-y^2)$$|
+
+|Factoring Four Terms|$$(2x+4)(x-3)-5(x-3)$$|
+|:-:|:-:|
+|Find the GCF|$$(x-3)$$|
+||Sometimes, the GCF of an expression is not just a monomial but an entire parenthetical quantity. The two terms $$(2x+4)$$ and $$-5$$ have a common factor $$(x-3)$$|
+|Factored|$$[(2x+4)-5](x-3)$$|
+|Distribute & Simplify|$$(2x-1)(x-3)$$|
+
+- Factoring quadratic trinomials of the form $$x^2+bx+c$$
+    - Find two numbers whose sum equals the coefficient of the x term (b) and whose product is equal to the constant term (c): $$x^2-4x-12$$
+    - Negative six, and positive two: $$(x-6)(x+2)$$
+
+- Factoring quadratic trinomials of the form $$ax^2+bx+c \, where \, a \ne 1$$
+    - Find two numbers whose sum equals the linear coefficient (b) and whose product is equal to the leading coefficient (a) by the additive constant (c)
+    - If the constant term is negative then the signs in each factor must be different, if the sign is positive then they are the same.
+    - : $$2x^2+9x-5$$
+    - : $$2x^2+(10-1)x-5$$
+    - : $$2x^2+10x-x-5$$
+    - : $$2x(x+5)-1(x+5)$$
+    - : $$(x+5)(2x-1)$$
+
+# Factoring Expressions With Fractional Exponents
+
+|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
+|:-:|:-:|
+|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
+|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
+|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
+        
+# Special Product & Factoring Formulas
+
+If A and B are any real numbers or algebraic expressions, then ...
+
+| Difference of Squares |
+|:-:|
+|$$A^2-B^2=(A-B)(A+B)$$|
+|$$4x^2-25$$ <br> $$(2x)^2-5^2$$ <br> $$(2x-5)(2x+5)$$|
+|$$(x+y)^2-z^2$$ <br> $$(x+y-z)(x+y+z)$$|
+|Sum and product of same terms <br> $$(2x - \sqrt{y})(2x + \sqrt{y})$$ <br> $$(2x)^2 - (\sqrt{y})^2$$ <br> $$4x^2 - y$$|
+|$$(x+y-1)(x+y+1)$$ <br> $$[(x+y)-1][(x+y)+1]$$ <br> $$(x+y)^2-1^2$$ <br> $$x^2+2xy+y^2-1$$|
+
+<!-- <p style="text-align: center;">XXX</p> -->
+
+|Square of a Sum|
+|:-:|
+|$$(A+B)^2=A^2+2AB+B^2$$|
+|$$(3x+5)^2$$ <br> $$(3x)^2 + 2(3x)(5) + (5)^2$$ <br> $$9x^2+30x+25$$|
+|Perfect Square <br> $$x^2+6x+9$$ <br> $$x^2+2x3+3^2$$ <br> $$(x+3)^2$$|
+
+|Square of a Difference|
+|:-:|
+|$$(A-B)^2=A^2-2AB+B^2$$|
+|Perfect Square <br> $$4x^2-4xy+y^2$$ <br> $$(2x)^2-2(2x)(y)+y^2$$ <br> $$(2x-y)^2$$|
+
+<!-- i.e. (see square of a sum) -->
+
+<!-- # Exclusively Special Product Formulas -->
+
+|Cube of a sum|
+|:-:|
+|$$(A+B)^3=A^3+3A^2B+3AB^2+B^3$$|
+
+<p style="text-align:center;">
+i.e. (see cube of a difference)
+</p> 
+
+<!--<hr style="height:1px;background-color:grey;border:none;"> -->
+
+|Cube of a difference|
+|:-:|
+|$$(A-B)^3=A^3-3A^2B+3AB^2-B^3$$|
+|$$(x^2-2)^3$$ <br> $$(x^2)^3-3(x^2)^2(2)+3(x^2)(2)^2-2^3$$ <br> $$x^6-6x^4+12x^2-8$$|
+
+<!-- # Exclusively Special Factoring Formulas -->
+
+|Difference of Cubes|
+|:---:|
+|$$A^3-B^3=(A-B)(A^2+AB+B^2)$$|
+|$$27x^3-1$$ <br> $$(3x)^3-1^3$$ <br> $$(3x-1)((3x)^2+(3x)(1)+1^2)$$ <br> $$(3x-1)(9x^2+3x+1)$$|
+
+|Sum of Cubes|
+|:---:|
+|$$A^3+B^3=(A+B)(A^2-AB+B^2)$$|
+|$$x^6+8$$ <br> $$(x^2)^3+2^3$$ <br> $$(x^2+2)((x^2)^2-(x^2)2+2^2)$$ <br> $$(x^2+2)(x^4-2x^2+4)$$| 
+
+<!-- # Multiplying & Factoring Polynomials in Python
+
+- **Using expand() to multiply:** $$(2x+3)(x^2-5x+4)$$
+
+    ```py
+    expand((2*x+3)*(x**2-5*x+4))
+    # result: 2*x**3 - 7*x**2 - 7*x + 12
+    ```
+    result: $$2x^3-7x^2-7x+12$$
+
+- **Using factor() to factor:** $$8x^4y^2+6x^3y^3-2xy^4$$
+
+    ```py
+    factor(8*x**4*y**2+6*x**3*y**3-2*x*y**4)
+    # result: 2*x*y**2*(4*x**3 + 3*x**2*y - y**2)
+    ```
+    result: $$2xy^2(4x^3+3x^2y-y^2)$$
+
+- **Using gcd() to find the GCF of:** $$8x^4y^2+6x^3y^3-2xy^4$$
+
+    ```py
+    gcd([8, 6, -2])
+    # result: 2
+    gcd([x**4, x**3, x])
+    # result: x
+    gcd([y**2, y**3, y**4])
+    # result: y**2
+    gcd([8*x**4*y**2, 6*x**3*y**3, 2*x*y**4])
+    # result: 2*x*y**2
+    ```
+    result: $$2xy^2$$  -->
+
+## **Complex Numbers**
+
+|Complex Numbers|
+|:-:|
+|$$i = \sqrt{-1}$$|
+|$$i^2 = -1$$<br>$$\sqrt[n]{x} \cdot \sqrt[n]{x} = x$$|
+|$$i^3 = -i$$<br>$$-\sqrt{-1}$$|
+|$$i^4 = 1$$<br>$$-1\cdot\sqrt{-1}\cdot\sqrt{-1}$$<br>$$i\cdot i\cdot i\cdot i$$<br>$$(i\cdot i)\cdot (i\cdot i)$$<br>$$-1\cdot-1=1$$|
+|$$i^5 = i$$|
+
+## **Logarithms**
+
+|Properties of Logarithms||
+|:-:|:-:|
+||$$\log_b y=x, \, y=b^x$$|
+|Product|$$\log_b xy = \log_b x + \log_b y$$|
+|Quotient|$$\log_b \frac{x}{y} = \log_b x - \log_b y$$|
+|Power|$$\log_b x^p = p \cdot \log_b x $$|
+|Change of Base|$$\log_a x = \frac{\log_b x}{\log_b a}$$|
+|Equality|$$\log_b x = \log_b y, \, x=y$$|
+
+
+
+## **Applications**
+
 # Pythagorean Theorem
 
 We can use the **Pythagorean Theorem** to calculate the length of a diagonal. Remember that $$a^2 + b^2 = c^2$$ or alternatively $$c = \sqrt{a^2 + b^2}$$, where c represents the diagonal or hypotenuse. The Pythagorean Theorem utilizes the opposite & adjacent legs of the right triangle to find the hypotenuse. 
@@ -471,6 +767,9 @@ There are a few common formulas you should be familiar with below before moving 
 
 
 <!-- # Unit Conversion -->
+
+
+
 
 
 
