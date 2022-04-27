@@ -1,11 +1,15 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I 🧮"
-date: 2022-03-27 00:01:00 -0700
+date: 2022-03-27 00:01:01 -0700
 categories: math algebra precalculus
-published: false
+published: true
 ---
 
+## ⚠️ Under Construction 
+
+- When this warning has been removed, the article will be finished.
+<!-- - 📏 Problems have been double checked -->
 
 ## **Content Covered**
 
@@ -16,23 +20,18 @@ I thought it would be interesting to create a series of math tutorials spanning 
 > Algebra is a branch of mathematics in which arithmetical operations and formal manipulations are applied to abstract symbols rather than specific numbers. &mdash; [Britannica (paraphrase)](https://www.britannica.com/science/algebra)
 
 Here is an outline of my notes, which I used to pass my three month class, with perfect scores, in sixteen days:
-- Essential Concepts
-    <!-- - Real Numbers, Negative Numbers, Fractions, Absolute Values, Order of Operations -->
-- Exponents
-    <!-- - Scientific Notation -->
-- Radicals
-    <!-- - Rational Exponents, Rationalizing Denominators -->
-- Expressions
-    <!-- - Fractional Expressions, Rational Expressions -->
-- Polynomials
-    <!-- - Defining, Adding & Subtracting, Multiplying & Dividing, Factoring -->
-- Complex Numbers
-- Logarithms
-- Equations & Inequalities
-    <!-- - Linear, Quadratic, Absolute Value Inequalities, Systems of Equations & Inequalities, Exponential, Logarithmic Equations -->
-- Functions
-- Applications
-    <!-- - Area, Volume, Pythagorean Theorem, Unit Conversion (1&2pdf), Arithmetic Sequences, Distance, Rate, Time, Percentage Problems, Mixture Problems, Weighted Average (2), System of Equations (3), Geometric Sequences -->
+
+|Outline||
+|:-:|:-:|
+|Essential Concepts|Real Numbers, Negative Numbers, Fractions, Absolute Values, Order of Operations|
+|Exponents|Properties, Scientific Notation|
+|Radicals|Properties, Rational Exponents, Rationalizing Denominators|
+|Polynomials|Defining, Adding & Subtracting, Multiplying & Dividing, Factoring, Fractional, Rational|
+|Complex Numbers|Properties|
+|Logarithms|Properties|
+|Equations & Inequalities|Linear, Quadratic, Absolute Value Inequalities, Systems of Equations & Inequalities, Exponential, Logarithmic Equations|
+|Functions|Evaluating, Adding & Subtracting, Multiplying & Dividing, Nested, Inverse|
+|Applied|Area, Volume, Pythagorean Theorem, Unit Conversion<!--(1&2pdf)-->, Arithmetic Sequences, Distance, Rate, Time, Percentage Problems, Mixture Problems, Weighted Average<!--(2)-->, System of Equations<!--(3)-->, Geometric Sequences|
 
 
 
@@ -507,7 +506,7 @@ If a fraction has a denominator of this form, we may rationalize the denominator
 |Cancel|$$\frac{1}{\sqrt{4+h}+2}$$|
 
 
-## Polynomials
+## **Polynomials**
 
 $$a_nx^n+a_{n-1}x^{n-1} + a_{n-2}x^{n-2} + \dots + a_1x + a_0,$$
 
@@ -521,8 +520,7 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
 |Quadratic ($$x^2$$) Trinomial (3 Terms)|$$2x^2-3x+4$$|
 |Cubic ($$x^3$$) Four Term Polynomial<br>(Not written in standard form)|$$3-x+x^2-\frac{1}{2}x^3$$|
 
-# 📏 Manipulating Algebraic Expressions
-<!-- # Adding & Subtracting Polynomials -->
+# 📏 Adding & Subtracting Polynomials
 
 |Adding Polynomials||
 |:-:|:-:|
@@ -588,6 +586,16 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
 |Group like terms|$$2x^3 + (-10x^2+3x^2) + (8x-15x) + 12$$|
 |Combine like terms|$$2x^3-7x^2-7x+12$$|
 
+# Dividing Polynomials
+
+|Synthetic||
+|:-:|:-:|
+|||
+
+|Long Division||
+|:-:|:-:|
+|||
+
 # Factoring Polynomials
 
 |Factoring Binomials|$$3x^2-6x$$|
@@ -610,7 +618,7 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
 |Factored|$$[(2x+4)-5](x-3)$$|
 |Distribute & Simplify|$$(2x-1)(x-3)$$|
 
-- Factoring quadratic trinomials of the form $$x^2+bx+c$$
+<!-- - Factoring quadratic trinomials of the form $$x^2+bx+c$$
     - Find two numbers whose sum equals the coefficient of the x term (b) and whose product is equal to the constant term (c): $$x^2-4x-12$$
     - Negative six, and positive two: $$(x-6)(x+2)$$
 
@@ -621,15 +629,7 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
     - : $$2x^2+(10-1)x-5$$
     - : $$2x^2+10x-x-5$$
     - : $$2x(x+5)-1(x+5)$$
-    - : $$(x+5)(2x-1)$$
-
-# Factoring Expressions With Fractional Exponents
-
-|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
-|:-:|:-:|
-|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
-|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
-|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
+    - : $$(x+5)(2x-1)$$ -->
         
 # Special Product & Factoring Formulas
 
@@ -719,6 +719,300 @@ i.e. (see cube of a difference)
     ```
     result: $$2xy^2$$  -->
 
+# Factoring A Polynomial With Fractional Exponents
+
+|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
+|:-:|:-:|
+|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
+|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
+|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
+
+<!-- # The Domain of an Algebraic Expression
+
+$$\frac 1 x \, \{x \vert x \ne 0\}$$
+
+$$\sqrt x \, \{x \vert x \ge 0\}$$
+
+$$\frac{1}{\sqrt x} \, \{x \vert x \gt 0\}$$
+
+$$2x^2+3x-1$$
+
+$$x \over x^2-5x+6$$
+
+$$\sqrt x \over x-5$$
+
+$$\mathbb{N}$$ -->
+
+# Simplifying Rational Expressions
+
+|$$x^2-1 \over x^2+x-2$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Factor|$$(x-1)(x+1) \over (x-1)(x+2)$$|
+|Cancel|$$(x+1) \over (x+2)$$|
+
+|$$3(x+2)(x+1) \over 6(x-1)^2$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Reduce|$$(x+2)(x+1) \over 2(x-1)^2$$|
+|Cancel|$$x+2 \over 2(x-1)$$|
+|Distribute|$$x+2 \over 2x-2$$|
+
+|$$y^2-3y-18 \over 2y^2+5y+3$$|Reduce -> Factor -> Cancel -> Distribute|
+|:-:|:-:|
+|Factor Quadratic Trinomials|$$(y^2+3y)+(-6y-18) \over (2y^2+2y)+(3y+3)$$|
+|Factor y from $$(y^2+3y)$$ <br>and -6 from $$(-6y-18)$$|$$y(y+3)-6(y+3)$$|
+|Factor 2y from $$(2y^2+2y)$$ <br>and 3 from $$(3y+3)$$|$$2y(y+1)+3(y+1)$$|
+|Factor out GCF|$$(y+3)(y-6) \over (y+1)(2y+3)$$|
+
+# Multiplying and Dividing Rational Expressions
+
+The same rules that govern the multiplication & division of fractions, are directly applicable to the multiplication & division of rational expressions.
+
+|Multiplication|$${x^2+2x-3 \over x^2+8x+16} \cdot {3x+12 \over x-1}$$|
+|:-:|:-:|
+|Factor Numerators|$$(x-1)(x+3) \cdot 3(x+4)$$|
+|Factor Denominators|$$(x+4)(x+4) \cdot (x+1)$$|
+||$$3(x-1)(x+3)(x+4) \over (x-1)(x+4)^2$$|
+|Cancel|$$3(x+3) \over x+4$$|
+
+|Division|$${x-4 \over x^2-4} \div {x^2-3x-4 \over x^2+5x+6}$$|
+|:-:|:-:|
+|Apply|$${x-4 \over x^2-4} \cdot {x^2+5x+6 \over x^2-3x-4}$$|
+|Factor Numerators|$$x-4 \cdot {x^2+5x+6}$$|
+||$$(x-4) \cdot (x+2)(x+3)$$|
+|Factor Denominators|$${x^2-4} \cdot {x^2-3x-4}$$|
+||$$x^2-2^2=(x-2)(x+2)$$|
+||$$(x-2)(x+2) \cdot (x+1)(x-4)$$|
+|Cancel|$$x+3 \over (x+1)(x-2)$$|
+||$$x+3 \over x^2-x-2$$|
+
+# Adding and Subtracting Rational Expressions
+
+The same rules that govern the addition & subtraction of fractions, are directly applicable to the addition & subtraction of rational expressions.
+
+|Addition|$$\frac{3}{x-1} + \frac{x}{x+2}$$|
+|:-:|:-:|
+|Find the LCD|$$(x-1)(x+2)$$|
+||$$(\frac{3}{x-1} \cdot \frac{x+2}{x+2}) + (\frac{x}{x+2} \cdot \frac{x-1}{x-1})$$|
+||$$\frac{3(x+2)}{(x-1)(x+2)} + \frac{x(x-1)}{(x+2)(x-1)}$$|
+||$$\frac{3x+6+x^2-x}{(x-1)(x+2)}$$|
+|Combine like terms|$$\frac{x^2+2x+6}{(x-1)(x+2)}$$|
+||$$\frac{x^2+2x+6}{x^2+x-2}$$|
+
+|Addition & Subtraction|$$\frac{3}{x}+\frac{x-1}{x+2}-\frac{x}{x-5}$$|
+|:-:|:-:|
+|Find the LCD|$$(\frac{3}{x} \cdot \frac{(x+2)(x-5)}{(x+2)(x-5)}) + (\frac{x-1}{x+2} \cdot \frac{x(x-5)}{x(x-5)}) - (\frac{x}{x-5} \cdot \frac{x(x+2)}{x(x+2)})$$|
+||$$\frac{3(x^2-3x-10)}{x(x+2)(x-5)} + \frac{x-1(x^2-5x)}{x(x+2)(x-5)} - \frac{x(x^2+2x)}{x(x+2)(x-5)}$$|
+|Distribute|$$\frac{3x^2-9x-30+x^3-6x^2+5x-x^3-2x^2}{x(x+2)(x-5)}$$|
+|Group like terms|$$\frac{(x^3-x^3)+(3x^2-6x^2-2x^2)+(-9x+5x)-30}{x(x+2)(x-5)}$$|
+|Combine like terms|$$\frac{-5x^2-4x-30}{x(x+2)(x-5)}$$|
+||$$\frac{-5x^2-4x-30}{x^3-3x^2-10x}$$|
+
+# Simplifying Compound Fractions
+
+|Simplify (Method A)|$$\frac x y + 1 \over 1 - \frac y x$$|
+|:-:|:-:|
+|Convert expression<br>into a fraction|$$\frac x y + \frac 1 1 \over \frac 1 1 - \frac y x$$|
+|Expand to get LCD|$$\frac x y + (\frac 1 1 \cdot \frac y y) \over (\frac 1 1 \cdot \frac x x) - \frac y x$$|
+||$$\frac{x+y}{y} \div \frac{x-y}{x}$$|
+|Take the reciprocal of<br>the second fraction and<br>flip the sign|$$\frac{x+y}{y} \cdot \frac{x}{x-y}$$|
+||$$\frac{x(x+y)}{y(x-y)}$$|
+
+|Simplify (Method B)|$$\frac x y + 1 \over 1 - \frac y x$$|
+|:-:|:-:|
+|Find LCD of ALL<br>fractions (xy)|$$\frac{\frac{x}{y} + 1}{1 - \frac{y}{x}} \cdot \frac{xy}{xy}$$|
+||$$\frac{xy(\frac{x}{y} + 1)}{xy(1 - \frac{y}{x})}$$|
+||$$\frac{x^2+xy}{xy-y^2}$$|
+|Factor|$$\frac{x(x+y)}{y(x-y)}$$|
+
+|Simplify|$$\frac{\frac{1}{a+h}-\frac{1}{a}}{h}$$|
+|:-:|:-:|
+|Find the LCD $$a(a+h)$$|$$\frac{(\frac{1}{a+h} \cdot \frac{a}{a}) - (\frac{1}{a} \cdot \frac{a+h}{a+h})}{h}$$|
+||$$\frac{\frac{a}{a(a+h)} - \frac{a+h}{a(a+h)}}{h}$$|
+||$$\frac{a-(a+h)}{a(a+h)} \over h$$|
+||$$\frac{a-(a+h)}{a(a+h)} \cdot \frac{1}{h}$$|
+||$$\frac{-h}{a(a+h)} \cdot \frac{1}{h}$$|
+|Cancel common factors|$$\frac{-1}{a(a+h)}$$|
+
+|Simplify|$$\frac{\frac{x+2}{x-1}-\frac{x-3}{x-2}}{x+2}$$|
+|:-:|:-:|
+||$$\frac{\frac{(x-2)(x+2)-(x-1)(x-3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{(x^2-4)-(x^2-3x-x+3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{x^2-4-x^2+3x+x-3}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{(x^2-x^2)+(3x+x)+(-4-3)}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{\frac{4x-7}{(x-1)(x-2)}}{x+2}$$|
+||$$\frac{4x-7}{(x-1)(x-2)} \div x+2$$|
+||$$\frac{4x-7}{(x-1)(x-2)} \cdot \frac{1}{x+2}$$|
+||$$\frac{4x-7}{(x-1)(x-2)(x+2)}$$|
+||$$\frac{4x-7}{(x-1)(x^2-4)}$$|
+||$$\frac{4x-7}{x^3-x^2-4x+4}$$|
+
+# Simplifying Compound Fractions With Fractional Exponents
+
+Problems of this nature are found in calculus.
+
+|Factor out the power<br>of $$1+x^2$$ with the smallest<br>exponent, in this case<br>$$(1+x^2)^{-\frac{1}{2}}$$|$$\frac{(1+x^2)^\frac{1}{2} - x^2(1+x^2)^{-\frac{1}{2}}}{1+x^2}$$|
+|:-:|:-:|
+|To factor out $$(1+x^2)^{-\frac{1}{2}}$$<br>from $$(1+x^2)^{\frac{1}{2}}$$, <br>we subtract exponents:<br>i.e.<br>$$(1+x^2)^{\frac{1}{2}-(-\frac{1}{2})}$$<br>$$(1+x^2)^{\frac{1}{2}+\frac{1}{2}=\frac{2}{2}=1}$$<br>$$(1+x^2)$$|$$\frac{(1+x^2)^{-\frac{1}{2}}\left[(1+x^2)-x^2\right]}{1+x^2}$$|
+|Distribute|$$\frac{(1+x^2)^{-\frac{1}{2}}\left[1+x^2-x^2\right]}{1+x^2}$$<br><br>$$\frac{(1+x^2)^{-\frac{1}{2}}}{(1+x^2)^1}$$|
+|Divide expression by<br>subtracting exponents. Remember,<br>$$\frac{dividend}{divisor}=dividend \div divisor.$$<br>Therefore:<br>$$-\frac{1}{2}-1=-\frac{3}{2}$$|$$(1+x^2)^{-\frac{3}{2}}$$|
+|Implement negative power<br>rule by taking the<br>reciprocal|$$\frac{1}{(1+x^2)^{\frac{3}{2}}}$$|
+
+## **Equations & Inequalities**
+
+# Solving Linear Equations
+
+The linear equation in one variable is an equation equivalent to one of the form: $$ax+b=0$$, where a and b are real numbers and x is the variable.
+
+|Properties of Equations|
+|:-:|
+|$$A=B <=> A+C=B+C$$|
+|$$A=B <=> CA=CB, \, where \, C \ne 0$$|
+
+|Solving|$$7x-4=3x+8$$|
+|:-:|:-:|
+|Simplify<br>(Distribute & Combine like terms)|$$$$|
+|Transpose|$$7x=3x+8+4$$|
+||$$7x-3x=8+4$$|
+|Simplify<br>(Distribute & Combine like terms)|$$4x=12$$|
+|Divide by Coefficient<br>(or multiply by reciprocal<br>of coefficient)|$$\frac{4x}{4}=\frac{12}{4}$$|
+||$$x=3$$|
+
+# Solving For One Variable In Terms of Others
+
+|Isolate M by factoring|$$F=G\frac{mM}{r^2}$$|
+|:-:|:-:|
+|Factor|$$F=(\frac{Gm}{r^2})M$$|
+|Multiply by the<br>reciprocal of $$\frac{Gm}{r^2}$$<br> to cancel|$$(\frac{r^2}{Gm})F=(\frac{r^2}{Gm})(\frac{Gm}{r^2})M$$|
+||$$M = \frac{r^2F}{Gm}$$|
+
+|Isolate w by factoring|$$A=2lw+2wh+2lh$$|
+|:-:|:-:|
+|Factor/Isolate w by<br>first collecting terms<br>with w|$$A=(2lw+2wh)+2lh$$|
+||$$A=w(2l+2h)+2lh$$|
+|Transpose 2lh|$$A-2lh=w(2l+2h)$$|
+|Divide by coefficient<br>to clear rhs|$$\frac{A-2lh}{(2l+2h)}=\frac{w(2l+2h)}{(2l+2h)}$$|
+|Transpose 2lh|$$w=\frac{A-2lh}{2l+2h}$$|
+
+# Solving Quadratic Equations
+
+Quadratic equations are equations of the form: $$ax^2+bx+c=0$$, where a, b, and c are real numbers with $$a \ne 0$$. Understand also, the `Zero-Product Property`, which states, that $$AB=0$$ if and only if A = 0 or B = 0.
+
+|Solve by Factoring|$$x^2+5x=24$$|
+|:-:|:-:|
+|Transpose|$$x^2+5x-24=0$$|
+|Factor Trinomial|$$x^2-3x+8x-24=0$$|
+||$$x(x-3)+8(x-3)=0$$|
+||$$(x-3)(x+8)=0$$|
+|Solutions|$$x-3=0, x=3$$<br>$$x+8=0, x=-8$$|
+
+|Solve by Completing the Square|$$x^2-8x+13=0$$|
+|:-:|:-:|
+|Transpose|$$x^2-8x=-13$$|
+|Complete the Square|$$x^2-8x+(\frac{-8}{2})^2=-13+(\frac{-8}{2})^2$$|
+||$$x^2-8x+16=-13+16$$|
+||$$x^2-8x+16=3$$|
+|Factor|$$(x-4)(x-4)=3$$|
+||$$(x-4)^2=3$$|
+|Take the Square|$$x-4=\sqrt{3}$$|
+|Transpose|$$x=4 \pm \sqrt{3}$$|
+
+|Completeing the Square<br>where leading coefficient $$a \ne 1$$|$$3x^2-12x+6=0$$|
+|:-:|:-:|
+|Transpose|$$3x^2-12x=-6$$|
+|You must factor<br>the leading coefficient<br>from both terms that contain x,<br>before completing the square|$$3(x^2-4x)=3(-2)$$|
+||$$3(x^2-4x+(\frac{-4}{2})^2)=3(-2+(\frac{-4}{2})^2)$$|
+||$$3(x^2-4x+4)=3(-2+4)$$|
+||$$3((x-2)(x-2))=6$$|
+||$$3(x-2)^2=6$$|
+||$$\frac{3(x-2)^2}{3}=\frac{6}{3}$$|
+||$$(x-2)^2=2$$|
+||$$\sqrt{(x-2)^2}=\sqrt 2$$|
+||$$x-2=\sqrt 2$$|
+||$$x=2 \pm \sqrt 2$$|
+
+<!-- |Completeing the Square<br>where leading coefficient $$a \ne 1$$|$$3x^2-12x+6=0$$|
+|:-:|:-:|
+|Transpose|$$3x^2-12x=-6$$|
+|You must factor<br>the leading coefficient<br>from both terms that contain x,<br>before completing the square|$$3(x^2-4x)=-6$$|
+||$$3(x^2-4x+(\frac{-4}{2})^2)=-6+(\frac{-4}{2})^2$$|
+||$$3(x^2-4x+4)=-6+3(4)$$|
+||$$3((x-2)(x-2))=6$$|
+||$$3(x-2)^2=6$$|
+||$$\frac{3(x-2)^2}{3}=\frac{6}{3}$$|
+||$$(x-2)^2=2$$|
+||$$\sqrt{(x-2)^2}=\sqrt 2$$|
+||$$x-2=\sqrt 2$$|
+||$$x=2 \pm \sqrt 2$$| -->
+
+|Solve by Quadratic Equation|$$ax^2+bx+c=0$$|
+|:-:|:-:|
+|Formula|$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$|
+|Problem|$$3x^2-5x-1=0$$|
+|Variables|a=3, b=-5, c=-1|
+|Solve|$$x = {-(-5) \pm \sqrt{(-5)^2-4(3)(-1)} \over 2(3)}$$|
+||$$x = {5 \pm \sqrt{25+12} \over 6}$$|
+|Solution|$$x = {5 \pm \sqrt{37} \over 6}$$|
+
+|Solve by Quadratic Equation|$$ax^2+bx+c=0$$|
+|:-:|:-:|
+|Formula|$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$|
+|Problem|$$x^2+2x+2=0$$|
+|Variables|a=1, b=2, c=2|
+|Solve|$$x = {-(2) \pm \sqrt{(2)^2-4(1)(2)} \over 2(1)}$$|
+||$$x = {-2 \pm \sqrt{4-8} \over 2}$$|
+||$$x = {-2 \pm \sqrt{-4} \over 2}$$|
+||$$x = {-2 \pm \sqrt{-1} \cdot \sqrt{4} \over 2}$$|
+||$$x = {-2 \pm 2i \over 2}$$|
+||$$x = {-1 \pm 1i}$$|
+
+# Solving Linear Inequalities
+
+Pay special attention to rules 3 & 4. Remember, that what is true for multiplication, is also true for division in this instance.
+
+|Inequalities, Rules For||
+|:-:|:-:|
+|**Adding** the same quantity<br>to each side of an<br>inequality gives an<br>equivalent inequality|$$A \le B <=> A + C \le B + C$$|
+|**Subtracting** the same quantity<br>from each side of an<br>inequality gives an<br>equivalent inequality|$$A \le B <=> A - B \le B - C$$|
+|**Multiplying** each side<br>of an inequality by the<br>same ***positive*** quantity<br>gives an equivalent inequality|$$A \le B <=> CA \le CB$$<br>$$If \, C > 0$$|
+|**Multiplying** each side<br>of an inequality by the<br>same ***negative*** quantity<br><span style="font-weight:bold;color:#990000;">reverses</span> the direction of<br>the inequality|$$A \le B <=> CA \ge CB$$<br>$$If \, C > 0$$|
+|**Taking Reciprocals** of each side<br>of an inequality involving<br>***positive*** quantities <span style="font-weight:bold;color:#990000;">reverses</span> the<br>direction of the inequality|$$A \le B <=> \frac{1}{A} \ge \frac{1}{B}$$<br>$$If \, A > 0 \, and \, B > 0$$|
+|Inequalities can be added|$$A+C \le B+D$$<br>$$If \, A \le B \, and \, C \le D$$|
+
+An inequality is linear when/if each term is constant or a multiple of the variable. To solve, isolate the variable on one side of the inequality sign.
+
+|Linear Inequality|$$3x \lt 9x + 4$$|
+|:-:|:-:|
+||$$3x - 9x \lt 4$$|
+||$$-6x \lt 4$$|
+||$$\frac{-6x}{-6} \gt \frac{4}{-6}$$|
+|Same as above|$$(-\frac{1}{6})(-6x) \gt (-\frac{1}{6})(4)$$<br>or<br>$$(-\frac{1}{6})(\frac{-6x}{1}) \gt (-\frac{1}{6})(\frac{4}{1})$$|
+|Solution|$$x \gt -\frac{2}{3}$$|
+|Solution Set|$$(-\frac{2}{3}, \infty)$$|
+
+The solution set consists of all numbers greater than $$-\frac{2}{3}$$, In other words, the solution of the inequality is the interval $$(-\frac{2}{3}, \infty)$$.
+
+# Solving a Pair of Simultaneous Inequalities
+
+|Simultaneous|$$4 \le 3x - 2 \lt 13$$|
+|:-:|:-:|
+|Transpose|$$4 + (2) \le 3x - 2 + (2) \lt 13 + (2)$$|
+||$$6 \le 3x \lt 15$$|
+|Divide by Coefficient|$$\frac{6}{3} \le \frac{3x}{3} \lt \frac{15}{3}$$|
+||$$2 \le x \lt 5$$|
+|Solution Set|$$[2,5)$$|
+
+# Solving Absolute Value Equations
+
+||$$\vert 3x+1\vert = 7$$|
+|:-:|:-:|
+|||
+
+# Solving Absolute Value Inequalities
+
+||$$\vert x-4\vert-3<6$$|
+|:-:|:-:|
+|||
+
 ## **Complex Numbers**
 
 |Complex Numbers|
@@ -740,7 +1034,15 @@ i.e. (see cube of a difference)
 |Change of Base|$$\log_a x = \frac{\log_b x}{\log_b a}$$|
 |Equality|$$\log_b x = \log_b y, \, x=y$$|
 
+## **Functions**
 
+<!-- - Linear functions
+    - quadratic, exponential, logarithmic
+    - graph of an n<sup>th</sup> degree polynomial
+- Manipulating functions
+    - Adding, multiplying
+- Terminology
+    - Domain, range, odd & even, periodic, zeros, intercepts -->
 
 ## **Applications**
 
