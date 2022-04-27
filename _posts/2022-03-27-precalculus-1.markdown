@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I 🧮"
-date: 2022-03-27 00:01:01 -0700
+date: 2022-04-27 00:01:02 -0700
 categories: math algebra precalculus
 published: true
 ---
@@ -618,6 +618,14 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
 |Factored|$$[(2x+4)-5](x-3)$$|
 |Distribute & Simplify|$$(2x-1)(x-3)$$|
 
+# Factoring A Polynomial With Fractional Exponents
+
+|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
+|:-:|:-:|
+|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
+|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
+|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
+
 <!-- - Factoring quadratic trinomials of the form $$x^2+bx+c$$
     - Find two numbers whose sum equals the coefficient of the x term (b) and whose product is equal to the constant term (c): $$x^2-4x-12$$
     - Negative six, and positive two: $$(x-6)(x+2)$$
@@ -718,14 +726,6 @@ i.e. (see cube of a difference)
     # result: 2*x*y**2
     ```
     result: $$2xy^2$$  -->
-
-# Factoring A Polynomial With Fractional Exponents
-
-|Polynomial with Fractional Exponents|$$3x^{\frac 3 2}-9x^{\frac 1 2}+6x^{-\frac 1 2}$$|
-|:-:|:-:|
-|Factor out $$3x^{-\frac 1 2}$$|$$3x^{-\frac 1 2}(x^2-3x+2)$$|
-|To factor out the $$x^{-\frac 1 2}$$ from $$x^{\frac 3 2}$$,<br> we subtract exponents|$$x^{-\frac 1 2}(x^{\frac{3}{2}-(-\frac{1}{2})})$$ <br> $$x^{-\frac 1 2}(x^{\frac{3}{2}+\frac{1}{2}})$$ <br> $$x^{-\frac 1 2}(x^2)$$|
-|Factor Quadratic|$$3x^{-\frac 1 2}(x-1)(x-2)$$|
 
 <!-- # The Domain of an Algebraic Expression
 
@@ -833,18 +833,19 @@ The same rules that govern the addition & subtraction of fractions, are directly
 ||$$\frac{-h}{a(a+h)} \cdot \frac{1}{h}$$|
 |Cancel common factors|$$\frac{-1}{a(a+h)}$$|
 
-|Simplify|$$\frac{\frac{x+2}{x-1}-\frac{x-3}{x-2}}{x+2}$$|
-|:-:|:-:|
-||$$\frac{\frac{(x-2)(x+2)-(x-1)(x-3)}{(x-1)(x-2)}}{x+2}$$|
-||$$\frac{\frac{(x^2-4)-(x^2-3x-x+3)}{(x-1)(x-2)}}{x+2}$$|
-||$$\frac{\frac{x^2-4-x^2+3x+x-3}{(x-1)(x-2)}}{x+2}$$|
-||$$\frac{\frac{(x^2-x^2)+(3x+x)+(-4-3)}{(x-1)(x-2)}}{x+2}$$|
-||$$\frac{\frac{4x-7}{(x-1)(x-2)}}{x+2}$$|
-||$$\frac{4x-7}{(x-1)(x-2)} \div x+2$$|
-||$$\frac{4x-7}{(x-1)(x-2)} \cdot \frac{1}{x+2}$$|
-||$$\frac{4x-7}{(x-1)(x-2)(x+2)}$$|
-||$$\frac{4x-7}{(x-1)(x^2-4)}$$|
-||$$\frac{4x-7}{x^3-x^2-4x+4}$$|
+|Simplify|
+|:-:|
+|$$\frac{\frac{x+2}{x-1}-\frac{x-3}{x-2}}{x+2}$$|
+|$$\frac{\frac{(x-2)(x+2)-(x-1)(x-3)}{(x-1)(x-2)}}{x+2}$$|
+|$$\frac{\frac{(x^2-4)-(x^2-3x-x+3)}{(x-1)(x-2)}}{x+2}$$|
+|$$\frac{\frac{x^2-4-x^2+3x+x-3}{(x-1)(x-2)}}{x+2}$$|
+|$$\frac{\frac{(x^2-x^2)+(3x+x)+(-4-3)}{(x-1)(x-2)}}{x+2}$$|
+|$$\frac{\frac{4x-7}{(x-1)(x-2)}}{x+2}$$|
+|$$\frac{4x-7}{(x-1)(x-2)} \div x+2$$|
+|$$\frac{4x-7}{(x-1)(x-2)} \cdot \frac{1}{x+2}$$|
+|$$\frac{4x-7}{(x-1)(x-2)(x+2)}$$|
+|$$\frac{4x-7}{(x-1)(x^2-4)}$$|
+|$$\frac{4x-7}{x^3-x^2-4x+4}$$|
 
 # Simplifying Compound Fractions With Fractional Exponents
 
