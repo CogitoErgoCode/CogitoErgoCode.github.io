@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I 🧮"
-date: 2022-04-27 00:01:02 -0700
+date: 2022-04-27 00:01:05 -0700
 categories: math algebra precalculus
 published: true
 ---
@@ -26,7 +26,7 @@ Here is an outline of my notes, which I used to pass my three month class, with 
 |Essential Concepts|Real Numbers, Negative Numbers, Fractions, Absolute Values, Order of Operations|
 |Exponents|Properties, Scientific Notation|
 |Radicals|Properties, Rational Exponents, Rationalizing Denominators|
-|Polynomials|Defining, Adding & Subtracting, Multiplying & Dividing, Factoring, Fractional, Rational|
+|Polynomials|Defining, Adding & Subtracting, Multiplying & Dividing, Factoring, Fractional, Rational, Compound|
 |Complex Numbers|Properties|
 |Logarithms|Properties|
 |Equations & Inequalities|Linear, Quadratic, Absolute Value Inequalities, Systems of Equations & Inequalities, Exponential, Logarithmic Equations|
@@ -468,15 +468,27 @@ When dealing with radicals with an unlike radicand, the first step is to simplif
 |Simplify|$$4 \cdot \sqrt{50 \cdot x} - 6 \cdot \sqrt{32 \cdot x}$$<br>$$4 \cdot \sqrt{25 \cdot 2 \cdot x} - 6 \cdot \sqrt{16 \cdot 2 \cdot x}$$<br>$$4 \cdot 5 \cdot \sqrt{2 \cdot x} - 6 \cdot 4 \cdot \sqrt{2 \cdot x}$$<br>$$20 \cdot \sqrt{2x} - 24 \cdot \sqrt{2x}$$|
 |Apply Distributive Property|$$(20-24) \cdot \sqrt{2x}$$<br>$$-4\sqrt{2x}$$|
 
-# Multiplying Radical Expressions
+# 📏 Multiplying Radical Expressions
 
-|Multiplying Radicals|$$$$|
+|Multiplying Radicals Using Distribution|$$\sqrt{7}(8+\sqrt{7})$$|
 |:-:|:-:|
-|||
+|Distribute the square root of 7|$$\sqrt{7} \cdot 8 + \sqrt{7} \cdot \sqrt{7}$$|
+|Simplify $$\sqrt{7} \cdot \sqrt{7} \; to \; 7$$|$$8 \cdot \sqrt{7} + 7$$|
+|Solution|$$7 + 8\sqrt{7}$$|
+
+|Multiplying Radicals Using FOIL|$$(\sqrt{3}+6)(12-\sqrt{3})$$|
+|:-:|:-:|
+|**F**OIL (First)|$$\sqrt{3} \cdot 12$$|
+|F**O**IL (Outside)|$$\sqrt{3} \cdot -\sqrt{3}$$|
+|FO**I**L (Inside)|$$6 \cdot 12$$|
+|FOI**L** (Last)|$$6 \cdot -\sqrt{3}$$|
+|Combine|$$(\sqrt{3} \cdot 12) + (\sqrt{3} \cdot -\sqrt{3}) + (6 \cdot 12) + (6 \cdot -\sqrt{3})$$|
+|Group like terms|$$(12\sqrt{3}) + (-3) + (72) + (-6\sqrt{3})$$<br>$$(12\sqrt{3}) + (-6\sqrt{3}) + (72) + (-3)$$|
+|Solution|$$6\sqrt{3} + 69$$|
 
 # Rationalizing The Denominator or Numerator
 
-If a fraction has a denominator of this form, we may rationalize the denominator by multiplying numerator and denominator by the conjugate radical.
+If a fraction has a denominator of this form, we may rationalize the denominator by multiplying numerator and denominator by the conjugate radical. Radical expressions that involve the sum and difference of the same two terms are called **conjugates**.
 
 |Rationalizing|$$A+B\sqrt{C}$$|
 |:-:|:-:|
