@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Precalculus Fundamentals, Part I 🧮"
-date: 2022-04-27 00:01:05 -0700
+date: 2021-12-25 00:02:00 -0700
 categories: math algebra precalculus
 published: true
 ---
@@ -19,21 +19,20 @@ I thought it would be interesting to create a series of math tutorials spanning 
 
 > Algebra is a branch of mathematics in which arithmetical operations and formal manipulations are applied to abstract symbols rather than specific numbers. &mdash; [Britannica (paraphrase)](https://www.britannica.com/science/algebra)
 
-Here is an outline of my notes, which I used to pass my three month class, with perfect scores, in sixteen days:
+Here is an outline of my notes, which I used to pass my three month class, with perfect scores, in sixteen days. My notes can be a bit messy, so sorry in advanced:
 
 |Outline||
 |:-:|:-:|
 |Essential Concepts|Real Numbers, Negative Numbers, Fractions, Absolute Values, Order of Operations|
 |Exponents|Properties, Scientific Notation|
-|Radicals|Properties, Rational Exponents, Rationalizing Denominators|
-|Polynomials|Defining, Adding & Subtracting, Multiplying & Dividing, Factoring, Fractional, Rational, Compound|
+|Radicals|Properties, Rational Exponents, Adding & Subtracting, Multiplying, Rationalizing Denominators|
+|Polynomials|Defining, Adding & Subtracting, Multiplying & Dividing, Factoring
+|Rational Expressions|Simplifying, Adding & Subtracting, Multiplying & Dividing, Compound|
 |Complex Numbers|Properties|
 |Logarithms|Properties|
 |Equations & Inequalities|Linear, Quadratic, Absolute Value Inequalities, Systems of Equations & Inequalities, Exponential, Logarithmic Equations|
 |Functions|Evaluating, Adding & Subtracting, Multiplying & Dividing, Nested, Inverse|
 |Applied|Area, Volume, Pythagorean Theorem, Unit Conversion<!--(1&2pdf)-->, Arithmetic Sequences, Distance, Rate, Time, Percentage Problems, Mixture Problems, Weighted Average<!--(2)-->, System of Equations<!--(3)-->, Geometric Sequences|
-
-
 
 ## **The Reunion of Broken Parts**
 
@@ -482,8 +481,8 @@ When dealing with radicals with an unlike radicand, the first step is to simplif
 |F**O**IL (Outside)|$$\sqrt{3} \cdot -\sqrt{3}$$|
 |FO**I**L (Inside)|$$6 \cdot 12$$|
 |FOI**L** (Last)|$$6 \cdot -\sqrt{3}$$|
-|Combine|$$(\sqrt{3} \cdot 12) + (\sqrt{3} \cdot -\sqrt{3}) + (6 \cdot 12) + (6 \cdot -\sqrt{3})$$|
-|Group like terms|$$(12\sqrt{3}) + (-3) + (72) + (-6\sqrt{3})$$<br>$$(12\sqrt{3}) + (-6\sqrt{3}) + (72) + (-3)$$|
+|Group like terms|$$(\sqrt{3} \cdot 12) + (\sqrt{3} \cdot -\sqrt{3}) + (6 \cdot 12) + (6 \cdot -\sqrt{3})$$|
+|Combine|$$(12\sqrt{3}) + (-3) + (72) + (-6\sqrt{3})$$<br>$$(12\sqrt{3}) + (-6\sqrt{3}) + (72) + (-3)$$|
 |Solution|$$6\sqrt{3} + 69$$|
 
 # Rationalizing The Denominator or Numerator
@@ -600,13 +599,23 @@ Another way of looking at it might be to say that a polynomial is simply a sum o
 
 # Dividing Polynomials
 
-|Synthetic||
+|Dividing by a Monomial|$$18x^3-15x^2+9x+6 \over 3x$$|
 |:-:|:-:|
-|||
+|All the terms have a common factor of 3x|$$3x(6x^2)-3x(5x)+3x(3)+3(2) \over 3x$$|
+|Divide each term in the numerator by the denominator|$$\frac{3x(6x^2)}{3x}-\frac{3x(5x)}{3x}+\frac{3x(3)}{3x}+\frac{3(2)}{3x}$$|
+|Solution|$$6x^2-5x+3+\frac{2}{x}$$|
 
-|Long Division||
+<!-- $$\begin{array}{r}x+1\\x+1\enclose{longdiv}{x^2+2x+1}\\-\underline{\left(x^2+x\right)}\hspace{1.5em}\\x+1\hspace{.33em}\\-\underline{(x+1)}\\0\hspace{.33em}\\\end{array}$$ -->
+
+<!-- |Long Division|$$2x^3+3x^2-5x+12 \over x+3$$|
 |:-:|:-:|
-|||
+||$$\begin{array}\\x+3\enclose{longdiv}{2x^3+3x^2-5x+12}\end{array}$$| -->
+
+<!-- $$\begin{array}{c|rrr}&1&2&1\\-1&&-1&-1\\\hline\\&1&1&0\\\end{array}$$ -->
+
+<!-- |Synthetic||
+|:-:|:-:|
+||$$\begin{array}{c\|rrr}&1&2&1\\-1&&-1&-1\\\hline\\&1&1&0\\\end{array}$$| -->
 
 # Factoring Polynomials
 
@@ -755,20 +764,28 @@ $$\sqrt x \over x-5$$
 
 $$\mathbb{N}$$ -->
 
+## **Rational Expressions**
+
+A **rational expression** is a fractional expression in which both the numerator and the
+denominator are polynomials. A rational expression is the quotient of two polynomials. A **compound fraction** is a fraction in which the numerator, the denominator, or both,
+are themselves fractional expressions.
+
 # Simplifying Rational Expressions
 
-|$$x^2-1 \over x^2+x-2$$|Reduce -> Factor -> Cancel -> Distribute|
+Steps might include: reduce, factor, cancel, & distribute.
+
+|Simplify|$$x^2-1 \over x^2+x-2$$|
 |:-:|:-:|
 |Factor|$$(x-1)(x+1) \over (x-1)(x+2)$$|
-|Cancel|$$(x+1) \over (x+2)$$|
+|Cancel|$$x+1 \over x+2$$|
 
-|$$3(x+2)(x+1) \over 6(x-1)^2$$|Reduce -> Factor -> Cancel -> Distribute|
+|Simplify|$$3(x+2)(x+1) \over 6(x-1)^2$$|
 |:-:|:-:|
 |Reduce|$$(x+2)(x+1) \over 2(x-1)^2$$|
 |Cancel|$$x+2 \over 2(x-1)$$|
 |Distribute|$$x+2 \over 2x-2$$|
 
-|$$y^2-3y-18 \over 2y^2+5y+3$$|Reduce -> Factor -> Cancel -> Distribute|
+|Simplify|$$y^2-3y-18 \over 2y^2+5y+3$$|
 |:-:|:-:|
 |Factor Quadratic Trinomials|$$(y^2+3y)+(-6y-18) \over (2y^2+2y)+(3y+3)$$|
 |Factor y from $$(y^2+3y)$$ <br>and -6 from $$(-6y-18)$$|$$y(y+3)-6(y+3)$$|
