@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rewiring The Brain 🧠"
-date: 2022-02-25 12:03:04 -0700
+date: 2022-02-25 12:04:00 -0700
 categories: tips tricks study autodidactism
 published: true
 ---
@@ -31,9 +31,12 @@ Additionally, The Mozart effect is also interesting to note: patients with epile
 - Learning a second language can increase problem solving ability.
 - According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language.
 - The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
-    - ***Esperanto***: the world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
-    - ***Toki Pona***: a language composed of only 137 essential words! Toki pona is partly inspired by Taoist philosophy, the language is designed to help users concentrate on basic things and to promote positive thinking, in accordance with the Sapir–Whorf hypothesis.
-    - ***Lojban***: originally conceived as a means to examine the influence of language on the speaker's thought via Sapir–Whorf hypothesis, Lojban was created to reflect the principles of logic. Lojban is proposed as a potential means of machine translation, and as a tool to explore the intersection between human language and software.
+
+|||
+|:-:|:-:|
+|Esperanto|The world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.|
+|Toki Pona|A language composed of only 137 essential words! Toki pona is partly inspired by Taoist philosophy, the language is designed to help users concentrate on basic things and to promote positive thinking, in accordance with the Sapir–Whorf hypothesis.|
+|Lojban|Originally conceived as a means to examine the influence of language on the speaker's thought via Sapir–Whorf hypothesis, Lojban was created to reflect the principles of logic. Lojban is proposed as a potential means of machine translation, and as a tool to explore the intersection between human language and software.|
 
 <!-- > Toki Pona is a human language I invented in 2001. It was my attempt to understand the meaning of life in 120 words. There are now thousands of speakers and 137 essential words. &mdash; Sonja Lang, [https://tokipona.org/](https://tokipona.org/) -->
 
@@ -365,12 +368,12 @@ It can be difficult to remain focused and free from distraction. For me this alm
 
 ## **Conclusion**
 
-For myself, I intend to focus my efforts on the following pursuits in no particular order.
+<!-- For myself, I intend to focus my efforts on the following pursuits in no particular order. -->
 
-- ***Piano*** for its effects upon the corpus callosum. I also enjoy this activity.
-- ***Python*** because I need to maintain this skill as it will be extremely useful in the future in combination with physics, not to mention it also stimulates neuroplasticity and in conjunction with this blog, acts as an expression of the feynman technique.
-- ***Physics*** for its effects upon neuroplasticity. This is where most of the study techniques mentioned above will be applied, as it is a new addition to the lineup.
+<!-- - ***Piano*** for its effects upon the corpus callosum. I also enjoy this activity. -->
+<!-- - ***Python*** because I need to maintain this skill as it will be extremely useful in the future in combination with physics, not to mention it also stimulates neuroplasticity and in conjunction with this blog, acts as an expression of the feynman technique. -->
+<!-- - ***Physics*** for its effects upon neuroplasticity. This is where most of the study techniques mentioned above will be applied, as it is a new addition to the lineup. -->
 <!-- , one which I will likely undergo formally. -->
-- ***Esperanto*** because of its ability to amplify problem solving ability, perception, and for its propaedeutic properties in preparing the mind for multilingualism while maintaining adherence to telescope rule.
+<!-- - ***Esperanto*** because of its ability to amplify problem solving ability, perception, and for its propaedeutic properties in preparing the mind for multilingualism while maintaining adherence to telescope rule. -->
 
 If you're trying to implement some of these ideas into your own life, start small (telescope rule) and work your way up. Choose an instrument (corpus callosum), choose a language (problem solving & whorfanism), and pick up chess or a field of science (neuroplasticity). Eat healthy, exercise regularly, and remain equanimous.
