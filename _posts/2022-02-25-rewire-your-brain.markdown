@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rewiring The Brain 🧠"
-date: 2022-02-25 12:04:00 -0700
-categories: tips tricks study autodidactism
+date: 2022-02-25 12:05:00 -0700
+categories: tips tricks study learn autodidact autodidactism
 published: true
 ---
 
