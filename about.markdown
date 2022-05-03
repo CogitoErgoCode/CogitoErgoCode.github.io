@@ -4,7 +4,7 @@ title: TL;DR
 permalink: /about/
 ---
 
-Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas Ryan, kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://en.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en.wikipedia.org/wiki/Autodidacticism). Vi povas legi mian tutan biografion [ĉi tie](https://cogitoergocode-github-io.translate.goog/bio/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
+Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas Ryan, kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). Vi povas legi mian tutan biografion [ĉi tie](https://cogitoergocode-github-io.translate.goog/bio/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
 
 Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). You can read my entire biography [here](https://cogitoergocode.github.io/bio/). 
 
