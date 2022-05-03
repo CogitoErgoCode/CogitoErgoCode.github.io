@@ -10,7 +10,7 @@ Hello and welcome, I see you've found my blog. My name is Ryan, and I like to pr
 
 こんにちは、ようこそ。あなたが私のブログを見つけたようです。 私の名前はライアンです。コンピューターをプログラムしたり、ピアノを弾いたり、言語を学んだりするのが好きです。 私も[エスペラント](https://en.wikipedia.org/wiki/Esperanto)を流暢に話すことを学んでいますが、私は今のところ初心者です。 私の哲学は[独学](https://en.wikipedia.org/wiki/Autodidacticism)として知られています。 [ここで](https://cogitoergocode.github.io/bio/)私の伝記全体を読むことができます。
 
-Hallo und herzlich willkommen, ich sehe, Sie haben meinen Blog gefunden. Mein Name ist Ryan und ich programmiere gerne Computer, spiele Klavier und lerne Sprachen. Ich lerne auch fließend Esperanto zu sprechen, bin aber im Moment noch Anfänger. Meine Philosophie ist als Autodidaktik bekannt. Hier können Sie meine gesamte Biografie lesen.
+Hallo und herzlich willkommen, ich sehe, Sie haben meinen Blog gefunden. Mein Name ist Ryan und ich programmiere gerne Computer, spiele Klavier und lerne Sprachen. Ich lerne auch fließend [Esperanto](https://en.wikipedia.org/wiki/Esperanto) zu sprechen, bin aber im Moment noch Anfänger. Meine Philosophie ist als [Autodidaktik](https://en.wikipedia.org/wiki/Autodidacticism) bekannt. [Hier](https://cogitoergocode.github.io/bio/) können Sie meine gesamte Biografie lesen.
 
 <hr><br>
 
