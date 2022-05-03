@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-04 12:08:05 -0700
+date: 2021-11-04 12:08:10 -0700
 categories: debate discourse
 published: true
 ---
@@ -140,7 +140,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 ## **Dealing With Vicious Ad Hominem and Slander**
 
-One of the biggest signs of progress, is the accumulation of those who would hate you for trying. I've come to the realization, that the envious hate dreamers, because their dreams were never realized. Instead of taking offense at such insults, you should remind yourself that you're making true progress, and that this is simply the natural response of those who would project their own insecurities and limitations upon you. Move beyond their limits by doubling down on your efforts at success. Use the following methods & realizations to create a healthy environment for your mind.
+<!-- One of the biggest signs of progress, is the accumulation of those who would hate you for trying. I've come to the realization, that the envious hate dreamers, because their dreams were never realized. Instead of taking offense at such insults, you should remind yourself that you're making true progress, and that this is simply the natural response of those who would project their own insecurities and limitations upon you. Move beyond their limits by doubling down on your efforts at success. Use the following methods & realizations to create a healthy environment for your mind. -->
 
 <!-- There are three ways I respond to slander, each of these ways usually end up with me ignoring or not associating with aforementioned provocateur. First realize that those who malign others are projecting their own insecurities and limitations upon those they envy. There is really no other reason for a person to behave in such a manner unless they're acting on envy or out of ignorance. -->
 <!-- All wisdom suggests that if you find yourself in such a situation, that you are to distance yourself from this type of person. This "type" of person is described biblically as a fool and a simple babbler, the Stoics relate them to the bitterly jealous, and the Taoists ignore their existence entirely. Realize that those who malign others are projecting their own insecurities and limitations from a position of ignorance, and often times deep-seated envy. Each of the methods described below usually end up with ignoring or not associating with aforementioned provocateur. -->
@@ -180,7 +180,7 @@ Now imagine the reaction of this pure, holy, and limitless God, as he watches th
 |Humble|Prideful|
 |Heals|Debilitates|
 
-Does it really come as a surprise to anyone that God might be disgusted? Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
+Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
 <!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
 
