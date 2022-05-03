@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Simple Reverse Shell In Golang 🐚"
-date: 2019-07-16 12:00:01 -0700
+date: 2019-07-16 12:00:03 -0700
 categories: go golang reverse shell infosec
 published: true
 ---
@@ -10,7 +10,7 @@ This article assumes programming proficiency in `Golang` and familiarity with ne
 
 ## **Shell Shoveling In Golang**
 
-This is a simple example of a reverse shell I wrote in the programming language `Go` for the windows operating system.
+This is a simple example of a reverse shell I wrote in the programming language `Go`. While I originally wrote this for the windows operating system, this reverse shell should work cross-platform.
 
 ```go
 
