@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ichimoku Kinko Hyo (Ichimoku Cloud) 📈"
-date: 2022-01-21 12:02:00 -0700
+date: 2022-01-21 12:02:07 -0700
 categories: python plotting graphing crypto
 published: true
 ---
@@ -495,12 +495,7 @@ crypto/
 
 ```py
 from binance.binance    import Binance, say
-from analysis.moving    import MovingAverage
-from analysis.williams  import AlligatorFractals
 from analysis.ichimoku  import IchimokuKinkoHyo
-from analysis.bollinger import BollingerBands
-from analysis.macd      import MAConvergenceDivergence
-from analysis.rsi       import RelativeStrengthIndicator
 
 TICKER = "BTCUSDT"
 
