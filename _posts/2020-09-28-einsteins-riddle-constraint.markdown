@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Einstein's Riddle, Constraint Based Solution 🐟"
-date: 2020-10-19 12:33:32 -0700
+date: 2020-10-19 12:33:42 -0700
 categories: logic riddle einstein
 published: true
 ---
@@ -20,21 +20,21 @@ The question is: ***Who owns the fish?*** 🐟
 
 # **Hints**
 
-1. the `Brit` lives in the *<span style="color:red">red house</span>*
-2. the `Swede` keeps dogs 🐕 as pets
-3. the `Dane` drinks tea 🍵
-4. the *<span style="color:green">green house</span>* is on the left of the *<span style="color: grey">white house</span>*
-5. the *<span style="color:green">green house's</span>* owner drinks coffee ☕
-6. the person who smokes Pall Mall 🚬 rears birds 🐦
-7. the owner of the *<span style="color:gold">yellow house</span>* smokes Dunhill 🚬
-8. the man living in the center house drinks milk 🍼
-9. the `Norwegian` lives in the first house
-10. the man who smokes blends 🚬 lives next to the one who keeps cats 😺
-11. the man who keeps horses 🐴 lives next to the man who smokes Dunhill 🚬
-12. the owner who smokes BlueMaster 🚬 drinks beer 🍺
-13. the `German` smokes Prince 🚬
-14. the `Norwegian` lives next to the *<span style="color:blue">blue house</span>*
-15. the man who smokes blend 🚬 has a neighbor who drinks water 🌊
+1. the Brit lives in the red house
+2. the Swede keeps dogs as pets
+3. the Dane drinks tea
+4. the green house is on the left of the white house
+5. the green house's owner drinks coffee
+6. the person who smokes Pall Mall rears birds
+7. the owner of the yellow house smokes Dunhill
+8. the man living in the center house drinks milk
+9. the Norwegian lives in the first house
+10. the man who smokes blends lives next to the one who keeps cats
+11. the man who keeps horses lives next to the man who smokes Dunhill
+12. the owner who smokes BlueMaster drinks beer
+13. the German smokes Prince
+14. the Norwegian lives next to the blue house
+15. the man who smokes blend has a neighbor who drinks water
 
 
 # **Programmatic Solution (Constraint Based)**
