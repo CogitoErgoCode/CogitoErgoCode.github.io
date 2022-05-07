@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Einstein's Riddle 🐟"
-date: 2016-01-01 12:00:00 -0700
+title: "Einstein's Riddle, Pencil & Paper Solution 🐟"
+date: 2016-01-01 12:00:01 -0700
 categories: logic riddle einstein
 published: true
 ---
