@@ -12,7 +12,7 @@ Hello and welcome, I see you've found my blog. My name is Ryan, and I like to pr
 
 <!-- In the past, I taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
 
-I also run a Christian blog at [SevenShepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
+I also run a Christian blog at [SevenShepherd.github.io](https://sevenshepherd.github.io/about/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
 ## Computer Science, Programming, & Physics
 
