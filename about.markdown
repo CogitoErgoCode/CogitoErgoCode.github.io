@@ -12,15 +12,11 @@ Hello and welcome, I see you've found my blog. My name is Ryan, and I like to pr
 
 <!-- In the past, I taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
 
-If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
-
-## Classical Music
-
-|||
-|:-:|:-:|
-|Frédéric François Chopin<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc), [Winter Wind Op.25-11 (Hayato Sumino)](https://youtu.be/pHlqEvAwdVc)|
+I also run a Christian blog at [SevenShepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
 ## Computer Science, Programming, & Physics
+
+Here are a few recommended books.
 
 |||
 |:-:|:-:|
@@ -37,6 +33,11 @@ If you'd like to follow my language learning progress, I would encourage you to 
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html")|
 
+## Classical Music
+
+|||
+|:-:|:-:|
+|Frédéric François Chopin<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc), [Winter Wind Op.25-11 (Hayato Sumino)](https://youtu.be/pHlqEvAwdVc)|
 
 <!-- どうも初めまして。 私の名前はライアンです。 -->
 
@@ -45,10 +46,7 @@ If you'd like to follow my language learning progress, I would encourage you to 
 <!-- Hallo und herzlich willkommen, ich sehe, Sie haben meinen Blog gefunden. Mein Name ist Ryan und ich programmiere gerne Computer, spiele Klavier und lerne Sprachen. Ich lerne auch fließend [Esperanto](https://en.wikipedia.org/wiki/Esperanto) zu sprechen, bin aber im Moment noch Anfänger. Meine Philosophie ist als [Autodidaktik](https://en.wikipedia.org/wiki/Autodidacticism) bekannt. [Hier](https://cogitoergocode-github-io.translate.goog/bio/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto=wapp) können Sie meine gesamte Biografie lesen. -->
 
 
-<!-- My Christian blog can be found at [SevenShepherd.github.io](https://sevenshepherd.github.io/). -->
-
-
-## 🪙 Support This Blog
+## 🪙 Support Via Crypto
 
 - `ERC20` or `BEP20` Stablecoins:
     -  Address: *0xdFeFa105F4b45313404bbC6e6463200ef65D3b1b*
