@@ -18,7 +18,7 @@ Hello and welcome, I see you've found my blog. My name is Ryan, and I like to pr
 
 <hr><br>
 
-If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
+My Christian blog can be found at [SevenShepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
 
 ## 🪙 Support This Blog
