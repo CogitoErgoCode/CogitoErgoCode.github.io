@@ -25,6 +25,7 @@ Here are a few recommended books.
 |Kernighan & Ritchie (K&R)|The C Programming Language, 2nd (1988)|
 |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*|
 |K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
+|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Aditya Bhargava|Grokking Algorithms (2016)<br>*"An Illustrated Guide for Programmers and Other Curious People"*|
 |Julien Danjou|[Serious Python (2018)](https://nostarch.com/seriouspython)<br>*"Black-Belt Advice on Deployment, Scalability, Testing, and More"*|
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
