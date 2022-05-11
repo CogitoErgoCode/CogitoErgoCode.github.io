@@ -14,25 +14,31 @@ Hello and welcome, I see you've found my blog. My name is Ryan, and I like to pr
 
 I also run a Christian blog at [SevenShepherd.github.io](https://sevenshepherd.github.io/about/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
-## Computer Science, Programming, & Physics
+## Computer Programming, Physics, & Recreational
 
 Here are a few recommended books.
 
 |||
 |:-:|:-:|
-|Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
-|Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
+|**Programming**||
 |Kernighan & Ritchie (K&R)|The C Programming Language, 2nd (1988)|
-|Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*|
-|K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
-|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Aditya Bhargava|Grokking Algorithms (2016)<br>*"An Illustrated Guide for Programmers and Other Curious People"*|
 |Julien Danjou|[Serious Python (2018)](https://nostarch.com/seriouspython)<br>*"Black-Belt Advice on Deployment, Scalability, Testing, and More"*|
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Bradford Tuckfield|[Dive Into Algorithms (2021)](https://nostarch.com/Dive-Into-Algorithms)<br>*"A Pythonic Adventure for the Intrepid Beginner"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
-|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html")|
+|||
+|**Physics**||
+|Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
+|Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
+|Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*|
+|K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
+|||
+|**Recreational**||
+|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
+|Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
+|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 
 ## Classical Piano & Guitar
 
