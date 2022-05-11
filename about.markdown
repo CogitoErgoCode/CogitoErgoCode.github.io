@@ -51,45 +51,45 @@ Here are a few recommended books.
 
 > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” &mdash; Theodore Roosevelt, "Citizenship in a Republic", a speech at the Sorbonne, Paris, France (23 April 1910)
 
-> "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee
+<!-- > "Absorb what is useful, discard what is useless and add what is specifically your own." &mdash; Bruce Lee -->
 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." &mdash; R. Buckminster Fuller, Beyond Civilization: Humanity's Next Great Adventure (1999), p. 137
 
 > "Don't fight forces, use them." &mdash; R. Buckminster Fuller, In Shelter (May 1932)
 
-> "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki
+<!-- > "Jobs are a centuries-old concept created during the Industrial Revolution. Despite the reality that we're now deep in the Information Age, many people are studying for, or working at, or clinging to the Industrial Age idea of a safe, secure job." &mdash; Robert Kiyosaki -->
 
-> “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein
+<!-- > “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” &mdash; Albert Einstein -->
 
-> "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold)
+<!-- > "Gold laboreth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field." &mdash; [The Five Laws of Gold](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon#The_Five_Laws_of_Gold) -->
 
 > "We are all faced with a series of great opportunities brilliantly disguised as impossible situations." &mdash; Charles R. Swindoll
 
 > “It is impossible to begin to learn that which one thinks one already knows.” &mdash; Epictetus, Book II, ch. 17. of Discourses
 
-> “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein
+<!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
 > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208
 
-> "The only thing that interferes with my learning is my education." &mdash; Albert Einstein
+<!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
 > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
 
-> "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a>
+<!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
-> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique)
+<!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
-> “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman
+<!-- > “I learned very early the difference between knowing the name of something and knowing something.” &mdash; Richard P. Feynman -->
 
-> "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#0073e6;">Elon Musk</a>
+<!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#0073e6;">Elon Musk</a> -->
 
-> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
+<!-- > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant -->
 
-> “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci 
+<!-- > “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci  -->
 
-> "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." &mdash; Arthur Schopenhauer
+<!-- > "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." &mdash; Arthur Schopenhauer -->
 
-> "Don’t worry about the haters… They are just angry because the truth you speak contradicts the lie they live." &mdash; Steve Maraboli
+<!-- > "Don’t worry about the haters… They are just angry because the truth you speak contradicts the lie they live." &mdash; Steve Maraboli -->
 
 > "Great men are always of a nature originally melancholy." &mdash; Aristotle
 
