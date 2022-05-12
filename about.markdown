@@ -39,6 +39,7 @@ Here are a few recommended books.
 |Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
+|Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [Table Words](https://esperanto12.net/en/tabelvortoj/), [Common Phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [Names](http://esperanto-chicago.org/esperantizing-your-name/), [Wikipedia in Esperanto](https://eo.wikipedia.org/), [Lernu](https://lernu.net/), [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
 
 ## Classical Piano & Guitar
 
