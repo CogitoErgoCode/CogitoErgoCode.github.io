@@ -32,7 +32,6 @@ Here are a few recommended books.
 |**Physics**||
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
 |Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
-|Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*|
 |K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
 |||
 |**Recreational**||
@@ -40,13 +39,39 @@ Here are a few recommended books.
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [Table Words](https://esperanto12.net/en/tabelvortoj/), [Common Phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [Names](http://esperanto-chicago.org/esperantizing-your-name/), [Wikipedia in Esperanto](https://eo.wikipedia.org/), [Lernu](https://lernu.net/), [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
+|||
+|**Philosophy**||
+|Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br><!--[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)-->Mind–body dualism, Kurt Gödel’s Platonism, Max Tegmark’s Ultimate Ensemble|
+|Epistemological<br>*The Nature of Knowledge*|The Rationalists, [Zhuangzi "The Butterfly Dream" & "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), Superintelligence<br><!--Rationalism (the criterion of the truth is not sensory but intellectual and deductive), [Plato, Aristotle, Zhuang Zhou & Descartes's The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Descartes' Evil Demon, [Gilbert Harman's Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat), [Nick Bostrom's Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)-->Rationalism (the criterion of the truth is not sensory but intellectual and deductive), Plato, Aristotle, Zhuang Zhou & Descartes’s Dream Argument, Descartes’ Evil Demon, Gilbert Harman’s Brain in a vat, Nick Bostrom’s Simulation hypothesis|
+|Virtue ethics<br>*Moral Philosophy*|[Aesop of Sardis, The Sage of Lydia's Fables (Childhood)](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Lao Tzu's Tao Te Ching, Translated by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf)<!--(https://terebess.hu/english/tao/gia.html)-->, [Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854), [Socrates's Quotes](https://youtu.be/6pZl0GVjns4), [Lucius Annaeus Seneca the Younger's On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio), [Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU)<br><!--Virtue ethics, eudaimonia, aretē, [apatheia](https://en.wikipedia.org/wiki/Apatheia), [ataraxia](https://en.wikipedia.org/wiki/Ataraxia), [equanimity (aequanimitas)](https://en.wikipedia.org/wiki/Equanimity), Socratic Method, Stoicism, Philosophical Taoism-->Eudaimonia, aretē, apatheia, ataraxia, equanimity (aequanimitas), the socratic method, stoicism, philosophical taoism|
+
+<!-- |Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
+|Lao Tzu<br>6th Century B.C.|[Tao Te Ching, Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html), [Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854)|
+|Socrates<br>470 – 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
+|Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy & Platonism*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, Anamnesis)|
+|Plato<br>428/427 – 348/347 B.C.|Theaetetus 158b-d<br>[The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)|
+|Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
+|Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism)|
+|René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>(Descartes' Evil Demon, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
+|Nick Bostrom<br>10 March 1973|Superintelligence, [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
+|Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism.| -->
+
+<!-- |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
+
+
+
 
 ## Classical Piano & Guitar
+
+Some recommended classical artists.
 
 |||
 |:-:|:-:|
 |Frédéric François Chopin<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc), [Winter Wind Op.25-11 (Hayato Sumino)](https://youtu.be/pHlqEvAwdVc)|
-|Estas Tonne & Miscellaneous|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, <!--[Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo),--> [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Fallen Leaves](https://youtu.be/33zpEUNpX4k?t=328)|
+|Estas Tonne & Miscellaneous|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, [Flow](https://youtu.be/ccR7IPkfO_8), <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, <!--[Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo),--> [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Fallen Leaves](https://youtu.be/33zpEUNpX4k?t=328)|
 
 <!-- |Study|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), [Rainstorm](https://youtu.be/XtDwPLk8EgI), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>, [Auriel's Ascension](https://youtu.be/ztinD3rFJnI), <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>, <a href="https://youtu.be/Ilb1Bky3Z10" style="color:#0073e6;">Focus</a>, [Sleep](https://youtu.be/5ceUwj4GPew), [Floating In Space (1h)](https://youtu.be/cWuzJBboQyE), [Floating In Space (8h)](https://youtu.be/5_Blq9W9cT8)|
 |Classical Guitar/Romani|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8)|
@@ -88,7 +113,7 @@ Here are a few recommended books.
 
 > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
 
-<!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
+> "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a>
 
 <!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
@@ -96,7 +121,7 @@ Here are a few recommended books.
 
 <!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#0073e6;">Elon Musk</a> -->
 
-<!-- > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant -->
+> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
 <!-- > “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci  -->
 
