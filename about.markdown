@@ -34,16 +34,16 @@ Here are a few recommended books.
 |Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
 |K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
 |||
-|**Recreational**||
-|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
-|Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
-|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
-|Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [Table Words](https://esperanto12.net/en/tabelvortoj/), [Common Phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [Names](http://esperanto-chicago.org/esperantizing-your-name/), [Wikipedia in Esperanto](https://eo.wikipedia.org/), [Lernu](https://lernu.net/), [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
-|||
 |**Philosophy**||
 |Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br><!--[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)-->*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
 |Epistemological<br>*The Nature of Knowledge*|<!--[Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22)Rationalism (the criterion of the truth is not sensory but intellectual and deductive), [Plato, Aristotle, Zhuang Zhou & Descartes's The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Descartes' Evil Demon, [Gilbert Harman's Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat), [Nick Bostrom's Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)-->*Rationalism, the criterion of the truth is not sensory but intellectual and deductive & Skepticism, Plato's philosophical puzzle dream argument in Theaetetus 158b-d, Descartes’ Evil Demon dream argument in Meditations on First Philosophy, Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream in Zhuangzi, Gilbert Harman’s Brain in a vat, Nick Bostrom’s Simulation hypothesis*|
 |Virtue ethics<br>*Moral Philosophy*|[Aesop of Sardis, The Sage of Lydia's Fables (Childhood)](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Lao Tzu's Tao Te Ching by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf)<!--(https://terebess.hu/english/tao/gia.html)--> ([#22](https://youtu.be/wRnN_RBBCxI?t=854)), [Socrates](https://youtu.be/6pZl0GVjns4), [Lucius Annaeus Seneca the Younger's On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [and Happy Life](https://youtu.be/o2A-hgYqQio), [Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU)<br><!--Virtue ethics, eudaimonia, aretē, [apatheia](https://en.wikipedia.org/wiki/Apatheia), [ataraxia](https://en.wikipedia.org/wiki/Ataraxia), [equanimity (aequanimitas)](https://en.wikipedia.org/wiki/Equanimity), Socratic Method, Stoicism, Philosophical Taoism-->*Apatheia, ataraxia, equanimity (aequanimitas)*|
+|||
+|**Recreational**||
+|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
+|Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
+|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
+|Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
 
 <!-- |Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
 |Lao Tzu<br>6th Century B.C.|[Tao Te Ching, Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html), [Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854)|
@@ -61,7 +61,8 @@ Here are a few recommended books.
 
 <!-- |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
 
-
+<!-- |**Financial**|| -->
+<!-- ||Clason's The Richest Man in Babylon, Kiyoaki's Rich Dad Poor Dad, Sun Tzu's The Art of War| -->
 
 
 ## Classical Piano & Guitar
