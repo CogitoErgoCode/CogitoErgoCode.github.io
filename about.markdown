@@ -34,6 +34,9 @@ Here are a few recommended books.
 |Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
 |K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
 |||
+|**Financial**||
+|Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
+|||
 |**Philosophy**||
 |Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br><!--[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)-->*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
 |Epistemological<br>*The Nature of Knowledge*|<!--[Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22)Rationalism (the criterion of the truth is not sensory but intellectual and deductive), [Plato, Aristotle, Zhuang Zhou & Descartes's The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Descartes' Evil Demon, [Gilbert Harman's Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat), [Nick Bostrom's Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)-->*Rationalism, the criterion of the truth is not sensory but intellectual and deductive & Skepticism, Plato's philosophical puzzle dream argument in Theaetetus 158b-d, Descartes’ Evil Demon dream argument in Meditations on First Philosophy, Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream in Zhuangzi, Gilbert Harman’s Brain in a vat, Nick Bostrom’s Simulation hypothesis*|
@@ -60,10 +63,6 @@ Here are a few recommended books.
 |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism.| -->
 
 <!-- |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
-
-<!-- |**Financial**|| -->
-<!-- ||Clason's The Richest Man in Babylon, Kiyoaki's Rich Dad Poor Dad, Sun Tzu's The Art of War| -->
-
 
 ## Classical Piano & Guitar
 
