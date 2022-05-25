@@ -8,11 +8,15 @@ permalink: /about/
 
 <!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
 
-Hello and welcome, I see you've found my blog. My name is Ryan and I am an asset manager, computer programmer, and aspiring pianist and esperantist born in California and raised all over the US. <!--My investment strategies have seen increases as high as 617.241% and my computer programs have been featured in linux distros in the past.-->I am currently exploring the intersection between computer programming and finance with a new GUI programming focus. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts).
+Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the west coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
+
+My computer programs have been featured in linux distros in the past, but I mostly program private in-house solutions. I am currently exploring the intersection between GUI programming and finance so my future articles will likely become much more visual as time progresses. 
+
+I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
 <!-- My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts), and In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. Lately, indie game dev and pixel art has become a growing interest and I may pick up C# and Unity. -->
 
-I also run a [Christian blog](https://sevenshepherd.github.io/about/) and a custom programmed and automated [Twitter based Christian ministry](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
+
 
 <sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
 
@@ -32,7 +36,7 @@ Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](h
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Bradford Tuckfield|[Dive Into Algorithms (2021)](https://nostarch.com/Dive-Into-Algorithms)<br>*"A Pythonic Adventure for the Intrepid Beginner"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
-|Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html")|
+|Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html)|
 |||
 |**Physics**||
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
