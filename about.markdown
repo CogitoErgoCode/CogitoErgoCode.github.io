@@ -8,7 +8,7 @@ permalink: /about/
 
 <!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
 
-Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the west coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
+Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the east coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
 
 My computer programs have been featured in linux distros in the past, but I mostly program private in-house solutions. I am currently exploring the intersection between GUI programming and finance so my future articles will likely become much more visual as time progresses. 
 
