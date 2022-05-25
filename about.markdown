@@ -14,14 +14,14 @@ Hello and welcome, I see you've found my blog. My name is Ryan and I am an asset
 
 I also run a [Christian blog](https://sevenshepherd.github.io/about/) and a custom programmed and automated [Twitter based Christian ministry](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
 
+<sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
+
 # Greetings in Esperanto 
 
 Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). 
 
 
-## Computer Programming, Physics, & Recreational
-
-Here are a few recommended books.
+# Recommended Books
 
 |||
 |:-:|:-:|
@@ -69,13 +69,19 @@ Here are a few recommended books.
 
 <!-- |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
 
-## Classical Piano & Guitar
-
-Some recommended classical artists.
+# Recommended Artists
 
 |||
 |:-:|:-:|
+|**Classical Piano**||
 |Frédéric François Chopin<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [Minute Waltz Op.64 #1](https://youtu.be/3H0SRv8QNwk), [Waltz in C Sharp Minor (Op. 64 No. 2)](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [Ballade No. 4 in F Minor](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc), [Winter Wind Op.25-11 (Hayato Sumino)](https://youtu.be/pHlqEvAwdVc)|
+|Ludwig van Beethoven|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|Franz Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
+|Claude Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
+|Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
+|Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
+|||
+|**Classical Guitar**||
 |Estas Tonne & Miscellaneous|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, [Flow](https://youtu.be/ccR7IPkfO_8), <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, <!--[Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo),--> [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Fallen Leaves](https://youtu.be/33zpEUNpX4k?t=328)|
 
 <!-- |Study|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), [Rainstorm](https://youtu.be/XtDwPLk8EgI), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>, [Auriel's Ascension](https://youtu.be/ztinD3rFJnI), <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>, <a href="https://youtu.be/Ilb1Bky3Z10" style="color:#0073e6;">Focus</a>, [Sleep](https://youtu.be/5ceUwj4GPew), [Floating In Space (1h)](https://youtu.be/cWuzJBboQyE), [Floating In Space (8h)](https://youtu.be/5_Blq9W9cT8)|
@@ -88,7 +94,7 @@ Some recommended classical artists.
 
 <!-- Hallo und herzlich willkommen, ich sehe, Sie haben meinen Blog gefunden. Mein Name ist Ryan und ich programmiere gerne Computer, spiele Klavier und lerne Sprachen. Ich lerne auch fließend [Esperanto](https://en.wikipedia.org/wiki/Esperanto) zu sprechen, bin aber im Moment noch Anfänger. Meine Philosophie ist als [Autodidaktik](https://en.wikipedia.org/wiki/Autodidacticism) bekannt. [Hier](https://cogitoergocode-github-io.translate.goog/bio/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto=wapp) können Sie meine gesamte Biografie lesen. -->
 
-## 🗣️ Inspirational Quotes
+# Inspirational Quotes
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” &mdash; Aristotle, Metaphysics
 
