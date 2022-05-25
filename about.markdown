@@ -12,7 +12,12 @@ Hello and welcome, My name is Ryan and I am an investment manager, computer prog
 
 My computer programs have been featured in linux distros in the past, but I mostly program private in-house solutions. I am currently exploring the intersection between GUI programming and finance so my future articles will likely become much more visual as time progresses. 
 
-I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64).
+- [Programming Blog](https://cogitoergocode.github.io/)
+- [Programming Twitter](https://twitter.com/CogitoErgoCode)
+- [Christian Blog](https://sevenshepherd.github.io/about/)
+- [Christian Twitter](https://twitter.com/SevenShepherd)
+
+<!-- I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
 <!-- My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts), and In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. Lately, indie game dev and pixel art has become a growing interest and I may pick up C# and Unity. -->
 
