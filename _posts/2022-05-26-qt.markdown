@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GUI Programming With PySide6 💻 & PyQtGraph 📈"
-date: 2022-05-26 12:01:00 -0700
+date: 2022-05-26 12:02:00 -0700
 categories: python gui qt pyside6 pyqtgraph bitcoin crypto
 published: true
 ---
@@ -707,8 +707,6 @@ Copy the following code into `williams.py` and save the file.
 from pandas   import concat
 from datetime import timedelta
 from numpy    import nan
-
-import mplfinance as mpf
 
 class Fractals:
 
