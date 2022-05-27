@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "GUI Programming With PySide6 💻 & PyQtGraph 📈"
-date: 2022-05-26 12:00:00 -0700
+date: 2022-05-26 12:01:00 -0700
 categories: python gui qt pyside6 pyqtgraph bitcoin crypto
 published: true
 ---
 
 ![cloud](/assets/images/qtarticle/cloudFractal.png)
+<sup>
+The picture above shows bitcoin's close price plotted with Ichimoku Cloud & William's Fractals. 20 / 60 / 120 / 30 / 30 are the recommended settings for Ichimoku cloud when applied to Bitcoin.
+</sup>
 
 After toying with PySide6 for a little while, I think it's safe to say that Qt has become my favorite GUI toolkit over wxPython for programming graphical user interfaces in Python. 
 
@@ -255,7 +258,6 @@ if __name__ == "__main__":
 ```
 
 ![bitcoin](/assets/images/qtarticle/bitcoin.png)
-
 <sup>
 The picture above shows bitcoin's close price plotted to the graph.
 </sup>
@@ -516,9 +518,8 @@ class MarketData(BinanceAPI):
 ```
 
 ![technical](/assets/images/qtarticle/technical.png)
-
 <sup>
-The picture above shows bitcoin's close price plotted with Ichimoku Cloud & William's Fractals.
+The picture above shows bitcoin's close price plotted with Ichimoku Cloud & William's Fractals. 20 / 60 / 120 / 30 / 30 are the recommended settings for Ichimoku cloud when applied to Bitcoin.
 </sup>
 
 We would like to be able to apply technical analysis to the bitcoin price, and in order to do that we need to program the routines that would supply us with the information to plot. Luckily, in previous articles, namely [Ichimoku Kinko Hyo (Ichimoku Cloud)](https://cogitoergocode.github.io/plot-ichimoku-cloud/) and [Bill William's Alligator & Fractals](https://cogitoergocode.github.io/plot-williams-alligator-fractals/) I already did the work, so we can reuse some of the code. Create the additional analysis directory & file structure.
