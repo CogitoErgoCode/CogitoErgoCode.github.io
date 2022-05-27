@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GUI Programming With PySide6 💻 & PyQtGraph 📈"
-date: 2022-05-26 12:03:00 -0700
+date: 2022-05-26 12:04:00 -0700
 categories: python gui qt pyside6 pyqtgraph bitcoin crypto
 published: true
 ---
@@ -895,10 +895,8 @@ Copy the following code into the new dateaxis.py file.
 <!-- For this particular snippet of code I borrowed from [this project](https://gist.github.com/cpascual/cdcead6c166e63de2981bc23f5840a98) to save time, no pun intended. -->
 
 ```py
-import numpy
 from pyqtgraph import AxisItem
-from datetime  import datetime, timedelta
-from time      import mktime
+from datetime  import datetime
 
 class DateAxisItem(AxisItem):
 
