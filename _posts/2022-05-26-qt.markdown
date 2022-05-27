@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GUI Programming With PySide6 💻 & PyQtGraph 📈"
-date: 2022-05-26 12:02:00 -0700
+date: 2022-05-26 12:03:00 -0700
 categories: python gui qt pyside6 pyqtgraph bitcoin crypto
 published: true
 ---
@@ -271,7 +271,9 @@ Projects/crypto/
 │  ├─ api.py
 │  ├─ binance.py
 │  └─ market.py
-└─ main.py 
+├─ crypto.ui
+├─ main.py 
+└─ ui_crypto.py
 ```
 
 Change main to the following code.
@@ -535,7 +537,9 @@ Projects/crypto/
 │  ├─ api.py
 │  ├─ binance.py
 │  └─ market.py
-└─ main.py 
+├─ crypto.ui
+├─ main.py 
+└─ ui_crypto.py
 ```
 
 Change main to the following code.
@@ -794,6 +798,146 @@ class Fractals:
         graphWidget.plot(dates, df["up"],   symbolPen='w', symbol='t1', symbolSize=15, symbolBrush=("teal"))
         graphWidget.plot(dates, df["down"], symbolPen='w', symbol='t',  symbolSize=15, symbolBrush=("tomato"))
 ```
+
+![dateaxis](/assets/images/qtarticle/dateaxis.png)
+<sup>
+You can see the dates have been fixed in the picture above.
+</sup>
+
+In order to fix how the dates are displayed at the bottom of the chart we need to add one more file into the program. Name this file dateaxis.py and create it next to main.py in the root directory of the crypto directory.
+
+```
+Projects/crypto/
+├─ analysis/
+│  ├─ __init__.py
+│  ├─ ichimoku.py
+│  └─ williams.py
+├─ binance/
+│  ├─ __init__.py
+│  ├─ api.py
+│  ├─ binance.py
+│  └─ market.py
+├─ crypto.ui
+├─ dateaxis.py
+├─ main.py 
+└─ ui_crypto.py
+```
+
+Change the code in main to the following
+
+```py
+import sys
+
+from PySide6.QtWidgets import QApplication, QMainWindow, QDialog
+from ui_crypto         import Ui_MainWindow
+from PySide6.QtCore    import Qt
+
+from binance.binance   import Binance
+from analysis.williams import Fractals
+from analysis.ichimoku import IchimokuKinkoHyo
+
+from dateaxis          import DateAxisItem
+
+import pyqtgraph as pg
+
+def main():
+    app = QApplication(sys.argv)
+    app.setStyle('Fusion')
+    window = MainWindow()
+    window.show()
+    app.exec()
+
+class MainWindow(QMainWindow, Ui_MainWindow):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.setupUi(self)
+        
+        # Repair Dates
+        date_axis        = DateAxisItem(orientation='bottom')
+        self.graphWidget = pg.PlotWidget(axisItems = {'bottom': date_axis})
+        self.setCentralWidget(self.graphWidget)
+
+        # Style
+        self.graphWidget.setBackground('w')
+
+        # Title
+        self.graphWidget.setTitle("Bitcoin")
+
+        # Legend
+        self.graphWidget.addLegend()
+
+        # Grid
+        self.graphWidget.showGrid(x=True, y=True)
+        
+        # Plot Bitcoin
+        bi = Binance()
+        df = bi.candles(
+            symbol   = "BTCUSDT",
+            interval = "1d"
+        )
+        
+        dates = df.index.to_pydatetime()
+        dates = [i.timestamp() for i in dates]
+        
+        price = pg.mkPen(color="#3d3d3d", width=3, style=Qt.SolidLine)
+        self.graphWidget.plot(dates, df["close"], name="Price", pen=price)
+        
+        # Plot Technicals
+        IchimokuKinkoHyo().plot_qt(df, self.graphWidget, pg, Qt)
+        Fractals().plot_qt_f(df, self.graphWidget, pg, Qt)
+
+if __name__ == "__main__":
+    main()
+```
+
+Copy the following code into the new dateaxis.py file. 
+
+<!-- For this particular snippet of code I borrowed from [this project](https://gist.github.com/cpascual/cdcead6c166e63de2981bc23f5840a98) to save time, no pun intended. -->
+
+```py
+import numpy
+from pyqtgraph import AxisItem
+from datetime  import datetime, timedelta
+from time      import mktime
+
+class DateAxisItem(AxisItem):
+
+    def tickStrings(self, values, scale, spacing):
+        ret = []
+        if not values:
+            return []
+
+        if spacing >= 31622400:
+            fmt = "%Y"
+
+        elif spacing >= 2678400: 
+            fmt = "%m/%d/%Y"
+
+        elif spacing >= 86400:  
+            fmt = "%b/%d"
+
+        elif spacing >= 3600: 
+            fmt = "%b/%d-%Hh"
+
+        elif spacing >= 60: 
+            fmt = "%H:%M"
+
+        elif spacing >= 1: 
+            fmt = "%H:%M:%S"
+
+        else:
+            fmt = '[+%fms]'  
+
+        for x in values:
+            try:
+                t = datetime.fromtimestamp(x)
+                ret.append(t.strftime(fmt))
+            except ValueError:
+                ret.append('')
+
+        return ret
+```
+
 
 # Conclusion & Attributions
 
