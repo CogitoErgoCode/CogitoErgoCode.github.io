@@ -1,7 +1,7 @@
 ---
 layout    : post
-title     : "Bruteforcing ProtectedText.com 🔏"
-date      : 2020-11-05 22:50:10 -0700
+title     : "How ProtectedText.com Could Thwart Bruteforcing If They Updated Their Key-Derivation Function 🔏"
+date      : 2020-11-05 22:51:00 -0700
 categories: infosec encryption bruteforce
 published : True
 ---

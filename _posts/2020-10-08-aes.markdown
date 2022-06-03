@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Military Grade Encryption 🔒"
-date: 2020-10-20 13:18:31 -0700
+title: "Military Grade Encryption With PyCryptodome 🔒 & Python 🐍"
+date: 2020-10-20 13:19:00 -0700
 categories: cryptography aes rijndael
 published: true
 ---
