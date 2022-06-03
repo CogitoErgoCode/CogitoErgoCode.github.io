@@ -8,7 +8,7 @@ permalink: /about/
 
 <!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
 
-Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently studying to professionalize my skill as I work toward a Masters Degree in Computer Science. 
+Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently studying to professionalize my skill as I work toward a Master's Degree in Computer Science. 
 
 Computer science is generally considered an area of academic research and distinct from computer programming, utilizing the latter in addition to an extensive education in mathematics, to solve problems by describing algorithms and data structures, which are central to the theoretical disciplines within the subject. 
 
