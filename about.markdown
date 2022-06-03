@@ -8,7 +8,7 @@ permalink: /about/
 
 <!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
 
-Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently studying to professionalize my skill as I work toward a Master Degree in Computer Science. 
+Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently studying to professionalize my skill as I work toward a Masters Degree in Computer Science. 
 
 Computer science is generally considered an area of academic research and distinct from computer programming, utilizing the latter in addition to an extensive education in mathematics, to solve problems by describing algorithms and data structures, which are central to the theoretical disciplines within the subject. 
 
@@ -28,8 +28,6 @@ My computer programs have been featured in linux distros in the past, but I most
 <!-- I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
 <!-- My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts), and In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. Lately, indie game dev and pixel art has become a growing interest and I may pick up C# and Unity. -->
-
-
 
 <sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
 
