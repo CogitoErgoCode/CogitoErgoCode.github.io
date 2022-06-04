@@ -135,15 +135,15 @@ My computer programs have been featured in linux distros in the past, but I most
 
 <!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
-> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208
+<!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208 -->
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
+<!-- > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894) -->
 
 <!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
-> "Learning is cheap, education is expensive." &mdash; Naval Ravikant
+<!-- > "Learning is cheap, education is expensive." &mdash; Naval Ravikant -->
 
 <!-- > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." &mdash; Richard P. Feynman [(The Feynman Technique)](https://en.wikipedia.org/wiki/Feynman_Technique) -->
 
@@ -151,7 +151,7 @@ My computer programs have been featured in linux distros in the past, but I most
 
 <!-- > "There's no need even to have a college degree at all, or even high school," Musk said after being asked whether he considered which college a job applicant attended when evaluating a prospective Tesla employee. "If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea." &mdash; <a href="https://youtu.be/vqcdF1oWaD0" style="color:#0073e6;">Elon Musk</a> -->
 
-> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
+<!-- > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant -->
 
 <!-- > “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci  -->
 
@@ -159,13 +159,13 @@ My computer programs have been featured in linux distros in the past, but I most
 
 <!-- > "Don’t worry about the haters… They are just angry because the truth you speak contradicts the lie they live." &mdash; Steve Maraboli -->
 
-> "Great men are always of a nature originally melancholy." &mdash; Aristotle
+<!-- > "Great men are always of a nature originally melancholy." &mdash; Aristotle -->
 
-> “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley, Proper Studies (1927)
+<!-- > “The more powerful and original a mind, the more it will incline towards the religion of solitude.”  &mdash; Aldous Huxley, Proper Studies (1927) -->
 
-> "There was never a genius without a tincture of madness." &mdash; Aristotle
+<!-- > "There was never a genius without a tincture of madness." &mdash; Aristotle -->
 
-> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
+<!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
 
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
