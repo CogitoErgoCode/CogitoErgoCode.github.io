@@ -12,7 +12,7 @@ Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer p
 
 Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.
 
-The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I will cover theoretical, computational, and applied concepts: data structures, algorithms, programming languages, artificial intelligence and machine learning, networking, databases, information security, GUI programming, indie game development, automation, web development, and logic puzzles.
+The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I will likely write about data structures, algorithms, programming languages, artificial intelligence, networking, databases, information security, GUI programming, indie game development, automation, web development, and logic puzzles.
 
 <!-- Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the east coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
 
