@@ -8,13 +8,11 @@ permalink: /about/
 
 <!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
 
-Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently studying to professionalize my skill as I work toward a Master of Science in Computer Science.
+Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently working towards a master's degree in computer science in order to professionalize my  programming skill. 
 
-Computer science is generally considered an area of academic research and distinct from computer programming, utilizing the latter in addition to an extensive education in mathematics, to solve problems by describing algorithms and data structures, which are central to the theoretical disciplines within the subject. 
+Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.
 
-The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I am also a hobbyist / enthusiast at heart and very much entrepreneurial, so I'll also be writing about software engineering, GUI programming, finance, indie game development, information security, and logic puzzles.
-
-<!-- Computer Science utilizes computer programming languages in addition to an extensive education in mathematics to describe algorithms, and data structures and subsequently apply them, in order to solve problems.  -->
+The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I will cover theoretical, computational, and applied concepts: data structures, algorithms, programming languages, artificial intelligence and machine learning, networking, databases, information security, GUI programming, indie game development, automation, web development, and logic puzzles.
 
 <!-- Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the east coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
 
