@@ -170,7 +170,7 @@ My computer programs have been featured in linux distros in the past, but I most
 > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
 
 
-<br>
+<!-- <br>
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="5NGQHWYYM879U" />
@@ -178,19 +178,40 @@ My computer programs have been featured in linux distros in the past, but I most
 <input type="hidden" name="currency_code" value="USD" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+</form> -->
 
 <br>
 <hr><br>
 
-|Bitcoin|Ethereum|Dogecoin|
+<!-- |Bitcoin|Ethereum|Dogecoin|
 |:-:|:-:|:-:|
-|![BTC](/assets/images/qrcodes/btc.png)|![ETH](/assets/images/qrcodes/eth.png)|![DOGE](/assets/images/qrcodes/doge.png)|
+|![BTC](/assets/images/qrcodes/btc.png){:height="128px" width="128px"}|![ETH](/assets/images/qrcodes/eth.png)|![DOGE](/assets/images/qrcodes/doge.png)| -->
 
+|QRcode|Address|
 |:-:|:-:|
-|BTC|bc1qkrupmfcx7y3vqdvg2yz2p0zprzm9qvz4x928s4|
-|ETH|0x30185B49c934cBc89c188F566ac04c8da4306F97|
-|DOGE|D65zJ53LQdHQHsLJVi1uEwGr8NNfpWAR66|
+|Bitcoin<br>[![BTC](/assets/images/qrcodes/btc.png)](/assets/images/qrcodes/btc.png)|bc1qkrupmfcx7y3vqdvg2yz2p0zprzm9qvz4x928s4|
+|Ethereum<br>[![ETH](/assets/images/qrcodes/eth.png)](/assets/images/qrcodes/eth.png)|0x30185B49c934cBc89c188F566ac04c8da4306F97|
+|Dogecoin<br>[![DOGE](/assets/images/qrcodes/doge.png)](/assets/images/qrcodes/doge.png)|D65zJ53LQdHQHsLJVi1uEwGr8NNfpWAR66|
+
+<!-- |Bitcoin|
+|:-:|
+|![BTC](/assets/images/qrcodes/btc.png)|
+|bc1qkrupmfcx7y3vqdvg2yz2p0zprzm9qvz4x928s4|
+
+|Ethereum|
+|:-:|
+|![ETH](/assets/images/qrcodes/eth.png)|
+|0x30185B49c934cBc89c188F566ac04c8da4306F97|
+
+|Dogecoin|
+|:-:|
+|![DOGE](/assets/images/qrcodes/doge.png)|
+|D65zJ53LQdHQHsLJVi1uEwGr8NNfpWAR66| -->
+
+<!-- |:-:|:-:|
+|Bitcoin|bc1qkrupmfcx7y3vqdvg2yz2p0zprzm9qvz4x928s4|
+|Ethereum|0x30185B49c934cBc89c188F566ac04c8da4306F97|
+|Dogecoin|D65zJ53LQdHQHsLJVi1uEwGr8NNfpWAR66| -->
 
 <!-- - `ERC20` or `BEP20` Stablecoins:
     -  Address: *0xdFeFa105F4b45313404bbC6e6463200ef65D3b1b* -->
