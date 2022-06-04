@@ -6,32 +6,36 @@ permalink: /about/
 
 <!-- ![self](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
 
-<!-- Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). -->
+# Greetings in English 
 
-Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently working towards a master's degree in computer science in order to professionalize my  programming skill. 
+Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). 
+
+# Greetings in Esperanto 
+
+Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
+
+<!-- I also run a Christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
+
+<!-- Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently working towards a master's degree in computer science in order to professionalize my  programming skill. 
 
 Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.
 
-The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I will likely write about data structures, algorithms, programming languages, artificial intelligence, networking, databases, information security, GUI programming, indie game development, automation, web development, and logic puzzles.
+The predominant paradigm you'll see me implement in this blog is of the imperative rather than declarative variety. I will likely write about data structures, algorithms, programming languages, artificial intelligence, networking, databases, information security, GUI programming, indie game development, automation, web development, and logic puzzles. -->
 
 <!-- Hello and welcome, My name is Ryan and I am an investment manager, computer programmer, [autodidact](https://en.wikipedia.org/wiki/List_of_autodidacts), and aspiring pianist and esperantist born in California and raised on the east coast. As head of research, my investment strategies have seen increases as high as 247.368% and 6332.56%. 
 
 My computer programs have been featured in linux distros in the past, but I mostly program private in-house solutions. I am currently exploring the intersection between GUI programming and finance so my future articles will likely become much more visual as time progresses.  -->
 
-- [Programming Blog](https://cogitoergocode.github.io/)
+<!-- - [Programming Blog](https://cogitoergocode.github.io/)
 - [Programming Twitter](https://twitter.com/CogitoErgoCode)
 - [Christian Blog](https://sevenshepherd.github.io/about/)
-- [Christian Twitter](https://twitter.com/SevenShepherd)
+- [Christian Twitter](https://twitter.com/SevenShepherd) -->
 
 <!-- I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
 <!-- My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts), and In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. Lately, indie game dev and pixel art has become a growing interest and I may pick up C# and Unity. -->
 
-<sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub>
-
-# Greetings in Esperanto 
-
-Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). 
+<!-- <sub>[INTJ](https://www.verywellmind.com/intj-introverted-intuitive-thinking-judging-2795988)+5w6</sub> --> 
 
 
 # Recommended Books
@@ -91,7 +95,7 @@ Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](h
 |Ludwig van Beethoven|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
 |Franz Liszt|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
 |Claude Debussy|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
-|Rachmaninoff, Vivaldi, Ravel, Tchaikovsky, Ludovico Einaudi|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg), [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>, [Experience](https://youtu.be/Tu96yevGMEA)|
+|Rachmaninoff, Ravel, Tchaikovsky|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>, [Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE), <a href="https://youtu.be/1aR92yQUS7s" style="color:#0073e6;">Waltz of the Flowers</a>|
 |Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |||
 |**Classical Guitar**||
