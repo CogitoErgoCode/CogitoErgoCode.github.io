@@ -6,13 +6,15 @@ permalink: /about/
 
 <!-- ![self](/assets/images/profile/ergo.png){:height="400px" width="400px"} -->
 
-# Greetings in English 
+<!-- # Welcome -->
 
-Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. I'm also learning to speak [Esperanto](https://en.wikipedia.org/wiki/Esperanto) fluently, but I'm only a beginner at the moment. My philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). 
+Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. My philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety.
 
-# Greetings in Esperanto 
+I've also been exploring different natural languages for a good amount of time to add to my skill set. From Japanese, to constructed languages like Esperanto, but the more I search the more I realize that I enjoy ancient languages. So as an addition to my programming skill, I am currently looking into Classical Hebrew, Aramaic, Koine Greek, Akkadian, and Ancient Ugaritic. Both physics and linguistics are quickly becoming future academic interests.
 
-Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
+<!-- # Greetings in Esperanto 
+
+Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). -->
 
 <!-- I also run a Christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
@@ -60,10 +62,16 @@ My computer programs have been featured in linux distros in the past, but I most
 |Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
 |||
 |**Recreational**||
-|Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
+|Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
-|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
-|Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
+|Dr. Gary D. Pratico & Dr. Miles Van Pelt; Dr. William D. Mounce|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0), [Basics of Biblical Aramaic](https://zondervanacademic.com/products/basics-of-biblical-aramaic); [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
+|Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
+|Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
+|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
+
+<!-- |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*| -->
+
+<!-- |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)| -->
 
 <!-- |**Philosophy**||
 |Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
