@@ -62,7 +62,7 @@ My computer programs have been featured in linux distros in the past, but I most
 |Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
 |||
 |**Ancient Languages**||
-|Dr. Gary D. Pratico & Dr. Miles Van Pelt; Dr. William D. Mounce|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0), [Basics of Biblical Aramaic](https://zondervanacademic.com/products/basics-of-biblical-aramaic); [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
+|Dr. Gary D. Pratico & Dr. Miles Van Pelt; Dr. William D. Mounce|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0), [Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack); [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
 |Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 |Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
 |Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
