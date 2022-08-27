@@ -8,15 +8,23 @@ permalink: /about/
 
 <!-- # Welcome -->
 
-Hello and welcome, I see you've found my blog. My name is Ryan, and I like to program computers, play the piano, and learn languages. My philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety.
+Hello and welcome, my name is Ryan and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety.
 
-I've also been exploring different natural languages for a good amount of time to add to my skill set. From Japanese, to constructed languages like Esperanto, but the more I search the more I realize that I enjoy ancient languages. So as an addition to my programming skill, I am currently looking into Classical Hebrew, Aramaic, Koine Greek, Akkadian, and Ancient Ugaritic. Both physics and linguistics are quickly becoming future academic interests.
+I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise (philosopher, pianist, linguist, novelist, investor, esperantist, etc.) and so my direction is as a polymath.
 
-<!-- # Greetings in Esperanto 
+<!-- *Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.* -->
 
-Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). -->
+<!-- I've also been exploring different natural languages for a good amount of time to add to my skill set. From Japanese, to constructed languages like Esperanto, but the more I search the more I realize that I enjoy ancient languages. So as an addition to my programming skill, I am currently looking into Classical Hebrew, Aramaic, Koine Greek, Akkadian, and Ancient Ugaritic. Both physics and linguistics are quickly becoming future academic interests. -->
 
-<!-- I also run a Christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/). If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
+# Greetings in Esperanto 
+
+Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
+
+# My Profession Of Faith
+
+I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer.
+
+<!-- If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
 <!-- Hello, and welcome to my blog. My name is Ryan and I am a self-taught computer programmer and autodidact. I am currently working towards a master's degree in computer science in order to professionalize my  programming skill. 
 
@@ -33,7 +41,7 @@ My computer programs have been featured in linux distros in the past, but I most
 - [Christian Blog](https://sevenshepherd.github.io/about/)
 - [Christian Twitter](https://twitter.com/SevenShepherd) -->
 
-<!-- I also run a christian blog at [sevenshepherd.github.io](https://sevenshepherd.github.io/about/) and a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016. If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
+<!--  If you'd like to follow my language learning progress, I would encourage you to follow me on [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64). -->
 
 <!-- My philosophy is known as [Autodidacticism](https://en.wikipedia.org/wiki/List_of_autodidacts), and In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety. Lately, indie game dev and pixel art has become a growing interest and I may pick up C# and Unity. -->
 
@@ -61,17 +69,10 @@ My computer programs have been featured in linux distros in the past, but I most
 |**Financial**||
 |Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
 |||
-|**Ancient Languages**||
-|Dr. Gary D. Pratico & Dr. Miles Van Pelt; Dr. William D. Mounce|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0), [Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack); [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
-|Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
-|Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
-|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
-|||
 |**Recreational**||
 |Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
-
-<!-- |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*| -->
+|Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 
 <!-- |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)| -->
 
@@ -109,7 +110,7 @@ My computer programs have been featured in linux distros in the past, but I most
 |Philip Glass|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |||
 |**Classical Guitar**||
-|Estas Tonne & Miscellaneous|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, [Flow](https://youtu.be/ccR7IPkfO_8), <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, <!--[Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo),--> [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Fallen Leaves](https://youtu.be/33zpEUNpX4k?t=328)|
+|Estas Tonne & Miscellaneous|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, [Flow](https://youtu.be/ccR7IPkfO_8), <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, <!--[Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo),--> [David's Entry](https://youtu.be/p8CFWISCnwM), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8), [Fallen Leaves](https://youtu.be/33zpEUNpX4k?t=328)|
 
 <!-- |Study|<a href="https://youtu.be/nMfPqeZjc2c" style="color:#0073e6;">White Noise</a>, <a href="https://youtu.be/3sL0omwElxw" style="color:#0073e6;">Crackling Fireplace</a>, [Rain](https://youtu.be/q76bMs-NwRk), [Rainstorm](https://youtu.be/XtDwPLk8EgI), <a href="https://youtu.be/TaYgsa2Sb2g" style="color:#0073e6;">Cyberpunk</a>, <a href="https://youtu.be/v0kx9GooGQk" style="color:#0073e6;">Atmospheres</a>, <a href="https://youtu.be/x7BCa9Y8Of8" style="color:#0073e6;">Winter Ambience</a>, [Auriel's Ascension](https://youtu.be/ztinD3rFJnI), <a href="https://youtu.be/XZ4WXAxtGDc" style="color:#0073e6;">Binaural (Focus)</a>, <a href="https://youtu.be/meYsDqkMENs" style="color:#0073e6">Binaural (Memory)</a>, <a href="https://youtu.be/vhUj-6Sfiao" style="color:#0073e6">Binaural (Trance/Healing)</a>, <a href="https://youtu.be/Ilb1Bky3Z10" style="color:#0073e6;">Focus</a>, [Sleep](https://youtu.be/5ceUwj4GPew), [Floating In Space (1h)](https://youtu.be/cWuzJBboQyE), [Floating In Space (8h)](https://youtu.be/5_Blq9W9cT8)|
 |Classical Guitar/Romani|[The Song of the Golden Dragon](https://youtu.be/7gphiFVVtUI?t=56), <a href="https://youtu.be/6lIt07sBW4E" style="color:#0073e6;">Internal Flight</a>, <a href="https://youtu.be/5OXcXv0rUNI" style="color:#0073e6;">Introspection</a>, <a href="https://youtu.be/vIXFbeUOkmc" style="color:#0073e6;">Place of the Gods</a>, [Place of the Gods (Mother of Souls)](https://youtu.be/Pz2Unp2bsUo), [Diamante Negro (Parador de Jávea, Spain)](https://youtu.be/L9NCvSakgR8)|
@@ -145,11 +146,11 @@ My computer programs have been featured in linux distros in the past, but I most
 
 <!-- > “I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.” &mdash; Albert Einstein -->
 
-<!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208 -->
+> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-<!-- > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894) -->
+> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
 
 <!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
