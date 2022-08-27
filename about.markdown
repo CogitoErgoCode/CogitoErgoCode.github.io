@@ -10,7 +10,7 @@ permalink: /about/
 
 Hello and welcome, my name is Ryan and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety.
 
-I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise (philosopher, pianist, linguist, novelist, investor, esperantist, etc.) and so my direction is as a polymath.
+I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise (philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.) and so my direction is as a polymath.
 
 <!-- *Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.* -->
 
