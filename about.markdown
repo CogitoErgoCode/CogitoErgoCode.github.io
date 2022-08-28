@@ -8,9 +8,9 @@ permalink: /about/
 
 <!-- # Welcome -->
 
-Hello and welcome, my name is Ryan and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety.
+Hello and welcome, my name is Ryan and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety. 
 
-I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise (philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.) and so my direction is as a polymath.
+I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise <!--(philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.)--> and so my direction is as a polymath.
 
 <!-- *Computer science is an area of academic research which is considered distinct from computer programming. Computer scientists use programming languages to describe algorithms, data structures, and many other theoretical disciplines within computer science.* -->
 
@@ -73,8 +73,7 @@ My computer programs have been featured in linux distros in the past, but I most
 |Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
-
-<!-- |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)| -->
+|Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
 
 <!-- |**Philosophy**||
 |Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
