@@ -79,9 +79,10 @@ My computer programs have been featured in linux distros in the past, but I most
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
-|||
 
-<!-- |**Fiction**||
+<!-- |||
+|**Fiction**||
+|H.P. Lovecraft||
 ||| -->
 
 <!-- 
