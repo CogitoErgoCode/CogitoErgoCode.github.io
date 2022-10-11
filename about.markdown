@@ -50,37 +50,46 @@ My computer programs have been featured in linux distros in the past, but I most
 
 # Recommended Books
 
+<!-- |Kernighan & Ritchie (K&R)|The C Programming Language, 2nd (1988)| -->
+<!-- |Aditya Bhargava|Grokking Algorithms (2016)<br>*"An Illustrated Guide for Programmers and Other Curious People"*| -->
+<!-- |Bradford Tuckfield|[Dive Into Algorithms (2021)](https://nostarch.com/Dive-Into-Algorithms)<br>*"A Pythonic Adventure for the Intrepid Beginner"*| -->
+<!-- |K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*| -->
+
 |||
 |:-:|:-:|
 |**Programming**||
-|Kernighan & Ritchie (K&R)|The C Programming Language, 2nd (1988)|
-|Aditya Bhargava|Grokking Algorithms (2016)<br>*"An Illustrated Guide for Programmers and Other Curious People"*|
 |Julien Danjou|[Serious Python (2018)](https://nostarch.com/seriouspython)<br>*"Black-Belt Advice on Deployment, Scalability, Testing, and More"*|
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
-|Bradford Tuckfield|[Dive Into Algorithms (2021)](https://nostarch.com/Dive-Into-Algorithms)<br>*"A Pythonic Adventure for the Intrepid Beginner"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
 |Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html)|
 |||
-|**Physics**||
+|**Physics & Chemistry**||
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
 |Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
-|K. F. Riley, M. P. Hobson, & S. J. Bence<br>|Mathematical Methods for Physics and Engineering<br>*"A Comprehensive Guide 3rd Edition"*|
+|Nivaldo Tro|Principles of Chemistry - A Molecular Approach|
 |||
 |**Financial**||
 |Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
 |||
+|**Philosophy**||
+|Metaphysics, Epistemology, & Virtue Ethics|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [Lao Tzu's Tao Te Ching by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf), [Emperor Marcus Aurelius' Meditations (Hays, 2012)](https://youtu.be/d5E2AQKuCyU)|
+|||
 |**Recreational**||
-|Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, A Beginner's Guide to Mathematical Logic, To Mock a Mockingbird, The Lady or the Tiger? The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs|
+|Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
+|||
 
-<!-- |**Philosophy**||
-|Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
-|Epistemological<br>*The Nature of Knowledge*|[Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22)Rationalism (the criterion of the truth is not sensory but intellectual and deductive), [Plato, Aristotle, Zhuang Zhou & Descartes's The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Descartes' Evil Demon, [Gilbert Harman's Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat), [Nick Bostrom's Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)*Rationalism, the criterion of the truth is not sensory but intellectual and deductive & Skepticism, Plato's philosophical puzzle dream argument in Theaetetus 158b-d, Descartes’ Evil Demon dream argument in Meditations on First Philosophy, Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream in Zhuangzi, Gilbert Harman’s Brain in a vat, Nick Bostrom’s Simulation hypothesis*|
-|Virtue ethics<br>*Moral Philosophy*|[Aesop of Sardis, The Sage of Lydia's Fables (Childhood)](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Lao Tzu's Tao Te Ching by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf)<!--(https://terebess.hu/english/tao/gia.html) ([#22](https://youtu.be/wRnN_RBBCxI?t=854)), [Socrates](https://youtu.be/6pZl0GVjns4), [Lucius Annaeus Seneca the Younger's On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [and Happy Life](https://youtu.be/o2A-hgYqQio), [Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU)<br>Virtue ethics, eudaimonia, aretē, [apatheia](https://en.wikipedia.org/wiki/Apatheia), [ataraxia](https://en.wikipedia.org/wiki/Ataraxia), [equanimity (aequanimitas)](https://en.wikipedia.org/wiki/Equanimity), Socratic Method, Stoicism, Philosophical Taoism *Apatheia, ataraxia, equanimity (aequanimitas)*| -->
+<!-- |**Fiction**||
+||| -->
 
-<!-- |Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
+<!-- 
+|Metaphysical & Ontological<br>*The Ultimate Structure of Reality, The Nature of Being*|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors)<br>[Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), [mind–body dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism), [Kurt Gödel's Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism), [Max Tegmark's Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>*Theory of forms, mind–body dualism, Kurt Gödel’s platonism, Max Tegmark’s ultimate ensemble*|
+|Epistemological<br>*The Nature of Knowledge*|[Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22)Rationalism (the criterion of the truth is not sensory but intellectual and deductive), [Plato, Aristotle, Zhuang Zhou & Descartes's The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument), Descartes' Evil Demon, [Gilbert Harman's Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat), [Nick Bostrom's Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)<br>*Rationalism, the criterion of the truth is not sensory but intellectual and deductive & Skepticism, Plato's philosophical puzzle dream argument in Theaetetus 158b-d, Descartes’ Evil Demon dream argument in Meditations on First Philosophy, Zhuang Zhou's Zhuangzi Paradox & The Butterfly Dream in Zhuangzi, Gilbert Harman’s Brain in a vat, Nick Bostrom’s Simulation hypothesis*|
+|Virtue ethics<br>*Moral Philosophy*|[Aesop of Sardis, The Sage of Lydia's Fables (Childhood)](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm), [Lao Tzu's Tao Te Ching by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf)(https://terebess.hu/english/tao/gia.html) ([#22](https://youtu.be/wRnN_RBBCxI?t=854)), [Socrates](https://youtu.be/6pZl0GVjns4), [Lucius Annaeus Seneca the Younger's On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [and Happy Life](https://youtu.be/o2A-hgYqQio), [Emperor Marcus Aurelius' Meditations](https://youtu.be/d5E2AQKuCyU)<br>Virtue ethics, eudaimonia, aretē, [apatheia](https://en.wikipedia.org/wiki/Apatheia), [ataraxia](https://en.wikipedia.org/wiki/Ataraxia), [equanimity (aequanimitas)](https://en.wikipedia.org/wiki/Equanimity), Socratic Method, Stoicism, Philosophical Taoism *Apatheia, ataraxia, equanimity (aequanimitas)*|
+
+|Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
 |Lao Tzu<br>6th Century B.C.|[Tao Te Ching, Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html), [Tao Te Ching #22](https://youtu.be/wRnN_RBBCxI?t=854)|
 |Socrates<br>470 – 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
 |Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy & Platonism*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, Anamnesis)|
@@ -92,9 +101,9 @@ My computer programs have been featured in linux distros in the past, but I most
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>(Descartes' Evil Demon, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
 |Nick Bostrom<br>10 March 1973|Superintelligence, [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
-|Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism.| -->
+|Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism.|
 
-<!-- |Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
+|Arthur Benjamin & Michael Shermer<br>|Secrets of Mental Math<br>*"The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks"*| -->
 
 # Recommended Artists
 
