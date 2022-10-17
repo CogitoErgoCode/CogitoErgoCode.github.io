@@ -66,7 +66,7 @@ My computer programs have been featured in linux distros in the past, but I most
 |**Physics & Chemistry**||
 |Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|Six Easy Pieces & Six Not-So-Easy Pieces<br>*"Essentials of Physics Explained by Its Most Brilliant Teacher, Einstein's Relativity, Symmetry, and Space-Time."*|
 |Dr. Michio Kaku<br>January 24, 1947|Hyperspace, Parallel Worlds, The God Equation, Physics of the Impossible<br>*"Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel"*|
-|Nivaldo Tro|Principles of Chemistry - A Molecular Approach|
+|Nivaldo J. Tro|Principles of Chemistry - A Molecular Approach|
 |||
 |**Financial**||
 |Clason, Kiyosaki, & Sun Tzu|The Richest Man in Babylon, Rich Dad Poor Dad, The Art of War, [Toshimoku’s Trading Tips & Tricks](https://medium.com/@CarpeNoctom/toshimokus-trading-tips-tricks-f0ff5cc38cc8)|
